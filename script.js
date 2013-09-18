@@ -5,7 +5,7 @@ Backbone.$ = $;
 
 window.Caue = window.Caue || {};
 
-Caue.MAP_SERVER = 'http://82.196.6.196:49191/';
+Caue.MAP_SERVER = 'http://82.196.6.196/';
 
 
 Caue.Map = Backbone.Model.extend({
