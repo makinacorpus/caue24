@@ -5,8 +5,13 @@ Backbone.$ = $;
 
 window.Caue = window.Caue || {};
 
+Caue.MAP_SERVER = 'http://82.196.6.196:49191/';
+
 
 Caue.Map = Backbone.Model.extend({
+    url: function () {
+        return Caue.MAP_SERVER + this.get('catalog') + '/' + this.get('name') + '.json';
+    },
 });
 
 
@@ -18,7 +23,7 @@ Caue.MapList = Backbone.Collection.extend({
     },
 
     url: function () {
-        return 'http://82.196.6.196/' + this.catalog + '.json';
+        return Caue.MAP_SERVER + this.catalog + '.json';
     },
 
     parse: function (response) {
@@ -52,10 +57,23 @@ Caue.HomeView = Backbone.View.extend({
 
 
 Caue.DetailView = Backbone.View.extend({
+    template: Mustache.compile('<div id="map"></div>'),
+
+    initialize: function () {
+        this.mapdefinition = new Caue.Map({catalog: this.options.catalog,
+                                           name: this.options.name});
+        this.mapdefinition.bind('sync', this.initMap, this);
+        this.mapdefinition.fetch();
+    },
 
     render: function () {
-        this.$el.html(this.options.name);
+        this.$el.html(this.template({name: this.options.name}));
         return this;
+    },
+
+    initMap: function () {
+        var mapdiv = this.$("#map")[0];
+        L.mapbox.map(mapdiv, this.mapdefinition.attributes);
     }
 });
 
@@ -75,7 +93,9 @@ var CaueApp = Backbone.Router.extend({
     },
 
     detail: function(mapname) {
-        $("#content").html((new Caue.DetailView({name:mapname})).render().el);
+        var view = new Caue.DetailView({catalog: this.catalog,
+                                        name: mapname});
+        $("#content").html(view.render().el);
     },
 });
 
