@@ -29,9 +29,24 @@ Caue.MapList = Backbone.Collection.extend({
 
 
 Caue.HomeView = Backbone.View.extend({
+    template: Mustache.compile('<h1>Liste des cartes {{ catalog }}</h1>' +
+                               '<div id="maplist"><ul></ul></div>'),
+
+    templateItem: Mustache.compile('<li><a href="#{{ id }}">{{ name }}<img src="{{ preview }}"/></a></li>'),
+
+    initialize: function () {
+        this.maplist = new Caue.MapList(this.options.catalog);
+        this.maplist.bind('add', this.addOne, this);
+        this.maplist.fetch();
+    },
+
     render: function () {
-        this.$el.html('hey');
+        this.$el.html(this.template({catalog: this.options.catalog}));
         return this;
+    },
+
+    addOne: function (item) {
+        this.$('ul').prepend(this.templateItem(item.attributes));
     }
 });
 
@@ -52,8 +67,11 @@ var CaueApp = Backbone.Router.extend({
         ":name":             "detail"
     },
 
+    catalog: 'makina',
+
     home: function() {
-        $("#content").html((new Caue.HomeView()).render().el);
+        var view = new Caue.HomeView({catalog: this.catalog});
+        $("#menu").html(view.render().el);
     },
 
     detail: function(mapname) {
