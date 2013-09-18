@@ -33,12 +33,11 @@ Caue.MapList = Backbone.Collection.extend({
 });
 
 
-
 Caue.HomeView = Backbone.View.extend({
     template: Mustache.compile('<h1>Liste des cartes {{ catalog }}</h1>' +
                                '<div id="maplist"><ul></ul></div>'),
 
-    templateItem: Mustache.compile('<li><a href="#{{ id }}">{{ name }}<img src="{{ preview }}"/></a></li>'),
+    templateItem: Mustache.compile('<li><a href="#{{ id }}">{{ name }}<img src="{{ preview }}"/></a>{{ metadata.description }} {{ metadata.attribution }}</li>'),
 
     initialize: function () {
         this.maplist = new Caue.MapList(this.options.catalog);
