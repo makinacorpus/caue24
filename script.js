@@ -6,6 +6,7 @@ Backbone.$ = $;
 window.Caue = window.Caue || {};
 
 Caue.MAP_SERVER = 'http://82.196.6.196/';
+Caue.CATALOG = 'makina';
 
 
 Caue.Map = Backbone.Model.extend({
@@ -85,15 +86,13 @@ var CaueApp = Backbone.Router.extend({
         ":name":             "detail"
     },
 
-    catalog: 'makina',
-
     home: function() {
-        var view = new Caue.HomeView({catalog: this.catalog});
+        var view = new Caue.HomeView({catalog: Caue.CATALOG});
         $("#menu").html(view.render().el);
     },
 
     detail: function(mapname) {
-        var view = new Caue.DetailView({catalog: this.catalog,
+        var view = new Caue.DetailView({catalog: Caue.CATALOG,
                                         name: mapname});
         $("#content").html(view.render().el);
     },
