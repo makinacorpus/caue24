@@ -1,0 +1,6 @@
+name: Conseil d'Architecture, d'Urbanisme et de l'Environnement de Dordogne
+# GitHub Pages is running in safe mode, so use it during tests as well.
+safe: true
+# No permalink
+permalink: none
+# Otherwise use Jekyll default configuration.
