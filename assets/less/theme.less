@@ -6,13 +6,14 @@
 @import "variables.less";
 @import "mixins.less";
 @import "scaffolding.less";
+@import "utilities.less";
 
 //
 // Custom theme CSS
 // --------------------------------------------------
 .leaflet-container {
   width:  100%;
-  height: 450px;
+  height: 400px;
 }
 
 #maplist img {
@@ -27,8 +28,26 @@
   /* Pad bottom by footer height */
   padding: 0 0 60px;
 }
-/* Set the fixed height of the footer here */
+#header {
+  height: 60px;
+  background-color: @gray-lighter;
+}
 #footer {
   height: 60px;
   background-color: @gray-lighter;
+
+  #logos {
+    list-style: none;
+    margin: 0;
+
+    li {
+      float: left;
+      padding: 0px 15px;
+
+      img {
+        width: 100px;
+        height: 50px;
+      }
+    }
+  }
 }

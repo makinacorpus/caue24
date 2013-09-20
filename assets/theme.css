@@ -86,9 +86,46 @@ hr {
   clip: rect(0 0 0 0);
   border: 0;
 }
+.clearfix:before,
+.clearfix:after {
+  content: " ";
+  /* 1 */
+
+  display: table;
+  /* 2 */
+
+}
+.clearfix:after {
+  clear: both;
+}
+.pull-right {
+  float: right !important;
+}
+.pull-left {
+  float: left !important;
+}
+.hide {
+  display: none !important;
+}
+.show {
+  display: block !important;
+}
+.invisible {
+  visibility: hidden;
+}
+.text-hide {
+  font: 0/0 a;
+  color: transparent;
+  text-shadow: none;
+  background-color: transparent;
+  border: 0;
+}
+.affix {
+  position: fixed;
+}
 .leaflet-container {
   width: 100%;
-  height: 450px;
+  height: 400px;
 }
 #maplist img {
   width: 32px;
@@ -104,8 +141,23 @@ hr {
 
   padding: 0 0 60px;
 }
-/* Set the fixed height of the footer here */
+#header {
+  height: 60px;
+  background-color: #eeeeee;
+}
 #footer {
   height: 60px;
   background-color: #eeeeee;
+}
+#footer #logos {
+  list-style: none;
+  margin: 0;
+}
+#footer #logos li {
+  float: left;
+  padding: 0px 15px;
+}
+#footer #logos li img {
+  width: 100px;
+  height: 50px;
 }

@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html>
+<html lang="fr">
   <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
@@ -14,12 +14,12 @@
     <link rel="stylesheet" href="assets/theme.css" />
   </head>
   <body>
-    <div id="wrap">
+    {% include header.html %}
+    <div id="wrap" class="container">
       <h1>{{ page.title }}</h1>
-      <a class="extra" href="/">home</a>
       <div id="map"></div>
       {{ content }}
-      </div>
+    </div>
     {% include footer.html %}
     <!-- Leaflet -->
     <script src="http://cdn.leafletjs.com/leaflet-0.6.4/leaflet.js"></script>
