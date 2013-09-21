@@ -1,6 +1,11 @@
+# See http://jekyllrb.com/docs/configuration/.
 name: Conseil d'Architecture, d'Urbanisme et de l'Environnement de Dordogne
 # GitHub Pages is running in safe mode, so use it during tests as well.
 safe: true
 # No permalink
 permalink: none
-# Otherwise use Jekyll default configuration.
+# Prose-related configuration
+# See https://github.com/prose/prose/wiki/Prose-Configuration
+prose:
+  siteurl: "http://makinacorpus.github.io/caue24"
+  media: "assets/images"
