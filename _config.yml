@@ -9,6 +9,7 @@ permalink: none
 prose:
   siteurl: "http://makinacorpus.github.io/caue24"
   media: "assets/images"
+  rooturl: "_posts"
   metadata:
     _posts/features:
       - name: title
