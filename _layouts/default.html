@@ -3,7 +3,7 @@
   <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-    <title>{{ page.title }} | {{ site.name }}</title>
+    <title>{% if page.title %}{{ page.title }} | {% endif %}{{ site.name }}</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <!-- Leaflet -->
     <link rel="stylesheet" href="http://cdn.leafletjs.com/leaflet-0.6.4/leaflet.css" />
