@@ -9,7 +9,10 @@ L.tileLayer(mapquestUrl, {maxZoom: 15, attribution: mapquestAttrib, subdomains: 
 // Add GeoJSON Layer
 function onEachFeature(feature, layer) {
   if (feature.properties) {
-    layer.bindPopup("Altitude : " + feature.properties.ALTITUDE);
+    var properties = feature.properties;
+    layer.on('click', function(e) {
+      CaueViews.clickLayer(e.target, properties.ALTITUDE)
+    });
   }
 }
 $.ajax({
