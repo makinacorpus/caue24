@@ -1,5 +1,6 @@
 // Create base map
 var map = new L.Map('map').setView([45, 0.67], 10);
+map.attributionControl.setPrefix('Par <a href="http://makina-corpus.com">Makina Corpus</a>');
 // Add OSM Layer
 var mapquestUrl = 'http://{s}.mqcdn.com/tiles/1.0.0/osm/{z}/{x}/{y}.png';
 var subDomains = ['otile1','otile2','otile3','otile4'];
