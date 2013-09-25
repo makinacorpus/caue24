@@ -1,6 +1,11 @@
 <div id="header" class="container">
   <div class="pull-left">
-    <a href="/">
+    {% if site.baseurl == null %}
+      {% assign linkhome = "/" %}
+    {% else %}
+      {% assign linkhome = site.baseurl %}
+    {% endif %}
+    <a href="{{ linkhome }}">
       <img src="assets/images/logo.png" alt="Logo" />
       <span>L'album du territoire</span>
     </a>
