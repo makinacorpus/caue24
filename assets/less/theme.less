@@ -12,27 +12,44 @@
 // Custom theme CSS
 // --------------------------------------------------
 .leaflet-container {
-  width:  100%;
-  height: 400px;
+  width:  99%;
+  overflow: hidden;
+  position: absolute;
+  top: 60px;
+  bottom: 210px;
 }
-
 #maplist img {
     width: 32px;
 }
-#wrap {
-  min-height: 100%;
-  height: auto !important;
-  height: 100%;
-  /* Negative indent footer by its height */
-  margin: 0 auto -60px;
-  /* Pad bottom by footer height */
-  padding: 0 0 60px;
-}
 #header {
+  position: absolute;
+  top: 0;
+  width: 99%;
   height: 60px;
   background-color: @gray-lighter;
 }
+#map-infos,
+#map-photos {
+  width: 50%;
+  height: 150px;
+  display: inline-block;
+  padding: 15px;
+  position: absolute;
+  bottom: 60px;
+}
+#map-infos {
+  background-color: @brand-primary;
+  left: 0;
+}
+#map-photos {
+  background-color: @body-bg;
+  right: 0;
+  z-index: 1;
+}
 #footer {
+  width: 99%;
+  position: absolute;
+  bottom: 0;
   height: 60px;
   background-color: @gray-lighter;
 

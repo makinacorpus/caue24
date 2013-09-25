@@ -14,13 +14,15 @@
     <link rel="stylesheet" href="assets/theme.css" />
   </head>
   <body>
-    {% include header.html %}
     <div id="wrap" class="container">
+      {% include header.html %}
       <h1>{{ page.title }}</h1>
       <div id="map"></div>
+      <div id="map-infos">Infos additionnelles</div>
+      <div id="map-photos">Photos</div>
       {{ content }}
+      {% include footer.html %}
     </div>
-    {% include footer.html %}
     <!-- jQuery -->
     <script src="//ajax.googleapis.com/ajax/libs/jquery/2.0.3/jquery.min.js"></script>
     <!-- Leaflet -->
