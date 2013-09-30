@@ -10,3 +10,21 @@ prose:
   siteurl: "http://makinacorpus.github.io/caue24"
   media: "assets/images"
   rooturl: "_posts"
+  metadata:
+    "_posts":
+      - name: "layout"
+        field:
+          element: "hidden"
+          value: "page"
+      - name: "popuptitle"
+        field:
+          element: "text"
+          label: "Titre de la popup"
+      - name: "popupcontent"
+        field:
+          element: "textarea"
+          label: "Texte de la popup"
+      - name: "additionaltext"
+        field:
+          element: "textarea"
+          label: "Texte additionnel"
