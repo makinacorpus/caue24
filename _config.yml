@@ -4,14 +4,20 @@ name: Conseil d'Architecture, d'Urbanisme et de l'Environnement de Dordogne
 safe: true
 # No permalink
 permalink: none
-# Prose-related configuration
-# See https://github.com/prose/prose/wiki/Prose-Configuration
+# Currently using github project domain
+root: /caue24
+# Exclude some files we don't want in the site
+exclude:
+  - README.md
+  - .gitignore
+# prose.io settings
+# https://github.com/prose/prose/wiki/Prose-Configuration
 prose:
   siteurl: "http://makinacorpus.github.io/caue24"
   media: "assets/images"
-  rooturl: "_posts"
+  rooturl: "data"
   metadata:
-    "_posts":
+    "data":
       - name: "layout"
         field:
           element: "hidden"
