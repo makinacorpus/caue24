@@ -7,20 +7,31 @@
 @import "../bootstrap/less/mixins.less";
 @import "../bootstrap/less/scaffolding.less";
 @import "../bootstrap/less/utilities.less";
+@import "../bootstrap/less/forms.less";
+@import "../bootstrap/less/navs.less";
+@import "../bootstrap/less/navbar.less";
 
 //
 // Custom theme CSS
+// --------------------------------------------------
+
+//
+// Map
 // --------------------------------------------------
 .leaflet-container {
   width:  99%;
   overflow: hidden;
   position: absolute;
-  top: 60px;
+  top: 100px;
   bottom: 210px;
 }
 #maplist img {
     width: 32px;
 }
+
+//
+// Layout
+// --------------------------------------------------
 #header {
   position: absolute;
   top: 0;
@@ -67,4 +78,30 @@
       }
     }
   }
+}
+
+//
+// Bootstrap customization
+// --------------------------------------------------
+.navbar {
+  position: absolute;
+  top: 60px;
+  width: 99%;
+  min-height: 43px;
+
+  ul {
+    margin: 0;
+
+    li {
+      background-color: @body-bg;
+
+      a {
+        color: @text-color;
+      }
+    }
+  }
+}
+.navbar-collapse {
+  padding-left: 0;
+  padding-right: 0;
 }
