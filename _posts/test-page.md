@@ -1,7 +1,12 @@
 ---
-layout: "page"
-title: "Test Simon"
-popuptitle: "Titre de la popup"
-popupcontent: "Texte de la popup"
-additionaltext: "Ce texte un peu plus long ira sous la map"
+layout: page
+title: Test Simon
+popuptitle: Titre popup (changé via Prose)
+popupcontent: "Gardons ce texte !"
+additionaltext: null
+published: true
 ---
+
+![](/assets/images/butine%20maquette.jpeg)
+
+On verra quoi faire de ce texte ensuite.
