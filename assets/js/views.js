@@ -18,7 +18,7 @@ CaueViews.clickLayer = function(layer, id) {
   var featureId = id;
   // Get page content
 //  var page = $.get("http://localhost:4000/data/test-page.html", function(data) {
-  var page = $.get("http://makinacorpus.github.com/caue24/data/test-page.html", function(data) {
+  var page = $.get("http://makinacorpus.github.io/caue24/data/test-page.html", function(data) {
     // And parse it
     CaueViews.displayData(layer, data, id);
   });
