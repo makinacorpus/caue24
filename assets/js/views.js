@@ -11,15 +11,16 @@ CaueViews.displayData = function(layer, rawHtml, id) {
   layer.bindPopup('<h2>'+ id + ': ' + popupTitle +'</h2>' + popupContent).openPopup();
   $('#map-infos').html(id + ': ' + additionalText);
   $('#map-photos').html(id + ': ' + photos);
-}
+};
 
 CaueViews.clickLayer = function(layer, id) {
   // Get id Jekyll page
-  var featureId = id;
+  var layerHash = L.Util.hash(layer),
+      featureId = layerHash.substring(0, 6);
   // Get page content
 //  var page = $.get("http://localhost:4000/data/test-page.html", function(data) {
   var page = $.get("http://makinacorpus.github.io/caue24/data/test-page.html", function(data) {
     // And parse it
     CaueViews.displayData(layer, data, id);
   });
-}
+};
