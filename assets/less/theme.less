@@ -16,6 +16,16 @@
 // --------------------------------------------------
 
 //
+// Color
+// --------------------------------------------------
+@portrait:        #ef5259;
+@geographie:      #2db877;
+@histoire:        #f1b847;
+@urbanisme:       #a7d028;
+@architecture:    #2dcfd5;
+@atouts:          #7c4bb4;
+
+//
 // Map
 // --------------------------------------------------
 .leaflet-container {
@@ -49,13 +59,13 @@
   bottom: 60px;
 }
 #map-infos {
-  background-color: @brand-primary;
+  background-color: @geographie;
+  color: #fff;
   left: 0;
 }
 #map-photos {
-  background-color: @body-bg;
+  background-color: #fff;
   right: 0;
-  z-index: 1;
 }
 #footer {
   width: 99%;
@@ -110,16 +120,6 @@
   padding-left: 0;
   padding-right: 0;
 }
-
-//
-// Color
-// --------------------------------------------------
-@portrait:        #ef5259;
-@geographie:      #2db877;
-@histoire:        #f1b847;
-@urbanisme:       #a7d028;
-@architecture:    #2dcfd5;
-@atouts:          #7c4bb4;
 .navbar ul, .nav-tabs {
   
   li.portrait:hover,

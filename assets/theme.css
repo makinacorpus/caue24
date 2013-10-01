@@ -1211,13 +1211,13 @@ textarea.input-lg {
   bottom: 60px;
 }
 #map-infos {
-  background-color: #428bca;
+  background-color: #2db877;
+  color: #fff;
   left: 0;
 }
 #map-photos {
-  background-color: #ffffff;
+  background-color: #fff;
   right: 0;
-  z-index: 1;
 }
 #footer {
   width: 99%;
