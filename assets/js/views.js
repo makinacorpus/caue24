@@ -13,14 +13,47 @@ CaueViews.displayData = function(layer, rawHtml, id) {
   $('#map-photos').html(id + ': ' + photos);
 };
 
+CaueViews.displayError = function(featureId) {
+  $('#map-photos').html("Il n'y a pas de contenu pour l'élement suivant : " + featureId);
+}
+
 CaueViews.clickLayer = function(layer, id) {
   // Get id Jekyll page
   var layerHash = L.Util.hash(layer),
       featureId = layerHash.substring(0, 6);
   // Get page content
-//  var page = $.get("http://localhost:4000/data/test-page.html", function(data) {
-  var page = $.get("http://makinacorpus.github.io/caue24/data/test-page.html", function(data) {
-    // And parse it
-    CaueViews.displayData(layer, data, id);
+  $.ajax({
+//    url: "http://localhost:4000/data/" + featureId + ".html",
+    url: "http://makinacorpus.github.io/caue24/data/test-page.html",
+  }).done(function(data) {
+      CaueViews.displayData(layer, data, id);
+  }).fail(function(jqXHR, textStatus, errorThrown) {
+      CaueViews.displayError(featureId);
   });
 };
+
+(function (Backbone, _, $, undefined) {
+"use strict";
+
+Backbone.$ = $;
+
+
+var CaueApp = Backbone.Router.extend({
+
+    routes: {
+        ":communaute(/:category)":  "map"
+    },
+
+    map: function(communaute, category) {
+      // Load correct map backgroud
+      // Load associated GeoJSONs
+      // Eventually use default category
+      // Set category class on body field so everything is correctly themed
+      // Nothing else to do
+    }
+});
+
+var app = new CaueApp();
+Backbone.history.start();
+
+})(Backbone,  _, jQuery);
