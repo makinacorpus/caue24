@@ -15,12 +15,15 @@ function onEachFeature(feature, layer) {
     });
   }
 }
+function pointToLayer(featureData, latlng) {
+  return L.circleMarker(latlng);
+}
 $.ajax({
   type: "GET",
 //  url: "http://localhost:4000/assets/test.geojson",
   url: "http://makinacorpus.github.io/caue24/assets/test.geojson",
   dataType: 'json',
   success: function (response) {
-    geojsonLayer = L.geoJson(response, {onEachFeature: onEachFeature}).addTo(map);
+    geojsonLayer = L.geoJson(response, {onEachFeature: onEachFeature, pointToLayer: pointToLayer}).addTo(map);
   }
 });
