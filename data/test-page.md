@@ -7,6 +7,4 @@ additionaltext: "Le texte additionnel peut-être beaucoup plus long, il n'y a pa
 published: true
 ---
 
-![](/assets/images/butine%20maquette.jpeg)
-
 On verra quoi faire de ce texte ensuite.
