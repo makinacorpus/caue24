@@ -1261,6 +1261,50 @@ textarea.input-lg {
   padding-left: 0;
   padding-right: 0;
 }
+.navbar ul li,
+.nav-tabs li {
+  background-repeat: no-repeat;
+  background-position: 30% center;
+}
+.navbar ul li.portrait,
+.nav-tabs li.portrait {
+  background-image: url('images/ic_portrait_off.png');
+}
+.navbar ul li.geographie,
+.nav-tabs li.geographie {
+  background-image: url('images/ic_geo_off.png');
+  background-position: 25% center;
+}
+.navbar ul li.histoire,
+.nav-tabs li.histoire {
+  background-image: url('images/ic_histoire_off.png');
+}
+.navbar ul li.urbanisme,
+.nav-tabs li.urbanisme {
+  background-image: url('images/ic_urban_off.png');
+  background-position: 25% center;
+}
+.navbar ul li.architecture,
+.nav-tabs li.architecture {
+  background-image: url('images/ic_architecture_off.png');
+  background-position: 25% center;
+}
+.navbar ul li.atouts,
+.nav-tabs li.atouts {
+  background-image: url('images/ic_atouts_off.png');
+}
+.navbar ul li:hover,
+.nav-tabs li:hover,
+.navbar ul li.active,
+.nav-tabs li.active,
+.navbar ul li:hover > a,
+.nav-tabs li:hover > a,
+.navbar ul li.active > a,
+.nav-tabs li.active > a {
+  color: #fff;
+  background-repeat: no-repeat;
+  background-position: 30% center;
+}
 .navbar ul li.portrait:hover,
 .nav-tabs li.portrait:hover,
 .navbar ul li.portrait.active,
@@ -1270,7 +1314,7 @@ textarea.input-lg {
 .navbar ul li.portrait.active > a,
 .nav-tabs li.portrait.active > a {
   background-color: #ef5259;
-  color: #fff;
+  background-image: url('images/ic_portrait_on.png');
 }
 .navbar ul li.geographie:hover,
 .nav-tabs li.geographie:hover,
@@ -1281,7 +1325,8 @@ textarea.input-lg {
 .navbar ul li.geographie.active > a,
 .nav-tabs li.geographie.active > a {
   background-color: #2db877;
-  color: #fff;
+  background-image: url('images/ic_geo_on.png');
+  background-position: 25% center;
 }
 .navbar ul li.histoire:hover,
 .nav-tabs li.histoire:hover,
@@ -1292,7 +1337,7 @@ textarea.input-lg {
 .navbar ul li.histoire.active > a,
 .nav-tabs li.histoire.active > a {
   background-color: #f1b847;
-  color: #fff;
+  background-image: url('images/ic_histoire_on.png');
 }
 .navbar ul li.urbanisme:hover,
 .nav-tabs li.urbanisme:hover,
@@ -1303,7 +1348,8 @@ textarea.input-lg {
 .navbar ul li.urbanisme.active > a,
 .nav-tabs li.urbanisme.active > a {
   background-color: #a7d028;
-  color: #fff;
+  background-image: url('images/ic_urban_on.png');
+  background-position: 25% center;
 }
 .navbar ul li.architecture:hover,
 .nav-tabs li.architecture:hover,
@@ -1314,7 +1360,8 @@ textarea.input-lg {
 .navbar ul li.architecture.active > a,
 .nav-tabs li.architecture.active > a {
   background-color: #2dcfd5;
-  color: #fff;
+  background-image: url('images/ic_architecture_on.png');
+  background-position: 25% center;
 }
 .navbar ul li.atouts:hover,
 .nav-tabs li.atouts:hover,
@@ -1325,5 +1372,5 @@ textarea.input-lg {
 .navbar ul li.atouts.active > a,
 .nav-tabs li.atouts.active > a {
   background-color: #7c4bb4;
-  color: #fff;
+  background-image: url('images/ic_atouts_on.png');
 }
