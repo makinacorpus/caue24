@@ -1261,3 +1261,69 @@ textarea.input-lg {
   padding-left: 0;
   padding-right: 0;
 }
+.navbar ul li.portrait:hover,
+.nav-tabs li.portrait:hover,
+.navbar ul li.portrait.active,
+.nav-tabs li.portrait.active,
+.navbar ul li.portrait:hover > a,
+.nav-tabs li.portrait:hover > a,
+.navbar ul li.portrait.active > a,
+.nav-tabs li.portrait.active > a {
+  background-color: #ef5259;
+  color: #fff;
+}
+.navbar ul li.geographie:hover,
+.nav-tabs li.geographie:hover,
+.navbar ul li.geographie.active,
+.nav-tabs li.geographie.active,
+.navbar ul li.geographie:hover > a,
+.nav-tabs li.geographie:hover > a,
+.navbar ul li.geographie.active > a,
+.nav-tabs li.geographie.active > a {
+  background-color: #2db877;
+  color: #fff;
+}
+.navbar ul li.histoire:hover,
+.nav-tabs li.histoire:hover,
+.navbar ul li.histoire.active,
+.nav-tabs li.histoire.active,
+.navbar ul li.histoire:hover > a,
+.nav-tabs li.histoire:hover > a,
+.navbar ul li.histoire.active > a,
+.nav-tabs li.histoire.active > a {
+  background-color: #f1b847;
+  color: #fff;
+}
+.navbar ul li.urbanisme:hover,
+.nav-tabs li.urbanisme:hover,
+.navbar ul li.urbanisme.active,
+.nav-tabs li.urbanisme.active,
+.navbar ul li.urbanisme:hover > a,
+.nav-tabs li.urbanisme:hover > a,
+.navbar ul li.urbanisme.active > a,
+.nav-tabs li.urbanisme.active > a {
+  background-color: #a7d028;
+  color: #fff;
+}
+.navbar ul li.architecture:hover,
+.nav-tabs li.architecture:hover,
+.navbar ul li.architecture.active,
+.nav-tabs li.architecture.active,
+.navbar ul li.architecture:hover > a,
+.nav-tabs li.architecture:hover > a,
+.navbar ul li.architecture.active > a,
+.nav-tabs li.architecture.active > a {
+  background-color: #2dcfd5;
+  color: #fff;
+}
+.navbar ul li.atouts:hover,
+.nav-tabs li.atouts:hover,
+.navbar ul li.atouts.active,
+.nav-tabs li.atouts.active,
+.navbar ul li.atouts:hover > a,
+.nav-tabs li.atouts:hover > a,
+.navbar ul li.atouts.active > a,
+.nav-tabs li.atouts.active > a {
+  background-color: #7c4bb4;
+  color: #fff;
+}
