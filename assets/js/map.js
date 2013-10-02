@@ -25,5 +25,6 @@ $.ajax({
   dataType: 'json',
   success: function (response) {
     geojsonLayer = L.geoJson(response, {onEachFeature: onEachFeature, pointToLayer: pointToLayer}).addTo(map);
+    map.fitBounds(geojsonLayer.getBounds());
   }
 });
