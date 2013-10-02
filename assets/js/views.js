@@ -37,7 +37,6 @@ CaueViews.clickLayer = function(layer, id) {
 
 Backbone.$ = $;
 
-
 var CaueApp = Backbone.Router.extend({
 
     routes: {
@@ -45,10 +44,23 @@ var CaueApp = Backbone.Router.extend({
     },
 
     map: function(communaute, category) {
+      // Eventually use default category if not present
+      var myCategory = category;
+      if (myCategory === null) {
+        myCategory = 'portrait';
+        this.navigate(communaute + '/' + myCategory, {trigger: true, replace: true});
+      }
       // Load correct map backgroud
       // Load associated GeoJSONs
-      // Eventually use default category
+      // Update links so they point to the right communaute
+      $('.nav li').each(function () {
+        $('a', this).attr('href', '#' + communaute + '/' + $(this).attr('class'));
+      });
+      // Change active category
+      $('.nav li').removeClass('active');
+      $('.nav li.' + myCategory).addClass('active');
       // Set category class on body field so everything is correctly themed
+      $('body').removeClass().addClass(myCategory);
       // Nothing else to do
     }
 });

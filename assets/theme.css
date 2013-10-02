@@ -1211,9 +1211,26 @@ textarea.input-lg {
   bottom: 60px;
 }
 #map-infos {
-  background-color: #2db877;
   color: #fff;
   left: 0;
+}
+body.portrait #map-infos {
+  background-color: #ef5259;
+}
+body.geographie #map-infos {
+  background-color: #2db877;
+}
+body.histoire #map-infos {
+  background-color: #f1b847;
+}
+body.urbanisme #map-infos {
+  background-color: #a7d028;
+}
+body.architecture #map-infos {
+  background-color: #2dcfd5;
+}
+body.atouts #map-infos {
+  background-color: #7c4bb4;
 }
 #map-photos {
   background-color: #fff;
