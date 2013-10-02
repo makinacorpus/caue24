@@ -2287,7 +2287,7 @@ body.atouts #map-infos {
 }
 #footer #logos li {
   float: left;
-  padding: 0px 15px;
+  padding: 5px 15px;
 }
 #footer #logos li img {
   height: 50px;
