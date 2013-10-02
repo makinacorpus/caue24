@@ -14,7 +14,7 @@ CaueViews.displayData = function(layer, rawHtml, id) {
 };
 
 CaueViews.displayError = function(featureId) {
-  $('#map-photos').html("Il n'y a pas de contenu pour l'élement suivant : " + featureId);
+  $('#map-photos').html("Créez un contenu pour cet élement en allant sur <a href='http://prose.io/#makinacorpus/caue24/new/gh-pages/data/" + featureId + ".md'>cette page</a>.");
 }
 
 CaueViews.clickLayer = function(layer, id) {
