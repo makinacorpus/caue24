@@ -14,7 +14,7 @@ exclude:
 # https://github.com/prose/prose/wiki/Prose-Configuration
 prose:
   siteurl: "http://makinacorpus.github.io/caue24"
-  media: "assets/images"
+  media: "data/images"
   rooturl: "data"
   metadata:
     "data":
