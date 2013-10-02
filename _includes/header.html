@@ -1,13 +1,20 @@
 <div id="header" class="container">
   <div class="pull-left">
-    <a href="/">
       <img src="assets/images/logo_album_territoire.png" alt="L'album du territoire" />
-    </a>
   </div>
   <div class="pull-right">
-    <form>
-      <select><option>Communauté de commune</option></select>
-    </form>
+    <!-- Split button -->
+    <div class="btn-group">
+      <button type="button" class="btn btn-default dropdown-toggle" data-toggle="dropdown">Choisissez une communauté de commune</button>
+      <button type="button" class="btn btn-default dropdown-toggle color" data-toggle="dropdown">
+        <span class="caret"></span>
+      </button>
+      <ul class="dropdown-menu" role="menu">
+        <li><a href="#comm1">Communauté 1</a></li>
+        <li><a href="#comm2">Communauté 2</a></li>
+        <li><a href="#comm3">Communauté 3</a></li>
+      </ul>
+    </div>
   </div>
 </div>
 <nav class="navbar navbar-default" role="navigation">

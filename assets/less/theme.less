@@ -10,6 +10,10 @@
 @import "../bootstrap/less/forms.less";
 @import "../bootstrap/less/navs.less";
 @import "../bootstrap/less/navbar.less";
+@import "../bootstrap/less/buttons.less";
+@import "../bootstrap/less/buttons.less";
+@import "../bootstrap/less/button-groups.less";
+@import "../bootstrap/less/dropdowns.less";
 
 //
 // Custom theme CSS
@@ -48,6 +52,12 @@
   width: 99%;
   height: 60px;
   background-color: @gray-lighter;
+
+  .btn-group {
+    position: relative;
+    top: 10px;
+    right: 10px;
+  }
 }
 #map-infos,
 #map-photos {
@@ -219,4 +229,13 @@ body.atouts #map-infos {
     background-color: @atouts;
     background-image: url('images/ic_atouts_on.png');
   }
+}
+button.dropdown-toggle.color {
+  background-color: #ca1a32;
+}
+.btn-default .caret {
+  border-top-color: #fff;
+}
+ul.dropdown-menu {
+  z-index: 1001;
 }
