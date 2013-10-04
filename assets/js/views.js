@@ -43,24 +43,28 @@ var CaueApp = Backbone.Router.extend({
         ":communaute(/:category)":  "map"
     },
 
-    map: function(communaute, category) {
+    map: function(community, category) {
+      // Get community label
+      var myCommunity = $('.dropdown-menu').find('a[href$="'+community+'"]').text();
+      // Set it as button label
+      $('button.dropdown-toggle:first').text(myCommunity);
       // Eventually use default category if not present
       var myCategory = category;
       if (myCategory === null) {
         myCategory = 'portrait';
-        this.navigate(communaute + '/' + myCategory, {trigger: true, replace: true});
+        this.navigate(community + '/' + myCategory, {trigger: true, replace: true});
       }
-      // Load correct map backgroud
-      // Load associated GeoJSONs
-      // Update links so they point to the right communaute
+      // Update links so they point to the right community
       $('.nav li').each(function () {
-        $('a', this).attr('href', '#' + communaute + '/' + $(this).attr('class'));
+        $('a', this).attr('href', '#' + community + '/' + $(this).attr('class'));
       });
       // Change active category
       $('.nav li').removeClass('active');
       $('.nav li.' + myCategory).addClass('active');
       // Set category class on body field so everything is correctly themed
       $('body').removeClass().addClass(myCategory);
+      // Load correct map backgroud
+      // Load associated GeoJSONs
       // Nothing else to do
     }
 });
