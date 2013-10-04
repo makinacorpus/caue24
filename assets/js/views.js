@@ -40,7 +40,21 @@ Backbone.$ = $;
 var CaueApp = Backbone.Router.extend({
 
     routes: {
+        "":                         "home",
         ":communaute(/:category)":  "map"
+    },
+
+    home: function() {
+      // Reset community select text
+      $('button.dropdown-toggle:first').text('Choisissez une communauté de commune');
+      // Hide additionnal blocks
+      $('#map-infos').hide();
+      $('#map-photos').hide();
+      // Extend map
+      $('#map').css('bottom', '60px');
+      // Load correct map backgroud
+      // Load associated GeoJSONs
+      // Nothing else to do
     },
 
     map: function(community, category) {
@@ -63,6 +77,11 @@ var CaueApp = Backbone.Router.extend({
       $('.nav li.' + myCategory).addClass('active');
       // Set category class on body field so everything is correctly themed
       $('body').removeClass().addClass(myCategory);
+      // Display additionnal blocks
+      $('#map-infos').show();
+      $('#map-photos').show();
+      // Reduce map
+      $('#map').css('bottom', '210px');
       // Load correct map backgroud
       // Load associated GeoJSONs
       // Nothing else to do

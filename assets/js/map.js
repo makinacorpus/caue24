@@ -1,27 +1,51 @@
 // Create base map
 var map = new L.Map('map').setView([45, 0.67], 10);
 map.attributionControl.setPrefix('Par <a href="http://makina-corpus.com">Makina Corpus</a>');
-// Add OSM Layer
-var mapquestUrl = 'http://{s}.mqcdn.com/tiles/1.0.0/osm/{z}/{x}/{y}.png';
-var subDomains = ['otile1','otile2','otile3','otile4'];
-var mapquestAttrib = 'Data, imagery and map information provided by <a href="http://open.mapquest.co.uk" target="_blank">MapQuest</a>, <a href="http://www.openstreetmap.org/" target="_blank">OpenStreetMap</a> and contributors';
-L.tileLayer(mapquestUrl, {maxZoom: 15, attribution: mapquestAttrib, subdomains: subDomains}).addTo(map);
+// Add Base Layer
+var caueUrl = 'http://82.196.6.196/CAUE24/{z}/{x}/{y}.png';
+var caueAttrib = 'Données cartographiques fournies par le <a href="http://www.cauedordogne.com" target="_blank">CAUE24</a>';
+L.tileLayer(caueUrl, {maxZoom: 15, attribution: caueAttrib}).addTo(map);
 // Add GeoJSON Layer
+var info = L.control();
+
+info.onAdd = function (map) {
+  this._div = L.DomUtil.create('div', 'info'); // create a div with a class "info"
+  this.update();
+  return this._div;
+};
+
+// method that we will use to update the control based on feature properties passed
+info.update = function (props) {
+  this._div.innerHTML = (props ? '<b>' + props.COMMUNAUT + '</b>' : 'Survolez une communauté de commune');
+};
+
+info.addTo(map);
+function highlightFeature(e) {
+  var layer = e.target;
+  info.update(layer.feature.properties);
+}
+function resetHighlight(e) {
+  info.update();
+}
 function onEachFeature(feature, layer) {
   if (feature.properties) {
     var properties = feature.properties;
-    layer.on('click', function(e) {
-      CaueViews.clickLayer(e.target, properties.ALTITUDE)
-    });
   }
+  layer.on({
+    mouseover: highlightFeature,
+    mouseout: resetHighlight,
+    click: function(e) {
+      // location.hash = properties.COMMUNAUT;
+    }, 
+  });
 }
 function pointToLayer(featureData, latlng) {
   return L.circleMarker(latlng);
 }
 $.ajax({
   type: "GET",
-//  url: "http://localhost:4000/assets/test.geojson",
-  url: "http://makinacorpus.github.io/caue24/assets/test.geojson",
+//  url: "http://localhost:4000/assets/cdc.geojson",
+  url: "http://makinacorpus.github.io/caue24/assets/cdc.geojson",
   dataType: 'json',
   success: function (response) {
     geojsonLayer = L.geoJson(response, {onEachFeature: onEachFeature, pointToLayer: pointToLayer}).addTo(map);
