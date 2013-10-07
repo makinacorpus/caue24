@@ -1,5 +1,66 @@
 var CaueViews = {};
 
+CaueViews.pointToLayer = function(featureData, latlng) {
+  return L.circleMarker(latlng);
+};
+
+CaueViews.displayHomePage = function() {
+  // Create base map
+  var map = new L.Map('map').setView([45, 0.67], 10);
+  map.attributionControl.setPrefix('Par <a href="http://makina-corpus.com">Makina Corpus</a>');
+  // Add Base Layer
+  var caueUrl = 'http://82.196.6.196/CAUE24/{z}/{x}/{y}.png';
+  var caueAttrib = 'Données cartographiques fournies par le <a href="http://www.cauedordogne.com" target="_blank">CAUE24</a>';
+  L.tileLayer(caueUrl, {minZoom: 8, maxZoom: 11, attribution: caueAttrib}).addTo(map);
+  // Add GeoJSON Layer
+  var info = L.control();
+
+  info.onAdd = function (map) {
+    this._div = L.DomUtil.create('div', 'info'); // create a div with a class "info"
+    this.update();
+    return this._div;
+  };
+
+  // method that we will use to update the control based on feature properties passed
+  info.update = function (props) {
+    this._div.innerHTML = (props ? '<b>' + props.COMMUNAUT + '</b>' : 'Survolez une communauté de commune');
+  };
+
+  info.addTo(map);
+  function highlightFeature(e) {
+    var layer = e.target;
+    info.update(layer.feature.properties);
+  }
+  function resetHighlight(e) {
+    info.update();
+  }
+  function onEachFeature(feature, layer) {
+    if (feature.properties) {
+      var properties = feature.properties;
+    }
+    layer.on({
+      mouseover: highlightFeature,
+      mouseout: resetHighlight,
+      click: function(e) {
+        var cdc = properties.TYPOLOGIE2.toFixed();
+        var realCdc = $('.dropdown-menu li:nth-child('+cdc+') a').attr('href');
+        location.hash = realCdc;
+      },
+    });
+  }
+  $.ajax({
+    type: "GET",
+    // url: "http://localhost:4000/assets/cdc.geojson",
+    url: "http://makinacorpus.github.io/caue24/assets/cdc.geojson",
+    dataType: 'json',
+    success: function (response) {
+      geojsonLayer = L.geoJson(response, {onEachFeature: onEachFeature}).addTo(map);
+      map.fitBounds(geojsonLayer.getBounds());
+    }
+  });
+
+};
+
 CaueViews.displayData = function(layer, rawHtml, id) {
   var dom$ = $(rawHtml);
   // Parse data
@@ -15,7 +76,7 @@ CaueViews.displayData = function(layer, rawHtml, id) {
 
 CaueViews.displayError = function(featureId) {
   $('#map-photos').html("Créez un contenu pour cet élement en allant sur <a href='http://prose.io/#makinacorpus/caue24/new/gh-pages/data/" + featureId + ".md'>cette page</a>.");
-}
+};
 
 CaueViews.clickLayer = function(layer, id) {
   // Get id Jekyll page
@@ -23,7 +84,7 @@ CaueViews.clickLayer = function(layer, id) {
       featureId = layerHash.substring(0, 6);
   // Get page content
   $.ajax({
-//    url: "http://localhost:4000/data/" + featureId + ".html",
+    // url: "http://localhost:4000/data/" + featureId + ".html",
     url: "http://makinacorpus.github.io/caue24/data/test-page.html",
   }).done(function(data) {
       CaueViews.displayData(layer, data, id);
@@ -53,6 +114,7 @@ var CaueApp = Backbone.Router.extend({
       // Extend map
       $('#map').css('bottom', '60px');
       // Load correct map backgroud
+      CaueViews.displayHomePage();
       // Load associated GeoJSONs
       // Nothing else to do
     },
