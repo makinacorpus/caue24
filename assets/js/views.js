@@ -1,12 +1,14 @@
 var CaueViews = {};
 
+var map;
+
 CaueViews.pointToLayer = function(featureData, latlng) {
   return L.circleMarker(latlng);
 };
 
 CaueViews.displayHomePage = function() {
   // Create base map
-  var map = new L.Map('map').setView([45, 0.67], 9);
+  map = new L.Map('map').setView([45, 0.67], 9);
   map.attributionControl.setPrefix('Par <a href="http://makina-corpus.com">Makina Corpus</a>');
   // Add Base Layer
   var caueUrl = 'http://82.196.6.196/CAUE24/{z}/{x}/{y}.png';
@@ -54,11 +56,31 @@ CaueViews.displayHomePage = function() {
     url: "http://makinacorpus.github.io/caue24/assets/cdc.geojson",
     dataType: 'json',
     success: function (response) {
-      geojsonLayer = L.geoJson(response, {onEachFeature: onEachFeature}).addTo(map);
+      var geojsonLayer = L.geoJson(response, {onEachFeature: onEachFeature}).addTo(map);
       // map.fitBounds(geojsonLayer.getBounds());
     }
   });
+};
 
+CaueViews.displayMapPage = function(community, category) {
+  // Create base map
+  map = new L.Map('map').setView([45, 0.67], 10);
+  map.attributionControl.setPrefix('Par <a href="http://makina-corpus.com">Makina Corpus</a>');
+  // Add Base Layer
+  var caueUrl = 'http://82.196.6.196/CAUE24_Cromagnon_portrait/{z}/{x}/{y}.png';
+  var caueAttrib = 'Données cartographiques fournies par le <a href="http://www.cauedordogne.com" target="_blank">CAUE24</a>';
+  L.tileLayer(caueUrl, {minZoom: 9, maxZoom: 17, attribution: caueAttrib}).addTo(map);
+  // Add GeoJSON Layer
+  $.ajax({
+    type: "GET",
+    //url: "http://localhost:4000/assets/Cromagnon_portrait.geojson",
+    url: "http://makinacorpus.github.io/caue24/assets/Cromagnon_portrait.geojson",
+    dataType: 'json',
+    success: function (response) {
+      var geojsonLayer = L.geoJson(response, {}).addTo(map);
+      map.fitBounds(geojsonLayer.getBounds());
+    }
+  });
 };
 
 CaueViews.displayData = function(layer, rawHtml, id) {
@@ -94,11 +116,11 @@ CaueViews.clickLayer = function(layer, id) {
 };
 
 (function (Backbone, _, $, undefined) {
-"use strict";
+  "use strict";
 
-Backbone.$ = $;
+  Backbone.$ = $;
 
-var CaueApp = Backbone.Router.extend({
+  var CaueApp = Backbone.Router.extend({
 
     routes: {
         "":                         "home",
@@ -114,9 +136,12 @@ var CaueApp = Backbone.Router.extend({
       $('#teasing').show();
       // Extend map
       $('#map').css('bottom', '60px');
-      // Load correct map backgroud
+      // Remove eventual existing map
+      if (map instanceof L.Map) {
+        map.remove();
+      }
+      // Display map
       CaueViews.displayHomePage();
-      // Load associated GeoJSONs
       // Nothing else to do
     },
 
@@ -146,13 +171,17 @@ var CaueApp = Backbone.Router.extend({
       $('#teasing').hide();
       // Reduce map
       $('#map').css('bottom', '210px');
-      // Load correct map backgroud
-      // Load associated GeoJSONs
+      // Remove eventual existing map
+      if (map instanceof L.Map) {
+        map.remove();
+      }
+      // Display map
+      CaueViews.displayMapPage(community, category);
       // Nothing else to do
     }
-});
+  });
 
-var app = new CaueApp();
-Backbone.history.start();
+  var app = new CaueApp();
+  Backbone.history.start();
 
 })(Backbone,  _, jQuery);
