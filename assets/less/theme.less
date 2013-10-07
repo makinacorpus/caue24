@@ -173,100 +173,122 @@ body.atouts #map-infos {
     }
   }
 }
+
 .navbar-collapse {
   padding-left: 0;
   padding-right: 0;
 }
-.navbar ul, .nav-tabs {
 
+.nav-tabs > li.active > a,
+.nav-tabs > li.active > a:hover,
+.nav-tabs > li.active > a:focus,
+.nav-tabs > li > a:hover,
+.nav-tabs > li > a:focus {
+  color: #fff;
+  border: 0 none;
+  border-left: 1px solid;
+  border-color: transparent;
+}
+
+.nav-tabs.nav-justified > li > a {
+  border: 0 none;
+  border-left: 1px solid #e9e9e9;
+}
+
+.nav-tabs {
   li {
-    background-repeat: no-repeat;
-    background-position: 30% center;
+    a:hover, &.active a {
+      color: #fff;
+      border-color: transparent;
+    }
+
+    i[class*="sprite_"] {
+      background-repeat: no-repeat;
+      background-image: url('images/sprite.png');
+      display: inline-block;
+      vertical-align: middle;
+      margin-right: 5px;
+    }
+
+    &:first-child {
+      border: 0 none;
+    }
   }
 
   li.portrait {
-    background-image: url('images/ic_portrait_off.png');
+    &.active > a, a:hover, a:focus {
+      background-color: @portrait;
+    }
   }
   li.geographie {
-    background-image: url('images/ic_geo_off.png');
-    background-position: 25% center;
+    &.active > a, a:hover, a:focus {
+      background-color: @geographie;
+    }
   }
   li.histoire {
-    background-image: url('images/ic_histoire_off.png');
+    &.active > a, a:hover, a:focus {
+      background-color: @histoire;
+    }
   }
   li.urbanisme {
-    background-image: url('images/ic_urban_off.png');
-    background-position: 25% center;
+    &.active > a, a:hover, a:focus {
+      background-color: @urbanisme;
+    }
   }
   li.architecture {
-    background-image: url('images/ic_architecture_off.png');
-    background-position: 25% center;
+    &.active > a, a:hover, a:focus {
+      background-color: @architecture;
+    }
   }
   li.atouts {
-    background-image: url('images/ic_atouts_off.png');
+    &.active > a, a:hover, a:focus {
+      background-color: @atouts;
+    }
   }
 
-  li:hover,
-  li.active,
-  li:hover > a,
-  li.active > a {
-    color: #fff;
-    background-repeat: no-repeat;
-    background-position: 30% center;
-  }
+  //
+  // Spritesheet (generated with http://spritegen.website-performance.org/)
+  // --------------------------------------------------
+  .sprite_portrait{ background-position: 0 -560px; width: 20px; height: 20px; } 
+  a:hover .sprite_portrait,
+  a:focus .sprite_portrait,
+  .active .sprite_portrait{ background-position: 0 -630px; } 
   
-  li.portrait:hover,
-  li.portrait.active,
-  li.portrait:hover > a,
-  li.portrait.active > a {
-    background-color: @portrait;
-    background-image: url('images/ic_portrait_on.png');
-  }
-  li.geographie:hover,
-  li.geographie.active,
-  li.geographie:hover > a,
-  li.geographie.active > a {
-    background-color: @geographie;
-    background-image: url('images/ic_geo_on.png');
-    background-position: 25% center;
-  }
-  li.histoire:hover,
-  li.histoire.active,
-  li.histoire:hover > a,
-  li.histoire.active > a {
-    background-color: @histoire;
-    background-image: url('images/ic_histoire_on.png');
-  }
-  li.urbanisme:hover,
-  li.urbanisme.active,
-  li.urbanisme:hover > a,
-  li.urbanisme.active > a {
-    background-color: @urbanisme;
-    background-image: url('images/ic_urban_on.png');
-    background-position: 25% center;
-  }
-  li.architecture:hover,
-  li.architecture.active,
-  li.architecture:hover > a,
-  li.architecture.active > a {
-    background-color: @architecture;
-    background-image: url('images/ic_architecture_on.png');
-    background-position: 25% center;
-  }
-  li.atouts:hover,
-  li.atouts.active,
-  li.atouts:hover > a,
-  li.atouts.active > a {
-    background-color: @atouts;
-    background-image: url('images/ic_atouts_on.png');
-  }
+  .sprite_geographie{ background-position: 0 -278px; width: 24px; height: 20px; } 
+  a:hover .sprite_geographie,
+  a:focus .sprite_geographie,
+  .active .sprite_geographie{ background-position: 0 -348px; } 
+  
+  .sprite_histoire{ background-position: 0 -419px; width: 20px; height: 20px; } 
+  a:hover .sprite_histoire,
+  a:focus .sprite_histoire,
+  .active .sprite_histoire{ background-position: 0 -489px; } 
+  
+  .sprite_urbanisme{ background-position: 0 -700px; width: 22px; height: 20px; } 
+  a:hover .sprite_urbanisme,
+  a:focus .sprite_urbanisme,
+  .active .sprite_urbanisme{ background-position: 0 -770px; } 
+  
+  .sprite_architecture{ background-position: 0 1px; width: 22px; height: 20px; } 
+  a:hover .sprite_architecture,
+  a:focus .sprite_architecture,
+  .active .sprite_architecture{ background-position: 0 -69px; } 
+  
+  .sprite_atouts{ background-position: 0 -139px; width: 22px; height: 20px; } 
+  a:hover .sprite_atouts,
+  a:focus .sprite_atouts,
+  .active .sprite_atouts{ background-position: 0 -209px; }
 }
+
 button.dropdown-toggle.color {
   background-color: #ca1a32;
+  border-color: transparent;
 }
+
 .btn-default .caret {
   border-top-color: #fff;
 }
+
 ul.dropdown-menu {
   z-index: 1001;
 }
