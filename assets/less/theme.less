@@ -270,3 +270,14 @@ button.dropdown-toggle.color {
 ul.dropdown-menu {
   z-index: 1001;
 }
+
+.dropdown-menu {
+  max-width: 100%;
+  max-height: 300px;
+  overflow: auto;
+}
+
+.dropdown-menu > li > a {
+  max-width: 100%;
+  .text-overflow();
+}
