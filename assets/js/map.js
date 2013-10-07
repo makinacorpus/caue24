@@ -4,7 +4,7 @@ map.attributionControl.setPrefix('Par <a href="http://makina-corpus.com">Makina 
 // Add Base Layer
 var caueUrl = 'http://82.196.6.196/CAUE24/{z}/{x}/{y}.png';
 var caueAttrib = 'Données cartographiques fournies par le <a href="http://www.cauedordogne.com" target="_blank">CAUE24</a>';
-L.tileLayer(caueUrl, {maxZoom: 15, attribution: caueAttrib}).addTo(map);
+L.tileLayer(caueUrl, {minZoom: 8, maxZoom: 11, attribution: caueAttrib}).addTo(map);
 // Add GeoJSON Layer
 var info = L.control();
 
