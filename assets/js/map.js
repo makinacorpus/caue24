@@ -35,7 +35,9 @@ function onEachFeature(feature, layer) {
     mouseover: highlightFeature,
     mouseout: resetHighlight,
     click: function(e) {
-      // location.hash = properties.COMMUNAUT;
+      var cdc = properties.TYPOLOGIE2.toFixed();
+      var realCdc = $('.dropdown-menu li:nth-child('+cdc+') a').attr('href');
+      location.hash = realCdc;
     }, 
   });
 }
