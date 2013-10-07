@@ -3,6 +3,7 @@ var CaueViews = {};
 var map;
 
 CaueViews.pointToLayer = function(featureData, latlng) {
+  // Use SVG Markers instead of Leaflet standard ones to allow theming
   return L.circleMarker(latlng);
 };
 
@@ -25,7 +26,7 @@ CaueViews.displayHomePage = function() {
 
   // method that we will use to update the control based on feature properties passed
   info.update = function (props) {
-    this._div.innerHTML = (props ? '<b>' + props.COMMUNAUT + '</b>' : 'Survolez une communauté de commune');
+    this._div.innerHTML = (props ? props.COMMUNAUT : 'Survolez une communauté de commune');
   };
 
   info.addTo(map);
@@ -77,7 +78,7 @@ CaueViews.displayMapPage = function(community, category) {
     url: "http://makinacorpus.github.io/caue24/assets/Cromagnon_portrait.geojson",
     dataType: 'json',
     success: function (response) {
-      var geojsonLayer = L.geoJson(response, {}).addTo(map);
+      var geojsonLayer = L.geoJson(response, {pointToLayer: CaueViews.pointToLayer}).addTo(map);
       map.fitBounds(geojsonLayer.getBounds());
     }
   });
@@ -133,9 +134,12 @@ CaueViews.clickLayer = function(layer, id) {
       // Hide additionnal blocks
       $('#map-infos').hide();
       $('#map-photos').hide();
+      $('.navbar').hide();
+      // Show home teasing text
       $('#teasing').show();
       // Extend map
       $('#map').css('bottom', '60px');
+      $('#map').css('top', '60px');
       // Remove eventual existing map
       if (map instanceof L.Map) {
         map.remove();
@@ -168,9 +172,12 @@ CaueViews.clickLayer = function(layer, id) {
       // Display additionnal blocks
       $('#map-infos').show();
       $('#map-photos').show();
+      $('.navbar').show();
+      // Hide home teasing text
       $('#teasing').hide();
       // Reduce map
       $('#map').css('bottom', '210px');
+      $('#map').css('top', '100px');
       // Remove eventual existing map
       if (map instanceof L.Map) {
         map.remove();
