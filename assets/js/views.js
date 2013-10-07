@@ -6,7 +6,7 @@ CaueViews.pointToLayer = function(featureData, latlng) {
 
 CaueViews.displayHomePage = function() {
   // Create base map
-  var map = new L.Map('map').setView([45, 0.67], 10);
+  var map = new L.Map('map').setView([45, 0.67], 9);
   map.attributionControl.setPrefix('Par <a href="http://makina-corpus.com">Makina Corpus</a>');
   // Add Base Layer
   var caueUrl = 'http://82.196.6.196/CAUE24/{z}/{x}/{y}.png';
@@ -50,12 +50,12 @@ CaueViews.displayHomePage = function() {
   }
   $.ajax({
     type: "GET",
-    // url: "http://localhost:4000/assets/cdc.geojson",
+    //url: "http://localhost:4000/assets/cdc.geojson",
     url: "http://makinacorpus.github.io/caue24/assets/cdc.geojson",
     dataType: 'json',
     success: function (response) {
       geojsonLayer = L.geoJson(response, {onEachFeature: onEachFeature}).addTo(map);
-      map.fitBounds(geojsonLayer.getBounds());
+      // map.fitBounds(geojsonLayer.getBounds());
     }
   });
 
@@ -84,7 +84,7 @@ CaueViews.clickLayer = function(layer, id) {
       featureId = layerHash.substring(0, 6);
   // Get page content
   $.ajax({
-    // url: "http://localhost:4000/data/" + featureId + ".html",
+    //url: "http://localhost:4000/data/" + featureId + ".html",
     url: "http://makinacorpus.github.io/caue24/data/test-page.html",
   }).done(function(data) {
       CaueViews.displayData(layer, data, id);
@@ -111,6 +111,7 @@ var CaueApp = Backbone.Router.extend({
       // Hide additionnal blocks
       $('#map-infos').hide();
       $('#map-photos').hide();
+      $('#teasing').show();
       // Extend map
       $('#map').css('bottom', '60px');
       // Load correct map backgroud
@@ -142,6 +143,7 @@ var CaueApp = Backbone.Router.extend({
       // Display additionnal blocks
       $('#map-infos').show();
       $('#map-photos').show();
+      $('#teasing').hide();
       // Reduce map
       $('#map').css('bottom', '210px');
       // Load correct map backgroud
