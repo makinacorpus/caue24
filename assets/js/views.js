@@ -187,7 +187,7 @@ CaueViews.clickLayer = function(layer, id) {
         map.remove();
       }
       // Display map
-      CaueViews.displayMapPage(community, category);
+      CaueViews.displayMapPage(community, myCategory);
       // Nothing else to do
     }
   });
