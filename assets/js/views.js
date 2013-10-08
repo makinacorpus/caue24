@@ -26,7 +26,13 @@ CaueViews.displayHomePage = function() {
 
   // method that we will use to update the control based on feature properties passed
   info.update = function (props) {
-    this._div.innerHTML = (props ? props.COMMUNAUT : 'Survolez une communauté de commune');
+    if (props) {
+      var cdc = props.TYPOLOGIE2.toFixed();
+      var realCdc = $('.dropdown-menu li:nth-child('+cdc+') a').text();
+      this._div.innerHTML = realCdc;
+    } else {
+      this._div.innerHTML = 'Survolez une communauté de commune';
+    }
   };
 
   info.addTo(map);
@@ -53,12 +59,12 @@ CaueViews.displayHomePage = function() {
   }
   $.ajax({
     type: "GET",
-    //url: "http://localhost:4000/assets/cdc.geojson",
-    url: "http://makinacorpus.github.io/caue24/assets/cdc.geojson",
+    //url: "http://localhost:4000/data/geojson/home.geojson",
+    url: "http://makinacorpus.github.io/caue24/data/geojson/home.geojson",
     dataType: 'json',
     success: function (response) {
       var geojsonLayer = L.geoJson(response, {onEachFeature: onEachFeature}).addTo(map);
-      // map.fitBounds(geojsonLayer.getBounds());
+      map.fitBounds(geojsonLayer.getBounds());
     }
   });
 };
@@ -74,8 +80,8 @@ CaueViews.displayMapPage = function(community, category) {
   // Add GeoJSON Layer
   $.ajax({
     type: "GET",
-    //url: "http://localhost:4000/assets/Cromagnon_portrait.geojson",
-    url: "http://makinacorpus.github.io/caue24/assets/Cromagnon_portrait.geojson",
+    //url: "http://localhost:4000/data/geojson/" + community + "_" + category + ".geojson",
+    url: "http://makinacorpus.github.io/caue24/data/geojson/" + community + "_" + category + ".geojson",
     dataType: 'json',
     success: function (response) {
       var geojsonLayer = L.geoJson(response, {pointToLayer: CaueViews.pointToLayer}).addTo(map);
