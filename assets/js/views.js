@@ -59,8 +59,7 @@ CaueViews.displayHomePage = function() {
   }
   $.ajax({
     type: "GET",
-    //url: "http://localhost:4000/data/geojson/home.geojson",
-    url: "http://makinacorpus.github.io/caue24/data/geojson/home.geojson",
+    url: "data/geojson/home.geojson",
     dataType: 'json',
     success: function (response) {
       var geojsonLayer = L.geoJson(response, {onEachFeature: onEachFeature}).addTo(map);
@@ -76,12 +75,11 @@ CaueViews.displayMapPage = function(community, category) {
   // Add Base Layer
   var caueUrl = 'http://82.196.6.196/CAUE24_Cromagnon_portrait/{z}/{x}/{y}.png';
   var caueAttrib = 'Données cartographiques fournies par le <a href="http://www.cauedordogne.com" target="_blank">CAUE24</a>';
-  L.tileLayer(caueUrl, {minZoom: 9, maxZoom: 17, attribution: caueAttrib}).addTo(map);
+  L.tileLayer(caueUrl, {minZoom: 10, maxZoom: 16, attribution: caueAttrib}).addTo(map);
   // Add GeoJSON Layer
   $.ajax({
     type: "GET",
-    //url: "http://localhost:4000/data/geojson/" + community + "_" + category + ".geojson",
-    url: "http://makinacorpus.github.io/caue24/data/geojson/" + community + "_" + category + ".geojson",
+    url: "data/geojson/" + community + "_" + category + ".geojson",
     dataType: 'json',
     success: function (response) {
       var geojsonLayer = L.geoJson(response, {pointToLayer: CaueViews.pointToLayer}).addTo(map);
