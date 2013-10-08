@@ -151,7 +151,7 @@ CaueViews.clickLayer = function(layer, id) {
 
     map: function(community, category) {
       // Get community label
-      var myCommunity = $('.dropdown-menu').find('a[href$="'+community+'"]').text();
+      var myCommunity = $('.dropdown-menu').find('a[href="#'+community+'"]').text();
       // Set it as button label
       $('button.dropdown-toggle:first').text(myCommunity);
       // Eventually use default category if not present
