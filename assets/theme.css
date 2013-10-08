@@ -2547,16 +2547,14 @@ body.atouts #map-infos {
   vertical-align: middle;
   padding: 10px;
 }
-#footer #logos {
+#logos {
   list-style: none;
   margin: 0;
+  padding-top: 6px;
 }
-#footer #logos li {
+#logos li {
   float: left;
   padding: 5px 15px;
-}
-#footer #logos li img {
-  height: 50px;
 }
 .btn {
   border-radius: 0;
