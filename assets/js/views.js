@@ -9,7 +9,7 @@ CaueViews.pointToLayer = function(featureData, latlng) {
 
 CaueViews.displayHomePage = function() {
   // Create base map
-  map = new L.Map('map').setView([45, 0.67], 9);
+  map = new L.Map('map').setView([45.10, 1.57], 9);
   map.attributionControl.setPrefix('Par <a href="http://makina-corpus.com">Makina Corpus</a>');
   // Add Base Layer
   var caueUrl = 'http://82.196.6.196/CAUE24/{z}/{x}/{y}.png';
@@ -92,7 +92,7 @@ CaueViews.displayHomePage = function() {
     dataType: 'json',
     success: function (response) {
       var geojsonLayer = L.geoJson(response, {style: style, onEachFeature: onEachFeature}).addTo(map);
-      map.fitBounds(geojsonLayer.getBounds());
+      // map.fitBounds(geojsonLayer.getBounds());
     }
   });
 };
