@@ -56,7 +56,7 @@
 @index: 0;
 
 .loopingClass (@index, @iterations) when (@index < @iterations) {
-  (~".navbar li:nth-child(@{index})") {
+  .navbar li:nth-child(@{index}) {
     .transition-delay(@index*100ms);
   }
 
