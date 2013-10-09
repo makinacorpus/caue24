@@ -102,10 +102,15 @@
 .leaflet-container {
   width:  100%;
   overflow: hidden;
+  background-color: #fff;
   position: absolute;
   top: 60px;
-  bottom: 210px;
-  background-color: #fff;
+  bottom: 60px;
+
+  body[data-page="map"] & {
+    top: 100px;
+    bottom: 210px;
+  }
 }
 #maplist img {
     width: 32px;
@@ -182,7 +187,12 @@ html, body {
   p {
     text-align: justify;
   }
+
+  body[data-page="map"] & {
+    display: none;
+  }
 }
+
 #map-infos,
 #map-photos {
   width: 50%;
@@ -191,6 +201,10 @@ html, body {
   padding: 15px;
   position: absolute;
   bottom: 60px;
+
+  body[data-page="home"] & {
+    display: none;
+  }
 }
 #map-infos {
   color: #fff;
@@ -285,7 +299,7 @@ body.atouts #map-infos {
     // background-color: #999; cause painting bug
   }
 
-  &.show {
+  body[data-page="map"] & {
     height: auto;
 
     li {

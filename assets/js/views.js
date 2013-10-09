@@ -226,23 +226,18 @@ CaueViews.clickLayer = function(layer, id) {
     },
 
     home: function() {
+      $('body').attr('data-page', 'home');
+
       // Reset community select text
       $('button.dropdown-toggle:first').text('Choisissez une communauté de commune');
-      // Hide additionnal blocks
-      $('#map-infos').hide();
-      $('#map-photos').hide();
-      $('.navbar').hide();
-      // Show home teasing text
-      $('#teasing').show();
-      // Extend map
-      $('#map').css('bottom', '60px');
-      $('#map').css('top', '60px');
       // Display map
       CaueViews.displayHomePage();
       // Nothing else to do
     },
 
     map: function(community, category) {
+      $('body').attr('data-page', 'map');
+
       // Get community label
       var myCommunity = $('.dropdown-menu').find('a[href="#'+community+'"]').text();
       // Set it as button label
@@ -262,15 +257,6 @@ CaueViews.clickLayer = function(layer, id) {
       $('.nav li.' + myCategory).addClass('active');
       // Set category class on body field so everything is correctly themed
       $('body').removeClass().addClass(myCategory);
-      // Display additionnal blocks
-      $('#map-infos').show();
-      $('#map-photos').show();
-      $('.navbar').show();
-      // Hide home teasing text
-      $('#teasing').hide();
-      // Reduce map
-      $('#map').css('bottom', '210px');
-      $('#map').css('top', '100px');
       // Display map
       CaueViews.displayMapPage(community, myCategory);
       // Nothing else to do
