@@ -57,6 +57,9 @@ CaueViews.displayHomePage = function() {
       },
     });
   }
+  // Scale
+  L.control.scale({imperial: false}).addTo(map);
+  // GeoJSON data layer
   $.ajax({
     type: "GET",
     url: "data/geojson/home.geojson",
@@ -75,7 +78,9 @@ CaueViews.displayMapPage = function(community, category) {
   // Add Base Layer
   var caueUrl = 'http://82.196.6.196/CAUE24_' + community + '_' + category + '/{z}/{x}/{y}.png';
   var caueAttrib = 'Données cartographiques fournies par le <a href="http://www.cauedordogne.com" target="_blank">CAUE24</a>';
-  L.tileLayer(caueUrl, {minZoom: 10, maxZoom: 16, attribution: caueAttrib}).addTo(map);
+  L.tileLayer(caueUrl, {minZoom: 9, maxZoom: 15, attribution: caueAttrib}).addTo(map);
+  // Scale
+  L.control.scale({imperial: false}).addTo(map);
   // Add GeoJSON Layer
   $.ajax({
     type: "GET",
