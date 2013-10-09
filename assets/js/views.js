@@ -100,6 +100,7 @@ CaueViews.displayHomePage = function() {
 CaueViews.displayMapPage = function(community, category) {
   // Create base map
   map = new L.Map('map').setView([45, 0.67], 10);
+  map.setMaxBounds([[44,-0.2],[46,1.7]], {animate: true});
   map.attributionControl.setPrefix('Par <a href="http://makina-corpus.com">Makina Corpus</a>');
   // Add Base Layer
   var caueUrl = 'http://82.196.6.196/CAUE24_' + category + '/{z}/{x}/{y}.png';
