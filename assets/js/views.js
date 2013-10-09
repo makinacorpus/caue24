@@ -102,7 +102,11 @@ CaueViews.displayMapPage = function(community, category) {
   map = new L.Map('map').setView([45, 0.67], 10);
   map.attributionControl.setPrefix('Par <a href="http://makina-corpus.com">Makina Corpus</a>');
   // Add Base Layer
-  var caueUrl = 'http://82.196.6.196/CAUE24_' + community + '_' + category + '/{z}/{x}/{y}.png';
+  var caueUrl = 'http://82.196.6.196/CAUE24_' + category + '/{z}/{x}/{y}.png';
+  // Temporary hack, will be removed before production
+  if (category == 'geographie') {
+    caueUrl = 'http://82.196.6.196/CAUE24_9_geographie/{z}/{x}/{y}.png';
+  }
   var caueAttrib = 'Données cartographiques fournies par le <a href="http://www.cauedordogne.com" target="_blank">CAUE24</a>';
   L.tileLayer(caueUrl, {minZoom: 9, maxZoom: 15, attribution: caueAttrib}).addTo(map);
   // Scale
