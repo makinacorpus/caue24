@@ -39,9 +39,26 @@ CaueViews.displayHomePage = function() {
   function highlightFeature(e) {
     var layer = e.target;
     info.update(layer.feature.properties);
+    layer.setStyle({
+      weight: 3,
+      fillOpacity: 0.7,
+    });
+
+    if (!L.Browser.ie && !L.Browser.opera) {
+      layer.bringToFront();
+    }
   }
   function resetHighlight(e) {
     info.update();
+    var layer = e.target;
+    layer.setStyle({
+      weight: 1,
+      fillOpacity: 0.2,
+    });
+
+    if (!L.Browser.ie && !L.Browser.opera) {
+      layer.bringToBack();
+    }
   }
   function onEachFeature(feature, layer) {
     if (feature.properties) {
@@ -60,12 +77,21 @@ CaueViews.displayHomePage = function() {
   // Scale
   L.control.scale({imperial: false}).addTo(map);
   // GeoJSON data layer
+  function style(feature) {
+    return {
+      color: 'black',
+      opacity: 1,
+      weight: 1,
+      fillColor: 'white',
+      fillOpacity: 0.2,
+    };
+  }
   $.ajax({
     type: "GET",
     url: "data/geojson/home.geojson",
     dataType: 'json',
     success: function (response) {
-      var geojsonLayer = L.geoJson(response, {onEachFeature: onEachFeature}).addTo(map);
+      var geojsonLayer = L.geoJson(response, {style: style, onEachFeature: onEachFeature}).addTo(map);
       map.fitBounds(geojsonLayer.getBounds());
     }
   });
