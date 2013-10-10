@@ -113,12 +113,20 @@ CaueViews.displayMapPage = function(community, category) {
   // Scale
   L.control.scale({imperial: false}).addTo(map);
   // Add GeoJSON Layer
+  function onEachFeature(feature, layer) {
+    if (feature.properties) {
+      var properties = feature.properties;
+      layer.on('click', function(e) {
+        CaueViews.clickLayer(e.target, properties.ALTITUDE);
+      });
+    }
+  }
   $.ajax({
     type: "GET",
     url: "data/geojson/" + community + "_" + category + ".geojson",
     dataType: 'json',
     success: function (response) {
-      var geojsonLayer = L.geoJson(response, {pointToLayer: CaueViews.pointToLayer}).addTo(map);
+      var geojsonLayer = L.geoJson(response, {pointToLayer: CaueViews.pointToLayer, onEachFeature: onEachFeature}).addTo(map);
       map.fitBounds(geojsonLayer.getBounds());
     }
   });
@@ -147,8 +155,8 @@ CaueViews.clickLayer = function(layer, id) {
       featureId = layerHash.substring(0, 6);
   // Get page content
   $.ajax({
-    //url: "http://localhost:4000/data/" + featureId + ".html",
-    url: "http://makinacorpus.github.io/caue24/data/test-page.html",
+    //url: "data/" + featureId + ".html",
+    url: "data/test-page.html",
   }).done(function(data) {
       CaueViews.displayData(layer, data, id);
   }).fail(function(jqXHR, textStatus, errorThrown) {
