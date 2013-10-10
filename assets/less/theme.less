@@ -55,20 +55,19 @@
 // --------------------------------------------------
 
 // Nth-child elements loop
-@iterations: 10;
-@index: 0;
+@index: 1;
 
-.loopingClass (@index, @iterations) when (@index < @iterations) {
-  .navbar li:nth-child(@{index}) {
+.chainingDelay(@elements, @index, @iterations) when (@index =< @iterations) {
+  @{elements}:nth-child(@{index}) {
     .transition-delay(@index*100ms);
   }
 
   // next iteration
-  .loopingClass(@index + 1, @iterations);
+  .chainingDelay(@elements, @index + 1, @iterations);
 }
 
 // end the loop when index is 0
-.loopingClass (0, @iterations) {}
+.chainingDelay(0, @iterations) {}
 
 // Transform origin
 .transform-origin (@origin) {
