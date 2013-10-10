@@ -242,11 +242,11 @@ CaueViews.clickLayer = function(layer, id) {
         this.navigate(community + '/' + myCategory, {trigger: true, replace: true});
       }
       // Update links so they point to the right community
+      $('.nav li').removeClass('active');
       $('.nav li').each(function () {
         $('a', this).attr('href', '#' + community + '/' + $(this).attr('class'));
       });
       // Change active category
-      $('.nav li').removeClass('active');
       $('.nav li.' + myCategory).addClass('active');
       // Set category class on body field so everything is correctly themed
       $('body').removeClass().addClass(myCategory);
