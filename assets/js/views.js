@@ -83,7 +83,7 @@ CaueViews.displayHomePage = function() {
       var realCdc = $('.dropdown-menu li:nth-child('+cdc+') a').text();
       this._div.innerHTML = realCdc;
     } else {
-      this._div.innerHTML = 'Survolez une communauté de commune';
+      this._div.innerHTML = 'Survolez une communauté de communes';
     }
   };
 
@@ -175,6 +175,7 @@ CaueViews.displayMapPage = function(community, category) {
     dataType: 'json',
     success: function (response) {
       var geojsonLayer = L.geoJson(response, {pointToLayer: CaueViews.pointToLayer, onEachFeature: onEachFeature}).addTo(map);
+      L.control.layers(null, {"Villes": geojsonLayer}).addTo(map);
       map.fitBounds(geojsonLayer.getBounds());
     }
   });
