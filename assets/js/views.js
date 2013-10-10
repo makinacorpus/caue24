@@ -63,6 +63,7 @@ CaueViews.displayHomePage = function() {
   CaueViews.initMap();
   // Create base map
   map.setView([45.10, 1.57], 9);
+  map.name = "home";
   // Add Base Layer
   var caueUrl = 'http://82.196.6.196/CAUE24/{z}/{x}/{y}.png';
   var caueAttrib = 'Données cartographiques fournies par le <a href="http://www.cauedordogne.com" target="_blank">CAUE24</a>';
@@ -126,6 +127,7 @@ CaueViews.displayHomePage = function() {
       },
     });
   }
+  
   // GeoJSON data layer
   function style(feature) {
     return {
@@ -222,11 +224,12 @@ CaueViews.clickLayer = function(layer, id) {
 
     routes: {
         "":                         "home",
+        "menu":                     "menu",
         ":communaute(/:category)":  "map"
     },
 
     home: function() {
-      $('body').attr('data-page', 'home');
+      $('body').attr('data-state', 'home');
 
       // Reset community select text
       $('button.dropdown-toggle:first').text('Choisissez une communauté de commune');
@@ -235,8 +238,35 @@ CaueViews.clickLayer = function(layer, id) {
       // Nothing else to do
     },
 
+    menu: function() {
+      $('body').attr('data-state', 'menu');
+
+      // If map already exist, don't reload it, just center it.
+      if (map instanceof L.Map) {
+        if (map.name != "home") {
+          map.remove();
+          CaueViews.displayHomePage();
+          map.panTo([45.10, 0.67], {animate: false});
+        } else {
+          map.panTo([45.10, 0.67], {duration: 1});
+        }
+      } else {
+        CaueViews.displayHomePage();
+        map.panTo([45.10, 0.67], {animate: false});
+      }
+    },
+
     map: function(community, category) {
-      $('body').attr('data-page', 'map');
+      // If coming on another page than a map page
+      if ($('body').attr('data-state') != 'map') {
+        // Define page state to map, launching transition 
+        $('body').attr({'data-state':'map', 'data-transition':'transition'});
+
+        $('#map-photos').one(transitionEnd, function() {
+          // Animation finished, remove transition state
+          $('body').attr('data-transition','');
+        });
+      }
 
       // Get community label
       var myCommunity = $('.dropdown-menu').find('a[href="#'+community+'"]').text();
