@@ -9,6 +9,7 @@ CaueViews.addLegend = function(category) {
 
     var div = L.DomUtil.create('div', 'info legend');
     if (category == 'geographie') {
+      div.innerHTML += '<h4>Légende</h4>';
       div.innerHTML += '<i style="background:#EAE2E1"></i>Alluvions<br />';
       div.innerHTML += '<i style="background:#C2B6B3"></i>Terrasses alluviales<br />';
       div.innerHTML += '<i style="background:#FFE595"></i>Altérites et colluvions<br />';
@@ -21,6 +22,7 @@ CaueViews.addLegend = function(category) {
       div.innerHTML += '<i style="background:#F19EB7"></i>Roches métamorphiques du Primaire<br />';
       div.innerHTML += '<i style="background:#DE6EA1"></i>Roches granitiques du Primaire<br />';
     } else if (category == 'urbanisme') {
+      div.innerHTML += '<h4>Légende</h4>';
       div.innerHTML += '<i style="background:#E30613"></i>Zone urbaine<br />';
       div.innerHTML += '<i style="background:#927CB8"></i>Zone activité et loisir<br />';
       div.innerHTML += '<i style="background:#F18700"></i>Zone à aménager<br />';
