@@ -54,7 +54,8 @@ CaueViews.addLegend = function(category) {
 
 CaueViews.pointToLayer = function(featureData, latlng) {
   // Use SVG Markers instead of Leaflet standard ones to allow theming
-  return L.circleMarker(latlng);
+  // Standard radius is 10, let's use a smaller one
+  return L.circleMarker(latlng, {radius: 5});
 };
 
 CaueViews.displayHomePage = function() {
@@ -149,7 +150,6 @@ CaueViews.displayHomePage = function() {
 CaueViews.displayMapPage = function(community, category) {
   // Init map
   CaueViews.initMap(category);
-  // Create base map
   map.setView([45, 0.67], 10);
   map.setMaxBounds([[44,-0.2],[46,1.7]], {animate: true});
   // Add Base Layer
