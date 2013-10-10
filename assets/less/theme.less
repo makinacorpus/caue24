@@ -116,7 +116,7 @@ h1, h2 {
   z-index: 0;
 }
 .leaflet-top {
-  body[data-page="map"] & {
+  body[data-state="map"] & {
     top: 40px;
   }
 }
@@ -216,16 +216,27 @@ html, body {
   position: absolute;
   left: 50%;
   right: 0;
-  top: 30%;
+  top: 20%;
   bottom: 20%;
-  opacity: 0.8;
-  background-color: #7e0516;
+  background-color: rgba(126, 5, 22, 0.8);
   color: #fff;
   text-align: center;
   z-index: 1;
   padding: 20px;
+  min-height: 310px;
   // .transition(all 1s cubic-bezier(0.175, 0.885, 0.320, 1.275));
   .transform-origin (right);
+  .transform(rotateY(-90deg));
+  .backface-visibility(hidden);
+
+  body[data-state="home"] & {
+    .transform(rotateY(0deg));
+  }
+
+  body[data-state="menu"] &, body[data-state="map"] & {
+    .transition(all 0.5s cubic-bezier(0.895, 0.030, 0.685, 0.220));
+  }
+  
 
   h2 {
     text-transform: uppercase;
@@ -238,10 +249,6 @@ html, body {
     text-align: justify;
   }
 
-  body[data-page="map"] & {
-    .transform(translateY(0) rotateY(-90deg));
-    .transition(all 0.5s cubic-bezier(0.895, 0.030, 0.685, 0.220));
-    .backface-visibility(hidden);
   .btn {
     @btn-bg: #ec314c;
     @btn-border: #781b28;
@@ -272,22 +279,50 @@ html, body {
   }
 }
 
-#map-infos,
-#map-photos {
-  width: 50%;
-  height: 150px;
-  display: inline-block;
-  padding: 15px;
+.map-data-container {
+  overflow: hidden;
   position: absolute;
+  height: 0;
+  width: 100%;
   bottom: 60px;
 
-  body[data-page="home"] & {
-    display: none;
+  body[data-state="map"] & {
+    height: 150px;
+  }
+
+  > div {
+    width: 50%;
+    height: 100%;
+    display: block;
+    float: left;
+    padding: 15px;
+    .transform(translateY(100%));
+    .transition(all 300ms);
+
+    body[data-state="map"] & {
+      .transform(translateY(0));
+    }
   }
 }
+
 #map-infos {
   color: #fff;
-  left: 0;
+  .transition-delay(0);
+  
+  body[data-transition="transition"] & {
+    .transition-delay(600ms);
+  }
+
+  h2 {
+    text-transform: uppercase;
+    margin-top: 0;
+    border-bottom: 1px solid #FFF;
+  }
+
+  h3 {
+    color: #000;
+    font-weight: normal;
+  }
 }
 body.portrait #map-infos {
   background-color: @portrait;
@@ -309,7 +344,11 @@ body.atouts #map-infos {
 }
 #map-photos {
   background-color: #fff;
-  right: 0;
+  .transition-delay(200ms);
+
+  body[data-transition="transition"] & {
+    .transition-delay(800ms);
+  }
 }
 #footer {
   width: 100%;
@@ -369,7 +408,6 @@ body.atouts #map-infos {
         background-color: #FFF;
         color: @text-color;
         height: 40px;
-        .transition(box-shadow 250ms);
       }
     }
   }
@@ -381,7 +419,7 @@ body.atouts #map-infos {
     // background-color: #999; cause painting bug
   }
 
-  body[data-page="map"] & {
+  body[data-state="map"] & {
     height: auto;
 
     li {
@@ -492,7 +530,7 @@ body.atouts #map-infos {
   }
 }
 
-.loopingClass (@index, @iterations);
+.chainingDelay(~".navbar li", @index, 10);
 
 .dropdown-toggle:first-child {
   min-width: 300px;
