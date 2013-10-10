@@ -18,6 +18,7 @@
   <body data-state="">
     <div id="wrap" class="container">
       {% include header.html %}
+      <div class="quick-learn">Choisissez une communauté de commune</div>
       <div id="teasing">
         <h2>Un outil qui permet de découvrir le département dans sa diversité architecturale et sa mosaïque de paysages</h2>
         <p>Nous vous invitons à naviguer dans ces albums du territoire par les onglets thématiques dans lesquels vous trouverez un gisement de connaissances. Grâce à une entrée cartographique interactive, vous pourrez comprendre le territoire dans lequel vous vivez ou souhaitez habiter.</p><p>Bonne visite !</p>
@@ -26,8 +27,15 @@
         </p>
       </div>
       <div id="map"></div>
-      <div id="map-infos">Infos additionnelles</div>
-      <div id="map-photos">Photos</div>
+      <div class="map-data-container">
+        <div id="map-infos">
+          <h2>Ambiances</h2>
+          <h3>Un territoire façonné par son sous-sol, son relief et ses rivères</h3>
+          <p>Un territoire façonné par son sous-sol, son relief et ses rivères, Un territoire façonné par son sous-sol, son relief et ses rivères,Un territoire façonné par son sous-sol, son relief et ses rivères.</p>
+          <p>Un territoire façonné par son sous-sol, son relief et ses rivères.</p>
+        </div>
+        <div id="map-photos">Photos</div>
+      </div>
       {{ content }}
       {% include footer.html %}
     </div>
