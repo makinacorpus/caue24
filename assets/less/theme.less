@@ -101,6 +101,10 @@
   perspective: @arguments;
 }
 
+h1, h2 {
+  font-family: "Hero";
+}
+
 // Map
 // --------------------------------------------------
 .leaflet-container {
@@ -239,6 +243,33 @@ html, body {
     .transform(translateY(0) rotateY(-90deg));
     .transition(all 0.5s cubic-bezier(0.895, 0.030, 0.685, 0.220));
     .backface-visibility(hidden);
+  .btn {
+    @btn-bg: #ec314c;
+    @btn-border: #781b28;
+    padding: 7px 30px;
+    background-color: @btn-bg;
+    color: #FFF;
+    font-family: "Hero";
+    font-size: 18px;
+    border: none;
+    border-bottom: 2px solid @btn-border;
+    text-transform: uppercase;
+    padding-top: 0.55em;
+    position: absolute;
+    bottom: 20px;
+    left: 20px;
+
+    &:hover, &:focus {
+      background-color: lighten(@btn-bg, 5%);
+      border-bottom-color: lighten(@btn-border, 5%);
+    }
+
+    &:active {
+      border-bottom: 0;
+      .box-shadow(none);
+      background-color: @btn-bg;
+      border-top: 2px solid lighten(@btn-border, 5%);
+    }
   }
 }
 
