@@ -2,6 +2,23 @@ var CaueViews = {};
 
 var map;
 
+CaueViews.initMap = function(category) {
+  // Remove eventual existing map
+  if (map instanceof L.Map) {
+    map.remove();
+  }
+  // Init new one
+  map = L.map('map');
+  // Attribution
+  map.attributionControl.setPrefix('Par <a href="http://makina-corpus.com">Makina Corpus</a>');
+  // Legend
+  if (category !== null) {
+    CaueViews.addLegend(category);
+  }
+  // Scale
+  L.control.scale({imperial: false}).addTo(map);
+}
+
 CaueViews.addLegend = function(category) {
   var legend = L.control({position: 'bottomright'});
 
@@ -41,9 +58,10 @@ CaueViews.pointToLayer = function(featureData, latlng) {
 };
 
 CaueViews.displayHomePage = function() {
+  // Init map
+  CaueViews.initMap();
   // Create base map
-  map = new L.Map('map').setView([45.10, 1.57], 9);
-  map.attributionControl.setPrefix('Par <a href="http://makina-corpus.com">Makina Corpus</a>');
+  map.setView([45.10, 1.57], 9);
   // Add Base Layer
   var caueUrl = 'http://82.196.6.196/CAUE24/{z}/{x}/{y}.png';
   var caueAttrib = 'Données cartographiques fournies par le <a href="http://www.cauedordogne.com" target="_blank">CAUE24</a>';
@@ -107,8 +125,6 @@ CaueViews.displayHomePage = function() {
       },
     });
   }
-  // Scale
-  L.control.scale({imperial: false}).addTo(map);
   // GeoJSON data layer
   function style(feature) {
     return {
@@ -131,10 +147,11 @@ CaueViews.displayHomePage = function() {
 };
 
 CaueViews.displayMapPage = function(community, category) {
+  // Init map
+  CaueViews.initMap(category);
   // Create base map
-  map = new L.Map('map').setView([45, 0.67], 10);
+  map.setView([45, 0.67], 10);
   map.setMaxBounds([[44,-0.2],[46,1.7]], {animate: true});
-  map.attributionControl.setPrefix('Par <a href="http://makina-corpus.com">Makina Corpus</a>');
   // Add Base Layer
   var caueUrl = 'http://82.196.6.196/CAUE24_' + category + '/{z}/{x}/{y}.png';
   // Temporary hack, will be removed before production
@@ -143,10 +160,6 @@ CaueViews.displayMapPage = function(community, category) {
   }
   var caueAttrib = 'Données cartographiques fournies par le <a href="http://www.cauedordogne.com" target="_blank">CAUE24</a>';
   L.tileLayer(caueUrl, {minZoom: 9, maxZoom: 15, attribution: caueAttrib}).addTo(map);
-  // Scale
-  L.control.scale({imperial: false}).addTo(map);
-  // Legend
-  CaueViews.addLegend(category);
   // Add GeoJSON Layer
   function onEachFeature(feature, layer) {
     if (feature.properties) {
@@ -223,10 +236,6 @@ CaueViews.clickLayer = function(layer, id) {
       // Extend map
       $('#map').css('bottom', '60px');
       $('#map').css('top', '60px');
-      // Remove eventual existing map
-      if (map instanceof L.Map) {
-        map.remove();
-      }
       // Display map
       CaueViews.displayHomePage();
       // Nothing else to do
@@ -261,10 +270,6 @@ CaueViews.clickLayer = function(layer, id) {
       // Reduce map
       $('#map').css('bottom', '210px');
       $('#map').css('top', '100px');
-      // Remove eventual existing map
-      if (map instanceof L.Map) {
-        map.remove();
-      }
       // Display map
       CaueViews.displayMapPage(community, myCategory);
       // Nothing else to do
