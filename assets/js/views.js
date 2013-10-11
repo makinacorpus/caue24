@@ -154,6 +154,7 @@ CaueViews.displayMapPage = function(community, category) {
   CaueViews.initMap(category);
   map.setView([45, 0.67], 10);
   map.setMaxBounds([[44,-0.2],[46,1.7]], {animate: true});
+  map.name = 'map';
   // Add Base Layer
   var caueUrl = 'http://82.196.6.196/CAUE24_' + category + '/{z}/{x}/{y}.png';
   // Temporary hack, will be removed before production
@@ -242,14 +243,8 @@ CaueViews.clickLayer = function(layer, id) {
       $('body').attr('data-state', 'menu');
 
       // If map already exist, don't reload it, just center it.
-      if (map instanceof L.Map) {
-        if (map.name != "home") {
-          map.remove();
-          CaueViews.displayHomePage();
-          map.panTo([45.10, 0.67], {animate: false});
-        } else {
-          map.panTo([45.10, 0.67], {duration: 1});
-        }
+      if (map instanceof L.Map && map.name == "home") {
+        map.panTo([45.10, 0.67], {duration: 1});
       } else {
         CaueViews.displayHomePage();
         map.panTo([45.10, 0.67], {animate: false});
