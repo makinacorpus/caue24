@@ -97,6 +97,24 @@ h1, h2 {
     border-radius: 0;   
   }
 }
+.leaflet-bottom {
+  opacity: 0;
+  .transition(opacity 600ms);
+
+  body[data-transition=""] & {
+    opacity: 1;
+  }
+
+  body[data-state="map"] & {
+    bottom: 150px;
+  }
+}
+.leaflet-container .leaflet-control-attribution {
+  .box-shadow(none);
+}
+.leaflet-control-scale-line {
+  .box-shadow(none);  
+}
 
 #maplist img {
     width: 32px;
