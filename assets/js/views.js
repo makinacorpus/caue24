@@ -271,7 +271,7 @@ CaueViews.clickLayer = function(layer, id) {
       var myCategory = category;
       if (myCategory === null) {
         myCategory = 'portrait';
-        this.navigate(community + '/' + myCategory, {trigger: true, replace: true});
+        this.navigate(community + '/' + myCategory, {replace: true});
       }
       // Update links so they point to the right community
       $('.nav li').removeClass('active');
