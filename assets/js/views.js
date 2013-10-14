@@ -54,9 +54,28 @@ CaueViews.addLegend = function(category) {
   }
 }
 
-CaueViews.addGeoJSONLegend = function(data, layers) {
+CaueViews.getColorFromFeature = function(category, n) {
+  if (n == 1) {
+    switch(category) {
+      // See ../less/theme.less for according colors
+      case 'portrait': return '#ef5259';
+      case 'geographie': return '#2db877';
+      case 'histoire': return '#f1b847';
+      case 'urbanisme': return '#a7d028';
+      case 'architecture': return '#2dcfd5';
+      case 'atouts': return '#7c4bb4';
+    }
+  }
+  // use default for now
+  return '#03f';
+}
+
+CaueViews.addGeoJSONLegend = function(layers, category, data, n) {
+  var style = {
+    "color": CaueViews.getColorFromFeature(category, n),
+  };
   // Add the geojson layer to the map
-  var geojsonLayer = L.geoJson(data, {pointToLayer: CaueViews.pointToLayer, onEachFeature: CaueViews.onEachFeature}).addTo(map);
+  var geojsonLayer = L.geoJson(data, {pointToLayer: CaueViews.pointToLayer, onEachFeature: CaueViews.onEachFeature, style: style}).addTo(map);
   // Add it to the layer switcher
   // TODO: find a name for the layer!
   layers.addOverlay(geojsonLayer, "Villes");
@@ -79,7 +98,7 @@ CaueViews.addGeoJSONs = function(community, category) {
         layers.addTo(map);
       }
       // Handle geojson
-      CaueViews.addGeoJSONLegend(data, layers);
+      CaueViews.addGeoJSONLegend(layers, category, data, n);
       // Eventually load next one
       if (n < 6) {
         loadUrl(baseUrl, n + 1);
