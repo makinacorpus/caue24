@@ -64,7 +64,7 @@ CaueViews.addGeoJSONLegend = function(data, layers) {
 
 CaueViews.addGeoJSONs = function(community, category) {
   // Initiate the layer switcher
-  var layers = L.control.layers();
+  var layers = L.control.layers(null, null, {collapsed: false});
   // Bruteforce method...
   function loadUrl(baseUrl, n) {
     // Get GeoJSON(s) from directory
