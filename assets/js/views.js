@@ -52,6 +52,54 @@ CaueViews.addLegend = function(category) {
   legend.addTo(map);
 }
 
+CaueViews.addGeoJSONLegend = function(data, layers) {
+  // Add the geojson layer to the map
+  var geojsonLayer = L.geoJson(data, {pointToLayer: CaueViews.pointToLayer, onEachFeature: CaueViews.onEachFeature}).addTo(map);
+  // Add it to the layer switcher
+  // TODO: find a name for the layer!
+  layers.addOverlay(geojsonLayer, "Villes");
+  // Should we adjust the bounds of the map ?
+  // map.fitBounds(geojsonLayer.getBounds());
+}
+
+CaueViews.addGeoJSONs = function(community, category) {
+  // Initiate the layer switcher
+  var layers = L.control.layers();
+  // Bruteforce method...
+  function loadUrl(baseUrl, n) {
+    // Get GeoJSON(s) from directory
+    $.ajax({
+      url: baseUrl + "_" + n + ".geojson",
+      dataType: 'json',
+    }).done(function(data) {
+      if (n == 1) {
+        // There is at least 1 geojson => add the layer switcher to the map
+        layers.addTo(map);
+      }
+      // Handle geojson
+      CaueViews.addGeoJSONLegend(data, layers);
+      // Eventually load next one
+      if (n < 6) {
+        loadUrl(baseUrl, n + 1);
+      }
+    }).fail(function(jqXHR, textStatus, errorThrown) {
+      // Nothing to do, the loop will just stop
+    });
+  }
+
+  var url = "data/geojson/" + community + "_" + category;
+  loadUrl(url, 1);
+}
+
+CaueViews.onEachFeature = function (feature, layer) {
+    if (feature.properties) {
+      var properties = feature.properties;
+      layer.on('click', function(e) {
+        CaueViews.clickLayer(e.target, properties.ALTITUDE);
+      });
+    }
+  }
+
 CaueViews.pointToLayer = function(featureData, latlng) {
   // Use SVG Markers instead of Leaflet standard ones to allow theming
   // Standard radius is 10, let's use a smaller one
@@ -164,25 +212,8 @@ CaueViews.displayMapPage = function(community, category) {
   }
   var caueAttrib = 'Données cartographiques fournies par le <a href="http://www.cauedordogne.com" target="_blank">CAUE24</a>';
   L.tileLayer(caueUrl, {minZoom: 9, maxZoom: 15, attribution: caueAttrib}).addTo(map);
-  // Add GeoJSON Layer
-  function onEachFeature(feature, layer) {
-    if (feature.properties) {
-      var properties = feature.properties;
-      layer.on('click', function(e) {
-        CaueViews.clickLayer(e.target, properties.ALTITUDE);
-      });
-    }
-  }
-  $.ajax({
-    type: "GET",
-    url: "data/geojson/" + community + "_" + category + ".geojson",
-    dataType: 'json',
-    success: function (response) {
-      var geojsonLayer = L.geoJson(response, {pointToLayer: CaueViews.pointToLayer, onEachFeature: onEachFeature}).addTo(map);
-      L.control.layers(null, {"Villes": geojsonLayer}).addTo(map);
-      map.fitBounds(geojsonLayer.getBounds());
-    }
-  });
+  // Add GeoJSON Layers
+  CaueViews.addGeoJSONs(community, category);
 };
 
 CaueViews.displayData = function(layer, rawHtml, id) {
