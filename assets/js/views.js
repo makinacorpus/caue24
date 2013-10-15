@@ -153,7 +153,7 @@ CaueViews.displayHomePage = function() {
       var realCdc = $('.dropdown-menu li:nth-child('+cdc+') a').text();
       this._div.innerHTML = realCdc;
     } else {
-      this._div.innerHTML = 'Survolez une communauté de communes';
+      this._div.innerHTML = 'Survolez un territoire';
     }
   };
 
@@ -286,7 +286,7 @@ CaueViews.clickLayer = function(layer, id) {
       $('body').attr('data-state', 'home');
 
       // Reset community select text
-      $('button.dropdown-toggle:first').text('Choisissez une communauté de commune');
+      $('button.dropdown-toggle:first').text('Choisissez un territoire');
       // Display map
       CaueViews.displayHomePage();
       // Nothing else to do
