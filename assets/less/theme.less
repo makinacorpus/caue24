@@ -81,7 +81,7 @@ h1, h2 {
   background-color: #fff;
   position: absolute;
   top: 60px;
-  bottom: 60px;
+  bottom: 40px;
   z-index: 0;
 }
 .leaflet-top {
@@ -106,7 +106,7 @@ h1, h2 {
   }
 
   body[data-state="map"] & {
-    bottom: 150px;
+    bottom: 130px;
   }
 }
 .leaflet-container .leaflet-control-attribution {
@@ -273,10 +273,10 @@ html, body {
   position: absolute;
   height: 0;
   width: 100%;
-  bottom: 60px;
+  bottom: 40px;
 
   body[data-state="map"] & {
-    height: 150px;
+    height: 130px;
   }
 
   > div {
@@ -296,6 +296,7 @@ html, body {
 
 #map-infos {
   color: #fff;
+  overflow: auto;
   .transition-delay(0);
   
   body[data-transition="transition"] & {
@@ -343,24 +344,23 @@ body.atouts #map-infos {
   width: 100%;
   position: absolute;
   bottom: 0;
-  height: 60px;
+  height: 40px;
   background-color: @gray-lighter;
   padding-left: 15px;
 
   .address {
     display: inline-block;
     vertical-align: middle;
-    padding: 10px;
+    padding: 0px 10px;
   }
 }
 #logos {
   list-style: none;
   margin: 0;
-  padding-top: 6px;
 
   li {
     float: left;
-    padding: 5px 15px;
+    padding: 0px 15px;
   }
 }
 

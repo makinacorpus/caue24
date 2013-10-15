@@ -215,7 +215,7 @@ CaueViews.displayMapPage = function(community, category) {
   CaueViews.initMap(category);
   map.setView([45, 0.67], 10);
   map.setMaxBounds([[44,-0.2],[46,1.7]], {animate: true});
-  map.fitBounds(map.getBounds(), {paddingTopLeft:[0, 40], paddingBottomRight:[0, 150]});
+  map.fitBounds(map.getBounds(), {paddingTopLeft:[0, 40], paddingBottomRight:[0, 130]});
   map.name = 'map';
   // Add Base Layer
   var caueUrl = 'http://82.196.6.196/CAUE24_' + category + '/{z}/{x}/{y}.png';

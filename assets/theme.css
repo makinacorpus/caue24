@@ -2499,7 +2499,7 @@ h2 {
   background-color: #fff;
   position: absolute;
   top: 60px;
-  bottom: 60px;
+  bottom: 40px;
   z-index: 0;
 }
 body[data-state="map"] .leaflet-top {
@@ -2524,7 +2524,7 @@ body[data-transition=""] .leaflet-bottom {
   opacity: 1;
 }
 body[data-state="map"] .leaflet-bottom {
-  bottom: 150px;
+  bottom: 130px;
 }
 .leaflet-container .leaflet-control-attribution {
   -webkit-box-shadow: none;
@@ -2708,10 +2708,10 @@ body[data-state="map"] #teasing {
   position: absolute;
   height: 0;
   width: 100%;
-  bottom: 60px;
+  bottom: 40px;
 }
 body[data-state="map"] .map-data-container {
-  height: 150px;
+  height: 130px;
 }
 .map-data-container > div {
   width: 50%;
@@ -2739,6 +2739,7 @@ body[data-state="map"] .map-data-container > div {
 }
 #map-infos {
   color: #fff;
+  overflow: auto;
   -webkit-transition-delay: 0;
   -moz-transition-delay: 0;
   -o-transition-delay: 0;
@@ -2794,23 +2795,22 @@ body[data-transition="transition"] #map-photos {
   width: 100%;
   position: absolute;
   bottom: 0;
-  height: 60px;
+  height: 40px;
   background-color: #eeeeee;
   padding-left: 15px;
 }
 #footer .address {
   display: inline-block;
   vertical-align: middle;
-  padding: 10px;
+  padding: 0px 10px;
 }
 #logos {
   list-style: none;
   margin: 0;
-  padding-top: 6px;
 }
 #logos li {
   float: left;
-  padding: 5px 15px;
+  padding: 0px 15px;
 }
 .btn {
   border-radius: 0;
