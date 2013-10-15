@@ -2781,6 +2781,7 @@ body.atouts #map-infos {
 #map-photos {
   width: 60%;
   background-color: #fff;
+  overflow: auto;
   -webkit-transition-delay: 200ms;
   -moz-transition-delay: 200ms;
   -o-transition-delay: 200ms;
