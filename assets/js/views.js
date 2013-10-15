@@ -127,6 +127,17 @@ CaueViews.pointToLayer = function(featureData, latlng) {
   return L.circleMarker(latlng, {radius: 5});
 };
 
+// Function that we will use to update the control based on feature properties passed
+CaueViews.updateInfo = function (props) {
+  if (props) {
+    var cdc = props.TYPOLOGIE2.toFixed();
+    var realCdc = $('.dropdown-menu li:nth-child('+cdc+') a').text();
+    $('button.dropdown-toggle:first').text(realCdc);
+  } else {
+    $('button.dropdown-toggle:first').text('Choisissez un territoire');
+  }
+};
+
 CaueViews.displayHomePage = function() {
   // Init map
   CaueViews.initMap();
@@ -137,30 +148,11 @@ CaueViews.displayHomePage = function() {
   var caueUrl = 'http://82.196.6.196/CAUE24/{z}/{x}/{y}.png';
   var caueAttrib = 'Données cartographiques fournies par le <a href="http://www.cauedordogne.com" target="_blank">CAUE24</a>';
   L.tileLayer(caueUrl, {minZoom: 8, maxZoom: 11, attribution: caueAttrib}).addTo(map);
+
   // Add GeoJSON Layer
-  var info = L.control();
-
-  info.onAdd = function (map) {
-    this._div = L.DomUtil.create('div', 'info'); // create a div with a class "info"
-    this.update();
-    return this._div;
-  };
-
-  // method that we will use to update the control based on feature properties passed
-  info.update = function (props) {
-    if (props) {
-      var cdc = props.TYPOLOGIE2.toFixed();
-      var realCdc = $('.dropdown-menu li:nth-child('+cdc+') a').text();
-      this._div.innerHTML = realCdc;
-    } else {
-      this._div.innerHTML = 'Survolez un territoire';
-    }
-  };
-
-  info.addTo(map);
   function highlightFeature(e) {
     var layer = e.target;
-    info.update(layer.feature.properties);
+    CaueViews.updateInfo(layer.feature.properties);
     layer.setStyle({
       weight: 3,
       fillOpacity: 0.7,
@@ -171,7 +163,7 @@ CaueViews.displayHomePage = function() {
     }
   }
   function resetHighlight(e) {
-    info.update();
+    CaueViews.updateInfo();
     var layer = e.target;
     layer.setStyle({
       weight: 1,
@@ -284,9 +276,6 @@ CaueViews.clickLayer = function(layer, id) {
 
     home: function() {
       $('body').attr('data-state', 'home');
-
-      // Reset community select text
-      $('button.dropdown-toggle:first').text('Choisissez un territoire');
       // Display map
       CaueViews.displayHomePage();
       // Nothing else to do
