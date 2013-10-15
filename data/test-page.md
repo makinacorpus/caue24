@@ -1,12 +1,19 @@
 ---
 layout: page
 title: Test Simon
-popuptitle: Titre popup (changé via Prose)
-popupcontent: Gardons ce texte
-additionaltext: Test 1
 published: true
 ---
 
-On verra quoi faire de ce texte ensuite...
+## Titre de la popup
+Titre de la popup
 
-![](/data/images/9/architecture/CRO_MAGNON_P14_03.jpg)
+## Contenu de la popup
+Contenu de la popup
+
+## Contenu additionnel de gauche
+#### Yeah !!
+C est vraiment cool
+
+## Contenu additionnel de droite
+On verra quoi faire de ce texte ensuite...
+![Cro-magnon](/data/images/9/architecture/CRO_MAGNON_P14_01.jpg)

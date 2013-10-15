@@ -232,14 +232,20 @@ CaueViews.displayMapPage = function(community, category) {
 CaueViews.displayData = function(layer, rawHtml, id) {
   var dom$ = $(rawHtml);
   // Parse data
+  var popupTitle = dom$.find('#titre_de_la_popup').nextUntil('h2').html();
+  var popupContent = dom$.find('#contenu_de_la_popup').nextUntil('h2').html();
+  var additionalText = dom$.find('#contenu_additionnel_de_gauche').nextUntil('h2').html();
+  var photos = dom$.find('#contenu_additionnel_de_droite').nextUntil('h2').html();
+  /*
   var popupTitle = dom$.find('.popuptitle').text();
   var popupContent = dom$.find('.popupcontent').text();
   var additionalText = dom$.find('.additionaltext').text();
   var photos = dom$.find('.images').text();
+  */
   // Raise events
-  layer.bindPopup('<h2>'+ id + ': ' + popupTitle +'</h2>' + popupContent).openPopup();
-  $('#map-infos').html(id + ': ' + additionalText);
-  $('#map-photos').html(id + ': ' + photos);
+  layer.bindPopup('<h2>'+ popupTitle +'</h2>' + popupContent).openPopup();
+  $('#map-infos').html(additionalText);
+  $('#map-photos').html(photos);
 };
 
 CaueViews.displayError = function(featureId) {

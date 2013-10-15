@@ -22,15 +22,3 @@ prose:
         field:
           element: "hidden"
           value: "page"
-      - name: "popuptitle"
-        field:
-          element: "text"
-          label: "Titre de la popup"
-      - name: "popupcontent"
-        field:
-          element: "textarea"
-          label: "Texte de la popup"
-      - name: "additionaltext"
-        field:
-          element: "textarea"
-          label: "Texte additionnel"
