@@ -157,6 +157,7 @@ html, body {
 #wrap {
   width: 100%;
   height: 100%;
+  overflow: hidden;
   .perspective(800px);
   .perspective-origin(right);
 }
@@ -273,10 +274,15 @@ html, body {
   position: absolute;
   height: 0;
   width: 100%;
-  bottom: 30px;
+  bottom: -40%;
+  .transition(all 300ms);
+
+  &:hover {
+    bottom: 30px;
+  }
 
   body[data-state="map"] & {
-    height: 120px;
+    height: 60%;
   }
 
   > div {
@@ -284,12 +290,12 @@ html, body {
     display: block;
     float: left;
     padding: 15px;
-    .transform(translateY(100%));
-    .transition(all 300ms);
+    // .transform(translateY(100%));
+    // .transition(all 300ms);
 
-    body[data-state="map"] & {
-      .transform(translateY(0));
-    }
+    // body[data-state="map"] & {
+    //   .transform(translateY(0));
+    // }
   }
 }
 
