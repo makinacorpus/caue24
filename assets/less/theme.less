@@ -476,31 +476,43 @@ body.atouts #map-infos {
   }
 
   li.portrait {
+    border-bottom: 2px solid @portrait;
+
     &.active > a, a:hover, a:focus, a:active {
       background-color: @portrait;
     }
   }
   li.geographie {
+    border-bottom: 2px solid @geographie;
+    
     &.active > a, a:hover, a:focus, a:active {
       background-color: @geographie;
     }
   }
   li.histoire {
+    border-bottom: 2px solid @histoire;
+    
     &.active > a, a:hover, a:focus, a:active {
       background-color: @histoire;
     }
   }
   li.urbanisme {
+    border-bottom: 2px solid @urbanisme;
+    
     &.active > a, a:hover, a:focus, a:active {
       background-color: @urbanisme;
     }
   }
   li.architecture {
+    border-bottom: 2px solid @architecture;
+    
     &.active > a, a:hover, a:focus, a:active {
       background-color: @architecture;
     }
   }
   li.atouts {
+    border-bottom: 2px solid @atouts;
+    
     &.active > a, a:hover, a:focus, a:active {
       background-color: @atouts;
     }
@@ -521,10 +533,6 @@ body.atouts #map-infos {
     & .sprite_architecture{ background-position: 0 -69px; }
     & .sprite_atouts{ background-position: 0 -209px; }
   }
-}
-
-.nav-tabs.nav-justified {
-  border-bottom: 1px solid @gray-lightest;
 }
 
 .chainingDelay(~".navbar li", @index, 10);
