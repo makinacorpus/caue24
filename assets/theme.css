@@ -2577,11 +2577,17 @@ body[data-state="map"] .navbar li {
 .nav-tabs li:first-child {
   border: 0 none;
 }
+.nav-tabs li.portrait {
+  border-bottom: 2px solid #ef5259;
+}
 .nav-tabs li.portrait.active > a,
 .nav-tabs li.portrait a:hover,
 .nav-tabs li.portrait a:focus,
 .nav-tabs li.portrait a:active {
   background-color: #ef5259;
+}
+.nav-tabs li.geographie {
+  border-bottom: 2px solid #2db877;
 }
 .nav-tabs li.geographie.active > a,
 .nav-tabs li.geographie a:hover,
@@ -2589,11 +2595,17 @@ body[data-state="map"] .navbar li {
 .nav-tabs li.geographie a:active {
   background-color: #2db877;
 }
+.nav-tabs li.histoire {
+  border-bottom: 2px solid #f1b847;
+}
 .nav-tabs li.histoire.active > a,
 .nav-tabs li.histoire a:hover,
 .nav-tabs li.histoire a:focus,
 .nav-tabs li.histoire a:active {
   background-color: #f1b847;
+}
+.nav-tabs li.urbanisme {
+  border-bottom: 2px solid #a7d028;
 }
 .nav-tabs li.urbanisme.active > a,
 .nav-tabs li.urbanisme a:hover,
@@ -2601,11 +2613,17 @@ body[data-state="map"] .navbar li {
 .nav-tabs li.urbanisme a:active {
   background-color: #a7d028;
 }
+.nav-tabs li.architecture {
+  border-bottom: 2px solid #2dcfd5;
+}
 .nav-tabs li.architecture.active > a,
 .nav-tabs li.architecture a:hover,
 .nav-tabs li.architecture a:focus,
 .nav-tabs li.architecture a:active {
   background-color: #2dcfd5;
+}
+.nav-tabs li.atouts {
+  border-bottom: 2px solid #7c4bb4;
 }
 .nav-tabs li.atouts.active > a,
 .nav-tabs li.atouts a:hover,
@@ -2679,9 +2697,6 @@ body[data-state="map"] .navbar li {
 .nav-tabs a:active .sprite_atouts,
 .nav-tabs .active .sprite_atouts {
   background-position: 0 -209px;
-}
-.nav-tabs.nav-justified {
-  border-bottom: 1px solid #f5f5f7;
 }
 .navbar li:nth-child(1) {
   -webkit-transition-delay: 100ms;
