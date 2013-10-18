@@ -145,7 +145,7 @@ CaueViews.displayHomePage = function() {
   map.setView([45.10, 1.57], 9);
   map.name = "home";
   // Add Base Layer
-  var caueUrl = 'http://82.196.6.196/CAUE24/{z}/{x}/{y}.png';
+  var caueUrl = 'http://82.196.6.196/makina/CAUE24/{z}/{x}/{y}.png';
   var caueAttrib = 'Données cartographiques fournies par le <a href="http://www.cauedordogne.com" target="_blank">CAUE24</a>';
   L.tileLayer(caueUrl, {minZoom: 8, maxZoom: 11, attribution: caueAttrib}).addTo(map);
 
@@ -218,10 +218,10 @@ CaueViews.displayMapPage = function(community, category) {
   map.fitBounds(map.getBounds(), {paddingTopLeft:[0, 40], paddingBottomRight:[0, 130]});
   map.name = 'map';
   // Add Base Layer
-  var caueUrl = 'http://82.196.6.196/CAUE24_' + category + '/{z}/{x}/{y}.png';
+  var caueUrl = 'http://82.196.6.196/makina/CAUE24_' + category + '/{z}/{x}/{y}.png';
   // Temporary hack, will be removed before production
   if (category == 'geographie') {
-    caueUrl = 'http://82.196.6.196/CAUE24_9_geographie/{z}/{x}/{y}.png';
+    caueUrl = 'http://82.196.6.196/makina/CAUE24_9_geographie/{z}/{x}/{y}.png';
   }
   var caueAttrib = 'Données cartographiques fournies par le <a href="http://www.cauedordogne.com" target="_blank">CAUE24</a>';
   L.tileLayer(caueUrl, {minZoom: 9, maxZoom: 15, attribution: caueAttrib}).addTo(map);
