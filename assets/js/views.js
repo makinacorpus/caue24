@@ -118,6 +118,9 @@ CaueViews.onEachFeature = function (feature, layer) {
       layer.on('click', function(e) {
         CaueViews.clickLayer(e.target, properties.ALTITUDE);
       });
+      layer.on('mouseintent', function(e) {
+        CaueViews.clickLayer(e.target, properties.ALTITUDE);
+      });
     }
   }
 
