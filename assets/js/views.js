@@ -236,12 +236,6 @@ CaueViews.displayData = function(layer, rawHtml, id) {
   var popupContent = dom$.find('#contenu_de_la_popup').nextUntil('h2').html();
   var additionalText = dom$.find('#contenu_additionnel_de_gauche').nextUntil('h2').html();
   var photos = dom$.find('#contenu_additionnel_de_droite').nextUntil('h2').html();
-  /*
-  var popupTitle = dom$.find('.popuptitle').text();
-  var popupContent = dom$.find('.popupcontent').text();
-  var additionalText = dom$.find('.additionaltext').text();
-  var photos = dom$.find('.images').text();
-  */
   // Raise events
   layer.bindPopup('<h2>'+ popupTitle +'</h2>' + popupContent).openPopup();
   $('#map-infos').html(additionalText);
