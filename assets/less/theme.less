@@ -16,6 +16,7 @@
 @import "../bootstrap/less/buttons.less";
 @import "../bootstrap/less/button-groups.less";
 @import "../bootstrap/less/dropdowns.less";
+@import "../bootstrap/less/carousel.less";
 
 // Mixins for LESS http://lesshat.com/
 @import "../lesshat/lesshat.less";
@@ -336,10 +337,40 @@ body.atouts #map-infos {
   width: 60%;
   background-color: #fff;
   overflow: auto;
+  padding: 0;
   .transition-delay(200ms);
 
   body[data-transition="transition"] & {
     .transition-delay(800ms);
+  }
+
+  ul {
+    padding: 0;
+    margin: 0;
+    list-style: none;
+    height: 100%;
+  }
+
+  .item {
+
+  }
+
+  a {
+    display: block;
+  }
+
+  img {
+    height: 120px;
+    width: auto;
+  }
+
+  .carousel-inner {
+    white-space: nowrap;
+  }
+
+  .carousel-inner > .item {
+    display: inline-block;
+    vertical-align: top;
   }
 }
 #footer {

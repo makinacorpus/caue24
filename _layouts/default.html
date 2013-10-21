@@ -34,7 +34,42 @@
           <p>Un territoire façonné par son sous-sol, son relief et ses rivères, Un territoire façonné par son sous-sol, son relief et ses rivères,Un territoire façonné par son sous-sol, son relief et ses rivères.</p>
           <p>Un territoire façonné par son sous-sol, son relief et ses rivères.</p>
         </div>
-        <div id="map-photos">Photos</div>
+        <div id="map-photos" class="carousel slide">
+          <ol class="carousel-indicators">
+            <li data-target="#map-photos" data-slide-to="0" class="active"></li>
+            <li data-target="#map-photos" data-slide-to="1"></li>
+            <li data-target="#map-photos" data-slide-to="2"></li>
+            <li data-target="#map-photos" data-slide-to="3"></li>
+            <li data-target="#map-photos" data-slide-to="4"></li>
+          </ol>
+
+          <!-- Wrapper for slides -->
+          <div class="carousel-inner">
+            <div class="item active">
+              <a class="gallery" href="/data/images/9/architecture/CRO_MAGNON_P14_01.jpg"><img src="/data/images/9/architecture/CRO_MAGNON_P14_01.jpg" width="212" height="120" /></a>
+            </div>
+            <div class="item">
+              <a class="gallery" href="/data/images/9/architecture/CRO_MAGNON_P14_01.jpg"><img src="/data/images/9/architecture/CRO_MAGNON_P14_01.jpg" width="212" height="120" /></a>
+            </div>
+            <div class="item">
+              <a class="gallery" href="/data/images/9/architecture/CRO_MAGNON_P14_01.jpg"><img src="/data/images/9/architecture/CRO_MAGNON_P14_01.jpg" width="212" height="120" /></a>
+            </div>
+            <div class="item">
+              <a class="gallery" href="/data/images/9/architecture/CRO_MAGNON_P14_01.jpg"><img src="/data/images/9/architecture/CRO_MAGNON_P14_01.jpg" width="212" height="120" /></a>
+            </div>
+            <div class="item">
+              <a class="gallery" href="/data/images/9/architecture/CRO_MAGNON_P14_01.jpg"><img src="/data/images/9/architecture/CRO_MAGNON_P14_01.jpg" width="212" height="120" /></a>
+            </div>
+          </div>
+
+          <!-- Controls -->
+          <a class="left carousel-control" href="#map-photos" data-slide="prev">
+            <span class="icon-prev"></span>
+          </a>
+          <a class="right carousel-control" href="#map-photos" data-slide="next">
+            <span class="icon-next"></span>
+          </a>
+        </div>
       </div>
       {{ content }}
       {% include footer.html %}
@@ -49,6 +84,8 @@
     <script src="//cdnjs.cloudflare.com/ajax/libs/backbone.js/1.0.0/backbone-min.js"></script>
     <!-- Bootstrap -->
     <script src="assets/bootstrap/js/dropdown.js"></script>
+    <script src="assets/bootstrap/js/transition.js"></script>
+    <script src="assets/bootstrap/js/carousel.js"></script>
     <!-- CAUE -->
     <script src="assets/js/leaflet.overintent.js"></script>
     <script src="assets/js/leaflet.utils.js"></script>
