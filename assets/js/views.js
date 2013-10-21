@@ -71,16 +71,37 @@ CaueViews.getColorFromFeature = function(category, n) {
 }
 
 CaueViews.addGeoJSONLegend = function(layers, category, data, n) {
+  // Layer name
+  var name = data.name || 'Sans nom';
+  // Layer color
+  var color = data.color || CaueViews.getColorFromFeature(category, n);
+  // Initial layer status
+  var active = data.active || "false";
+  // Layer text information property
+  var displayText = data.displayText;
   var style = {
-    "color": CaueViews.getColorFromFeature(category, n),
+    "color": color,
   };
   // Add the geojson layer to the map
-  var geojsonLayer = L.geoJson(data, {pointToLayer: CaueViews.pointToLayer, onEachFeature: CaueViews.onEachFeature, style: style}).addTo(map);
+  var geojsonLayer = L.geoJson(data, {pointToLayer: CaueViews.pointToLayer, onEachFeature: CaueViews.onEachFeature, style: style});
+  if (active == "true") {
+    geojsonLayer.addTo(map);
+  }
   // Add it to the layer switcher
   // TODO: find a name for the layer!
-  layers.addOverlay(geojsonLayer, "Villes");
+  layers.addOverlay(geojsonLayer, name);
   // Should we adjust the bounds of the map ?
   // map.fitBounds(geojsonLayer.getBounds());
+}
+
+CaueViews.addInitTexts = function(community, category) {
+  $.ajax({
+    url: "data/territoires/" + community + "/" + category + ".html",
+  }).done(function(data) {
+      CaueViews.displayData(layer, data, id);
+  }).fail(function(jqXHR, textStatus, errorThrown) {
+    $('#map-infos').html("Créez un contenu pour cet élement en allant sur <a href='http://prose.io/#makinacorpus/caue24/new/gh-pages/data/territoires/" + community + "/" + category + ".md'>cette page</a>.");
+  });
 }
 
 CaueViews.addGeoJSONs = function(community, category) {
@@ -245,22 +266,17 @@ CaueViews.displayData = function(layer, rawHtml, id) {
   $('#map-photos').html(photos);
 };
 
-CaueViews.displayError = function(featureId) {
-  $('#map-photos').html("Créez un contenu pour cet élement en allant sur <a href='http://prose.io/#makinacorpus/caue24/new/gh-pages/data/" + featureId + ".md'>cette page</a>.");
-};
-
 CaueViews.clickLayer = function(layer, id) {
   // Get id Jekyll page
   var layerHash = L.Util.hash(layer),
       featureId = layerHash.substring(0, 6);
   // Get page content
   $.ajax({
-    //url: "data/" + featureId + ".html",
-    url: "data/test-page.html",
+    url: "data/features/" + featureId + ".html",
   }).done(function(data) {
       CaueViews.displayData(layer, data, id);
   }).fail(function(jqXHR, textStatus, errorThrown) {
-      CaueViews.displayError(featureId);
+    $('#map-infos').html("Créez un contenu pour cet élement en allant sur <a href='http://prose.io/#makinacorpus/caue24/new/gh-pages/data/features/" + featureId + ".md'>cette page</a>.");
   });
 };
 
