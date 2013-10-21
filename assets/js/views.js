@@ -108,6 +108,14 @@ CaueViews.addInitTexts = function(community, category) {
 CaueViews.addGeoJSONs = function(community, category) {
   // Initiate the layer switcher
   var layers = L.control.layers(null, null, {collapsed: false});
+  // Add WMS
+  var photo = L.tileLayer.wms("http://ids.pigma.org/geoserver/wms", {
+    layers: 'ign_r:BDOrtho40cm_2009_aqui_blanc_transparent',
+    format: 'image/png',
+    transparent: true,
+    attribution: "Données cartographiques fournies par le CAUE24"
+  });
+  layers.addOverlay(photo, "photo");
   // Bruteforce method...
   function loadUrl(baseUrl, n) {
     // Get GeoJSON(s) from directory
