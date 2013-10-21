@@ -2350,10 +2350,15 @@ body[data-state="map"] .leaflet-top {
   top: 40px;
 }
 .leaflet-bar {
-  box-shadow: 0 0px 1px rgba(0, 0, 0, 0.65);
+  box-shadow: none;
+  border: 1px solid #ccc;
   border-radius: 0;
 }
 .leaflet-bar a {
+  border-radius: 0;
+}
+.leaflet-bar a:last-child,
+.leaflet-bar a:first-child {
   border-radius: 0;
 }
 .leaflet-bottom {
@@ -2380,6 +2385,19 @@ body[data-state="map"] .leaflet-bottom {
   -moz-box-shadow: none;
   box-shadow: none;
 }
+.leaflet-control-layers {
+  -webkit-box-shadow: none;
+  -moz-box-shadow: none;
+  box-shadow: none;
+  border-radius: 0;
+  background: rgba(255, 255, 255, 0.8);
+}
+.leaflet-control-layers-overlays label:last-child {
+  margin-bottom: 0;
+}
+.leaflet-popup-content-wrapper {
+  border-radius: 0;
+}
 #maplist img {
   width: 32px;
 }
@@ -2388,7 +2406,6 @@ body[data-state="map"] .leaflet-bottom {
   font: 14px/16px Arial, Helvetica, sans-serif;
   background: white;
   background: rgba(255, 255, 255, 0.8);
-  box-shadow: 0 0 15px rgba(0, 0, 0, 0.2);
 }
 .info h4 {
   margin: -6px -8px 0 -8px;
@@ -2618,6 +2635,7 @@ body.atouts #map-infos {
   width: 60%;
   background-color: #fff;
   overflow: auto;
+  padding: 0;
   -webkit-transition-delay: 200ms;
   -moz-transition-delay: 200ms;
   -o-transition-delay: 200ms;
