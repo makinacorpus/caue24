@@ -16,4 +16,4 @@ C est vraiment cool
 
 ## Contenu additionnel de droite
 On verra quoi faire de ce texte ensuite...
-![Cro-magnon](/data/images/9/architecture/CRO_MAGNON_P14_01.jpg)
+![Cro-magnon](data/images/9/architecture/CRO_MAGNON_P14_01.jpg)
