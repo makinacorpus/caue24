@@ -81,6 +81,7 @@ CaueViews.addGeoJSONLegend = function(layers, category, data, n) {
   var displayText = data.displayText;
   var style = {
     "color": color,
+    "weight": 1,
   };
   // Add the geojson layer to the map
   var geojsonLayer = L.geoJson(data, {pointToLayer: CaueViews.pointToLayer, onEachFeature: CaueViews.onEachFeature, style: style});
