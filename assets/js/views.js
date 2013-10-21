@@ -148,9 +148,9 @@ CaueViews.displayHomePage = function() {
   map.setView([45.10, 1.57], 9);
   map.name = "home";
   // Add Base Layer
-  var caueUrl = 'http://82.196.6.196/makina/CAUE24/{z}/{x}/{y}.png';
+  var caueUrl = 'http://{s}.livembtiles.makina-corpus.net/caue24/CAUE/{z}/{x}/{y}.png';
   var caueAttrib = 'Données cartographiques fournies par le <a href="http://www.cauedordogne.com" target="_blank">CAUE24</a>';
-  L.tileLayer(caueUrl, {minZoom: 8, maxZoom: 11, attribution: caueAttrib}).addTo(map);
+  L.tileLayer(caueUrl, {minZoom: 8, maxZoom: 11, attribution: caueAttrib, subDomains: 'abcdefgh'}).addTo(map);
 
   // Add GeoJSON Layer
   function highlightFeature(e) {
