@@ -91,11 +91,16 @@ h1, h2 {
   }
 }
 .leaflet-bar {
-  box-shadow: 0 0px 1px rgba(0,0,0,0.65);
+  box-shadow: none;
+  border: 1px solid #ccc;
   border-radius: 0;
 
   a {
-    border-radius: 0;   
+    border-radius: 0;
+
+    &:last-child, &:first-child {
+      border-radius: 0;      
+    }
   }
 }
 .leaflet-bottom {
@@ -116,6 +121,19 @@ h1, h2 {
 .leaflet-control-scale-line {
   .box-shadow(none);  
 }
+.leaflet-control-layers {
+  .box-shadow(none);
+  border-radius: 0;
+  background: rgba(255, 255, 255, 0.8);
+}
+.leaflet-control-layers-overlays {
+  label:last-child {
+    margin-bottom: 0;
+  }
+}
+.leaflet-popup-content-wrapper {
+  border-radius: 0;
+}
 
 #maplist img {
     width: 32px;
@@ -125,7 +143,6 @@ h1, h2 {
   font: 14px/16px Arial, Helvetica, sans-serif;
   background: white;
   background: rgba(255,255,255,0.8);
-  box-shadow: 0 0 15px rgba(0,0,0,0.2);
 
   h4 {
     margin: -6px -8px 0 -8px;
@@ -515,35 +532,35 @@ body.atouts #map-infos {
   }
   li.geographie {
     border-bottom: 2px solid @geographie;
-    
+
     &.active > a, a:hover, a:focus, a:active {
       background-color: @geographie;
     }
   }
   li.histoire {
     border-bottom: 2px solid @histoire;
-    
+
     &.active > a, a:hover, a:focus, a:active {
       background-color: @histoire;
     }
   }
   li.urbanisme {
     border-bottom: 2px solid @urbanisme;
-    
+
     &.active > a, a:hover, a:focus, a:active {
       background-color: @urbanisme;
     }
   }
   li.architecture {
     border-bottom: 2px solid @architecture;
-    
+
     &.active > a, a:hover, a:focus, a:active {
       background-color: @architecture;
     }
   }
   li.atouts {
     border-bottom: 2px solid @atouts;
-    
+
     &.active > a, a:hover, a:focus, a:active {
       background-color: @atouts;
     }
