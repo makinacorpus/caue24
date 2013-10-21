@@ -2612,12 +2612,12 @@ body[data-transition="transition"] #map-infos {
   -o-transition-delay: 600ms;
   transition-delay: 600ms;
 }
-#map-infos h2 {
+#map-infos h3 {
   text-transform: uppercase;
   margin-top: 0;
   border-bottom: 1px solid #FFF;
 }
-#map-infos h3 {
+#map-infos h4 {
   color: #000;
   font-weight: normal;
 }
@@ -2674,6 +2674,17 @@ body[data-transition="transition"] #map-photos {
 #map-photos .carousel-inner > .item {
   display: inline-block;
   vertical-align: top;
+}
+#map-modal {
+  display: none;
+  position: absolute;
+  opacity: 0.8;
+  top: 110px;
+  left: 160px;
+  right: 160px;
+  bottom: 160px;
+  text-align: center;
+  background: #fff;
 }
 #footer {
   width: 100%;

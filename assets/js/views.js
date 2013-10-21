@@ -89,7 +89,6 @@ CaueViews.addGeoJSONLegend = function(layers, category, data, n) {
     geojsonLayer.addTo(map);
   }
   // Add it to the layer switcher
-  // TODO: find a name for the layer!
   layers.addOverlay(geojsonLayer, name);
   // Should we adjust the bounds of the map ?
   // map.fitBounds(geojsonLayer.getBounds());
@@ -97,11 +96,27 @@ CaueViews.addGeoJSONLegend = function(layers, category, data, n) {
 
 CaueViews.addInitTexts = function(community, category) {
   $.ajax({
-    url: "data/territoires/" + community + "/" + category + ".html",
+    url: "data/territoires/" + community + "_" + category + ".html",
   }).done(function(data) {
-      CaueViews.displayData(layer, data, id);
+    var dom$ = $(data);
+    // Parse and display data
+    $('#map-modal').html('');
+    $.each(dom$.find('h2').first().nextUntil('h2'), function () {
+      $('#map-modal').append($(this)[0].outerHTML);
+    });
+    // $('#map-modal').show();
+    $('#map-infos').html('');
+    $.each(dom$.find('h2').nextAll('h2').first().nextUntil('h2'), function () {
+      $('#map-infos').append($(this)[0].outerHTML);
+    });
+    $('#map-photos').html('');
+    $.each(dom$.find('h2').last().nextAll(), function () {
+      $('#map-photos').append($(this)[0].outerHTML);
+    });
   }).fail(function(jqXHR, textStatus, errorThrown) {
-    $('#map-infos').html("Créez un contenu pour cet élement en allant sur <a href='http://prose.io/#makinacorpus/caue24/new/gh-pages/data/territoires/" + community + "/" + category + ".md'>cette page</a>.");
+    $('#map-infos').html("Créez un contenu pour cet élement en allant sur <a href='http://prose.io/#makinacorpus/caue24/new/gh-pages/data/territoires/" + community + "_" + category + ".md'>cette page</a>.");
+    $('#map-photos').html('');
+    $('#map-modal').html('');
   });
 }
 
@@ -146,9 +161,6 @@ CaueViews.onEachFeature = function (feature, layer) {
     if (feature.properties) {
       var properties = feature.properties;
       layer.on('click', function(e) {
-        CaueViews.clickLayer(e.target, properties.ALTITUDE);
-      });
-      layer.on('mouseintent', function(e) {
         CaueViews.clickLayer(e.target, properties.ALTITUDE);
       });
     }
@@ -258,6 +270,8 @@ CaueViews.displayMapPage = function(community, category) {
   }
   var caueAttrib = 'Données cartographiques fournies par le <a href="http://www.cauedordogne.com" target="_blank">CAUE24</a>';
   L.tileLayer(caueUrl, {minZoom: 9, maxZoom: 15, attribution: caueAttrib}).addTo(map);
+  // Add Content
+  CaueViews.addInitTexts(community, category);
   // Add GeoJSON Layers
   CaueViews.addGeoJSONs(community, category);
 };
