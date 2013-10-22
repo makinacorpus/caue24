@@ -353,7 +353,6 @@ body.atouts #map-infos {
 #map-photos {
   width: 60%;
   background-color: #fff;
-  overflow: auto;
   padding: 0;
   .transition-delay(200ms);
 
@@ -366,10 +365,13 @@ body.atouts #map-infos {
     margin: 0;
     list-style: none;
     height: 100%;
+    width: 100%;
+    white-space: nowrap;
   }
 
   .item {
-
+    display: inline-block;
+    vertical-align: top;
   }
 
   a {
@@ -382,12 +384,7 @@ body.atouts #map-infos {
   }
 
   .carousel-inner {
-    white-space: nowrap;
-  }
-
-  .carousel-inner > .item {
-    display: inline-block;
-    vertical-align: top;
+    
   }
 }
 #map-modal {

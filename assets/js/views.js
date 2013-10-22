@@ -101,9 +101,13 @@ CaueViews.addInitTexts = function(community, category) {
     $.each(dom$.find('h2').nextAll('h2').first().nextUntil('h2'), function () {
       $('#map-infos').append($(this)[0].outerHTML);
     });
-    $('#map-photos').html('');
+    
     $.each(dom$.find('h2').last().nextAll(), function () {
-      $('#map-photos').append($(this)[0].outerHTML);
+      $('#map-photos .carousel-inner').append('<ul>');
+      $(this).find('img').each(function(index) {
+        var item = index == 0 ? '<li class="item active">'+$(this)[0].outerHTML+'</li>' : '<li class="item">'+$(this)[0].outerHTML+'</li>';
+        $('#map-photos ul').append(item);
+      });
     });
   }).fail(function(jqXHR, textStatus, errorThrown) {
     $('#map-infos').html("Créez un contenu pour cet élement en allant sur <a href='http://prose.io/#makinacorpus/caue24/new/gh-pages/data/territoires/" + community + "_" + category + ".md'>cette page</a>.");
