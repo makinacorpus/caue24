@@ -141,6 +141,11 @@ h1, h2, h3 {
 }
 .leaflet-popup-content-wrapper {
   border-radius: 0;
+
+  img {
+    max-width: 100%;
+    height: auto;
+  }
 }
 
 #maplist img {
@@ -388,11 +393,19 @@ body.atouts #map-infos {
 
   a {
     display: block;
+
+    &:focus, &:active {
+      outline: none;
+    }
   }
 
   img {
     height: 120px;
     width: auto;
+
+    &:hover {
+      opacity: 0.9;
+    }
   }
 
   .carousel-inner {
@@ -407,7 +420,7 @@ body.atouts #map-infos {
   line-height: 1em;
 }
 #map-modal {
-  // display: none;
+  display: none;
   position: absolute;
   opacity: 0.8;
   top: 110px;
