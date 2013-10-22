@@ -305,14 +305,12 @@ CaueViews.displayMapPage = function(community, category) {
 CaueViews.displayData = function(layer, rawHtml, id) {
   var dom$ = $(rawHtml);
   // Parse data
-  var popupTitle = dom$.find('#titre_de_la_popup').nextUntil('h2').html();
-  var popupContent = dom$.find('#contenu_de_la_popup').nextUntil('h2').html();
-  var additionalText = dom$.find('#contenu_additionnel_de_gauche').nextUntil('h2').html();
-  var photos = dom$.find('#contenu_additionnel_de_droite').nextUntil('h2').html();
-  // Raise events
-  layer.bindPopup('<h2>'+ popupTitle +'</h2>' + popupContent).openPopup();
-  $('#map-infos').html(additionalText);
-  $('#map-photos').html(photos);
+  var popup = '';
+  $.each(dom$, function() {
+    popup = popup + $(this)[0].outerHTML;
+  });
+  // Open popup
+  layer.bindPopup(popup).openPopup();
 };
 
 CaueViews.clickLayer = function(layer, id) {
@@ -321,11 +319,12 @@ CaueViews.clickLayer = function(layer, id) {
       featureId = layerHash.substring(0, 6);
   // Get page content
   $.ajax({
-    url: "data/features/" + featureId + ".html",
+    // url: "data/features/" + featureId + ".html",
+    url: "data/test-page.html",
   }).done(function(data) {
       CaueViews.displayData(layer, data, id);
   }).fail(function(jqXHR, textStatus, errorThrown) {
-    $('#map-infos').html("Créez un contenu pour cet élement en allant sur <a href='http://prose.io/#makinacorpus/caue24/new/gh-pages/data/features/" + featureId + ".md'>cette page</a>.");
+    layer.bindPopup("Créez un contenu pour cet élement en allant sur <a href='http://prose.io/#makinacorpus/caue24/new/gh-pages/data/features/" + featureId + ".md'>cette page</a>.").openPopup();
   });
 };
 
