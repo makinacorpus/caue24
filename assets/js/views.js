@@ -258,13 +258,13 @@ CaueViews.displayHomePage = function() {
 CaueViews.displayMapPage = function(community, category) {
   // Init map
   CaueViews.initMap(category);
-  map.setView([45, 0.67], 10);
-  map.fitBounds(map.getBounds(), {paddingTopLeft:[0, 40], paddingBottomRight:[0, 130]});
+  map.setView([45, 0.67], 11);
+  // map.fitBounds(map.getBounds(), {paddingTopLeft:[0, 40], paddingBottomRight:[0, 130]});
   map.name = 'map';
   // Add Base Layer
   var caueUrl = 'http://{s}.livembtiles.makina-corpus.net/caue24/CAUE24_' + category + '/{z}/{x}/{y}.png';
   var caueAttrib = 'Données cartographiques fournies par le <a href="http://www.cauedordogne.com" target="_blank">CAUE24</a>';
-  L.tileLayer(caueUrl, {minZoom: 9, maxZoom: 15, attribution: caueAttrib, subdomains: 'abcdefgh'}).addTo(map);
+  L.tileLayer(caueUrl, {minZoom: 11, maxZoom: 15, attribution: caueAttrib, subdomains: 'abcdefgh'}).addTo(map);
   // Add Content
   CaueViews.addInitTexts(community, category);
   // Add GeoJSON Layers
