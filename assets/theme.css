@@ -2334,7 +2334,8 @@ input[type="button"].btn-block {
   font-style: normal;
 }
 h1,
-h2 {
+h2,
+h3 {
   font-family: "Hero";
 }
 .leaflet-container {
@@ -2395,6 +2396,12 @@ body[data-state="map"] .leaflet-bottom {
 .leaflet-control-layers-overlays label:last-child {
   margin-bottom: 0;
 }
+.leaflet-control-layers-overlays input {
+  margin-right: 8px;
+}
+.leaflet-control-layers-expanded {
+  padding: 6px;
+}
 .leaflet-popup-content-wrapper {
   border-radius: 0;
 }
@@ -2403,7 +2410,7 @@ body[data-state="map"] .leaflet-bottom {
 }
 .info {
   padding: 6px 8px;
-  font: 14px/16px Arial, Helvetica, sans-serif;
+  font: 12px/14px Helvetica, Arial, sans-serif;
   background: white;
   background: rgba(255, 255, 255, 0.8);
 }
@@ -2415,12 +2422,12 @@ body[data-state="map"] .leaflet-bottom {
   text-transform: uppercase;
 }
 .legend {
-  line-height: 18px;
+  line-height: 16px;
   color: #555;
 }
 .legend i {
-  width: 18px;
-  height: 18px;
+  width: 16px;
+  height: 16px;
   float: left;
   margin-right: 8px;
   opacity: 0.7;
@@ -2621,6 +2628,9 @@ body[data-transition="transition"] #map-infos {
   color: #000;
   font-weight: normal;
 }
+#map-infos p {
+  margin-top: 0;
+}
 body.portrait #map-infos {
   background-color: #ef5259;
 }
@@ -2673,8 +2683,14 @@ body[data-transition="transition"] #map-photos {
   height: 120px;
   width: auto;
 }
+.carousel-control {
+  opacity: 0.8;
+}
+.carousel-control .icon-prev,
+.carousel-control .icon-next {
+  line-height: 1em;
+}
 #map-modal {
-  display: none;
   position: absolute;
   opacity: 0.8;
   top: 110px;
