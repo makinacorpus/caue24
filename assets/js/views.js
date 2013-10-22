@@ -21,7 +21,6 @@ CaueViews.addLegend = function(category) {
   legend.onAdd = function (map) {
 
     var div = L.DomUtil.create('div', 'info legend');
-    div.innerHTML += '<h4>Légende</h4>';
     if (category == 'geographie') {
       div.innerHTML += '<i style="background:#EAE2E1"></i>Alluvions<br />';
       div.innerHTML += '<i style="background:#C2B6B3"></i>Terrasses alluviales<br />';
@@ -290,7 +289,7 @@ CaueViews.displayMapPage = function(community, category) {
       transparent: true,
     }
   }, {
-    minZoom: 11,
+    minZoom: 10,
     maxZoom: 15,
     attribution: caueAttrib
   }).addTo(map);
