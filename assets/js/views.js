@@ -11,47 +11,34 @@ CaueViews.initMap = function(category) {
   map = L.map('map');
   // Attribution
   map.attributionControl.setPrefix('Par <a href="http://makina-corpus.com">Makina Corpus</a>');
-  // Legend
-  if (category !== null) {
-    CaueViews.addLegend(category);
-  }
   // Scale
   L.control.scale({imperial: false}).addTo(map);
 }
 
 CaueViews.addLegend = function(category) {
-  if (category == 'geographie' || category == 'urbanisme') {
-    var legend = L.control({position: 'bottomright'});
+  var legend = L.control({position: 'bottomright'});
 
-    legend.onAdd = function (map) {
+  legend.onAdd = function (map) {
 
-      var div = L.DomUtil.create('div', 'info legend');
-      if (category == 'geographie') {
-        div.innerHTML += '<h4>Légende</h4>';
-        div.innerHTML += '<i style="background:#EAE2E1"></i>Alluvions<br />';
-        div.innerHTML += '<i style="background:#C2B6B3"></i>Terrasses alluviales<br />';
-        div.innerHTML += '<i style="background:#FFE595"></i>Altérites et colluvions<br />';
-        div.innerHTML += '<i style="background:#FABF51"></i>Dépôts superficiels et sables<br />';
-        div.innerHTML += '<i style="background:#D5BAD7"></i>Calcaires du Tertiaire<br />';
-        div.innerHTML += '<i style="background:#86608E"></i>Molasses du Tertiaire<br />';
-        div.innerHTML += '<i style="background:#89C17A"></i>Calcaires du Crétacé<br />';
-        div.innerHTML += '<i style="background:#4B97CD"></i>Calcaires du Jurassique<br />';
-        div.innerHTML += '<i style="background:#C17F92"></i>Roches sédimentaires du Primaire<br />';
-        div.innerHTML += '<i style="background:#F19EB7"></i>Roches métamorphiques du Primaire<br />';
-        div.innerHTML += '<i style="background:#DE6EA1"></i>Roches granitiques du Primaire<br />';
-      } else if (category == 'urbanisme') {
-        div.innerHTML += '<h4>Légende</h4>';
-        div.innerHTML += '<i style="background:#E30613"></i>Zone urbaine<br />';
-        div.innerHTML += '<i style="background:#927CB8"></i>Zone activité et loisir<br />';
-        div.innerHTML += '<i style="background:#F18700"></i>Zone à aménager<br />';
-        div.innerHTML += '<i style="background:#FFED00"></i>Zone diffuse<br />';
-      }
+    var div = L.DomUtil.create('div', 'info legend');
+    if (category == 'geographie') {
+      div.innerHTML += '<i style="background:#EAE2E1"></i>Alluvions<br />';
+      div.innerHTML += '<i style="background:#C2B6B3"></i>Terrasses alluviales<br />';
+      div.innerHTML += '<i style="background:#FFE595"></i>Altérites et colluvions<br />';
+      div.innerHTML += '<i style="background:#FABF51"></i>Dépôts superficiels et sables<br />';
+      div.innerHTML += '<i style="background:#D5BAD7"></i>Calcaires du Tertiaire<br />';
+      div.innerHTML += '<i style="background:#86608E"></i>Molasses du Tertiaire<br />';
+      div.innerHTML += '<i style="background:#89C17A"></i>Calcaires du Crétacé<br />';
+      div.innerHTML += '<i style="background:#4B97CD"></i>Calcaires du Jurassique<br />';
+      div.innerHTML += '<i style="background:#C17F92"></i>Roches sédimentaires du Primaire<br />';
+      div.innerHTML += '<i style="background:#F19EB7"></i>Roches métamorphiques du Primaire<br />';
+      div.innerHTML += '<i style="background:#DE6EA1"></i>Roches granitiques du Primaire<br />';
+    }
 
-      return div;
-    };
+    return div;
+  };
 
-    legend.addTo(map);
-  }
+  legend.addTo(map);
 }
 
 CaueViews.getColorFromFeature = function(category, n) {
@@ -87,10 +74,14 @@ CaueViews.addGeoJSONLegend = function(layers, category, data, n) {
   var geojsonLayer = L.geoJson(data, {pointToLayer: CaueViews.pointToLayer, onEachFeature: CaueViews.onEachFeature, style: style});
   if (active == "true") {
     geojsonLayer.addTo(map);
+    geojsonLayer.bringToBack();
     map.fitBounds(geojsonLayer.getBounds());
   }
   // Add it to the layer switcher
   layers.addOverlay(geojsonLayer, name);
+  // Add it to the legend
+  $('.info.legend').append('<i style="background:' + color + '"></i>' + name + '<br />');
+
   // Should we adjust the bounds of the map ?
   // map.fitBounds(geojsonLayer.getBounds());
 }
@@ -110,9 +101,13 @@ CaueViews.addInitTexts = function(community, category) {
     $.each(dom$.find('h2').nextAll('h2').first().nextUntil('h2'), function () {
       $('#map-infos').append($(this)[0].outerHTML);
     });
-    $('#map-photos').html('');
+    
     $.each(dom$.find('h2').last().nextAll(), function () {
-      $('#map-photos').append($(this)[0].outerHTML);
+      $('#map-photos .carousel-inner').append('<ul>');
+      $(this).find('img').each(function(index) {
+        var item = index == 0 ? '<li class="item active">'+$(this)[0].outerHTML+'</li>' : '<li class="item">'+$(this)[0].outerHTML+'</li>';
+        $('#map-photos ul').append(item);
+      });
     });
   }).fail(function(jqXHR, textStatus, errorThrown) {
     $('#map-infos').html("Créez un contenu pour cet élement en allant sur <a href='http://prose.io/#makinacorpus/caue24/new/gh-pages/data/territoires/" + community + "_" + category + ".md'>cette page</a>.");
@@ -135,9 +130,9 @@ CaueViews.addGeoJSONs = function(community, category) {
       fillOpacity: 0.9,
     };
     // Add the geojson layer to the map
-    L.geoJson(data, {style: style}).addTo(map);
+    var overlay = L.geoJson(data, {style: style}).addTo(map);
   }).fail(function(jqXHR, textStatus, errorThrown) {
-    // Nothing to do, the loop will just stop
+    // Nothing to do, there simply will be no overlay
   });
   // Initiate the layer switcher
   var layers = L.control.layers(null, null, {collapsed: false});
@@ -151,6 +146,8 @@ CaueViews.addGeoJSONs = function(community, category) {
       if (n == 1) {
         // There is at least 1 geojson => add the layer switcher to the map
         layers.addTo(map);
+        // Add the Legend too
+        CaueViews.addLegend(category);
       }
       // Handle geojson
       CaueViews.addGeoJSONLegend(layers, category, data, n);
@@ -296,12 +293,15 @@ CaueViews.displayMapPage = function(community, category) {
       transparent: true,
     }
   }, {
-    minZoom: 11,
+    minZoom: 10,
     maxZoom: 15,
     attribution: caueAttrib
   }).addTo(map);
   // Add Content
   CaueViews.addInitTexts(community, category);
+  if (category == 'geographie') {
+    CaueViews.addLegend(category);
+  }
   // Add GeoJSON Layers
   CaueViews.addGeoJSONs(community, category);
 };
@@ -309,14 +309,12 @@ CaueViews.displayMapPage = function(community, category) {
 CaueViews.displayData = function(layer, rawHtml, id) {
   var dom$ = $(rawHtml);
   // Parse data
-  var popupTitle = dom$.find('#titre_de_la_popup').nextUntil('h2').html();
-  var popupContent = dom$.find('#contenu_de_la_popup').nextUntil('h2').html();
-  var additionalText = dom$.find('#contenu_additionnel_de_gauche').nextUntil('h2').html();
-  var photos = dom$.find('#contenu_additionnel_de_droite').nextUntil('h2').html();
-  // Raise events
-  layer.bindPopup('<h2>'+ popupTitle +'</h2>' + popupContent).openPopup();
-  $('#map-infos').html(additionalText);
-  $('#map-photos').html(photos);
+  var popup = '';
+  $.each(dom$, function() {
+    popup = popup + $(this)[0].outerHTML;
+  });
+  // Open popup
+  layer.bindPopup(popup).openPopup();
 };
 
 CaueViews.clickLayer = function(layer, id) {
@@ -325,11 +323,12 @@ CaueViews.clickLayer = function(layer, id) {
       featureId = layerHash.substring(0, 6);
   // Get page content
   $.ajax({
-    url: "data/features/" + featureId + ".html",
+    // url: "data/features/" + featureId + ".html",
+    url: "data/test-page.html",
   }).done(function(data) {
       CaueViews.displayData(layer, data, id);
   }).fail(function(jqXHR, textStatus, errorThrown) {
-    $('#map-infos').html("Créez un contenu pour cet élement en allant sur <a href='http://prose.io/#makinacorpus/caue24/new/gh-pages/data/features/" + featureId + ".md'>cette page</a>.");
+    layer.bindPopup("Créez un contenu pour cet élement en allant sur <a href='http://prose.io/#makinacorpus/caue24/new/gh-pages/data/features/" + featureId + ".md'>cette page</a>.").openPopup();
   });
 };
 

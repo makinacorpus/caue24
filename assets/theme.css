@@ -2642,7 +2642,6 @@ body.atouts #map-infos {
 #map-photos {
   width: 60%;
   background-color: #fff;
-  overflow: auto;
   padding: 0;
   -webkit-transition-delay: 200ms;
   -moz-transition-delay: 200ms;
@@ -2660,6 +2659,12 @@ body[data-transition="transition"] #map-photos {
   margin: 0;
   list-style: none;
   height: 100%;
+  width: 100%;
+  white-space: nowrap;
+}
+#map-photos .item {
+  display: inline-block;
+  vertical-align: top;
 }
 #map-photos a {
   display: block;
@@ -2667,13 +2672,6 @@ body[data-transition="transition"] #map-photos {
 #map-photos img {
   height: 120px;
   width: auto;
-}
-#map-photos .carousel-inner {
-  white-space: nowrap;
-}
-#map-photos .carousel-inner > .item {
-  display: inline-block;
-  vertical-align: top;
 }
 #map-modal {
   display: none;
