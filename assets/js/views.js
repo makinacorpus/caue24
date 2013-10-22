@@ -22,10 +22,10 @@ CaueViews.addLegend = function(category) {
 
     var div = L.DomUtil.create('div', 'info legend');
     if (category == 'geographie') {
-      div.innerHTML += '<i style="background:#EAE2E1"></i>Alluvions<br />';
-      div.innerHTML += '<i style="background:#C2B6B3"></i>Terrasses alluviales<br />';
-      div.innerHTML += '<i style="background:#FFE595"></i>Altérites et colluvions<br />';
-      div.innerHTML += '<i style="background:#FABF51"></i>Dépôts superficiels et sables<br />';
+      div.innerHTML += '<div data-placement="left" data-toggle="tooltip" type="button" data-original-title="Alluvions en fond de vallée : dépôts de sédiments apportés par la rivière offrant des sols fertiles mais inondables"><i style="background:#EAE2E1"></i>Alluvions</div>';
+      div.innerHTML += '<div data-placement="left" data-toggle="tooltip" type="button" data-original-title="Terrasses alluvionnaires : terres fertiles et propices aux grandes cultures"><i style="background:#C2B6B3"></i>Terrasses alluviales</div>';
+      div.innerHTML += '<div data-placement="left" data-toggle="tooltip" type="button" data-original-title="Altérites : résultat de l’érosion du calcaire et formant des sables grossiers, sols souvent couverts par des bois"><i style="background:#FFE595"></i>Altérites et colluvions</div>';
+      div.innerHTML += '<div data-placement="left" data-toggle="tooltip" type="button" data-original-title="Sables résiduels, galets, graviers, sables, argiles, issus de l’altération de la roche couvert en polyculture-élevage ou en bois"><i style="background:#FABF51"></i>Dépôts superficiels et sables</div>';
       div.innerHTML += '<i style="background:#D5BAD7"></i>Calcaires du Tertiaire<br />';
       div.innerHTML += '<i style="background:#86608E"></i>Molasses du Tertiaire<br />';
       div.innerHTML += '<i style="background:#89C17A"></i>Calcaires du Crétacé<br />';
@@ -39,6 +39,9 @@ CaueViews.addLegend = function(category) {
   };
 
   legend.addTo(map);
+
+  // Add Tooltips
+  $('.info.legend div').tooltip();
 }
 
 CaueViews.getColorFromFeature = function(category, n) {
@@ -60,6 +63,8 @@ CaueViews.getColorFromFeature = function(category, n) {
 CaueViews.addGeoJSONLegend = function(layers, category, data, n) {
   // Layer name
   var name = data.name || 'Sans nom';
+  // Layer description
+  var description = data.description || '';
   // Layer color
   var color = data.color || CaueViews.getColorFromFeature(category, n);
   // Initial layer status
@@ -70,20 +75,26 @@ CaueViews.addGeoJSONLegend = function(layers, category, data, n) {
     "color": color,
     "weight": 1,
   };
+  if (category == 'geographie') {
+    style.weight = 4;
+  }
   // Add the geojson layer to the map
   var geojsonLayer = L.geoJson(data, {pointToLayer: CaueViews.pointToLayer, onEachFeature: CaueViews.onEachFeature, style: style});
   if (active == "true") {
     geojsonLayer.addTo(map);
-    geojsonLayer.bringToBack();
-    map.fitBounds(geojsonLayer.getBounds());
+    if (category == 'geographie') {
+      geojsonLayer.bringToFront();
+    } else {
+      geojsonLayer.bringToBack();
+    }
   }
   // Add it to the layer switcher
   layers.addOverlay(geojsonLayer, name);
   // Add it to the legend
-  $('.info.legend').append('<i style="background:' + color + '"></i>' + name + '<br />');
+  $('.info.legend').append('<div data-placement="left" data-toggle="tooltip" type="button" data-original-title="' + description + '"><i style="background:' + color + '"></i>' + name + '</div>');
 
-  // Should we adjust the bounds of the map ?
-  // map.fitBounds(geojsonLayer.getBounds());
+  // Add Tooltips
+  $('.info.legend div').tooltip();
 }
 
 CaueViews.addInitTexts = function(community, category) {
@@ -119,6 +130,23 @@ CaueViews.addInitTexts = function(community, category) {
 CaueViews.addGeoJSONs = function(community, category) {
   // Add Mask
   $.ajax({
+    url: "data/geojson/" + community + "_mask.geojson",
+    dataType: 'json',
+  }).done(function(data) {
+    var style = {
+      color: 'black',
+      opacity: 0,
+      weight: 0,
+      fillColor: 'white',
+      fillOpacity: 0.9,
+    };
+    // Add the geojson layer to the map
+    L.geoJson(data, {style: style}).addTo(map);
+  }).fail(function(jqXHR, textStatus, errorThrown) {
+    // Nothing to do, there simply will be no overlay
+  });
+  // Add CdC highlight
+  $.ajax({
     url: "data/geojson/" + community + ".geojson",
     dataType: 'json',
   }).done(function(data) {
@@ -127,10 +155,12 @@ CaueViews.addGeoJSONs = function(community, category) {
       opacity: 1,
       weight: 1,
       fillColor: 'white',
-      fillOpacity: 0.9,
+      fillOpacity: 0,
     };
     // Add the geojson layer to the map
     var overlay = L.geoJson(data, {style: style}).addTo(map);
+    // Adjust the bounds of the map to this geojson
+    map.fitBounds(overlay.getBounds());
   }).fail(function(jqXHR, textStatus, errorThrown) {
     // Nothing to do, there simply will be no overlay
   });
@@ -147,7 +177,9 @@ CaueViews.addGeoJSONs = function(community, category) {
         // There is at least 1 geojson => add the layer switcher to the map
         layers.addTo(map);
         // Add the Legend too
-        CaueViews.addLegend(category);
+        if (category != 'geographie') {
+          CaueViews.addLegend(category);
+        }
       }
       // Handle geojson
       CaueViews.addGeoJSONLegend(layers, category, data, n);
