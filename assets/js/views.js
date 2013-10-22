@@ -38,11 +38,6 @@ CaueViews.addLegend = function(category) {
       div.innerHTML += '<i style="background:#C17F92"></i>Roches sédimentaires du Primaire<br />';
       div.innerHTML += '<i style="background:#F19EB7"></i>Roches métamorphiques du Primaire<br />';
       div.innerHTML += '<i style="background:#DE6EA1"></i>Roches granitiques du Primaire<br />';
-    } else if (category == 'urbanisme') {
-      div.innerHTML += '<i style="background:#E30613"></i>Zone urbaine<br />';
-      div.innerHTML += '<i style="background:#927CB8"></i>Zone activité et loisir<br />';
-      div.innerHTML += '<i style="background:#F18700"></i>Zone à aménager<br />';
-      div.innerHTML += '<i style="background:#FFED00"></i>Zone diffuse<br />';
     }
 
     return div;
