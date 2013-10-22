@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"name": "Coupe transversale",
+"active": "true",
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "CDC2007": "Terres de Cro-Magnon" }, "geometry": { "type": "LineString", "coordinates": [ [ 1.058870646751405, 44.910593790886871 ], [ 0.945031021935005, 45.103236089100562 ] ] } }
+]
+}
