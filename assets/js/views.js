@@ -102,8 +102,8 @@ CaueViews.addInitTexts = function(community, category) {
       $('#map-infos').append($(this)[0].outerHTML);
     });
     
+    $('#map-photos .carousel-inner ul').html('');
     $.each(dom$.find('h2').last().nextAll(), function () {
-      $('#map-photos .carousel-inner').append('<ul>');
       $(this).find('img').each(function(index) {
         var item = index == 0 ? '<li class="item active">'+$(this)[0].outerHTML+'</li>' : '<li class="item">'+$(this)[0].outerHTML+'</li>';
         $('#map-photos ul').append(item);

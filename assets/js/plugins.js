@@ -53,7 +53,6 @@ animationEnd = animEndEventNames[ Modernizr.prefixed('animation') ];
     this.$elementWidth = this.$element.width()
     this.$scroll       = this.$element.find('.carousel-inner')
     this.$panels       = this.$scroll.find('ul')
-    this.$indicators   = this.$element.find('.carousel-indicators')
     this.currentPosition = 0
     this.options       = options
     this.sliding       =
@@ -81,13 +80,15 @@ animationEnd = animEndEventNames[ Modernizr.prefixed('animation') ];
   CarouselCustom.prototype.slide = function (type, next) {
     var direction = type == 'next' ? 'left' : 'right'
     var that      = this
+    var offset       = this.$elementWidth - 200
     var targetOffset = 0
     var target = 0
-    
-    target = direction == 'right' ? this.currentPosition-this.$elementWidth : this.currentPosition+this.$elementWidth;
+    var maxScroll = this.$scroll[0].scrollWidth-this.$elementWidth;
+
+    target = direction == 'right' ? this.currentPosition-offset : this.currentPosition+offset;
     
     if (direction == 'left') {
-        targetOffset = target > this.$scroll[0].scrollWidth-this.$elementWidth ? 0 : target;
+        targetOffset = target > maxScroll ? this.currentPosition == maxScroll ? 0 : maxScroll : target;
     } else {
         targetOffset = target < 0 ? this.currentPosition == 0 ? this.$scroll[0].scrollWidth-this.$elementWidth : 0 : target;
     }
