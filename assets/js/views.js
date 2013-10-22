@@ -87,6 +87,7 @@ CaueViews.addGeoJSONLegend = function(layers, category, data, n) {
   var geojsonLayer = L.geoJson(data, {pointToLayer: CaueViews.pointToLayer, onEachFeature: CaueViews.onEachFeature, style: style});
   if (active == "true") {
     geojsonLayer.addTo(map);
+    map.fitBounds(geojsonLayer.getBounds());
   }
   // Add it to the layer switcher
   layers.addOverlay(geojsonLayer, name);
@@ -121,16 +122,25 @@ CaueViews.addInitTexts = function(community, category) {
 }
 
 CaueViews.addGeoJSONs = function(community, category) {
+  // Add Mask
+  $.ajax({
+    url: "data/geojson/" + community + ".geojson",
+    dataType: 'json',
+  }).done(function(data) {
+    var style = {
+      color: 'black',
+      opacity: 1,
+      weight: 1,
+      fillColor: 'white',
+      fillOpacity: 0.9,
+    };
+    // Add the geojson layer to the map
+    L.geoJson(data, {style: style}).addTo(map);
+  }).fail(function(jqXHR, textStatus, errorThrown) {
+    // Nothing to do, the loop will just stop
+  });
   // Initiate the layer switcher
   var layers = L.control.layers(null, null, {collapsed: false});
-  // Add WMS
-  var photo = L.tileLayer.wms("http://ids.pigma.org/geoserver/wms", {
-    layers: 'ign_r:BDOrtho40cm_2009_aqui_blanc_transparent',
-    format: 'image/png',
-    transparent: true,
-    attribution: "Données cartographiques fournies par le CAUE24"
-  });
-  layers.addOverlay(photo, "photo");
   // Bruteforce method...
   function loadUrl(baseUrl, n) {
     // Get GeoJSON(s) from directory
@@ -250,7 +260,6 @@ CaueViews.displayHomePage = function() {
     dataType: 'json',
     success: function (response) {
       var geojsonLayer = L.geoJson(response, {style: style, onEachFeature: onEachFeature}).addTo(map);
-      // map.fitBounds(geojsonLayer.getBounds());
     }
   });
 };
@@ -264,7 +273,33 @@ CaueViews.displayMapPage = function(community, category) {
   // Add Base Layer
   var caueUrl = 'http://{s}.livembtiles.makina-corpus.net/caue24/CAUE24_' + category + '/{z}/{x}/{y}.png';
   var caueAttrib = 'Données cartographiques fournies par le <a href="http://www.cauedordogne.com" target="_blank">CAUE24</a>';
-  L.tileLayer(caueUrl, {minZoom: 11, maxZoom: 15, attribution: caueAttrib, subdomains: 'abcdefgh'}).addTo(map);
+  // L.tileLayer(caueUrl, {minZoom: 11, maxZoom: 15, attribution: caueAttrib, subdomains: 'abcdefgh'}).addTo(map);
+  // Add WMS
+  /*
+  var photo = L.tileLayer.wms("http://ids.pigma.org/geoserver/wms", {
+    layers: 'ign_r:BDOrtho40cm_2009_aqui_blanc_transparent',
+    format: 'image/png',
+    transparent: true,
+    attribution: "Données cartographiques fournies par le CAUE24"
+  });
+  */
+  // Use TileLayer.Multi plugin
+  L.TileLayer.multi({
+    13: {
+      url: caueUrl,
+      subdomains: 'abcdefgh'
+    },
+    15: {
+      url: 'http://ids.pigma.org/geoserver/wms',
+      layers: 'ign_r:BDOrtho40cm_2009_aqui_blanc_transparent',
+      format: 'image/png',
+      transparent: true,
+    }
+  }, {
+    minZoom: 11,
+    maxZoom: 15,
+    attribution: caueAttrib
+  }).addTo(map);
   // Add Content
   CaueViews.addInitTexts(community, category);
   // Add GeoJSON Layers
