@@ -11,10 +11,6 @@ CaueViews.initMap = function(category) {
   map = L.map('map');
   // Attribution
   map.attributionControl.setPrefix('Par <a href="http://makina-corpus.com">Makina Corpus</a>');
-  // Legend
-  if (category !== null) {
-    CaueViews.addLegend(category);
-  }
   // Scale
   L.control.scale({imperial: false}).addTo(map);
 }
@@ -147,6 +143,8 @@ CaueViews.addGeoJSONs = function(community, category) {
       if (n == 1) {
         // There is at least 1 geojson => add the layer switcher to the map
         layers.addTo(map);
+        // Add the Legend too
+        CaueViews.addLegend(category);
       }
       // Handle geojson
       CaueViews.addGeoJSONLegend(layers, category, data, n);
@@ -298,6 +296,9 @@ CaueViews.displayMapPage = function(community, category) {
   }).addTo(map);
   // Add Content
   CaueViews.addInitTexts(community, category);
+  if (category == 'geographie') {
+    CaueViews.addLegend(category);
+  }
   // Add GeoJSON Layers
   CaueViews.addGeoJSONs(community, category);
 };
