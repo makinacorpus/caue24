@@ -102,11 +102,15 @@ CaueViews.addInitTexts = function(community, category) {
   }).done(function(data) {
     var dom$ = $(data);
     // Parse and display data
-    $('#map-modal').html('');
     $.each(dom$.find('h2').first().nextUntil('h2'), function () {
-      $('#map-modal').append($(this)[0].outerHTML);
+      $.magnificPopup.open({
+        items: {
+          src: '<div id="map-modal">'+$(this)[0].outerHTML+'</div>', // can be a HTML string, jQuery object, or CSS selector
+          type: 'inline'
+        }
+      });
     });
-    // $('#map-modal').show();
+
     $('#map-infos').html('');
     $.each(dom$.find('h2').nextAll('h2').first().nextUntil('h2'), function () {
       $('#map-infos').append($(this)[0].outerHTML);
@@ -122,7 +126,6 @@ CaueViews.addInitTexts = function(community, category) {
   }).fail(function(jqXHR, textStatus, errorThrown) {
     $('#map-infos').html("Créez un contenu pour cet élement en allant sur <a href='http://prose.io/#makinacorpus/caue24/new/gh-pages/data/territoires/" + community + "_" + category + ".md'>cette page</a>.");
     $('#map-photos').html('');
-    $('#map-modal').html('');
   });
 }
 
@@ -401,7 +404,28 @@ CaueViews.clickLayer = function(layer) {
           // Animation finished, remove transition state
           $('body').attr('data-transition','');
 
-          $('a.gallery').colorbox({rel:'gallery', opacity: 0.3});
+          // Init lightbox on gallery carousel
+          $('.carousel-inner ul').magnificPopup({
+            delegate: 'li .gallery',
+            type: 'image',
+            mainClass: 'mfp-with-zoom',
+            gallery: {
+              enabled: true,
+              navigateByImgClick: true
+            },
+            image: {
+              verticalFit: true,
+              titleSrc: function(item) {
+                return item.el.find('img').attr('alt');
+              }
+            },
+            zoom: {
+              enabled: true,
+              opener: function(element) {
+                return element.find('img');
+              }
+            }
+          });
         });
       }
 
