@@ -152,7 +152,7 @@ CaueViews.addGeoJSONs = function(community, category) {
     var style = {
       color: 'black',
       opacity: 1,
-      weight: 1,
+      weight: 3,
       fillColor: 'white',
       fillOpacity: 0,
     };
