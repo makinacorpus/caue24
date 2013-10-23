@@ -21,10 +21,10 @@ CaueViews.addLegend = function(category) {
   legend.onAdd = function (map) {
     var div = L.DomUtil.create('div', 'info legend');
     if (category == 'geographie') {
-      div.innerHTML += '<div data-placement="left" data-toggle="tooltip" type="button" data-original-title="Alluvions en fond de vallée : dépôts de sédiments apportés par la rivière offrant des sols fertiles mais inondables"><i style="background:#EAE2E1"></i>Alluvions</div>';
-      div.innerHTML += '<div data-placement="left" data-toggle="tooltip" type="button" data-original-title="Terrasses alluvionnaires : terres fertiles et propices aux grandes cultures"><i style="background:#C2B6B3"></i>Terrasses alluviales</div>';
-      div.innerHTML += '<div data-placement="left" data-toggle="tooltip" type="button" data-original-title="Altérites : résultat de l’érosion du calcaire et formant des sables grossiers, sols souvent couverts par des bois"><i style="background:#FFE595"></i>Altérites et colluvions</div>';
-      div.innerHTML += '<div data-placement="left" data-toggle="tooltip" type="button" data-original-title="Sables résiduels, galets, graviers, sables, argiles, issus de l’altération de la roche couvert en polyculture-élevage ou en bois"><i style="background:#FABF51"></i>Dépôts superficiels et sables</div>';
+      div.innerHTML += '<div tabindex="0" data-placement="left" data-toggle="tooltip" type="button" data-original-title="Alluvions en fond de vallée : dépôts de sédiments apportés par la rivière offrant des sols fertiles mais inondables"><i style="background:#EAE2E1"></i>Alluvions</div>';
+      div.innerHTML += '<div tabindex="0" data-placement="left" data-toggle="tooltip" type="button" data-original-title="Terrasses alluvionnaires : terres fertiles et propices aux grandes cultures"><i style="background:#C2B6B3"></i>Terrasses alluviales</div>';
+      div.innerHTML += '<div tabindex="0" data-placement="left" data-toggle="tooltip" type="button" data-original-title="Altérites : résultat de l’érosion du calcaire et formant des sables grossiers, sols souvent couverts par des bois"><i style="background:#FFE595"></i>Altérites et colluvions</div>';
+      div.innerHTML += '<div tabindex="0" data-placement="left" data-toggle="tooltip" type="button" data-original-title="Sables résiduels, galets, graviers, sables, argiles, issus de l’altération de la roche couvert en polyculture-élevage ou en bois"><i style="background:#FABF51"></i>Dépôts superficiels et sables</div>';
       div.innerHTML += '<i style="background:#D5BAD7"></i>Calcaires du Tertiaire<br />';
       div.innerHTML += '<i style="background:#86608E"></i>Molasses du Tertiaire<br />';
       div.innerHTML += '<i style="background:#89C17A"></i>Calcaires du Crétacé<br />';
@@ -90,7 +90,7 @@ CaueViews.addGeoJSONLegend = function(layers, category, data, n) {
   // Add it to the layer switcher
   layers.addOverlay(geojsonLayer, name);
   // Add it to the legend
-  $('.info.legend').append('<div data-placement="left" data-toggle="tooltip" type="button" data-original-title="' + description + '"><i style="background:' + color + '"></i>' + name + '</div>');
+  $('.info.legend').append('<div tabindex="0" data-placement="left" data-toggle="tooltip" type="button" data-original-title="' + description + '"><i style="background:' + color + '"></i>' + name + '</div>');
 
   // Add Tooltips
   $('.info.legend div').tooltip();
