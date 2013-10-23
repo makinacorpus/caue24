@@ -197,7 +197,7 @@ CaueViews.onEachFeature = function (feature, layer) {
     if (feature.properties) {
       var properties = feature.properties;
       layer.on('click', function(e) {
-        CaueViews.clickLayer(e.target, properties.ALTITUDE);
+        CaueViews.clickLayer(e.target);
       });
     }
   }
@@ -344,14 +344,14 @@ CaueViews.displayData = function(layer, rawHtml, id) {
   layer.bindPopup(popup).openPopup();
 };
 
-CaueViews.clickLayer = function(layer, id) {
+CaueViews.clickLayer = function(layer) {
   // Get id Jekyll page
   var layerHash = L.Util.hash(layer),
       featureId = layerHash.substring(0, 6);
   // Get page content
   $.ajax({
-    // url: "data/features/" + featureId + ".html",
-    url: "data/test-page.html",
+    url: "data/features/" + featureId + ".html",
+    // url: "data/test-page.html",
   }).done(function(data) {
       CaueViews.displayData(layer, data, id);
   }).fail(function(jqXHR, textStatus, errorThrown) {
