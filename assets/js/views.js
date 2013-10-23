@@ -324,10 +324,8 @@ CaueViews.displayMapPage = function(community, category) {
       subdomains: 'abcdefgh'
     },
     15: {
-      url: 'http://ids.pigma.org/geoserver/wms',
-      layers: 'ign_r:BDOrtho40cm_2009_aqui_blanc_transparent',
-      format: 'image/png',
-      transparent: true,
+      url: 'http://{s}.livembtiles.makina-corpus.net/caue24/orthophoto24/{z}/{x}/{y}.png',
+      subdomains: 'abcdefgh'
     }
   }, {
     minZoom: 10,
