@@ -102,14 +102,18 @@ CaueViews.addInitTexts = function(community, category) {
   }).done(function(data) {
     var dom$ = $(data);
     // Parse and display data
+    var popup = '';
     $.each(dom$.find('h2').first().nextUntil('h2'), function () {
+      popup += $(this)[0].outerHTML;
+    });
+    if (popup != '') {
       $.magnificPopup.open({
         items: {
-          src: '<div id="map-modal">'+$(this)[0].outerHTML+'</div>', // can be a HTML string, jQuery object, or CSS selector
+          src: '<div id="map-modal">' + popup + '</div>', // can be a HTML string, jQuery object, or CSS selector
           type: 'inline'
         }
       });
-    });
+    };
 
     $('#map-infos').html('');
     $.each(dom$.find('h2').nextAll('h2').first().nextUntil('h2'), function () {
@@ -140,7 +144,7 @@ CaueViews.addGeoJSONs = function(community, category) {
       opacity: 0,
       weight: 0,
       fillColor: 'white',
-      fillOpacity: 0.9,
+      fillOpacity: 0.8,
     };
     // Add the geojson layer to the map
     L.geoJson(data, {style: style}).addTo(map);
