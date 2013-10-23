@@ -183,9 +183,7 @@ CaueViews.addGeoJSONs = function(community, category) {
       // Handle geojson
       CaueViews.addGeoJSONLegend(layers, category, data, n);
       // Eventually load next one
-      if (n < 6) {
-        loadUrl(baseUrl, n + 1);
-      }
+      loadUrl(baseUrl, n + 1);
     }).fail(function(jqXHR, textStatus, errorThrown) {
       // Nothing to do, the loop will just stop
     });
