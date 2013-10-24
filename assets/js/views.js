@@ -40,7 +40,7 @@ CaueViews.addLegend = function(category) {
   legend.addTo(map);
 
   // Add Tooltips
-  $('.info.legend div').tooltip();
+  $('.info.legend div').tooltip({container:'body'});
 }
 
 CaueViews.getColorFromFeature = function(category, n) {
@@ -93,7 +93,7 @@ CaueViews.addGeoJSONLegend = function(layers, category, data, n) {
   $('.info.legend').append('<div tabindex="0" data-placement="left" data-toggle="tooltip" type="button" data-original-title="' + description + '"><i style="background:' + color + '"></i>' + name + '</div>');
 
   // Add Tooltips
-  $('.info.legend div').tooltip();
+  $('.info.legend div').tooltip({container:'body'});
 }
 
 CaueViews.addInitTexts = function(community, category) {
