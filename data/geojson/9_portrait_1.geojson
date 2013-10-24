@@ -1,6 +1,7 @@
 {
 "type": "FeatureCollection",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"interactive": "false",
                                                                                 
 "features": [
 { "type": "Feature", "properties": { "NOM": "le bugue", "COMMUNE": "le bugue", "COMMUNAUTE": "terre de cromagnon", "INSEE_COMM": 24067.0, "ID_CDECOMM": 29.0 }, "geometry": { "type": "Point", "coordinates": [ 0.926940352421517, 44.920271336915071 ] } },
