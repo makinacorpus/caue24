@@ -32,7 +32,7 @@ Terre de Cro Magon est située à 30km au Sud Est de Périgueux.
 Territoire touristique incontournable par sa richesse préhistorique, "la vallée de l'homme" est un  des sites majeurs du département par la splendeur de ses paysages et de son architecture.
 
 ## Photos
-![](data/images/9/portrait/CROMAGNON_CHEM2.jpg)
+![Architecture contemporaine](data/images/9/portrait/CROMAGNON_CHEM2.jpg)
 ![](data/images/9/portrait/CROMAGNON_CHEM3.jpg)
 ![](data/images/9/portrait/CROMAGNON_CHEM4.jpg)
 ![](data/images/9/portrait/CROMAGNON_CHEM5.jpg)
