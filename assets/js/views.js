@@ -68,6 +68,8 @@ CaueViews.addGeoJSONLegend = function(layers, community, category, data, n) {
   var color = data.color || CaueViews.getColorFromFeature(category, n);
   // Initial layer status
   var active = data.active || "false";
+  // Is the layer interactive
+  var interactive = data.interactive || "true";
   // Layer text information property
   var displayText = data.displayText;
   var style = {
@@ -79,9 +81,11 @@ CaueViews.addGeoJSONLegend = function(layers, community, category, data, n) {
   }
 
   onEachFeature = function (feature, layer) {
-    layer.on('click', function(e) {
-      CaueViews.clickLayer(e.target, community, category);
-    });
+    if (interactive != "false") {
+      layer.on('click', function(e) {
+        CaueViews.clickLayer(e.target, community, category);
+      });
+    }
   }
 
   // Add the geojson layer to the map
