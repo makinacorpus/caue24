@@ -91,7 +91,7 @@ CaueViews.addGeoJSONLegend = function(layers, community, category, data, n) {
     if (category == 'geographie') {
       geojsonLayer.bringToFront();
     } else {
-      geojsonLayer.bringToBack();
+      // geojsonLayer.bringToBack();
     }
   }
   // Add it to the layer switcher
@@ -154,7 +154,8 @@ CaueViews.addGeoJSONs = function(community, category) {
       fillOpacity: 0.8,
     };
     // Add the geojson layer to the map
-    L.geoJson(data, {style: style}).addTo(map);
+    var overlay = L.geoJson(data, {style: style}).addTo(map);
+    overlay.bringToBack();
   }).fail(function(jqXHR, textStatus, errorThrown) {
     // Nothing to do, there simply will be no overlay
   });
@@ -174,6 +175,7 @@ CaueViews.addGeoJSONs = function(community, category) {
     var overlay = L.geoJson(data, {style: style}).addTo(map);
     // Adjust the bounds of the map to this geojson
     map.fitBounds(overlay.getBounds());
+    overlay.bringToBack();
   }).fail(function(jqXHR, textStatus, errorThrown) {
     // Nothing to do, there simply will be no overlay
   });
