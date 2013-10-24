@@ -59,7 +59,7 @@ CaueViews.getColorFromFeature = function(category, n) {
   return '#03f';
 }
 
-CaueViews.addGeoJSONLegend = function(layers, category, data, n) {
+CaueViews.addGeoJSONLegend = function(layers, community, category, data, n) {
   // Layer name
   var name = data.name || 'Sans nom';
   // Layer description
@@ -77,8 +77,15 @@ CaueViews.addGeoJSONLegend = function(layers, category, data, n) {
   if (category == 'geographie') {
     style.weight = 4;
   }
+
+  onEachFeature = function (feature, layer) {
+    layer.on('click', function(e) {
+      CaueViews.clickLayer(e.target, community, category);
+    });
+  }
+
   // Add the geojson layer to the map
-  var geojsonLayer = L.geoJson(data, {pointToLayer: CaueViews.pointToLayer, onEachFeature: CaueViews.onEachFeature, style: style});
+  var geojsonLayer = L.geoJson(data, {pointToLayer: CaueViews.pointToLayer, onEachFeature: onEachFeature, style: style});
   if (active == "true") {
     geojsonLayer.addTo(map);
     if (category == 'geographie') {
@@ -188,7 +195,7 @@ CaueViews.addGeoJSONs = function(community, category) {
         }
       }
       // Handle geojson
-      CaueViews.addGeoJSONLegend(layers, category, data, n);
+      CaueViews.addGeoJSONLegend(layers, community, category, data, n);
       // Eventually load next one
       loadUrl(baseUrl, n + 1);
     }).fail(function(jqXHR, textStatus, errorThrown) {
@@ -198,12 +205,6 @@ CaueViews.addGeoJSONs = function(community, category) {
 
   var url = "data/geojson/" + community + "_" + category;
   loadUrl(url, 1);
-}
-
-CaueViews.onEachFeature = function (feature, layer) {
-  layer.on('click', function(e) {
-    CaueViews.clickLayer(e.target);
-  });
 }
 
 CaueViews.pointToLayer = function(featureData, latlng) {
@@ -349,18 +350,18 @@ CaueViews.displayData = function(layer, rawHtml) {
   layer.bindPopup(popup).openPopup();
 };
 
-CaueViews.clickLayer = function(layer) {
+CaueViews.clickLayer = function(layer, community, category) {
   // Get id Jekyll page
   var layerHash = L.Util.hash(layer),
       featureId = layerHash.substring(0, 6);
   // Get page content
   $.ajax({
-    url: "data/features/" + featureId + ".html",
+    url: "data/features/" + community + "/" + category + "/" + featureId + ".html",
     // url: "data/test-page.html",
   }).done(function(data) {
       CaueViews.displayData(layer, data);
   }).fail(function(jqXHR, textStatus, errorThrown) {
-    layer.bindPopup("Créez un contenu pour cet élement en allant sur <a href='http://prose.io/#makinacorpus/caue24/new/gh-pages/data/features/" + featureId + ".md'>cette page</a>.").openPopup();
+    layer.bindPopup("Créez un contenu pour cet élement en allant sur <a href='http://prose.io/#makinacorpus/caue24/new/gh-pages/data/features/" + community + "/" + category + "/" + featureId + ".md'>cette page</a>.").openPopup();
   });
 };
 
