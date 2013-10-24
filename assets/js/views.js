@@ -107,12 +107,13 @@ CaueViews.addInitTexts = function(community, category) {
       popup += $(this)[0].outerHTML;
     });
     if (popup != '') {
-      $.magnificPopup.open({
-        items: {
-          src: '<div id="map-modal">' + popup + '</div>', // can be a HTML string, jQuery object, or CSS selector
-          type: 'inline'
-        }
-      });
+      $('#map-modal .content').html('').append(popup).parent().addClass('open');
+      // $.magnificPopup.open({
+      //   items: {
+      //     src: '<div id="map-modal">' + popup + '</div>', // can be a HTML string, jQuery object, or CSS selector
+      //     type: 'inline'
+      //   }
+      // });
     };
 
     $('#map-infos').html('');
@@ -455,6 +456,10 @@ CaueViews.clickLayer = function(layer) {
       $('body').removeClass().addClass(myCategory);
       // Display map
       CaueViews.displayMapPage(community, myCategory);
+      // Event handler on map-modal close button
+      $('#map-modal .close').on('click', function(){
+        $('#map-modal').removeClass('open');
+      });
       // Nothing else to do
     }
   });
