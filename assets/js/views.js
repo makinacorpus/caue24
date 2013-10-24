@@ -281,7 +281,7 @@ CaueViews.displayHomePage = function() {
       opacity: 1,
       weight: 1,
       fillColor: 'white',
-      fillOpacity: 0.2,
+      fillOpacity: 0.5,
     };
   }
   $.ajax({
