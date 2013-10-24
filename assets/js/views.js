@@ -130,7 +130,7 @@ CaueViews.addInitTexts = function(community, category) {
     });
   }).fail(function(jqXHR, textStatus, errorThrown) {
     $('#map-infos').html("Créez un contenu pour cet élement en allant sur <a href='http://prose.io/#makinacorpus/caue24/new/gh-pages/data/territoires/" + community + "_" + category + ".md'>cette page</a>.");
-    $('#map-photos').html('');
+    $('#map-photos .carousel-inner ul').html('');
   });
 }
 
