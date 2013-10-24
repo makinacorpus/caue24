@@ -201,13 +201,10 @@ CaueViews.addGeoJSONs = function(community, category) {
 }
 
 CaueViews.onEachFeature = function (feature, layer) {
-    if (feature.properties) {
-      var properties = feature.properties;
-      layer.on('click', function(e) {
-        CaueViews.clickLayer(e.target);
-      });
-    }
-  }
+  layer.on('click', function(e) {
+    CaueViews.clickLayer(e.target);
+  });
+}
 
 CaueViews.pointToLayer = function(featureData, latlng) {
   // Use SVG Markers instead of Leaflet standard ones to allow theming
