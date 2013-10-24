@@ -1,0 +1,14 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"name": "Photo témoin",
+"color": "#DDB",
+"active" : "true",
+"displayText": "COMMUNE",
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "COMMUNE": "Rouffignac Saint Cernin de Reilhac", "COMMUNAUTE": "terre de cromagnon", "INSEE_COMM": 24356.0, "ID_CDECOMM": 29.0 }, "geometry": { "type": "Point", "coordinates": [ 0.97668926682347, 45.048110865154747 ] } },
+{ "type": "Feature", "properties": { "COMMUNE": "Mauzens et Miremont", "COMMUNAUTE": "terre de cromagnon", "INSEE_COMM": 24261.0, "ID_CDECOMM": 29.0 }, "geometry": { "type": "Point", "coordinates": [ 0.918806975970119, 44.993217378370403 ] } },
+{ "type": "Feature", "properties": { "COMMUNE": "Les Eyzies de Tayac Sireuil", "COMMUNAUTE": "terre de cromagnon", "INSEE_COMM": 24172.0, "ID_CDECOMM": 29.0 }, "geometry": { "type": "Point", "coordinates": [ 1.012982620479684, 44.935566550917052 ] } }
+]
+}
