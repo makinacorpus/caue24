@@ -340,7 +340,7 @@ CaueViews.displayMapPage = function(community, category) {
   CaueViews.addGeoJSONs(community, category);
 };
 
-CaueViews.displayData = function(layer, rawHtml, id) {
+CaueViews.displayData = function(layer, rawHtml) {
   var dom$ = $(rawHtml);
   // Parse data
   var popup = '';
@@ -360,7 +360,7 @@ CaueViews.clickLayer = function(layer) {
     url: "data/features/" + featureId + ".html",
     // url: "data/test-page.html",
   }).done(function(data) {
-      CaueViews.displayData(layer, data, id);
+      CaueViews.displayData(layer, data);
   }).fail(function(jqXHR, textStatus, errorThrown) {
     layer.bindPopup("Créez un contenu pour cet élement en allant sur <a href='http://prose.io/#makinacorpus/caue24/new/gh-pages/data/features/" + featureId + ".md'>cette page</a>.").openPopup();
   });
