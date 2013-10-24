@@ -2498,6 +2498,9 @@ body[data-state="map"] .leaflet-bottom {
 .leaflet-control-layers-overlays label:last-child {
   margin-bottom: 0;
 }
+.leaflet-control-layers-overlays label {
+  margin-bottom: 0;
+}
 .leaflet-control-layers-overlays input {
   margin-right: 8px;
 }
