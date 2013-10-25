@@ -49,6 +49,6 @@ Territoire touristique incontournable par sa richesse préhistorique, "la vallé
 ![Accueil touristique](data/images/9/portrait/CRO_MAGNON_P4_08.jpg)
 ![Maison de bourg](data/images/9/portrait/CRO_MAGNON_P5_01.jpg)
 ![Bois et pierre](data/images/9/portrait/CRO_MAGNON_P5_02.jpg)
-![Bois et pierre](data/images/9/portrait/CRO_MAGNON_P5_05.jpg)
+![Ferme de polyculture-élevage](data/images/9/portrait/CRO_MAGNON_P5_05.jpg)
 ![Restauration "dans son jus"](data/images/9/portrait/CRO_MAGNON_P5_07.jpg)
 ![Château surplombant la vallée](data/images/9/portrait/CRO_MAGNON_P5_08.jpg)
