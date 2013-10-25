@@ -5,7 +5,7 @@
 "color": "#8B0E13",
 "active": "true",
 "displayText": "TYPE",
-"interactive":"false",
+"interactive":"true",
                                                                                 
 "features": [
 { "type": "Feature", "properties": { "NUMERO": 197.0, "INSEE": "24564", "COMMUNE": "VANXAINS", "PROTECTION": "Cl.MH.", "TYPE": "EGLISE" }, "geometry": { "type": "Point", "coordinates": [ 0.286898051597922, 45.216108210641984 ] } },
