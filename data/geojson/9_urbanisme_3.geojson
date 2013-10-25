@@ -5,6 +5,7 @@
 "color": "#F18700",
 "active": "true",
 "description": "Espaces nécessitant un plan d’aménagement, avec création éventuelle de voiries",
+"interactive":"false",
                                                                                 
 "features": [
 { "type": "Feature", "properties": { "COMMUNE": "saint chamassy", "COMMUNAUTE": "terre de cro magnon", "INSEE_COMM": 24388.0, "ID_CDECOMM": 29.0, "COVISIBILI": "non", "SUP_URBA_H": 2.95, "SITUATION_": "boise", "SITUATION1": "plateau plaine" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 0.9214201510012, 44.87730739113973 ], [ 0.921517118692422, 44.876975780096139 ], [ 0.920880836120539, 44.87712056120909 ], [ 0.919997060000545, 44.877046260927926 ], [ 0.919329217476858, 44.876938739603695 ], [ 0.918669916296599, 44.876993252435902 ], [ 0.918420467985441, 44.877349892169029 ], [ 0.918465809275649, 44.877557382982879 ], [ 0.918784620106625, 44.877957300227557 ], [ 0.919387504452676, 44.878630741869948 ], [ 0.919787694699447, 44.878815795125071 ], [ 0.9214201510012, 44.87730739113973 ] ] ] } },

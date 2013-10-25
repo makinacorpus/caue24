@@ -5,6 +5,7 @@
 "color": "#E30613",
 "active": "true",
 "description": "Situation dans les bourgs et villages ou leurs continuités immédiates",
+"interactive":"false",
                                                                                 
 "features": [
 { "type": "Feature", "properties": { "COMMUNE": "rouffignac saint cernin de reilhac", "COMMUNAUTE": "terre de cro magnon", "INSEE_COMM": 24356.0, "ID_CDECOMM": 29.0, "COVISIBILI": "oui", "SUP_URBA_H": 0.42, "SITUATION_": "clairiere", "SITUATION1": "plateau plaine" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 0.95882295013761, 45.083399673363218 ], [ 0.959590233335819, 45.083697096781741 ], [ 0.960018533869961, 45.083837364268348 ], [ 0.960047038852575, 45.083711765271516 ], [ 0.960090240993969, 45.083505379030385 ], [ 0.960053267761126, 45.083459936877738 ], [ 0.960004266834789, 45.083387355495425 ], [ 0.959966181382436, 45.083386882667767 ], [ 0.959299793357814, 45.083117705032095 ], [ 0.959136092868103, 45.083061691762914 ], [ 0.959096671968307, 45.083115181843993 ], [ 0.959083531651544, 45.083133011868142 ], [ 0.958991549198581, 45.083257821996433 ], [ 0.95882295013761, 45.083399673363218 ] ] ] } },
