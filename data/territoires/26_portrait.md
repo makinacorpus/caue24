@@ -25,4 +25,4 @@ Thenon - 1308 habitants
 La Communauté de Communes Causses et Vézère se situe à équidistance de Périgueux et de Brive. Le territoire présente désormais une dualité entre agriculture, installée sur les plateaux, et industrie implantée dans ses vallées de la Vézère et du Cern.
 
 ## Photos
-
+![Polyculture sur le causse et ferme isolée](/data/images/26/portrait/CAUSSES_VEZERE.jpg)
