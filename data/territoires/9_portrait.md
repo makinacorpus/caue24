@@ -33,7 +33,7 @@ Territoire touristique incontournable par sa richesse préhistorique, "la vallé
 
 ## Photos
 ![Architecture contemporaine](data/images/9/portrait/CROMAGNON_CHEM2.jpg)
-![](data/images/9/portrait/CROMAGNON_CHEM3.jpg)
+![Moulin à eau](data/images/9/portrait/CROMAGNON_CHEM3.jpg)
 ![](data/images/9/portrait/CROMAGNON_CHEM4.jpg)
 ![](data/images/9/portrait/CROMAGNON_CHEM5.jpg)
 ![](data/images/9/portrait/CROMAGNON_CHEM8.jpg)
