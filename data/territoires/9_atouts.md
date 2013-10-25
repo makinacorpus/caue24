@@ -18,3 +18,5 @@ Un Musée National de la Préhistoire, un Pôle international, des chemins de gr
 Que d’atouts  et équipements à vocations de connaissance et touristiques !
 
 ## Photos
+![Protections des patrimoines bâti et paysager](data/images/9/atouts/Carte_atout_bat.jpg)
+![Protections et inventaires du patrimoine naturel](data/images/9/atouts/Carte_atout_nat.jpg)
