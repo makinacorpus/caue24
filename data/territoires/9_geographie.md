@@ -14,7 +14,7 @@ Jusqu’au début du XXème siècle, la matière première des constructions ét
 
 ## Photos
 ![tuiles plates](data/images/9/geographie/CRO_MAGNON_C4_R1.jpg)
-![lauzes](data/images/9/geographie/CRO_MAGNON_C4_R3.jpg)
+![CRO_MAGNON_C4_R2.jpg](/data/images/9/geographie/CRO_MAGNON_C4_R2.jpg)
 ![tuiles mécaniques](data/images/9/geographie/CRO_MAGNON_C4_R3.jpg)
 ![tuiles plates et mécaniques, bandes chaulée sur enduit](data/images/9/geographie/CRO_MAGNON_P16_01.jpg)
 ![maçonnerie en altérites, lucarne et encadrement en pierre de taille](data/images/9/geographie/CRO_MAGNON_P16_07.jpg)
@@ -22,5 +22,6 @@ Jusqu’au début du XXème siècle, la matière première des constructions ét
 ![calcaire grisé dur](data/images/9/geographie/CRO_MAGNON_C4_R7.jpg)
 ![enduit](data/images/9/geographie/CRO_MAGNON_C4_R12.jpg)
 ![calcaire et pierres ferrugineuses](data/9/geographie/images/CRO_MAGNON_C4_R9.jpg)
+
 
 
