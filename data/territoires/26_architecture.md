@@ -4,7 +4,6 @@ published: true
 ---
 
 ## Fenêtre modale
-Cliquez sur les logos de la carte pour découvrir les différentes entités paysagères caractérisant  Terre de Cro-Magnon.
 
 ### Architecture périgordine traditionnelle
 
