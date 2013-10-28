@@ -2813,6 +2813,7 @@ body[data-transition="transition"] #map-photos {
   z-index: 1;
   padding: 20px;
   max-height: 310px;
+  display: none;
   font-size: 12px;
   -webkit-transform-origin: left;
   -moz-transform-origin: left;
@@ -2831,6 +2832,9 @@ body[data-transition="transition"] #map-photos {
   -o-transition: all 0.5s cubic-bezier(0.895 0.03 0.685 0.22);
   -ms-transition: all 0.5s cubic-bezier(0.895 0.03 0.685 0.22);
   transition: all 0.5s cubic-bezier(0.895 0.03 0.685 0.22);
+}
+body[data-state="map"] #map-modal {
+  display: block;
 }
 #map-modal.open {
   -webkit-transform: rotateY(0deg);

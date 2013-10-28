@@ -439,10 +439,15 @@ body.atouts #map-infos {
   z-index: 1;
   padding: 20px;
   max-height: 310px;
+  display: none;
   font-size: 12px;
   .transform-origin (left);
   .transform(rotateY(-103deg));
   .transition(all 0.5s cubic-bezier(0.895, 0.030, 0.685, 0.220));
+
+  body[data-state="map"] & {
+    display: block;
+  }
 
   &.open {
     .transform(rotateY(0deg));
