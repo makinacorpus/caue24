@@ -40,7 +40,7 @@ CaueViews.addLegend = function(category) {
   legend.addTo(map);
 
   // Add Tooltips
-  $('.info.legend div').tooltip();
+  $('.info.legend div').tooltip({container:'body'});
 }
 
 CaueViews.getColorFromFeature = function(category, n) {
@@ -104,7 +104,7 @@ CaueViews.addGeoJSONLegend = function(layers, community, category, data, n) {
   $('.info.legend').append('<div tabindex="0" data-placement="left" data-toggle="tooltip" type="button" data-original-title="' + description + '"><i style="background:' + color + '"></i>' + name + '</div>');
 
   // Add Tooltips
-  $('.info.legend div').tooltip();
+  $('.info.legend div').tooltip({container:'body'});
 }
 
 CaueViews.addInitTexts = function(community, category) {
@@ -118,12 +118,13 @@ CaueViews.addInitTexts = function(community, category) {
       popup += $(this)[0].outerHTML;
     });
     if (popup != '') {
-      $.magnificPopup.open({
-        items: {
-          src: '<div id="map-modal">' + popup + '</div>', // can be a HTML string, jQuery object, or CSS selector
-          type: 'inline'
-        }
-      });
+      $('#map-modal .content').html('').append(popup).parent().addClass('open');
+      // $.magnificPopup.open({
+      //   items: {
+      //     src: '<div id="map-modal">' + popup + '</div>', // can be a HTML string, jQuery object, or CSS selector
+      //     type: 'inline'
+      //   }
+      // });
     };
 
     $('#map-infos').html('');
@@ -140,7 +141,7 @@ CaueViews.addInitTexts = function(community, category) {
     });
   }).fail(function(jqXHR, textStatus, errorThrown) {
     $('#map-infos').html("Créez un contenu pour cet élement en allant sur <a href='http://prose.io/#makinacorpus/caue24/new/gh-pages/data/territoires/" + community + "_" + category + ".md'>cette page</a>.");
-    $('#map-photos').html('');
+    $('#map-photos .carousel-inner ul').html('');
   });
 }
 
@@ -450,6 +451,10 @@ CaueViews.clickLayer = function(layer, community, category) {
       $('body').removeClass().addClass(myCategory);
       // Display map
       CaueViews.displayMapPage(community, myCategory);
+      // Event handler on map-modal close button
+      $('#map-modal .close').on('click', function(){
+        $('#map-modal').removeClass('open');
+      });
       // Nothing else to do
     }
   });

@@ -132,6 +132,10 @@ h1, h2, h3 {
     margin-bottom: 0;
   }
 
+  label {
+    margin-bottom: 0;
+  }
+
   input {
     margin-right: 8px;
   }
@@ -141,6 +145,8 @@ h1, h2, h3 {
 }
 .leaflet-popup-content-wrapper {
   border-radius: 0;
+  max-height: 300px;
+  overflow: auto;
 
   img {
     max-width: 100%!important;
@@ -188,8 +194,10 @@ html, body {
 #wrap {
   width: 100%;
   height: 100%;
-  .perspective(800px);
-  .perspective-origin(right);
+  .perspective(3000px);
+  .perspective-origin(center);
+  position: relative;
+  overflow: hidden;
 }
 #header {
   position: absolute;
@@ -244,10 +252,9 @@ html, body {
   z-index: 1;
   padding: 20px;
   min-height: 310px;
-  // .transition(all 1s cubic-bezier(0.175, 0.885, 0.320, 1.275));
   .transform-origin (right);
-  .transform(rotateY(-90deg));
-  .backface-visibility(hidden);
+  .transform(rotateY(102deg));
+  // .backface-visibility(hidden);
 
   body[data-state="home"] & {
     .transform(rotateY(0deg));
@@ -315,11 +322,12 @@ html, body {
     display: block;
     float: left;
     padding: 15px;
-    .transform(translateY(100%));
-    .transition(all 300ms);
+    top: 100%;
+    position: relative;
+    .transition(top 300ms);
 
     body[data-state="map"] & {
-      .transform(translateY(0));
+      top: 0;
     }
   }
 }
@@ -420,12 +428,54 @@ body.atouts #map-infos {
   line-height: 1em;
 }
 #map-modal {
-  position: relative;
-  background: #FFF;
+  .perspective-origin(left);
+
+  position: absolute;
+  left: 0;
+  right: 70%;
+  top: 25%;
+  background-color: rgba(126, 5, 22, 0.8);
+  color: #fff;
+  z-index: 1;
   padding: 20px;
-  width:auto;
-  max-width: 500px;
-  margin: 20px auto;
+  max-height: 310px;
+  font-size: 12px;
+  .transform-origin (left);
+  .transform(rotateY(-103deg));
+  .transition(all 0.5s cubic-bezier(0.895, 0.030, 0.685, 0.220));
+
+  &.open {
+    .transform(rotateY(0deg));
+  }
+
+  .close {
+    position: absolute;
+    top: 0;
+    right: 0;
+    font-style: normal;
+    font-size: 28px;
+    font-family: Arial, Baskerville, monospace;
+    width: 44px;
+    height: 44px;
+    line-height: 44px;
+    color: white;
+    background: transparent;
+    border: 0;
+    .appearance(none);
+    display: block;
+    outline: none;
+    padding: 0;
+    .box-shadow(none);
+    opacity: 0.8;
+
+    &:hover {
+      opacity: 1;
+    }
+  }
+
+  .content p:first-child {
+    margin-top: 0;
+  }
 }
 .image-source-link {
   color: #98C3D1;
@@ -465,7 +515,10 @@ body.atouts #map-infos {
     display: inline-block;
     font-size: 80%;
     vertical-align: middle;
+    line-height: 15px;
     padding: 0px 10px;
+    height: 30px;
+    overflow: hidden;
   }
 }
 #logos {
