@@ -4,7 +4,6 @@ published: true
 ---
 
 ## Fenêtre modale
-
 Cliquez sur les logos de la carte pour découvrir les photos témoins et l’évolution du bourg du Bugue.
 
 Ce reportage dans le temps met en évidence le caractère immuable et patrimonial du territoire. 
