@@ -4,7 +4,7 @@ published: true
 ---
 
 ## Fenêtre modale
-
+Cliquez sur le trait de coupe pour découvrir le relief
 ## Informations
 ### 3 formations géologiques
 - calcaire dur du jurassique (causse), sols maigres, minces, filtrant
