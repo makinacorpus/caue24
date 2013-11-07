@@ -4,7 +4,7 @@ published: true
 ---
 
 ## Fenêtre modale
-
+cliquez sur le trait de coupe pour découvrir le relief
 ## Informations
 Un territoire est façonné par son sous-sol, son relief et ses rivières.
 
@@ -22,6 +22,3 @@ Jusqu’au début du XXème siècle, la matière première des constructions ét
 ![calcaire grisé dur](data/images/9/geographie/CRO_MAGNON_C4_R7.jpg)
 ![enduit](data/images/9/geographie/CRO_MAGNON_C4_R12.jpg)
 ![calcaire et pierres ferrugineuses](data/images/9/geographie/images/CRO_MAGNON_C4_R9.jpg)
-
-
-
