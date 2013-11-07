@@ -4,6 +4,8 @@ published: true
 ---
 
 ## Fenêtre modale
+Que d’atouts et équipements à vocations de connaissance et touristiques !
+
 
 ## Informations
 ### Atouts contraintes et enjeux
