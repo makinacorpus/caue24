@@ -341,14 +341,13 @@ CaueViews.displayMapPage = function(community, category) {
 
 CaueViews.displayData = function(layer, rawHtml) {
   var dom$ = $(rawHtml);
-  console.log(dom$);
   // Parse data
   var popup = '';
   $.each(dom$, function() {
     popup = popup + $(this)[0].outerHTML;
   });
   // Open popup
-  layer.bindPopup(popup).openPopup();
+  layer.bindPopup(popup, {autoPanPadding:[0,50]}).openPopup();
 };
 
 CaueViews.clickLayer = function(layer, community, category) {
@@ -362,7 +361,7 @@ CaueViews.clickLayer = function(layer, community, category) {
   }).done(function(data) {
       CaueViews.displayData(layer, data);
   }).fail(function(jqXHR, textStatus, errorThrown) {
-    layer.bindPopup("Créez un contenu pour cet élement en allant sur <a href='http://prose.io/#makinacorpus/caue24/new/gh-pages/data/features/" + community + "/" + category + "/" + featureId + ".md'>cette page</a>.").openPopup();
+    layer.bindPopup("Créez un contenu pour cet élement en allant sur <a href='http://prose.io/#makinacorpus/caue24/new/gh-pages/data/features/" + community + "/" + category + "/" + featureId + ".md'>cette page</a>.", {autoPanPadding:[0,50]}).openPopup();
   });
 };
 
@@ -429,6 +428,22 @@ CaueViews.clickLayer = function(layer, community, category) {
                 return element.find('img');
               }
             }
+          });
+
+          // Init lightbox on gallery carousel
+          $('body').on('click', '.leaflet-popup-content-wrapper img', function() {
+            var _this = this;
+            
+            $.magnificPopup.open({
+              items: {
+                src: $(_this).attr('src')
+              },
+              type: 'image',
+              mainClass: 'mfp-with-zoom',
+              image: {
+                verticalFit: true
+              }
+            });
           });
         });
       }

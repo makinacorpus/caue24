@@ -2480,6 +2480,7 @@ body[data-state="map"] .leaflet-bottom {
 .leaflet-popup-content-wrapper img {
   max-width: 100%!important;
   height: auto;
+  cursor: pointer;
 }
 #maplist img {
   width: 32px;
