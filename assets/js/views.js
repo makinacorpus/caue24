@@ -139,6 +139,9 @@ CaueViews.addInitTexts = function(community, category) {
         $('#map-photos ul').append(item);
       });
     });
+
+    // Set category class on body field so everything is correctly themed
+    $('body').removeClass().addClass(category);
   }).fail(function(jqXHR, textStatus, errorThrown) {
     $('#map-infos').html("Créez un contenu pour cet élement en allant sur <a href='http://prose.io/#makinacorpus/caue24/new/gh-pages/data/territoires/" + community + "_" + category + ".md'>cette page</a>.");
     $('#map-photos .carousel-inner ul').html('');
@@ -447,8 +450,6 @@ CaueViews.clickLayer = function(layer, community, category) {
       });
       // Change active category
       $('.nav li.' + myCategory).addClass('active');
-      // Set category class on body field so everything is correctly themed
-      $('body').removeClass().addClass(myCategory);
       // Display map
       CaueViews.displayMapPage(community, myCategory);
       // Event handler on map-modal close button
