@@ -75,6 +75,8 @@ CaueViews.addGeoJSONLegend = function(layers, community, category, data, n) {
   var style = {
     "color": color,
     "weight": 1,
+    "fillOpacity": 0.4,
+    "opacity": 0.8,
   };
   if (category == 'geographie') {
     style.weight = 4;
