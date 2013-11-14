@@ -2798,10 +2798,11 @@ body[data-transition="transition"] #map-photos {
   background-color: rgba(126, 5, 22, 0.8);
   color: #fff;
   z-index: 1;
-  padding: 20px;
-  max-height: 310px;
+  padding: 10px 20px;
+  max-height: 41%;
   display: none;
   font-size: 12px;
+  overflow: auto;
   -webkit-transform-origin: left;
   -moz-transform-origin: left;
   -o-transform-origin: left;
@@ -2856,9 +2857,6 @@ body[data-state="map"] #map-modal {
 }
 #map-modal .close:hover {
   opacity: 1;
-}
-#map-modal .content p:first-child {
-  margin-top: 0;
 }
 .image-source-link {
   color: #98C3D1;

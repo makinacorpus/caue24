@@ -127,7 +127,9 @@ CaueViews.addInitTexts = function(community, category) {
       //     type: 'inline'
       //   }
       // });
-    };
+    } else {
+      $('#map-modal .content').removeClass('open');
+    }
 
     $('#map-infos').html('');
     $.each(dom$.find('h2').nextAll('h2').first().nextUntil('h2'), function () {
