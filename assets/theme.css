@@ -2730,6 +2730,7 @@ body.histoire #map-infos {
 }
 body.urbanisme #map-infos {
   background-color: #a7d028;
+  color: black;
 }
 body.architecture #map-infos {
   background-color: #2dcfd5;
