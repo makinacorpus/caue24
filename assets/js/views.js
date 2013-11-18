@@ -135,10 +135,15 @@ CaueViews.addInitTexts = function(community, category) {
     $.each(dom$.find('h2').nextAll('h2').first().nextUntil('h2'), function () {
       $('#map-infos').append($(this)[0].outerHTML);
     });
+
     $('#map-savoir-plus').html('');
     $.each(dom$.find('h2#en_savoir_plus').first().nextUntil('h2'), function () {
       $('#map-savoir-plus').append($(this)[0].outerHTML);
     });
+
+    if ($('#map-savoir-plus').text().length != '') {
+      $('#map-infos').append('<a id="more" href="#map-savoir-plus">En savoir plus</a>');
+    };
     
     $('#map-photos .carousel-inner ul').html('');
     $.each(dom$.find('h2').last().nextAll(), function () {
@@ -438,7 +443,7 @@ CaueViews.clickLayer = function(layer, community, category) {
             }
           });
 
-          // Init lightbox on gallery carousel
+          // Init lightbox on popup images
           $('body').on('click', '.leaflet-popup-content-wrapper img', function() {
             var _this = this;
             
@@ -452,6 +457,13 @@ CaueViews.clickLayer = function(layer, community, category) {
                 verticalFit: true
               }
             });
+          });
+
+          $('#map-infos').magnificPopup({
+            delegate: '#more',
+            type: 'inline',
+            overflowY: 'auto',
+            mainClass: 'mfp-with-zoom'
           });
         });
       }

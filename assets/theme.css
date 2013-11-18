@@ -2720,6 +2720,13 @@ body[data-transition="transition"] #map-infos {
 #map-infos p {
   margin-top: 0;
 }
+#map-infos a {
+  color: black;
+  text-decoration: underline;
+}
+#map-infos a:hover {
+  text-decoration: none;
+}
 body.portrait #map-infos {
   background-color: #ef5259;
 }
@@ -2732,6 +2739,9 @@ body.histoire #map-infos {
 body.urbanisme #map-infos {
   background-color: #a7d028;
   color: black;
+}
+body.urbanisme #map-infos h3 {
+  border-bottom-color: black;
 }
 body.architecture #map-infos {
   background-color: #2dcfd5;
@@ -2857,6 +2867,14 @@ body[data-state="map"] #map-modal {
 }
 #map-modal .close:hover {
   opacity: 1;
+}
+#map-savoir-plus {
+  background: white;
+  padding: 20px 30px;
+  text-align: left;
+  max-width: 400px;
+  margin: 40px auto;
+  position: relative;
 }
 .image-source-link {
   color: #98C3D1;

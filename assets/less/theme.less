@@ -378,6 +378,15 @@ html, body {
   p {
     margin-top: 0;
   }
+
+  a {
+    color: black;
+    text-decoration: underline;
+
+    &:hover {
+      text-decoration: none;
+    }
+  }
 }
 body.portrait #map-infos {
   background-color: @portrait;
@@ -391,6 +400,9 @@ body.histoire #map-infos {
 body.urbanisme #map-infos {
   background-color: @urbanisme;
   color: black;
+   h3 {
+    border-bottom-color: black;
+   }
 }
 body.architecture #map-infos {
   background-color: @architecture;
@@ -502,6 +514,16 @@ body.atouts #map-infos {
     }
   }
 }
+
+#map-savoir-plus {
+  background: white;
+  padding: 20px 30px;
+  text-align: left;
+  max-width: 400px;
+  margin: 40px auto;
+  position: relative;
+}
+
 .image-source-link {
   color: #98C3D1;
 }
