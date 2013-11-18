@@ -135,6 +135,10 @@ CaueViews.addInitTexts = function(community, category) {
     $.each(dom$.find('h2').nextAll('h2').first().nextUntil('h2'), function () {
       $('#map-infos').append($(this)[0].outerHTML);
     });
+    $('#map-savoir-plus').html('');
+    $.each(dom$.find('h2#en_savoir_plus').first().nextUntil('h2'), function () {
+      $('#map-savoir-plus').append($(this)[0].outerHTML);
+    });
     
     $('#map-photos .carousel-inner ul').html('');
     $.each(dom$.find('h2').last().nextAll(), function () {

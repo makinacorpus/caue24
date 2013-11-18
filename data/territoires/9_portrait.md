@@ -31,6 +31,9 @@ Terre de Cro Magon est située à 30km au Sud Est de Périgueux.
 
 Territoire touristique incontournable par sa richesse préhistorique, "la vallée de l'homme" est un  des sites majeurs du département par la splendeur de ses paysages et de son architecture.
 
+## En savoir plus
+C'est juste un test de Simon.
+
 ## Photos
 ![La vallée de la Vézère](data/images/9/portrait/CRO_MAGNON_croquis.jpg)
 ![Clairière agricole et habitat en ligne de crête](data/images/9/portrait/CRO_MAGNON_P3_01.jpg)
