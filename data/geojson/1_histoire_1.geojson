@@ -1,0 +1,13 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "COMMUNE": "Saint Astier", "INSEE_COMM": 24372.0, "ID_CDECOMM": 1.0, "P�RIODE": "2000 - 2010", "SITUATION": "Vallée" }, "geometry": { "type": "Point", "coordinates": [ 0.524192487439973, 45.146807634213246 ] } },
+{ "type": "Feature", "properties": { "COMMUNE": "Léguillac de l'Auche", "INSEE_COMM": 24236.0, "ID_CDECOMM": 1.0, "P�RIODE": "2000 - 2010", "SITUATION": "Coteau" }, "geometry": { "type": "Point", "coordinates": [ 0.552822638313297, 45.189327164156019 ] } },
+{ "type": "Feature", "properties": { "COMMUNE": "Saint Astier", "INSEE_COMM": 24372.0, "ID_CDECOMM": 1.0, "P�RIODE": "1970 - 2000", "SITUATION": "Coteau" }, "geometry": { "type": "Point", "coordinates": [ 0.500635283505984, 45.145925647250522 ] } },
+{ "type": "Feature", "properties": { "COMMUNE": "Montrem", "INSEE_COMM": 24295.0, "ID_CDECOMM": 1.0, "P�RIODE": "1970 - 2000", "SITUATION": "Vallée" }, "geometry": { "type": "Point", "coordinates": [ 0.56372184199867, 45.152826608184228 ] } },
+{ "type": "Feature", "properties": { "COMMUNE": "Saint Léon sur l'Isle", "INSEE_COMM": 24442.0, "ID_CDECOMM": 1.0, "P�RIODE": "1832 - 1970", "SITUATION": "Vallée" }, "geometry": { "type": "Point", "coordinates": [ 0.500014728513395, 45.116600383783712 ] } },
+{ "type": "Feature", "properties": { "COMMUNE": "Chantérac", "INSEE_COMM": 24104.0, "ID_CDECOMM": 1.0, "P�RIODE": "1832 - 1970", "SITUATION": "Coteau" }, "geometry": { "type": "Point", "coordinates": [ 0.44609751521884, 45.17257136300438 ] } }
+]
+}
