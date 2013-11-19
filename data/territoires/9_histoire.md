@@ -9,6 +9,16 @@ Cliquez sur les logos de la carte pour découvrir les photos témoins et l’év
 Ce reportage dans le temps met en évidence le caractère immuable et patrimonial du territoire. 
 
 Le patrimoine bâti se pare d’un écrin végétal de plus en plus abondant. Les villages se sont généralement peu transformés, seuls les bourgs les plus importants ont évolué avec un fort développement de l’habitat pavillonnaire.
+Cliquez sur les logos de la carte pour découvrir les photos témoins et l’évolution du bourg du Bugue.
+
+Ce reportage dans le temps met en évidence le caractère immuable et patrimonial du territoire. 
+
+Le patrimoine bâti se pare d’un écrin végétal de plus en plus abondant. Les villages se sont généralement peu transformés, seuls les bourgs les plus importants ont évolué avec un fort développement de l’habitat pavillonnaire.
+Cliquez sur les logos de la carte pour découvrir les photos témoins et l’évolution du bourg du Bugue.
+
+Ce reportage dans le temps met en évidence le caractère immuable et patrimonial du territoire. 
+
+Le patrimoine bâti se pare d’un écrin végétal de plus en plus abondant. Les villages se sont généralement peu transformés, seuls les bourgs les plus importants ont évolué avec un fort développement de l’habitat pavillonnaire.
 
 ## Informations
 Terre de Cro-Magnon est essentiellement composée de bourgs à structure médiévale et de fermes isolées. Les nombreux châteaux et maisons fortes témoignent d’une nécessité d’implantation défensive sur ce territoire aux vallons étroits, tortueux, et aux collines boisées et escarpées.
