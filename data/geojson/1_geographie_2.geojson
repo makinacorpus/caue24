@@ -1,6 +1,10 @@
 {
 "type": "FeatureCollection",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"name": "bourg",
+"color": "#1D1D1B",
+"active": "true",
+"description": "localisation des centres bourgs des communes",
                                                                                 
 "features": [
 { "type": "Feature", "properties": { "COMMUNE": "Saint Léon sur l'Isle" }, "geometry": { "type": "Point", "coordinates": [ 0.499567583469333, 45.116287055822994 ] } },
