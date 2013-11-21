@@ -173,6 +173,7 @@ CaueViews.addGeoJSONs = function(community, category) {
       weight: 3,
       fillColor: 'white',
       fillOpacity: 0.6,
+      clickable: false,
     };
     // Add the geojson layer to the map
     L.geoJson(data, {style: style}).addTo(map);
