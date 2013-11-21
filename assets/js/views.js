@@ -142,7 +142,7 @@ CaueViews.addInitTexts = function(community, category) {
     });
 
     if ($('#map-savoir-plus').text().length != '') {
-      $('#map-infos').append('<a id="more" href="#map-savoir-plus">En savoir plus</a>');
+      $('#map-infos').append('<a id="more" href="#map-savoir-plus">&gt;&gt; En savoir plus</a>');
     };
     
     $('#map-photos .carousel-inner ul').html('');

@@ -2723,6 +2723,7 @@ body[data-transition="transition"] #map-infos {
 #map-infos a {
   color: black;
   text-decoration: underline;
+  font-size: 20px;
 }
 #map-infos a:hover {
   text-decoration: none;
