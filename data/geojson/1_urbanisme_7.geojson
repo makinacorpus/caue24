@@ -1,6 +1,10 @@
 {
 "type": "FeatureCollection",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"name": "Bâtiment agricole",
+"color": "#52AE32",
+"active": "true",
+"description": "texte",
                                                                                 
 "features": [
 { "type": "Feature", "properties": { "ID_CDECOMM": 1.0, "DENOM": "Batiment Agricole" }, "geometry": { "type": "Point", "coordinates": [ 0.4139561090687, 45.059922006693114 ] } },
