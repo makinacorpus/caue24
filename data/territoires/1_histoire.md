@@ -4,11 +4,27 @@ published: false
 ---
 
 ## Fenêtre modale
-Cliquez sur les logos de la carte pour découvrir les photos témoins et l’évolution du bourg du Bugue.
+### De 1832 à 2013, Isle Vern Salembre en Périgord a connu une forte évolution urbaine, liée à son dynamisme économique.
 
-Ce reportage dans le temps met en évidence le caractère immuable et patrimonial du territoire. 
+La carte présente ce développement en 4 périodes : avant 1832 (cadastre napoléonien), de 1832 à 1970, de 1970 à 2000 et de 2000 à 2013. 
+
+**Cliquez sur les repères de la carte pour découvrir des détails exemplaires de cette évolution.**
+
 
 ## Informations
+
+### Evolution urbaine
+
+**avant 1832** (cadastre napoléonien), implantation de l’habitat de manière éparse en fermes isolées au milieu de leurs terres, villages agglomérés autour de l’église.
+
+**de 1832 à 1970**, forte expansion dans la vallée de l’Isle avec le développement industriel et l’apparition des transports motorisés. Sur les coteaux, modernisation des fermes, installation des premiers pavillons à leurs abords et à ceux des villages 
+
+**de 1971 à 2000**, très importantes surfaces nouvellement urbanisées pour la création d’habitat. Implantation sur de grands terrains le long des voies existantes en vallée comme sur les coteaux, avec la généralisation de l’automobile.
+
+**de 2000 à 2013**, remplissage des dents creuses et densification des îlots en vallée. Sur les coteaux, constructions continuant de s’implanter de manière éparse sur de grands terrains, au détriment de l’espace agricole.
+
+
+**Découvrons les types d’urbanisations au travers du diaporama.**
 
 
 ## En savoir plus
