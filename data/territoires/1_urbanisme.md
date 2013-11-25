@@ -6,7 +6,7 @@ published: false
 ## Fenêtre modale
 ## Informations
 ## En savoir plus
-**Un point sur la communauté de communes en 2013**
+## Un point sur la communauté de communes en 2013
 
 Les communes connaissent une augmentation de population (7% en 10 ans), excepté St-Astier depuis la disparition des dernières usines de chaussures dans les années 2000.
 
@@ -32,7 +32,7 @@ Qualification des espaces constructibles :
 Enfin, 14% des terrains situés en ligne de crête ou sur les pentes des coteaux calcaires Nord et Sud , en forte covisibilité
 
 
-**Documents d’urbanisme de la communauté en 2013**
+## Documents d’urbanisme de la communauté en 2013
 
 Plan Local d’Urbanisme approuvé ou en cours de validation dans les communes de
 Chantérac, Douzillac, Léguillac-de-l’Auche, Montrem, Neuvic-sur-l’Isle, St-Astier, St-Germain-du-Salembre,  Sourzac et St-Léon-sur-l’Isle 
