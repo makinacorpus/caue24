@@ -21,17 +21,17 @@ CaueViews.addLegend = function(category) {
   legend.onAdd = function (map) {
     var div = L.DomUtil.create('div', 'info legend');
     if (category == 'geographie') {
-      div.innerHTML += '<div tabindex="0" data-placement="left" data-toggle="tooltip" type="button" data-original-title="Alluvions en fond de vallée : dépôts de sédiments apportés par la rivière offrant des sols fertiles mais inondables"><i style="background:#EAE2E1"></i>Alluvions</div>';
-      div.innerHTML += '<div tabindex="0" data-placement="left" data-toggle="tooltip" type="button" data-original-title="Terrasses alluvionnaires : terres fertiles et propices aux grandes cultures"><i style="background:#C2B6B3"></i>Terrasses alluviales</div>';
-      div.innerHTML += '<div tabindex="0" data-placement="left" data-toggle="tooltip" type="button" data-original-title="Altérites : résultat de l’érosion du calcaire et formant des sables grossiers, sols souvent couverts par des bois"><i style="background:#FFE595"></i>Altérites et colluvions</div>';
-      div.innerHTML += '<div tabindex="0" data-placement="left" data-toggle="tooltip" type="button" data-original-title="Sables résiduels, galets, graviers, sables, argiles, issus de l’altération de la roche couvert en polyculture-élevage ou en bois"><i style="background:#FABF51"></i>Dépôts superficiels et sables</div>';
-      div.innerHTML += '<i style="background:#D5BAD7"></i>Calcaires du Tertiaire<br />';
-      div.innerHTML += '<i style="background:#86608E"></i>Molasses du Tertiaire<br />';
-      div.innerHTML += '<i style="background:#89C17A"></i>Calcaires du Crétacé<br />';
-      div.innerHTML += '<i style="background:#4B97CD"></i>Calcaires du Jurassique<br />';
-      div.innerHTML += '<i style="background:#C17F92"></i>Roches sédimentaires du Primaire<br />';
-      div.innerHTML += '<i style="background:#F19EB7"></i>Roches métamorphiques du Primaire<br />';
-      div.innerHTML += '<i style="background:#DE6EA1"></i>Roches granitiques du Primaire<br />';
+      div.innerHTML += '<div tabindex="0" data-placement="left" data-toggle="tooltip" type="button" data-original-title="Sédiments déposés en fond de vallée par les cours d’eau et composés d’une fraction fine argileuse et limoneuse parfois mêlée à des éléments plus grossiers (sables, graviers, galets)"><i style="background:#EAE2E1"></i>Alluvions</div>';
+      div.innerHTML += '<div tabindex="0" data-placement="left" data-toggle="tooltip" type="button" data-original-title="Replats situés en vallée ou en versant, représentant les restes des anciens lits du cours d’eau qui s’est enfoncé (dépôts fluviatiles d’argiles, sables, graviers, galets)"><i style="background:#C2B6B3"></i>Terrasses alluviales</div>';
+      div.innerHTML += '<div tabindex="0" data-placement="left" data-toggle="tooltip" type="button" data-original-title="Formation de recouvrement généralement argilo-sableuse provenant de l’altération des roches sous-jacentes avec présence de débris de calcaires remaniés, silex, concrétions ferrugineuses et souvent mêlée à des formations superficiels (sables, graviers, galets)"><i style="background:#FFE595"></i>Altérites et colluvions</div>';
+      div.innerHTML += '<div tabindex="0" data-placement="left" data-toggle="tooltip" type="button" data-original-title="Formation meuble composée d’argiles, sables, graviers galets, issus d’anciens dépôts détritiques fluviatiles du tertiaire."><i style="background:#FABF51"></i>Dépôts superficiels et sables</div>';
+      div.innerHTML += '<div tabindex="0" data-placement="left" data-toggle="tooltip" type="button" data-original-title="Calcaires d’origine lacustre généralement durs présents dans le Bergeracois"><i style="background:#D5BAD7"></i>Calcaires du Tertiaire</div>';
+      div.innerHTML += '<div tabindex="0" data-placement="left" data-toggle="tooltip" type="button" data-original-title="Formation sédimentaire meuble sablo-argileuses souvent carbonatée. Dans le Bergeracois, les molasses et calcaires lacustres se superposent"><i style="background:#86608E"></i>Molasses du Tertiaire</div>';
+      div.innerHTML += '<div tabindex="0" data-placement="left" data-toggle="tooltip" type="button" data-original-title="Calcaires hétérogènes du crétacé durs à tendres parfois gréseux, marneux ou crayeux formés durant la transgression marine au crétacé"><i style="background:#89C17A"></i>Calcaires du Crétacé</div>';
+      div.innerHTML += '<div tabindex="0" data-placement="left" data-toggle="tooltip" type="button" data-original-title="Calcaires généralement durs à très durs parfois marneux et gréseux (calcaires du Lias) formés durant l’occupation marine du jurassique"><i style="background:#4B97CD"></i>Calcaires du Jurassique</div>';
+      div.innerHTML += '<div tabindex="0" data-placement="left" data-toggle="tooltip" type="button" data-original-title="Formation géologique composée pour l’essentiel de grès"><i style="background:#C17F92"></i>Roches sédimentaires du Primaire</div>';
+      div.innerHTML += '<div tabindex="0" data-placement="left" data-toggle="tooltip" type="button" data-original-title="Formation diversifiée gneiss dominants, schistes, micaschistes et roches diverses"><i style="background:#F19EB7"></i>Roches métamorphiques du Primaire</div>';
+      div.innerHTML += '<div tabindex="0" data-placement="left" data-toggle="tooltip" type="button" data-original-title="Formation composée pour l’essentiel de granit (roche grenue très dure), dont l’altération conduit localement à la formation d’arènes granitiques"><i style="background:#DE6EA1"></i>Roches granitiques du Primaire</div>';
     }
 
     return div;
