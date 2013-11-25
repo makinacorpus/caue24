@@ -4,9 +4,21 @@ published: false
 ---
 
 ## Fenêtre modale
+### 5 entités paysagères :
+MARGE DE LA DOUBLE, COTEAUX CALCAIRES NORD, VALLEE DE L’ISLE, COTEAUX CALCAIRES SUD, MARGE DU LANDAIS caractérisent Isle Vern Salembre en Périgord.
+Elles traduisent des perceptions propres à une organisation spécifique du relief, de la forêt, de l’agriculture et de l’implantation humaine du territoire.
+**Découvrez les ainsi que les photos d’ambiances paysagères correspondantes en cliquant sur la carte**
+Construire aujourd’hui ? Restaurer un ancien bâtiment ? quel style d’architecture choisir ? quelle marque ou pas à laisser dans le paysage ?
 
+ ## Informations
+### De l’architecture traditionnelle à la contemporaine
+Des questions à se poser pour construire aujourd’hui :
+- Une maison d’inspiration traditionnelle.
+Comment s’inspirer des détails architecturaux traditionnels tout en créant une maison actuelle ? L’inspiration de l’architecture rurale, avec sa simplicité de volume et ses toitures en tuiles canal ne doit pas conduire systématiquement à l’image d’un pavillon «standard».  
+- Une maison d’inspiration contemporaine
+Quels matériaux choisir en harmonie avec l’environnement ? Comment créer un plan plus libre avec de grandes ouvertures éclairant largement les espaces intérieurs sans faire «bâtiment public» ?
+**Le diaporama illustre ces interrogations**
 
-## Informations
 
 ## En savoir plus
 ### L’architecture traditionnelle
