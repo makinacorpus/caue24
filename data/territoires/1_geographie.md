@@ -8,7 +8,8 @@ published: false
 
 La carte représente les 4 types de sous-sol composant le territoire : les formations sablo-argileuses et graveleuses, le calcaire crétacé, les altérites argilo-sableuses, les terrasses alluviales et les alluvions de fond de vallée.
 
-A chaque repère sur la carte correspond un grand type de paysage. **Cliquez dessus pour les découvrir.**
+A chaque repère sur la carte correspond un grand type de paysage.
+**Cliquez dessus pour les découvrir.**
 
 
 ## Informations
