@@ -67,7 +67,4 @@ Sur les coteaux par contre les constructions continuent, selon les schémas ant�
 Le choix de grands espaces et de vues lointaines oriente les acquéreurs vers les terrains situés sur les pentes et sommets de coteaux. Ceci se ressent particulièrement plus aux abords de la Communauté d’Agglomération Périgourdine. L’architecture s’affranchit de la copie de l’architecture traditionnelle au profit du pavillon plus ou moins contemporain.
 
 
-
-
-
 ## Photos
