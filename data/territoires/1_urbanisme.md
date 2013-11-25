@@ -6,7 +6,7 @@ published: false
 ## Fenêtre modale
 ## Informations
 ## En savoir plus
-## Un point sur la communauté de communes en 2013
+### Un point sur la communauté de communes en 2013
 
 Les communes connaissent une augmentation de population (7% en 10 ans), excepté St-Astier depuis la disparition des dernières usines de chaussures dans les années 2000.
 
