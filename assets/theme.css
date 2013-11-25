@@ -2736,6 +2736,10 @@ body.geographie #map-infos {
 }
 body.histoire #map-infos {
   background-color: #f1b847;
+  color: black;
+}
+body.histoire #map-infos h3 {
+  border-bottom-color: black;
 }
 body.urbanisme #map-infos {
   background-color: #a7d028;
@@ -2746,6 +2750,10 @@ body.urbanisme #map-infos h3 {
 }
 body.architecture #map-infos {
   background-color: #2dcfd5;
+  color: black;
+}
+body.architecture #map-infos h3 {
+  border-bottom-color: black;
 }
 body.atouts #map-infos {
   background-color: #7c4bb4;
