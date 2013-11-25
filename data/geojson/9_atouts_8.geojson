@@ -3,8 +3,8 @@
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "name": "Site archéologie préventive",
 "color": "#CECDCD",
-"active": "false",
-"interactive":"true",
+"active": "true",
+"interactive":"false",
                                                                                 
 "features": [
 { "type": "Feature", "properties": { "FID": 0.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 0.494364382024378, 45.111467933352834 ], [ 0.494134184501433, 45.111896005453183 ], [ 0.494604088667844, 45.111903808297988 ], [ 0.494716707025081, 45.111572759154832 ], [ 0.494364382024378, 45.111467933352834 ] ] ] } },
