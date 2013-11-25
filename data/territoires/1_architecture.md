@@ -10,7 +10,7 @@ Elles traduisent des perceptions propres à une organisation spécifique du reli
 **Découvrez les ainsi que les photos d’ambiances paysagères correspondantes en cliquant sur la carte**
 Construire aujourd’hui ? Restaurer un ancien bâtiment ? quel style d’architecture choisir ? quelle marque ou pas à laisser dans le paysage ?
 
- ## Informations
+## Informations
 ### De l’architecture traditionnelle à la contemporaine
 Des questions à se poser pour construire aujourd’hui :
 - Une maison d’inspiration traditionnelle.
