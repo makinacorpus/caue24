@@ -4,7 +4,7 @@ published: true
 ---
 
 ## Fenêtre modale
-cliquez sur le trait de coupe pour découvrir le relief
+Cliquez sur le trait de coupe pour découvrir le relief.
 
 ## Informations
 Un territoire est façonné par son sous-sol, son relief et ses rivières.
