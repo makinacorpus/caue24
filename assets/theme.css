@@ -2870,6 +2870,10 @@ body[data-state="map"] #map-modal {
 #map-modal .close:hover {
   opacity: 1;
 }
+#more {
+  position: absolute;
+  right: 15px;
+}
 #map-savoir-plus {
   background: white;
   padding: 20px 30px;
