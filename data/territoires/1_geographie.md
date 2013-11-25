@@ -7,7 +7,7 @@ published: false
 
 ## Informations
 ## En savoir plus
-### 3 thèmes forts identifient aussi le paysage d’Isle Vern Salembre en Périgord
+### **3 thèmes forts identifient aussi le paysage d’Isle Vern Salembre en Périgord**
 
 **La polyculture-élevage**
 Le système agricole local est composé de grandes, moyennes et petites exploitations traditionnelles essentiellement en polyculture-élevage. Quelques variantes sur certains secteurs : par exemple la vallée du Vern est fortement axée sur l’élevage bovin. Le Nord-Est est occupé par de grandes exploitations très dynamiques dans les alentours de la Beauronne, l’agriculture est en déprise tandis que la forêt est largement exploitée.
