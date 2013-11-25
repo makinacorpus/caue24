@@ -4,7 +4,7 @@
 "name": "Monument inscrit ou classé",
 "color": "#8B0E13",
 "active": "true",
-"displayText": "TYPE",
+"description": "protection loi du 31 décembre 1913",
 "interactive":"true",
                                                                                 
 "features": [
