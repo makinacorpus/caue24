@@ -4,8 +4,27 @@ published: false
 ---
 
 ## Fenêtre modale
+### Des espaces naturels ou bâtis sont reconnus et protégés sur le territoire Isle Vern Salembre en Périgord.
+
+A ces espaces reconnus s’ajoutent ceux non reconnus liés à son passé industriel et à son cadre de vie actuel.
+
+La carte présente les différents secteurs protégés aussi bien naturels que bâtis. 
+
+**Cliquez sur chacun d’eux pour connaître leur identité.**
+
+
+
 
 ## Informations
+### DES PATRIMOINES BATIS ET NATURELS
+
+Patrimoines reconnus : Espaces naturels reconnus ou protégés au titre de NATURA 2000 ou des ZNIEFF type 1 ou 2 et patrimoine bâti de qualité et protégé (églises et châteaux) mais peu connu.
+
+Patrimoines non reconnus : Patrimoines, remarquables mais non classés, des anciens bâtiments industriels ayant profondément marqué l’histoire du XXème siècle : usines le long de la rivière, fours à chaux, moulins…
+Patrimoine du quotidien : un territoire agricole (polyculture élevage, forêt en production, riches terres arables…), industriel (voies de communications, activités industrielles) et d’habitat rural (fours, puits...) dans un cadre de vie agréable.
+
+**Le diaporama illustre ces éléments patrimoniaux.**
+
 
 ## En savoir plus
 
@@ -26,6 +45,7 @@ Créée par arrêté préfectoral après accord du conseil municipal, la ZPAUP c
 
 
 ### Un territoire agricole et industriel, un cadre de vie agréable
+
 La majorité de la Communauté de communes est vouée à la polyculture-élevage et à la forêt de production.
 Dans la vallée de l’Isle, riche en terres arables, se juxtaposent aussi les voies de communication (rivière, chemin de fer, routes et autoroute)  les espaces d’activités industrielles ainsi que les espaces habités. Bien que la vallée ne couvre qu’une faible partie du territoire, elle marque son identité et regroupe la majorité de sa population 
 
