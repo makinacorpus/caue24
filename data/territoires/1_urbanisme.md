@@ -5,12 +5,12 @@ published: false
 
 ## Fenêtre modale
 ### Toutes les communes possèdent un document d’urbanisme en 2013
-La carte présente les terrains constructibles de ces documents  aux travers 
+La carte présente les terrains constructibles de ces documents aux travers 
 4 grands types de zones :
-- ZONES URBAINES ( ZONES AGGLOMEREES ET EXTENSIONS)  30% des espaces constructibles
-- ZONES DIFFUSES 46% des espaces constructibles
-- ZONES A AMENAGER 11% des espaces constructibles 
-- ZONES ARTISANALES ET DE LOISIRS 13 % des espaces constructibles
+- ZONES URBAINES ( ZONES AGGLOMEREES ET EXTENSIONS)  30% 
+- ZONES DIFFUSES 46% 
+- ZONES A AMENAGER 11%  
+- ZONES ARTISANALES ET DE LOISIRS 13 % 
 
 Répartition géographique des espaces constructibles : 
 - en vallée 53%
