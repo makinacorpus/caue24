@@ -4,6 +4,7 @@ published: false
 ---
 
 ## Fenêtre modale
+
 ### De 1832 à 2013, Isle Vern Salembre en Périgord a connu une forte évolution urbaine, liée à son dynamisme économique.
 
 La carte présente ce développement en 4 périodes : avant 1832 (cadastre napoléonien), de 1832 à 1970, de 1970 à 2000 et de 2000 à 2013. 
