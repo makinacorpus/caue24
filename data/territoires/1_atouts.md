@@ -9,7 +9,7 @@ published: false
 
 ## En savoir plus
 
-Sous-titre  Les protections et inventaires des patrimoines naturels et bâtis du territoire 
+Les protections et inventaires des patrimoines naturels et bâtis du territoire 
 Les espaces naturels du territoire sont reconnus ou protégés au titre de NATURA 2000 ou des ZNIEFF type 1 ou 2, (la forêt du Salembre, les cours d’eau, les coteaux de Léguillac… ). À ce patrimoine naturel du quotidien s’ajoute le patrimoine bâti de qualité et protégé (églises et châteaux et ZPPAUP de St-Astier) mais peu connu.  
 
 NATURA 2000 : Réseau de sites écologiques dont les objectifs sont de préserver la diversité biologique et de valoriser le patrimoine naturel.
@@ -37,5 +37,3 @@ Dans la vallée de l’Isle, riche en terres arables, se juxtaposent aussi les v
 Un patrimoine remarquable mais non classé, constitué des anciens bâtiments industriels, a profondément marqué l’histoire du XXème siècle du territoire : usines le long de la rivière, fours à chaux, moulins…
 
 ## Photos
-
-
