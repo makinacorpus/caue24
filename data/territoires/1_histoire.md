@@ -35,13 +35,13 @@ L’habitat s’implantait de manière éparse en fermes isolées au milieu de l
 
 ### De 1832 à 1970 : Un siècle de forte expansion dans la vallée de l’Isle
 Avec l’apparition des transports motorisés (train, voiture) et le développement industriel, l’expansion urbaine a été plus marquée en vallée de l’Isle que sur les coteaux.
+
 **DANS LA VALLEE**
 Dans les bourgs et hameaux, l’habitat est groupé et plutôt dense. Les activités industrielles, initialement implantées sur le bord de l’eau pour sa force motrice, se déplacent le long de la voie de chemin de fer offrant de nouvelles possibilités économiques. 
 Les premiers lotissements ouvriers se créent. La maison individuelle apparaît, souvent à étage et complétée d’un garage.
 
 **SUR LES COTEAUX**
 Des fermes dispersées aux petits hameaux denses, l’habitat traditionnel est toujours dominant. Les fermes s’agrandissent pour répondre aux besoins de la mécanisation. Dans les années 1960, la maison individuelle fait son apparition dans quelques hameaux. Elle est souvent le symbole de réussite sociale des ouvriers-paysans, elle est encore anecdotique.
-
 
 ### De 1970 à 2000 : Un développement important mais pas structurant
 Pendant cette période, les surfaces nouvellement urbanisées ont été les plus importantes. Elles concernent la création d’habitat. L’industrie en déclin n’a pas développé de nouvelles zones artisanales.
@@ -71,4 +71,3 @@ Le choix de grands espaces et de vues lointaines oriente les acquéreurs vers le
 
 
 ## Photos
-![mouton](data/images/26/histoire/CAUSSESVEZERE_P14_02.jpg)
