@@ -5,6 +5,7 @@
 "color": "#52AE32",
 "active": "true",
 "description": "texte",
+"interactive": "false",
                                                                                 
 "features": [
 { "type": "Feature", "properties": { "ID_CDECOMM": 1.0, "DENOM": "Batiment Agricole" }, "geometry": { "type": "Point", "coordinates": [ 0.4139561090687, 45.059922006693114 ] } },
