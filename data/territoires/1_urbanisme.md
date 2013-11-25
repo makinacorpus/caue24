@@ -7,10 +7,10 @@ published: false
 ### Toutes les communes possèdent un document d’urbanisme en 2013
 La carte présente les terrains constructibles de ces documents aux travers 
 4 grands types de zones :
-- ZONES URBAINES ( ZONES AGGLOMEREES ET EXTENSIONS)  30% 
-- ZONES DIFFUSES 46% 
-- ZONES A AMENAGER 11%  
-- ZONES ARTISANALES ET DE LOISIRS 13 % 
+- Zones urbaines( zones agglomérées et extensions)  30% 
+- Zones diffuses 46% 
+- Zones à aménager 11%  
+- Zones artisanales et de loisirs 13 % 
 
 Répartition géographique des espaces constructibles : 
 - en vallée 53%
@@ -29,7 +29,6 @@ Enfin, 14% des terrains situés en ligne de crête ou sur les pentes des coteaux
 
 ## Informations
 ### Quel terrain ? quelle maison ?
-
 Des questions à se poser en rapport avec les situations géographiques, forestières et de covisibilité des terrains :
 - Comment adapter des pavillons de plain-pied sur les terrains pentus ? 
 28% des terrains constructibles situés dans la pente.
@@ -49,11 +48,10 @@ Les communes connaissent une augmentation de population (7% en 10 ans), excepté
 La surface des terrains est d’environ 2000m2 à 2500m2 dans les documents d’urbanisme existants, elle baisse actuellement dans les PLU en cours d’élaboration pour atteindre 800m2 à 1000m2.
 
 **Rappel des zones constructibles**
-
-- ZONES URBAINES ( ZONES AGGLOMEREES ET EXTENSIONS)  30% des espaces constructibles
-- ZONES DIFFUSES 46% des espaces constructibles
-- ZONES A AMENAGER 11% des espaces constructibles 
-- ZONES ARTISANALES ET DE LOISIRS 13 % des espaces constructibles
+- Zones urbaines( zones agglomérées et extensions)  30% 
+- Zones diffuses 46% 
+- Zones à aménager 11%  
+- Zones artisanales et de loisirs 13 % 
 
 **Répartition géographique des espaces constructibles :**
 - en vallée 53%
