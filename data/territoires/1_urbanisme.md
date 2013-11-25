@@ -3,8 +3,9 @@ layout: page
 published: false
 ---
 
-## A New Post
-
+## Fenêtre modale
+## Informations
+## En savoir plus
 **Un point sur la communauté de communes en 2013**
 
 Les communes connaissent une augmentation de population (7% en 10 ans), excepté St-Astier depuis la disparition des dernières usines de chaussures dans les années 2000.
@@ -48,5 +49,3 @@ Certaines zones constructibles peuvent également être affectées par les règl
 
 Un Plan de Prévention des Risques, ou PPR, est une servitude d'utilité publique de droit français.
 Le PPR est un document réalisé par l’État qui réglemente l’utilisation des sols à l'échelle communale, en fonction des risques auxquels ils sont soumis. Cette réglementation va de l’interdiction de construire à la possibilité de construire sous certaines conditions.
-
-
