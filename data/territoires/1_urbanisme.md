@@ -12,20 +12,20 @@ Les communes connaissent une augmentation de population (7% en 10 ans), excepté
 
 La surface des terrains est d’environ 2000m2 à 2500m2 dans les documents d’urbanisme existants, elle baisse actuellement dans les PLU en cours d’élaboration pour atteindre 800m2 à 1000m2.
 
-Rappel des zones constructibles
+**Rappel des zones constructibles**
 
 - ZONES URBAINES ( ZONES AGGLOMEREES ET EXTENSIONS)  30% des espaces constructibles
 - ZONES DIFFUSES 46% des espaces constructibles
 - ZONES A AMENAGER 11% des espaces constructibles 
 - ZONES ARTISANALES ET DE LOISIRS 13 % des espaces constructibles
 
-Répartition géographique des espaces constructibles : 
+**Répartition géographique des espaces constructibles :**
 - en vallée 53%
 - sur les pentes 28%
 - sur les plateaux 11%
 - en ligne de crête 8%
 
-Qualification des espaces constructibles :
+**Qualification des espaces constructibles :**
 - 75% non boisés,
 - 13% en clairière,
 - 12% boisés.
