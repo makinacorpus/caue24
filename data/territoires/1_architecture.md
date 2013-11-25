@@ -47,3 +47,12 @@ La maison contemporaine peut s’affranchir de toute référence traditionnelle 
 
 
 ## Photos
+![Maison traditionnelle à étage](/data/images/1/architecture/1_architecture_1.jpg)
+![Maison à rez-de-chaussée et combles avec fenestrous](/data/images/1/architecture/1_architecture_2.jpg)
+![Maison traditionnelle à toiture mansardée](/data/images/1/architecture/1_architecture_3.jpg)
+![Restauration à l'identique](/data/images/1/architecture/1_architecture_4.jpg)
+![Pavillon et abords](/data/images/1/architecture/1_architecture_5.jpg)
+![Maison bois inspirée des hangars à tabac](/data/images/1/architecture/1_architecture_6.jpg)
+![Maison contemporaine, couleur ](/data/images/1/architecture/1_architecture_7.jpg)
+![Construction bois contemporaine](/data/images/1/architecture/1_architecture_8.jpg)
+![Pavillon bois avec annexe séparée](/data/images/1/architecture/1_architecture_9.jpg)
