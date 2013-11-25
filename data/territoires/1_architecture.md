@@ -4,7 +4,7 @@ published: false
 ---
 
 ## Fenêtre modale
-### ### 5 entités paysagères : MARGE DE LA DOUBLE, COTEAUX CALCAIRES NORD, VALLEE DE L’ISLE, COTEAUX CALCAIRES SUD, MARGE DU LANDAIS caractérisent Isle Vern Salembre en Périgord.
+### 5 entités paysagères : Marge de la Double, Coteaux calcaires Nord, Vallée de L’Isle, Coteaux calcaires Sud, Marge du Landais caractérisent Isle Vern Salembre en Périgord.
 
 Elles traduisent des perceptions propres à une organisation spécifique du relief, de la forêt, de l’agriculture et de l’implantation humaine du territoire.
 
@@ -19,6 +19,7 @@ Des questions à se poser pour construire aujourd’hui :
 Comment s’inspirer des détails architecturaux traditionnels tout en créant une maison actuelle ? L’inspiration de l’architecture rurale, avec sa simplicité de volume et ses toitures en tuiles canal ne doit pas conduire systématiquement à l’image d’un pavillon «standard».  
 - Une maison d’inspiration contemporaine
 Quels matériaux choisir en harmonie avec l’environnement ? Comment créer un plan plus libre avec de grandes ouvertures éclairant largement les espaces intérieurs sans faire «bâtiment public» ?
+
 **Le diaporama illustre ces interrogations**
 
 
