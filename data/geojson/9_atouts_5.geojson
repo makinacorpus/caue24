@@ -3,6 +3,7 @@
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "name": "ZNIEFF de type 1",
 "color": "#7AB51D",
+"description" : "Zones Naturelles d’Intérêt Ecologique Faunistique et Floristique",
 "active": "false",
 "interactive":"true",
                                                                                 

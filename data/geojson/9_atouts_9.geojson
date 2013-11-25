@@ -3,6 +3,7 @@
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "name": "Forêt",
 "active": "false",
+"description": "Réseau européen de sites écologiques",
 "color": "#6BBFB2",
 "interactive":"true",
                                                                                 
