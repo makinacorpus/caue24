@@ -82,3 +82,8 @@ Certaines zones constructibles peuvent également être affectées par les règl
 
 **Un Plan de Prévention des Risques, ou PPR**, est une servitude d'utilité publique de droit français.
 Le PPR est un document réalisé par l’État qui réglemente l’utilisation des sols à l'échelle communale, en fonction des risques auxquels ils sont soumis. Cette réglementation va de l’interdiction de construire à la possibilité de construire sous certaines conditions.
+
+## Photos
+![Implantation dans la plaine ou dans la pente ?](data/images/1/urbanisme/1_urbanisme_1.jpg)
+![Terrain pentu : adaptation nécessaire à la pente](data/images/1/urbanisme/1_urbanisme_2.jpg)
+![Vision de loin : attention covisibilité](data/images/1/urbanisme/1_urbanisme_3.jpg)
