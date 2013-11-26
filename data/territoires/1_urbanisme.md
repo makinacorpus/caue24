@@ -80,6 +80,7 @@ Beauronne, Grignols, Jaure, Manzac-sur-Vern, St-Aquilin, St-Jean-d’Ataux, St-S
 La carte communale est un document d’urbanisme simple qui délimite les secteurs de la commune où les permis de construire peuvent être délivrés .
 Contrairement au PLU, elle ne peut pas réglementer de façon détaillée les modalités d’implantation sur les parcelles (types de constructions autorisées, densités, règles de recul, aspect des constructions, stationnement, espaces verts…) et elle ne peut contenir des orientations d’aménagement. Ce sont les dispositions du règlement national d’urbanisme qui s’y appliquent.
 
+**Consulter votre document d'urbanisme en ligne**
 [Géoportail de l'urbanisme d'Aquitaine](http://ids.pigma.org/mapfishapp/?wmc=http://ids.pigma.org/public/urbanisme_pigma.wmc "Consulter votre document d'urbanisme en ligne")
 
 **PPRI (Plan de Prévention des Risques d’Inondation)**
