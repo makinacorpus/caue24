@@ -90,3 +90,4 @@ Le PPR est un document réalisé par l’État qui réglemente l’utilisation d
 ![Implantation dans la plaine ou dans la pente ?](data/images/1/urbanisme/1_urbanisme_1.jpg)
 ![Terrain pentu : adaptation nécessaire à la pente](data/images/1/urbanisme/1_urbanisme_2.jpg)
 ![Vision de loin : attention covisibilité](data/images/1/urbanisme/1_urbanisme_3.jpg)
+![Maisons individuelles sur petit terrain en lotissement](data/images/1/urbanisme/1_urbanisme_4.jpg)
