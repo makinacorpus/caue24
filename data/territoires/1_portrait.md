@@ -31,22 +31,22 @@ Ce territoire doit cependant être attentif à la pression foncière qui risque 
 ## En savoir plus
 ### 4 thèmes forts identifient Isle Vern Salembre en Périgord
 
-**L’eau**
+**L’eau : **
 Rivières, ruisseaux, canaux, barrages, écluses, bâtiments industriels,
 espaces de loisirs…, tel est le paysage lié à l’eau dans la vallée de l’Isle et ses affluents.
 La présence de l’eau se traduit sur les plateaux sous forme de mares, d’étangs ou de puits
 
-**L’agriculture**
+**L’agriculture : **
 Polyculture-élevage, grandes et petites parcelles.
 Champs de maïs et de blés, prairies, cultures de fleurs, potagers,
 élevages de canard, volaille, bovin…
 Le paysage est ainsi varié tout au long de l’année.
 
-**Le bois**
+**Le bois : **
 Forêt sur les plateaux pauvres en marge de la Double et bois sur les sommets de collines calcaires couvrent une grande partie du territoire. 
 Le bois utilisé en colombage dans l’architecture traditionnelle l’est sous d’autres formes dans l’architecture contemporaine.
 
-**Le bâti**
+**Le bâti : **
 Des villages tout au long de la vallée, d’autres à flanc de coteaux.
 Des fermes isolées en plaine comme sur les coteaux. 
 Le XXème siècle, par son dynamisme industriel, a marqué le territoire tant par ses constructions industrielles que par ses habitations.
@@ -54,7 +54,7 @@ Le XXème siècle, par son dynamisme industriel, a marqué le territoire tant pa
 
 
 ## Photos
-![Vallée de l'Isle, colonne vertébrale du territoire](data/images/1/portrait/1_portrait_00.jpg)
+![Vallée de l’Isle, colonne vertébrale du territoire](data/images/1/portrait/1_portrait_00.jpg)
 ![Ruisseau](data/images/1/portrait/1_portrait_01.jpg)
 ![Pont sur l’Isle](data/images/1/portrait/1_portrait_02.jpg)
 ![Vallée de l’Isle](data/images/1/portrait/1_portrait_03.jpg)
