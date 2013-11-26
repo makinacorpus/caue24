@@ -30,10 +30,13 @@ Enfin, 14% des terrains situés en ligne de crête ou sur les pentes des coteaux
 ## Informations
 ### Quel terrain ? quelle maison ?
 Des questions à se poser en rapport avec les situations géographiques, forestières et de covisibilité des terrains :
+
 - Comment adapter des pavillons de plain-pied sur les terrains pentus ? 
 28% des terrains constructibles situés dans la pente.
+
 - Comment réaliser une maison en correspondance avec le paysage ?
 14% des terrains  en covisibilité sur le haut des pentes ou en ligne de crête. Toute construction y est très visible. 
+
 - Comment s’implanter sur son terrain pour avoir des espaces extérieurs privatifs ? Quels sont les avantages d’une implantation en limite de propriété ?
 53%  des terrains situés en vallée avec des dimensions de plus en plus modestes. 
 
