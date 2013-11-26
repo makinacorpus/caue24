@@ -1,27 +1,16 @@
 {
 "type": "FeatureCollection",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"name": "Point altimétrique",
+"name": "Photos représentation",
 "color": "#E30613",
 "active": "true",
-"description": "Altitude exprimée en mètre",
+"interactive": "true",
+"description": "prises de vue depuis les sites",
                                                                                 
 "features": [
-{ "type": "Feature", "properties": { "ALTITUDE": 210.0 }, "geometry": { "type": "Point", "coordinates": [ 0.446936379120287, 45.19167069322107 ] } },
-{ "type": "Feature", "properties": { "ALTITUDE": 180.0 }, "geometry": { "type": "Point", "coordinates": [ 0.424624351116868, 45.163322582901614 ] } },
-{ "type": "Feature", "properties": { "ALTITUDE": 70.0 }, "geometry": { "type": "Point", "coordinates": [ 0.386591272853501, 45.105036915025401 ] } },
-{ "type": "Feature", "properties": { "ALTITUDE": 50.0 }, "geometry": { "type": "Point", "coordinates": [ 0.396042181833155, 45.062849078328128 ] } },
-{ "type": "Feature", "properties": { "ALTITUDE": 210.0 }, "geometry": { "type": "Point", "coordinates": [ 0.512667504704332, 45.176419933544558 ] } },
-{ "type": "Feature", "properties": { "ALTITUDE": 60.0 }, "geometry": { "type": "Point", "coordinates": [ 0.476722565380266, 45.104380208476414 ] } },
-{ "type": "Feature", "properties": { "ALTITUDE": 150.0 }, "geometry": { "type": "Point", "coordinates": [ 0.426238716208804, 45.041985794835604 ] } },
-{ "type": "Feature", "properties": { "ALTITUDE": 90.0 }, "geometry": { "type": "Point", "coordinates": [ 0.519292436065353, 45.07149747161067 ] } },
-{ "type": "Feature", "properties": { "ALTITUDE": 90.0 }, "geometry": { "type": "Point", "coordinates": [ 0.573463074025344, 45.08104579184463 ] } },
-{ "type": "Feature", "properties": { "ALTITUDE": 140.0 }, "geometry": { "type": "Point", "coordinates": [ 0.56095138934482, 45.193776358056517 ] } },
-{ "type": "Feature", "properties": { "ALTITUDE": 214.0 }, "geometry": { "type": "Point", "coordinates": [ 0.587467716226997, 45.111454271169244 ] } },
-{ "type": "Feature", "properties": { "ALTITUDE": 70.0 }, "geometry": { "type": "Point", "coordinates": [ 0.556568511969557, 45.157804888010752 ] } },
-{ "type": "Feature", "properties": { "ALTITUDE": 130.0 }, "geometry": { "type": "Point", "coordinates": [ 0.468334795121852, 45.168007731217088 ] } },
-{ "type": "Feature", "properties": { "ALTITUDE": 150.0 }, "geometry": { "type": "Point", "coordinates": [ 0.429318730867775, 45.134384457284391 ] } },
-{ "type": "Feature", "properties": { "ALTITUDE": 150.0 }, "geometry": { "type": "Point", "coordinates": [ 0.351924936355049, 45.084500186364984 ] } },
-{ "type": "Feature", "properties": { "ALTITUDE": 220.0 }, "geometry": { "type": "Point", "coordinates": [ 0.564528736574758, 45.044949451979299 ] } }
+{ "type": "Feature", "properties": { "ID_CC2014": 1.0, "TOPONYMIE_": "La ferme aux chevaux", "COMMUNE": "Saint Astier" }, "geometry": { "type": "Point", "coordinates": [ 0.531439008195146, 45.151145683574804 ] } },
+{ "type": "Feature", "properties": { "ID_CC2014": 1.0, "TOPONYMIE_": "Grand tallet", "COMMUNE": "Beauronne" }, "geometry": { "type": "Point", "coordinates": [ 0.343122035142306, 45.100125079367778 ] } },
+{ "type": "Feature", "properties": { "ID_CC2014": 1.0, "TOPONYMIE_": "Gouraud", "COMMUNE": "Saint Astier" }, "geometry": { "type": "Point", "coordinates": [ 0.481490867782264, 45.162946453054325 ] } },
+{ "type": "Feature", "properties": { "ID_CC2014": 1.0, "TOPONYMIE_": "La tourtonnie", "COMMUNE": "Sourzac" }, "geometry": { "type": "Point", "coordinates": [ 0.442570546363764, 45.055105960517182 ] } }
 ]
 }
