@@ -1,10 +1,10 @@
 {
 "type": "FeatureCollection",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"name": "Exemple d'Žvolution",
+"name": "Exemple d'évolution",
 "color": "#36d05a",
 "active": "true",
-"description": "Photos comparatives sur 2 Ã©poques et avec le mÃªme angle de vue",
+"description": "Photos comparatives sur 2 époques et avec le même angle de vue",
                                                                                 
 "features": [
 { "type": "Feature", "properties": { "COMMUNE": "Saint Astier", "INSEE_COMM": 24372.0, "ID_CDECOMM": 1.0, "Pï¿½RIODE": "2000 - 2010", "SITUATION": "VallÃ©e" }, "geometry": { "type": "Point", "coordinates": [ 0.524192487439973, 45.146807634213246 ] } },
