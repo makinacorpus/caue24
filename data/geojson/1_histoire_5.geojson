@@ -2,9 +2,10 @@
 "type": "FeatureCollection",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "name": "Urbanisation post 2000",
-"color": "#E30613",
-"active": "true",
+"color": "#E2001A",
+"active": "false",
 "description": "Période de construction postérieure à l'année 2000",
+"interactive": "false",
                                                                                 
 "features": [
 { "type": "Feature", "properties": { "RECNUM": 117.0, "PERIODE": "Post 2000" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 0.517092240811647, 45.145026884415245 ], [ 0.517521067927558, 45.145132888685175 ], [ 0.51774975190838, 45.144749728600132 ], [ 0.51799949324841, 45.144888787950762 ], [ 0.518261061185701, 45.145055033975822 ], [ 0.518737655134128, 45.144477980055342 ], [ 0.5176441542486, 45.144091155858618 ], [ 0.517272745284012, 45.144561954975323 ], [ 0.517348108371327, 45.144590183627251 ], [ 0.517092240811647, 45.145026884415245 ] ] ] } },

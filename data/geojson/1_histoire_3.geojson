@@ -2,9 +2,10 @@
 "type": "FeatureCollection",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "name": "Urbanisation entre 1832 et 1970",
-"color": "#E30613",
-"active": "true",
+"color": "#993300",
+"active": "false",
 "description": "Période de construction comprise entre 1832 et 1970",
+"interactive": "false",
                                                                                 
 "features": [
 { "type": "Feature", "properties": { "RECNUM": 69.0, "PERIODE": "1832 - 1970" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 0.518614423745103, 45.133471623275291 ], [ 0.518311559182534, 45.133403677156643 ], [ 0.518020223988967, 45.133371910356786 ], [ 0.517661300801801, 45.133851910327003 ], [ 0.518177509057464, 45.134004334170747 ], [ 0.518614423745103, 45.133471623275291 ] ] ] } },
