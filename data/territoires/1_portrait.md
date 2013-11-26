@@ -54,3 +54,20 @@ Le XXème siècle, par son dynamisme industriel, a marqué le territoire tant pa
 
 
 ## Photos
+![Vallée de l'Isle, colonne vertébrale du territoire](data/images/1/portrait/1_portrait_00.jpg)
+![Ruisseau](data/images/1/portrait/1_portrait_01.jpg)
+![Pont sur l’Isle](data/images/1/portrait/1_portrait_02.jpg)
+![Vallée de l’Isle](data/images/1/portrait/1_portrait_03.jpg)
+![Industrie liée à l’eau](data/images/1/portrait/1_portrait_04.jpg)
+![Grand paysage cultivé](data/images/1/portrait/1_portrait_05.jpg)
+![Elevage bovin](data/images/1/portrait/1_portrait_06.jpg)
+![Potager](data/images/1/portrait/1_portrait_07.jpg)
+![Implantation du bâti agricole traditionnel](/data/images/1/portrait/1_portrait_08.jpg)
+![Construction traditionnelle en bois et en pierre](data/images/1/portrait/1_portrait_09.jpg)
+![Pelouse calcaire](data/images/1/portrait/1_portrait_10.jpg)
+![Massif boisé](data/images/1/portrait/1_portrait_11.jpg)
+![Exploitation du bois](data/images/1/portrait/1_portrait_12.jpg)
+![Urbanisation en vallée](data/images/1/portrait/1_portrait_13.jpg)
+![Four à chaux](data/images/1/portrait/1_portrait_14.jpg)
+![Clocher repère dans le paysage](data/images/1/portrait/1_portrait_15.jpg)
+![Toiture mansardée](data/images/1/portrait/1_portrait_16.jpg)
