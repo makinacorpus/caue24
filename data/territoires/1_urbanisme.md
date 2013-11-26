@@ -5,7 +5,7 @@ published: true
 
 ## Fenêtre modale
 ### Toutes les communes possèdent un document d’urbanisme en 2013
-La carte présente les terrains constructibles de ces documents aux travers 
+La carte présente les terrains constructibles de ces documents aux travers de
 4 grands types de zones :
 - Zones urbaines( zones agglomérées et extensions)  30% 
 - Zones diffuses 46% 
@@ -22,7 +22,7 @@ Qualification des espaces constructibles :
 - 75% non boisés,
 - 13% en clairière,
 - 12% boisés.
-Enfin, 14% des terrains situés en ligne de crête ou sur les pentes des coteaux calcaires Nord et Sud , en forte co visibilité
+Enfin, 14% des terrains situés en ligne de crête ou sur les pentes des coteaux calcaires Nord et Sud , en forte covisibilité
 
 **Cliquez sur chaque commune pour découvrir le document d’urbanisme en vigueur**
 
@@ -51,7 +51,7 @@ Les communes connaissent une augmentation de population (7% en 10 ans), excepté
 La surface des terrains est d’environ 2000m2 à 2500m2 dans les documents d’urbanisme existants, elle baisse actuellement dans les PLU en cours d’élaboration pour atteindre 800m2 à 1000m2.
 
 **Rappel des zones constructibles**
-- Zones urbaines( zones agglomérées et extensions)  30% 
+- Zones urbaines(zones agglomérées et extensions)  30% 
 - Zones diffuses 46% 
 - Zones à aménager 11%  
 - Zones artisanales et de loisirs 13 % 
@@ -63,8 +63,8 @@ La surface des terrains est d’environ 2000m2 à 2500m2 dans les documents d’
 - en ligne de crête 8%
 
 **Qualification des espaces constructibles :**
-- 75% non boisés,
-- 13% en clairière,
+- 75% non boisés
+- 13% en clairière
 - 12% boisés.
 Enfin, 14% des terrains situés en ligne de crête ou sur les pentes des coteaux calcaires Nord et Sud , en forte covisibilité
 
