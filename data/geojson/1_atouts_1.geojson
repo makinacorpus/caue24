@@ -5,6 +5,9 @@
 "color": "#8B0E13",
 "active": "true",
 "interactive":"true",
+"description": "Protection des monuments historiques loi du 31 décembre 1913",
+
+                                                                                
                                                                                 
 "features": [
 { "type": "Feature", "properties": { "NUMERO": 121.0, "INSEE": "24309", "COMMUNE": "NEUVIC", "PROTECTION": "Cl.MH.", "TYPE": "CHATEAU" }, "geometry": { "type": "Point", "coordinates": [ 0.475339226103039, 45.103574194293202 ] } },
