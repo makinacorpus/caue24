@@ -62,7 +62,7 @@ Le XXème siècle, par son dynamisme industriel, a marqué le territoire tant pa
 ![Grand paysage cultivé](data/images/1/portrait/1_portrait_05.jpg)
 ![Elevage bovin](data/images/1/portrait/1_portrait_06.jpg)
 ![Potager](data/images/1/portrait/1_portrait_07.jpg)
-![Implantation du bâti agricole traditionnel](/data/images/1/portrait/1_portrait_08.jpg)
+![Implantation du bâti agricole traditionnel](data/images/1/portrait/1_portrait_08.jpg)
 ![Construction traditionnelle en bois et en pierre](data/images/1/portrait/1_portrait_09.jpg)
 ![Pelouse calcaire](data/images/1/portrait/1_portrait_10.jpg)
 ![Massif boisé](data/images/1/portrait/1_portrait_11.jpg)
