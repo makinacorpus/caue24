@@ -3,6 +3,6 @@ layout: page
 published: false
 ---
 
-**Château de Mauriac**
+**Eglise à Beauronne**
 
 Monument inscrit, Inv MH
