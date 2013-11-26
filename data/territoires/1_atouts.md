@@ -57,8 +57,9 @@ Un patrimoine remarquable mais non classé, constitué des anciens bâtiments in
 ![Une industrie ancienne toujours active](data/images/1/atouts/1_atouts_2.jpg)
 ![Un riche patrimoine bâti au bord de l’Isle](data/images/1/atouts/1_atouts_3.jpg)
 ![Des coteaux calcaires identitaires](data/images/1/atouts/1_atouts_4.jpg)
-![Barrage sur l'Isle, rivière et cadre de vie ](data/images/1/atouts/1_atouts_5.jpg)
+![Barrage sur l’Isle, rivière et cadre de vie ](data/images/1/atouts/1_atouts_5.jpg)
 ![Polyculture, territoire agricole](data/images/1/atouts/1_atouts_6.jpg)
 ![Piste forestière](data/images/1/atouts/1_atouts_7.jpg)
-![patrimoine du quotidien : puits bâti](data/images/1/atouts/1_atouts_9.jpg) ![patrimoine restauré: lavoir couvert](data/images/1/atouts/1_atouts_10.jpg) ![moulin à eau](data/images/1/atouts/1_atouts_11.jpg)
-
+![patrimoine restauré: lavoir couvert](data/images/1/atouts/1_atouts_11.jpg)
+![patrimoine du quotidien : puits bâti](data/images/1/atouts/1_atouts_9.jpg) 
+![moulin à eau](data/images/1/atouts/1_atouts_10.jpg)
