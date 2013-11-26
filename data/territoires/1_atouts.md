@@ -61,5 +61,5 @@ Un patrimoine remarquable mais non classé, constitué des anciens bâtiments in
 ![Polyculture, territoire agricole](data/images/1/atouts/1_atouts_6.jpg)
 ![Piste forestière](data/images/1/atouts/1_atouts_7.jpg)
 ![patrimoine restauré: lavoir couvert](data/images/1/atouts/1_atouts_11.jpg)
-![patrimoine du quotidien : puits bâti](data/images/1/atouts/1_atouts_9.jpg) 
-![moulin à eau](data/images/1/atouts/1_atouts_10.jpg)
+![patrimoine du quotidien : puits bâti](data/images/1/atouts/1_atouts_10.jpg)
+![moulin à eau](data/images/1/atouts/1_atouts_9.jpg) 
