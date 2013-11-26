@@ -15,8 +15,10 @@ Construire aujourd’hui ? Restaurer un ancien bâtiment ? quel style d’archit
 ## Informations
 ### De l’architecture traditionnelle à la contemporaine
 Des questions à se poser pour construire aujourd’hui :
+
 - Une maison d’inspiration traditionnelle.
-Comment s’inspirer des détails architecturaux traditionnels tout en créant une maison actuelle ? L’inspiration de l’architecture rurale, avec sa simplicité de volume et ses toitures en tuiles canal ne doit pas conduire systématiquement à l’image d’un pavillon «standard».  
+Comment s’inspirer des détails architecturaux traditionnels tout en créant une maison actuelle ? L’inspiration de l’architecture rurale, avec sa simplicité de volume et ses toitures en tuiles canal ne doit pas conduire systématiquement à l’image d’un pavillon «standard». 
+
 - Une maison d’inspiration contemporaine
 Quels matériaux choisir en harmonie avec l’environnement ? Comment créer un plan plus libre avec de grandes ouvertures éclairant largement les espaces intérieurs sans faire «bâtiment public» ?
 
