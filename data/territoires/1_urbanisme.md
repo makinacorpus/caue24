@@ -69,7 +69,7 @@ La surface des terrains est d’environ 2000m2 à 2500m2 dans les documents d’
 Enfin, 14% des terrains situés en ligne de crête ou sur les pentes des coteaux calcaires Nord et Sud , en forte covisibilité
 
 
-### Documents d’urbanisme de la communauté en 2013
+### Documents d’urbanisme de la communauté de communes en 2013
 
 **Plan Local d’Urbanisme**, approuvé ou en cours de validation dans les communes de Chantérac, Douzillac, Léguillac-de-l’Auche, Montrem, Neuvic-sur-l’Isle, St-Astier, St-Germain-du-Salembre,  Sourzac et St-Léon-sur-l’Isle 
 Le plan local d’urbanisme (PLU) est un document d’urbanisme qui, à l’échelle d’une commune ou d’un groupement de communes (EPCI), établit un projet global d’urbanisme et d’aménagement et fixe en conséquence les règles générales d’utilisation du sol sur le territoire considéré.
@@ -79,7 +79,7 @@ Beauronne, Grignols, Jaure, Manzac-sur-Vern, St-Aquilin, St-Jean-d’Ataux, St-S
 
 La carte communale est un document d’urbanisme simple qui délimite les secteurs de la commune où les permis de construire peuvent être délivrés .
 Contrairement au PLU, elle ne peut pas réglementer de façon détaillée les modalités d’implantation sur les parcelles (types de constructions autorisées, densités, règles de recul, aspect des constructions, stationnement, espaces verts…) et elle ne peut contenir des orientations d’aménagement. Ce sont les dispositions du règlement national d’urbanisme qui s’y appliquent.
-
+[Géoportail de l'urbanisme d'Aquitaine](http://ids.pigma.org/mapfishapp/?wmc=http://ids.pigma.org/public/urbanisme_pigma.wmc)
 **PPRI (Plan de Prévention des Risques d’Inondation)**
 Certaines zones constructibles peuvent également être affectées par les règlements du Plan de Prévention des Risques d’Inondation de la vallée de l’Isle
 
