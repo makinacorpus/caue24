@@ -1,6 +1,6 @@
 ---
 layout: page
-published: false
+published: true
 ---
 
 ## Fenêtre modale
@@ -60,5 +60,3 @@ Un patrimoine remarquable mais non classé, constitué des anciens bâtiments in
 ![Barrage sur l'Isle, rivière et cadre de vie ](data/images/1/atouts/1_atouts_5.jpg)
 ![Polyculture, territoire agricole](data/images/1/atouts/1_atouts_6.jpg)
 ![Piste forestière](data/images/1/atouts/1_atouts_7.jpg)
- 
-
