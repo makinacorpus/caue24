@@ -36,11 +36,11 @@ A l’ouest, la forêt est gérée et diversifiée. A l’Est et au Sud du terri
 Dans la vallée de l’Isle, de grandes peupleraies gagnent de plus en plus sur les terres agricoles. Dans les vallées secondaires du Nord, le boisement est signe de déprise agricole.
 
 ## Photos
-![mur en pierre cacaire avec enduit couleur du sable local](data/images/1/geographie/1_geographie_1.jpg)
-![mur en pierre calcaire assisée](data/images/1/geographie/1_geographie_2.jpg)
+![Mur en pierre cacaire avec enduit couleur du sable local](data/images/1/geographie/1_geographie_1.jpg)
+![Mur en pierre calcaire assisée](data/images/1/geographie/1_geographie_2.jpg)
 ![appareillage en moellons tout venant ou "têtes de chat"](data/images/1/geographie/1_geographie_3.jpg)
-![calcaire taillé des riches demeures](data/images/1/geographie/1_geographie_4.jpg)
-![bois, bricous et tuiles : sols sans calcaire](data/images/1/geographie/1_geographie_5.jpg)
-![tuiles plates et canal issues des tuileries locales](data/images/1/geographie/1_geographie_6.jpg)
-![mur en calcaire tout venant, encadrements pierre taillée, enduits de sable local](data/images/1/geographie/1_geographie_7.jpg)
-![calcaire et tuiles ](data/images/1/geographie/1_geographie_8.jpg)
+![Calcaire taillé des riches demeures](data/images/1/geographie/1_geographie_4.jpg)
+![Bois, bricous et tuiles : sols sans calcaire](data/images/1/geographie/1_geographie_5.jpg)
+![Tuiles plates et canal issues des tuileries locales](data/images/1/geographie/1_geographie_6.jpg)
+![Mur en calcaire tout venant, encadrements pierre taillée, enduits de sable local](data/images/1/geographie/1_geographie_7.jpg)
+![Calcaire et tuiles ](data/images/1/geographie/1_geographie_8.jpg)
