@@ -68,3 +68,13 @@ Le choix de grands espaces et de vues lointaines oriente les acquéreurs vers le
 
 
 ## Photos
+![Tissu urbain médiéval](data/images/1/histoire/1_historie_1.jpg)
+![Bourg traditionnel des coteaux](data/images/1/histoire/1_historie_2.jpg)
+![Pavillon des années 30-40](data/images/1/histoire/1_historie_3.jpg)
+![Maison individuelle avec garage, sur terrain en pente, des années 60](data/images/1/histoire/1_historie_4.jpg)
+![Habitat individuel, urbanisation diffuse et mitage des espaces ruraux, années 80](data/images/1/histoire/1_historie_5.jpg)
+![À proximité des bourgs, habitat dispersé à la recherche de points de vue, années 80 à aujourd'hui](data/images/1/histoire/1_historie_6.jpg)
+![Habitat social, mitoyen, en vallée, années 80](data/images/1/histoire/1_historie_7.jpg)
+![Maison isolée avec terrassements importants, années 90](data/images/1/histoire/1_historie_8.jpg)
+![Opération groupée, densité, en vallée](data/images/1/histoire/1_historie_9.jpg)
+![Dialogue neuf et ancien, consommation d’espace autour de fermes isolées](data/images/1/histoire/1_historie_10.jpg)
