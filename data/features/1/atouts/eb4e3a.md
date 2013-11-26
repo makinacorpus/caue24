@@ -3,6 +3,6 @@ layout: page
 published: false
 ---
 
-**Grotte de Gabillou**
+**Grotte de Gabillou ou de Las Angnelas**
 
-Monument inscrit, Inv MH
+Monument classé MH
