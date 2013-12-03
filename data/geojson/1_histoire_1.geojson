@@ -4,6 +4,7 @@
 "name": "Exemple d'évolution",
 "color": "#36d05a",
 "active": "true",
+"interactive": "true",
 "description": "Photos comparatives sur 2 époques et avec le même angle de vue",
                                                                                 
 "features": [
