@@ -30,7 +30,7 @@ La carte présente ce développement en 4 périodes : avant 1832 (cadastre napol
 
 ## En savoir plus
 
-### Avant 1832 (date du cadastre napoléonien)
+### **Avant 1832 (date du cadastre napoléonien)**
 L’habitat s’implantait de manière éparse en fermes isolées au milieu de leurs terres.  Les villages étaient agglomérés autour de leur église.
 
 ### De 1832 à 1970 : Un siècle de forte expansion dans la vallée de l’Isle
