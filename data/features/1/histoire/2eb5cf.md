@@ -6,4 +6,4 @@ published: true
 ## Dans la vallée de l’Isle, exemple Montrem
 
 Entre 1970 et 2000, les surfaces nouvellement urbanisées ont été les plus importantes. Elles répondent à la pression foncière de l’agglomération périgourdine. La généralisation de l’automobile a incité l’implantation sur de grands terrains le long des voies existantes et au gré des opportunités. L’industrie en déclin n’a pas développé de nouvelles zones artisanales.
-![](data/images/1/histoire/1_histoire_POP2.jpg)
+![](data/images/1/histoire/1_histoire_POP3.jpg)
