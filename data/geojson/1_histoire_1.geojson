@@ -2,7 +2,7 @@
 "type": "FeatureCollection",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "name": "Exemple d'�volution",
-"color": "#36d05a",
+"color": "#660066",
 "active": "true",
 "description": "Photos comparatives sur 2 époques et avec le même angle de vue",
                                                                                 
