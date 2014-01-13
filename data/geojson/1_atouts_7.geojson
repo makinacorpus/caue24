@@ -4,6 +4,7 @@
 "name": "Forêt",
 "active": "false",
 "color": "#6BBFB2",
+"description": "Couverture forestière du territoire",
 "interactive":"true",
                                                                                 
 "features": [
