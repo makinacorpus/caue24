@@ -1,11 +1,11 @@
 {
 "type": "FeatureCollection",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"name": "Photos représentation",
+"name": "Points de vue",
 "color": "#E30613",
 "active": "true",
 "interactive": "true",
-"description": "Prises de vue depuis les sites",
+"description": "Un sous-sol, un paysage",
                                                                                 
 "features": [
 { "type": "Feature", "properties": { "ID_CC2014": 1.0, "TOPONYMIE_": "La ferme aux chevaux", "COMMUNE": "Saint Astier" }, "geometry": { "type": "Point", "coordinates": [ 0.531439008195146, 45.151145683574804 ] } },
