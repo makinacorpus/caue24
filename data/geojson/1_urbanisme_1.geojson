@@ -4,6 +4,7 @@
 "name": "Zone urbaine",
 "color": "#E30613",
 "active": "true",
+"interactive": "false",
 "description": "Terrains constructibles situés dans les bourgs et villages et leurs continuités immédiates",
                                                                                 
 "features": [
