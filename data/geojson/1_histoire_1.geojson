@@ -3,7 +3,7 @@
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "name": "Exemple d'évolution",
 "color": "#fa9506",
-"marker-width": "6",
+"marker-width": "15",
 "active": "true",
 "interactive": "true",
 "description": "Photos comparatives sur 2 époques et avec le même angle de vue",
