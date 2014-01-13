@@ -2,7 +2,7 @@
 "type": "FeatureCollection",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "name": "Exemple d'évolution",
-"color": "#049d41",
+"color": "#048136",
 "marker-width": "15",
 "active": "true",
 "interactive": "true",
