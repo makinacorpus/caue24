@@ -78,7 +78,7 @@ CaueViews.addGeoJSONLegend = function(layers, community, category, data, n) {
     "fillOpacity": 0.4,
     "opacity": 0.8,
   };
-  if (category == 'geographie') {
+  if (category == 'portrait' || category == 'geographie' || category == 'histoire' || category == 'urbanisme' || category == 'architecture') {
     style.weight = 4;
   }
 
