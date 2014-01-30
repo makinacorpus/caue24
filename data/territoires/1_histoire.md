@@ -75,4 +75,4 @@ Le choix de grands espaces avec un beau point de vue oriente les acquéreurs ver
 ![Habitat social, mitoyen, en vallée, années 80](data/images/1/histoire/1_historie_7.jpg)
 ![Maison isolée avec terrassements importants, années 90](data/images/1/histoire/1_historie_8.jpg)
 ![Opération groupée, densité, en vallée](data/images/1/histoire/1_historie_9.jpg)
-![Dialogue neuf et ancien, consommation d’espace autour de fermes isolées](data/images/1/histoire/1_historie_10.jpg)
+![XIXème siècle, juxtaposition de différents styles d'architecture](data/images/1/histoire/1_historie_10.jpg)
