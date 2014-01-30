@@ -53,10 +53,10 @@ Une  Zone de Protection du Patrimoine Architectural, Urbain et Paysager (ZPPAUP)
 
 **SITE CLASSE OU INSCRIT :** La loi de 1930 sur les sites permet de protéger des espaces d’une grande diversité : parcs et jardins, espaces naturels, paysages… écrins paysagers de monuments historiques pour lesquels la seule protection des abords ne suffirait pas.
 
-### Un territoire agricole et industriel, un cadre de vie agréable
+### UN TERRITOIRE AGRICOLE ET INDUSTRIEL, UN CADRE DE VIE AGREABLE
 
 La majorité de la Communauté de communes est vouée à la polyculture-élevage et à la forêt de production.
-Dans la vallée de l’Isle, riche en terres arables, se juxtaposent aussi les voies de communication (rivière, chemin de fer, routes et autoroute)  les espaces d’activités industrielles ainsi que les espaces habités. Bien que la vallée ne couvre qu’une faible partie du territoire, elle marque son identité et regroupe la majorité de sa population 
+Dans la vallée de l’Isle, riche en terres arables, se juxtaposent aussi les voies de communication (rivière, chemin de fer, route et autoroute) les espaces d’activités industrielles ainsi que les espaces habités. Bien que la vallée ne couvre qu’une faible partie du territoire, elle marque son identité et regroupe la majorité de sa population.
 
 Un patrimoine remarquable mais non classé, constitué des anciens bâtiments industriels, a profondément marqué l’histoire du XXème siècle du territoire : usines le long de la rivière, fours à chaux, moulins…
 
