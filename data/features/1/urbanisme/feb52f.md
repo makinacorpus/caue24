@@ -3,6 +3,6 @@ layout: page
 published: false
 ---
 
-## Neuvic sur l'Isle
+## **Neuvic sur l'Isle**
 
-Plan Local Urbanisme
+Plan Local d'Urbanisme
