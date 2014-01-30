@@ -66,3 +66,7 @@ Elle s'inspire des volumétries et détails architecturaux traditionnels pour cr
 ![Pavillon et abords](data/images/1/architecture/1_architecture_7.jpg)
 ![Maison bois inspirée des séchoirs à tabac](data/images/1/architecture/1_architecture_8.jpg)
 ![Maison contemporaine, combinaison de simples volumes, toit terrasse, enduit](data/images/1/architecture/1_architecture_9.jpg)
+![1_architecture_10.jpg](/data/images/1/architecture/1_architecture_10.jpg)
+![1_architecture_11.jpg](/data/images/1/architecture/1_architecture_11.jpg)
+![1_architecture_12.jpg](/data/images/1/architecture/1_architecture_12.jpg)
+![1_architecture_13.jpg](/data/images/1/architecture/1_architecture_13.jpg)
