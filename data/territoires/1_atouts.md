@@ -68,6 +68,5 @@ Un patrimoine remarquable mais non classé, constitué des anciens bâtiments in
 ![Barrage sur l’Isle, rivière et cadre de vie ](data/images/1/atouts/1_atouts_5.jpg)
 ![Polyculture, territoire agricole](data/images/1/atouts/1_atouts_6.jpg)
 ![Piste forestière](data/images/1/atouts/1_atouts_7.jpg)
-![Patrimoine du quotidien : puits bâti](data/images/1/geographie/1_geographie_8.jpg)
 ![Patrimoine restauré: lavoir couvert](data/images/1/atouts/1_atouts_9.jpg)
 ![moulin à eau](data/images/1/atouts/1_atouts_10.jpg)
