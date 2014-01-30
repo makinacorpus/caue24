@@ -3,6 +3,6 @@ layout: page
 published: false
 ---
 
-## **Douzillac**
+**Douzillac**
 
 Plan Local d'Urbanisme
