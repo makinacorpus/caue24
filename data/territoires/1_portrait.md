@@ -9,7 +9,7 @@ published: false
 Isle Vern Salembre en Périgord, quelques chiffres :
 - 17 communes
 - 19 662 habitants (source INSEE - recensement 2013-11-20)
-- superficie de 305 km2
+- superficie de 305 km2.
 
 **CLIQUEZ sur "Bourg"**
 
@@ -18,7 +18,7 @@ Isle Vern Salembre en Périgord, quelques chiffres :
 
 **Découvrez ses atouts au travers du diaporama.**
 
-Ses atouts : **Une colonne vertébrale** de voies de communication le long de l’Isle, la proximité immédiate de l’agglomération Périgourdine, **un riche passé industriel et un cadre de vie agréable**.
+Ses atouts : **Une colonne vertébrale** de voies de communication le long de l’Isle, la proximité immédiate de l’agglomération Périgourdine, **un riche passé industriel et un cadre de vie agréable.**
 
 Ce territoire doit être attentif à la pression foncière qui risque de grignoter ses paysages et banaliser son territoire.
 
@@ -26,22 +26,22 @@ Ce territoire doit être attentif à la pression foncière qui risque de grignot
 ## En savoir plus
 ### 4 thèmes forts identifient Isle Vern Salembre en Périgord
 
-**L’eau : **
+**L’eau**
 Rivières, ruisseaux, canaux, barrages, écluses, bâtiments industriels,
 espaces de loisirs…, tel est le paysage lié à l’eau dans la vallée de l’Isle et ses affluents.
 La présence de l’eau se traduit sur les plateaux sous forme de mares, d’étangs ou de puits.
 
-**L’agriculture : **
+**L’agriculture**
 Polyculture-élevage, grandes et petites parcelles.
 Champs de maïs et de blés, prairies, cultures de fleurs, potagers,
 élevages de canard, volaille, bovin…
 Le paysage est ainsi varié tout au long de l’année.
 
-**Le bois : **
+**Le bois**
 Forêt sur les plateaux pauvres en marge de la Double et bois sur les sommets de collines calcaires couvrent une grande partie du territoire. 
 Le bois utilisé en colombage dans l’architecture traditionnelle existe sous d’autres formes dans l’architecture contemporaine.
 
-**Le bâti : **
+**Le bâti**
 Des villages tout au long de la vallée, d’autres à flanc de coteaux.
 Des fermes isolées en plaine comme sur les coteaux. 
 Le XXème siècle, par son dynamisme industriel, a marqué le territoire tant par ses constructions industrielles que par ses habitations.
