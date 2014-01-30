@@ -1,4 +1,4 @@
-﻿{
+{
 "type": "FeatureCollection",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "name": "Exemple d'évolution",
@@ -10,11 +10,17 @@
 "description": "Evolution urbaine d'un même lieu entre deux époques",
                                                                                 
 "features": [
-{ "type": "Feature", "properties": { "COMMUNE": "Saint Astier", "INSEE_COMM": 24372.0, "ID_CDECOMM": 1.0, "PÃƒâ€ÃƒÂ¸ÃŽÂ©RIODE": "2000 - 2010", "SITUATION": "VallÃ¢Ë†Å¡Ã‚Â©e" }, "geometry": { "type": "Point", "coordinates": [ 0.524192487439973, 45.146807634213246 ] } },
-{ "type": "Feature", "properties": { "COMMUNE": "LÃ¢Ë†Å¡Ã‚Â©guillac de l'Auche", "INSEE_COMM": 24236.0, "ID_CDECOMM": 1.0, "PÃƒâ€ÃƒÂ¸ÃŽÂ©RIODE": "2000 - 2010", "SITUATION": "Coteau" }, "geometry": { "type": "Point", "coordinates": [ 0.552822638313297, 45.189327164156019 ] } },
-{ "type": "Feature", "properties": { "COMMUNE": "Saint Astier", "INSEE_COMM": 24372.0, "ID_CDECOMM": 1.0, "PÃƒâ€ÃƒÂ¸ÃŽÂ©RIODE": "1970 - 2000", "SITUATION": "Coteau" }, "geometry": { "type": "Point", "coordinates": [ 0.500635283505984, 45.145925647250522 ] } },
-{ "type": "Feature", "properties": { "COMMUNE": "Montrem", "INSEE_COMM": 24295.0, "ID_CDECOMM": 1.0, "PÃƒâ€ÃƒÂ¸ÃŽÂ©RIODE": "1970 - 2000", "SITUATION": "VallÃ¢Ë†Å¡Ã‚Â©e" }, "geometry": { "type": "Point", "coordinates": [ 0.56372184199867, 45.152826608184228 ] } },
-{ "type": "Feature", "properties": { "COMMUNE": "Saint LÃ¢Ë†Å¡Ã‚Â©on sur l'Isle", "INSEE_COMM": 24442.0, "ID_CDECOMM": 1.0, "PÃƒâ€ÃƒÂ¸ÃŽÂ©RIODE": "1832 - 1970", "SITUATION": "VallÃ¢Ë†Å¡Ã‚Â©e" }, "geometry": { "type": "Point", "coordinates": [ 0.500014728513395, 45.116600383783712 ] } },
-{ "type": "Feature", "properties": { "COMMUNE": "ChantÃ¢Ë†Å¡Ã‚Â©rac", "INSEE_COMM": 24104.0, "ID_CDECOMM": 1.0, "PÃƒâ€ÃƒÂ¸ÃŽÂ©RIODE": "1832 - 1970", "SITUATION": "Coteau" }, "geometry": { "type": "Point", "coordinates": [ 0.44609751521884, 45.17257136300438 ] } }
+{ "type": "Feature", "properties": { "COMMUNE": "Léguillac de l'Auche" }, "geometry": { "type": "Point", "coordinates": [ 0.552822638313297, 45.189327164156019 ] } },
+{ "type": "Feature", "properties": { "COMMUNE": "Chantérac" }, "geometry": { "type": "Point", "coordinates": [ 0.44609751521884, 45.17257136300438 ] } },
+{ "type": "Feature", "properties": { "COMMUNE": "Saint Astier" }, "geometry": { "type": "Point", "coordinates": [ 0.500635283505984, 45.145925647250522 ] } },
+{ "type": "Feature", "properties": { "COMMUNE": "Saint Léon sur l'Isle" }, "geometry": { "type": "Point", "coordinates": [ 0.500014728513395, 45.116600383783712 ] } },
+{ "type": "Feature", "properties": { "COMMUNE": "Montrem" }, "geometry": { "type": "Point", "coordinates": [ 0.56372184199867, 45.152826608184228 ] } },
+{ "type": "Feature", "properties": { "COMMUNE": "Saint Astier" }, "geometry": { "type": "Point", "coordinates": [ 0.524192487439973, 45.146807634213246 ] } },
+{ "type": "Feature", "properties": { "COMMUNE": "Grignols" }, "geometry": { "type": "Point", "coordinates": [ 0.539867422392023, 45.08236900158559 ] } },
+{ "type": "Feature", "properties": { "COMMUNE": "Vallereuil" }, "geometry": { "type": "Point", "coordinates": [ 0.500947168773561, 45.071789079987759 ] } },
+{ "type": "Feature", "properties": { "COMMUNE": "Sourzac" }, "geometry": { "type": "Point", "coordinates": [ 0.383968237574477, 45.033519776461958 ] } },
+{ "type": "Feature", "properties": { "COMMUNE": "Beauronne" }, "geometry": { "type": "Point", "coordinates": [ 0.379569214388204, 45.079268759545748 ] } },
+{ "type": "Feature", "properties": { "COMMUNE": "St severin" }, "geometry": { "type": "Point", "coordinates": [ 0.467664592723708, 45.053291525743482 ] } },
+{ "type": "Feature", "properties": { "COMMUNE": "Neuvic" }, "geometry": { "type": "Point", "coordinates": [ 0.458193419767823, 45.099623040109385 ] } }
 ]
 }
