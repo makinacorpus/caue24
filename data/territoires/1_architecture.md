@@ -16,14 +16,14 @@ Elles traduisent l'implantation humaine du territoire et l'organisation spécifi
 **CLIQUEZ sur "Entités paysagères"**
 
 ## Informations
-### De l’architecture traditionnelle à la contemporaine
-Des questions à se poser pour construire aujourd’hui :
+### DE L’ARCHITECTURE TRADITIONNELLE A LA CONTEMPORAINE
 
-- **Une maison d’inspiration traditionnelle**. Comment s’inspirer des détails architecturaux traditionnels tout en créant une maison actuelle ? L’inspiration de l’architecture rurale, avec sa simplicité de volume et ses toitures en tuiles canal ne doit pas conduire systématiquement à l’image d’un pavillon «standard». 
-- **Une maison d’inspiration contemporaine**. Quels matériaux choisir en harmonie avec l’environnement ? Comment créer un plan plus libre avec de grandes ouvertures éclairant largement les espaces intérieurs sans faire «bâtiment public» ?
+**Le diaporama illustre ces types d’architecture**
 
-**Le diaporama illustre ces interrogations**
-
+**Construire ou restaurer** un ancien bâtiment ? 
+**Quel style d’architecture** choisir ?  Maison d’inspiration traditionnelle ou  maison contemporaine ?
+**Quelle empreinte** ou pas à laisser dans le paysage ?
+**Quels matériaux** choisir en harmonie avec l’environnement ? …
 
 ## En savoir plus
 ### L’architecture traditionnelle
