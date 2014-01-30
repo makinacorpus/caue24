@@ -34,35 +34,35 @@ L’habitat s’implantait de manière éparse en fermes isolées au milieu de l
 ### DE 1832 A 1970 : UN SIECLE DE FORTE EXPANSION DANS LA VALLEE DE L’ISLE
 Avec l’apparition des transports motorisés (train, voiture) et le développement industriel, l’expansion urbaine a été plus marquée en vallée de l’Isle que sur les coteaux.
 
-**Dans la vallée :**
+**Dans la vallée**
 Dans les bourgs et hameaux, l’habitat est groupé et plutôt dense. Les activités industrielles, initialement implantées sur le bord de l’eau pour sa force motrice, se déplacent le long de la voie de chemin de fer offrant de nouvelles possibilités économiques. 
 Les premiers lotissements ouvriers se créent. La maison individuelle apparaît, souvent à étage et complétée d’un garage.
 
-**Sur les coteaux :**
+**Sur les coteaux**
 Des fermes dispersées aux petits hameaux denses, l’habitat traditionnel est toujours dominant. Les fermes s’agrandissent pour répondre aux besoins de la mécanisation. Dans les années 1960, la maison individuelle fait son apparition dans quelques hameaux. Elle est souvent le symbole de réussite sociale des ouvriers-paysans, elle est encore anecdotique.
 
-### De 1970 à 2000 : Un développement important mais pas structurant
+### DE 1970 A 2000 : UN DEVELOPPEMENT IMPORTANT MAIS PAS STRUCTURANT
 Pendant cette période, les surfaces nouvellement urbanisées ont été les plus importantes. Elles concernent la création d’habitat. L’industrie en déclin n’a pas développé de nouvelles zones artisanales.
 L’urbanisation a seulement répondu à la pression foncière de l’agglomération périgourdine au gré des opportunités.
 La généralisation de l’automobile a incité l’implantation sur de grands terrains le long des voies existantes aussi bien en vallée que sur les coteaux.
 
-**Dans la vallée :**
+**Dans la vallée**
 Les extensions des bourgs ont été réalisées le long des axes, sans pour autant créer une continuité avec le bâti existant. La forme dominante d’urbanisation est le lotissement. La présence d’un assainissement collectif a permis la construction de maisons individuelles sur des petites parcelles. L’architecture pavillonnaire est à étage ou à rez-de-chaussée.
 
-**Sur les coteaux :**
+**Sur les coteaux**
 Rares sont les lotissements bordant les bourgs. Les constructions se sont plutôt disséminées le long des voies, qu’elles se situent en fond de vallon ou en ligne de crête. Les terrains ont une dimension moyenne de 2500 m2. Le pavillon en tuiles et à faible pente domine.
 L’adaptation de la maison à la pente n’est pas toujours maîtrisée.
 
-### DE 2001 A 2013 : Un développement différencié entre vallée et coteaux
+### DE 2001 A 2013 : UN DEVELOPPEMENT DIFFERENCIE ENTRE VALLEE ET COTEAUX
 
-**Dans la vallée :**
-Les documents d’urbanisme «nouvelle génération» contraignent l’extension urbaine. Elle se traduit par le remplissage des dents creuses et la densification des îlots. L’ouverture de l’autoroute a entrainé un redéploiement des zones d’activités qui oublient aujourd’hui le chemin de fer.
+**Dans la vallée**
+Dans la vallée de l’Isle, les documents d’urbanisme «nouvelle génération» contraignent l’extension urbaine. Elle se traduit par le remplissage des dents creuses et la densification des îlots. L’ouverture de l’autoroute a entrainé un redéploiement des zones d’activités qui oublient aujourd’hui le chemin de fer.
 La densification se traduit par des constructions, sur des terrains plus petits, souvent en limite de propriété. Les matériaux traditionnels y sont encore majoritairement employés pour les habitations.
 Dans ces nouvelles opérations d’habitat dense, les espaces publics sont mis en valeur.
 
-**Sur les coteaux :**
-Les constructions continuent, selon les schémas antérieurs, de s’implanter de manière éparse sur de grands terrains au détriment de l’espace agricole.
-Le choix de grands espaces et de vues lointaines oriente les acquéreurs vers les terrains situés sur les pentes et sommets de coteaux. Ceci se ressent particulièrement plus aux abords de la Communauté d’Agglomération Périgourdine. L’architecture s’affranchit de la copie de l’architecture traditionnelle au profit du pavillon plus ou moins contemporain.
+**Sur les coteaux**
+Sur les coteaux, selon les schémas antérieurs, les constructions continuent de s’implanter de manière éparse sur de grands terrains au détriment de l’espace agricole.
+Le choix de grands espaces avec un beau point de vue oriente les acquéreurs vers les terrains situés sur les pentes et sommets de coteaux. Ceci se ressent particulièrement plus aux abords de la Communauté d’Agglomération Périgourdine. Les constructions s’affranchissent de la copie de l’architecture traditionnelle au profit du pavillon plus ou moins contemporain.
 
 
 ## Photos
