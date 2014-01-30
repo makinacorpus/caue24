@@ -7,6 +7,7 @@ published: true
 ### DES ESPACES NATURELS OU BATIS RECONNUS ET PROTEGES.
 
 A ces espaces reconnus s’ajoutent ceux non reconnus liés au passé industriel du territoire et à son cadre de vie actuel.
+
 La carte présente les secteurs protégés aussi bien naturels que bâtis.
 
 **CLIQUEZ sur chacun d’eux**
