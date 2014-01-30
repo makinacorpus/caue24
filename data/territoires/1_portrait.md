@@ -4,28 +4,23 @@ published: false
 ---
 
 ## Fenêtre modale
-### Un territoire alliant ses atouts de paysages à ceux de son activité économique
+### UN TERRITOIRE ALLIANT SES ATOUTS DE PAYSAGES A CEUX DE SON ACTIVITE ECONOMIQUE
 
 Isle Vern Salembre en Périgord, quelques chiffres :
 - 17 communes
 - 19 662 habitants (source INSEE - recensement 2013-11-20)
 - superficie de 305 km2
 
-**Cliquez sur chaque commune pour découvrir ses spécificités**
-
-
-
+**CLIQUEZ sur "Bourg"**
 
 ## Informations
 ### Un territoire dynamique
 
-De nombreux atouts : la vallée de l’Isle, l’autoroute A 89 et la ligne de chemin de fer Bordeaux-Périgueux comme colonne vertébrale, la proximité immédiate de l’agglomération
-Périgourdine, un riche passé industriel et un cadre de vie agréable.
+**Découvrez ses atouts au travers du diaporama.**
 
-Ce territoire doit cependant être attentif à la pression foncière qui risque de grignoter ses paysages et banaliser son territoire.
+Ses atouts : **Une colonne vertébrale** de voies de communication le long de l’Isle, la proximité immédiate de l’agglomération Périgourdine, **un riche passé industriel et un cadre de vie agréable**.
 
-**Découvrez ces atouts au travers du diaporama.**
-
+Ce territoire doit être attentif à la pression foncière qui risque de grignoter ses paysages et banaliser son territoire.
 
 
 ## En savoir plus
