@@ -5,35 +5,33 @@ published: true
 
 ## Fenêtre modale
 
-### De 1832 à 2013, Isle Vern Salembre en Périgord a connu une forte évolution urbaine, liée à son dynamisme économique.
+### DE 1832 A 2013, FORTE EVOLUTION URBAINE LIEE AU DYNAMISME ECONOMIQUE 
 
 La carte présente ce développement en 4 périodes : avant 1832 (cadastre napoléonien), de 1832 à 1970, de 1970 à 2000 et de 2000 à 2013. 
 
-**Cliquez sur les repères de la carte pour découvrir des détails exemplaires de cette évolution.**
+**CLIQUEZ sur "Exemples d'évolution"**
 
 
 ## Informations
 
-### Evolution urbaine
+### EVOLUTION URBAINE ET ARCHITECTURE
+
+**Le diaporama illustre l’architecture des époques d’urbanisation**
 
 **avant 1832** (cadastre napoléonien), implantation de l’habitat de manière éparse en fermes isolées au milieu de leurs terres, villages agglomérés autour de l’église.
 
-**de 1832 à 1970**, forte expansion dans la vallée de l’Isle avec le développement industriel et l’apparition des transports motorisés. Sur les coteaux, modernisation des fermes, installation des premiers pavillons à leurs abords et à ceux des villages 
+**de 1832 à 1970**, forte expansion dans la vallée de l’Isle. Sur les coteaux, installation des premiers pavillons aux abords des fermes et des villages. 
 
-**de 1971 à 2000**, très importantes surfaces nouvellement urbanisées pour la création d’habitat. Implantation sur de grands terrains le long des voies existantes en vallée comme sur les coteaux, avec la généralisation de l’automobile.
+**de 1971 à 2000**, très importantes surfaces urbanisées pour la création d’habitat ; implantations sur de grands terrains.
 
-**de 2000 à 2013**, remplissage des dents creuses et densification des îlots en vallée. Sur les coteaux, constructions continuant de s’implanter de manière éparse sur de grands terrains, au détriment de l’espace agricole.
-
-
-**Découvrons les types d’urbanisations au travers du diaporama.**
-
+**de 2000 à 2013**, densification en vallée. Sur les coteaux, constructions continuant de s’implanter de manière éparse sur de grands terrains.
 
 ## En savoir plus
 
-### **Avant 1832 (date du cadastre napoléonien)**
-L’habitat s’implantait de manière éparse en fermes isolées au milieu de leurs terres.  Les villages étaient agglomérés autour de leur église.
+### AVANT 1832 (date du cadastre napoléonien)
+L’habitat s’implantait de manière éparse en fermes isolées au milieu de leurs terres. Les villages étaient agglomérés autour de leur église.
 
-### De 1832 à 1970 : Un siècle de forte expansion dans la vallée de l’Isle
+### DE 1832 A 1970 : UN SIECLE DE FORTE EXPANSION DANS LA VALLEE DE L’ISLE
 Avec l’apparition des transports motorisés (train, voiture) et le développement industriel, l’expansion urbaine a été plus marquée en vallée de l’Isle que sur les coteaux.
 
 **Dans la vallée :**
