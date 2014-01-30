@@ -13,7 +13,7 @@ les altérites argilo-sableuses,
 les terrasses alluviales
 les alluvions de fond de vallée.
 
-**Cliquez sur "Points de vue"**
+**CLIQUEZ sur "Points de vue"**
 
 
 
