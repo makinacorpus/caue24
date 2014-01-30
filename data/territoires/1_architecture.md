@@ -5,11 +5,11 @@ published: true
 
 ## Fenêtre modale
 ### 5 ENTITES PAYSAGERES CARACTERISENT ISLE VERN SALEMBRE EN PERIGORD
-- Marges de la Double,
-- Coteaux calcaires Nord,
-- Vallée de l’isle,
-- Coteaux calcaires Sud,
-- Marge du Landais.
+- Marges de la Double
+- Coteaux calcaires Nord
+- Vallée de l’isle
+- Coteaux calcaires Sud
+- Marge du Landais
 
 Elles traduisent l'implantation humaine du territoire et l'organisation spécificque du relief, de la forêt et de l'agriculture.
 
