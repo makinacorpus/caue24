@@ -53,6 +53,7 @@ La maison contemporaine peut s'affranchir de toute référence traditionnelle en
 Attention, la maison doit garder une expression architecturale de logement et non de bâtiment public.
 
 **L’architecture d’inspiration traditionnelle**
+
 Elle s'inspire des volumétries et détails architecturaux traditionnels pour créer une maison actuelle. Ces contraintes locales (toiture à 2 pentes en tuiles canal, volume simple) peuvent facilement conduire à l'image d'un pavillon standard.
 
 ## Photos
