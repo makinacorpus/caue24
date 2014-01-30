@@ -8,11 +8,11 @@ published: true
 
 La géologie est un élément fondateur pour la compréhension du paysage et de l’architecture locale. 
 
-La carte représente les 4 types de sous-sol composant le territoire : 
-- les formations sablo-argileuses et graveleuses,
-- le calcaire crétacé,
-- les altérites argilo-sableuses,
-- les terrasses alluviales,
+La carte représente les 5 types de sous-sol composant le territoire : 
+- les formations sablo-argileuses et graveleuses
+- le calcaire crétacé
+- les altérites argilo-sableuses
+- les terrasses alluviales
 - les alluvions de fond de vallée.
 
 **CLIQUEZ sur "Points de vue"**
@@ -25,7 +25,7 @@ La carte représente les 4 types de sous-sol composant le territoire :
 
 **Découvrez les influences du sous-sol au travers du diaporama**
 
-Les matériaux disponibles localement (calcaire, altérites et sables) ont longtemps été utilisés en priorité pour l’édification des maisons, des dépendances agricoles et de leurs abords
+Les matériaux disponibles localement (calcaire, altérites et sables) ont longtemps été utilisés en priorité pour l’édification des maisons, des dépendances agricoles et de leurs abords.
 
 
 
