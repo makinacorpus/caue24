@@ -44,7 +44,7 @@ A l’Ouest et au Sud du territoire, la forêt est gérée et diversifiée. Elle
 Dans la vallée de l’Isle, de grandes peupleraies gagnent de plus en plus sur les terres agricoles. Dans les vallées secondaires du Nord, le boisement est signe de déprise agricole.
 
 ## Photos
-![Mur en pierre cacaire avec enduit couleur du sable local](data/images/1/geographie/1_geographie_1.jpg)
+![Mur en pierre calcaire avec enduit couleur du sable local](data/images/1/geographie/1_geographie_1.jpg)
 ![Mur en pierre calcaire assisée](data/images/1/geographie/1_geographie_2.jpg)
 ![Appareillage en moellons tout venant ou "têtes de chat"](data/images/1/geographie/1_geographie_3.jpg)
 ![Calcaire taillé des riches demeures](data/images/1/geographie/1_geographie_4.jpg)
@@ -52,3 +52,7 @@ Dans la vallée de l’Isle, de grandes peupleraies gagnent de plus en plus sur 
 ![Tuiles plates et canal issues des tuileries locales](data/images/1/geographie/1_geographie_6.jpg)
 ![Mur en calcaire tout venant, encadrements pierre taillée, enduits de sable local](data/images/1/geographie/1_geographie_7.jpg)
 ![Calcaire et tuiles ](data/images/1/geographie/1_geographie_8.jpg)
+![Carrière des chaux de Saint Astier connues mondialement](/data/images/1/geographie/1_geographie_9.jpg)
+![Sol en carreaux de Beauronne : transformation des argiles](/data/images/1/geographie/1_geographie_10.jpg)
+![Pavage des rues en galets de la rivière Isle](/data/images/1/geographie/1_geographie_11.jpg)
+![Tuiles et épis de faitage, provenant des tuileries et fabriques de céramique locales](/data/images/1/geographie/1_geographie_12.jpg)
