@@ -27,21 +27,25 @@ Ce territoire doit être attentif à la pression foncière qui risque de grignot
 ### 4 thèmes forts identifient Isle Vern Salembre en Périgord
 
 **L’eau**
+
 Rivières, ruisseaux, canaux, barrages, écluses, bâtiments industriels,
 espaces de loisirs…, tel est le paysage lié à l’eau dans la vallée de l’Isle et ses affluents.
 La présence de l’eau se traduit sur les plateaux sous forme de mares, d’étangs ou de puits.
 
 **L’agriculture**
+
 Polyculture-élevage, grandes et petites parcelles.
 Champs de maïs et de blés, prairies, cultures de fleurs, potagers,
 élevages de canard, volaille, bovin…
 Le paysage est ainsi varié tout au long de l’année.
 
 **Le bois**
+
 Forêt sur les plateaux pauvres en marge de la Double et bois sur les sommets de collines calcaires couvrent une grande partie du territoire. 
 Le bois utilisé en colombage dans l’architecture traditionnelle existe sous d’autres formes dans l’architecture contemporaine.
 
 **Le bâti**
+
 Des villages tout au long de la vallée, d’autres à flanc de coteaux.
 Des fermes isolées en plaine comme sur les coteaux. 
 Le XXème siècle, par son dynamisme industriel, a marqué le territoire tant par ses constructions industrielles que par ses habitations.
