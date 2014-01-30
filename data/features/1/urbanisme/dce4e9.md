@@ -5,4 +5,4 @@ published: false
 
 ## **Douzillac**
 
-Plan Local Urbanisme
+Plan Local d'Urbanisme
