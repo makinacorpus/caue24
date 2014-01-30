@@ -7,7 +7,7 @@
 "Outline width": "30",
 "active": "true",
 "interactive": "true",
-"description": "Photos comparatives sur 2 époques et avec le même angle de vue",
+"description": "Evolution urbaine d'un même lieu entre deux époques",
                                                                                 
 "features": [
 { "type": "Feature", "properties": { "COMMUNE": "Saint Astier", "INSEE_COMM": 24372.0, "ID_CDECOMM": 1.0, "PÃƒâ€ÃƒÂ¸ÃŽÂ©RIODE": "2000 - 2010", "SITUATION": "VallÃ¢Ë†Å¡Ã‚Â©e" }, "geometry": { "type": "Point", "coordinates": [ 0.524192487439973, 45.146807634213246 ] } },
