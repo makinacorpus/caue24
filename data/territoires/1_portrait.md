@@ -29,7 +29,7 @@ Ce territoire doit être attentif à la pression foncière qui risque de grignot
 **L’eau : **
 Rivières, ruisseaux, canaux, barrages, écluses, bâtiments industriels,
 espaces de loisirs…, tel est le paysage lié à l’eau dans la vallée de l’Isle et ses affluents.
-La présence de l’eau se traduit sur les plateaux sous forme de mares, d’étangs ou de puits
+La présence de l’eau se traduit sur les plateaux sous forme de mares, d’étangs ou de puits.
 
 **L’agriculture : **
 Polyculture-élevage, grandes et petites parcelles.
@@ -39,7 +39,7 @@ Le paysage est ainsi varié tout au long de l’année.
 
 **Le bois : **
 Forêt sur les plateaux pauvres en marge de la Double et bois sur les sommets de collines calcaires couvrent une grande partie du territoire. 
-Le bois utilisé en colombage dans l’architecture traditionnelle l’est sous d’autres formes dans l’architecture contemporaine.
+Le bois utilisé en colombage dans l’architecture traditionnelle existe sous d’autres formes dans l’architecture contemporaine.
 
 **Le bâti : **
 Des villages tout au long de la vallée, d’autres à flanc de coteaux.
