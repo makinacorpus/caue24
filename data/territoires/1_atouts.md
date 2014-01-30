@@ -4,13 +4,12 @@ published: true
 ---
 
 ## Fenêtre modale
-### Des espaces naturels ou bâtis sont reconnus et protégés sur le territoire Isle Vern Salembre en Périgord.
+### DES ESPACES NATURELS OU BATIS RECONNUS ET PROTEGES.
 
-A ces espaces reconnus s’ajoutent ceux non reconnus liés à son passé industriel et à son cadre de vie actuel.
+A ces espaces reconnus s’ajoutent ceux non reconnus liés au passé industriel du territoire et à son cadre de vie actuel.
+La carte présente les secteurs protégés aussi bien naturels que bâtis.
 
-La carte présente les différents secteurs protégés aussi bien naturels que bâtis. 
-
-**Cliquez sur chacun d’eux pour connaître leur identité.**
+**CLIQUEZ sur chacun d’eux**
 
 
 
