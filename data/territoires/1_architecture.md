@@ -4,13 +4,16 @@ published: true
 ---
 
 ## Fenêtre modale
-### 5 entités paysagères : Marge de la Double, Coteaux calcaires Nord, Vallée de L’Isle, Coteaux calcaires Sud, Marge du Landais caractérisent Isle Vern Salembre en Périgord.
+### 5 ENTITES PAYSAGERES CARACTERISENT ISLE VERN SALEMBRE EN PERIGORD
+- Marges de la Double,
+- Coteaux calcaires Nord,
+- Vallée de l’isle,
+- Coteaux calcaires Sud,
+- Marge du Landais.
 
-Elles traduisent des perceptions propres à une organisation spécifique du relief, de la forêt, de l’agriculture et de l’implantation humaine du territoire.
+Elles traduisent l'implantation humaine du territoire et l'organisation spécificque du relief, de la forêt et de l'agriculture.
 
-**Découvrez les ainsi que les photos d’ambiances paysagères correspondantes en cliquant sur la carte**
-
-Construire aujourd’hui ? Restaurer un ancien bâtiment ? quel style d’architecture choisir ? quelle marque ou pas à laisser dans le paysage ?
+**CLIQUEZ sur "Entités paysagères"**
 
 ## Informations
 ### De l’architecture traditionnelle à la contemporaine
