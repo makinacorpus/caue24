@@ -21,12 +21,13 @@ La carte représente les 4 types de sous-sol composant le territoire :
 
 
 ## Informations
-### Influences de la géologie
+### GEOLOGIE ET ARCHITECTURE
 
-A chaque sous-sol son type de paysage : un relief doux et très boisé sur les sables et argiles,  des coteaux disséqués et pentus sur le calcaire crétacé, des petits plateaux en interfluves sur les altérites argilo-sableuses, de riches vallées agricoles sur les alluvions et terrasses alluviales.
-Il en est de même pour l’architecture : les matériaux disponibles localement (calcaire, altérites et sables) ont longtemps été utilisés en priorité pour l’édification des maisons, des dépendances agricoles et de leurs abords 
+**Découvrez les influences du sous-sol au travers du diaporama**
 
-**Découvrez ces influences au travers du diaporama.**
+Les matériaux disponibles localement (calcaire, altérites et sables) ont longtemps été utilisés en priorité pour l’édification des maisons, des dépendances agricoles et de leurs abords
+
+
 
 ## En savoir plus
 ### **3 thèmes forts identifient aussi le paysage d’Isle Vern Salembre en Périgord**
