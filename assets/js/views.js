@@ -77,6 +77,7 @@ CaueViews.addGeoJSONLegend = function(layers, community, category, data, n) {
     "weight": 1,
     "fillOpacity": 0.4,
     "opacity": 0.8,
+    "clickable": true,
   };
   if (category == 'portrait' || category == 'geographie' || category == 'architecture') {
     style.weight = 4;
@@ -87,6 +88,8 @@ CaueViews.addGeoJSONLegend = function(layers, community, category, data, n) {
       layer.on('click', function(e) {
         CaueViews.clickLayer(e.target, community, category);
       });
+    } else {
+      style.clickable = false;
     }
   }
 
