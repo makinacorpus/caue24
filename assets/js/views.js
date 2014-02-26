@@ -364,7 +364,7 @@ CaueViews.displayData = function(layer, rawHtml) {
     popup = popup + $(this)[0].outerHTML;
   });
   // Open popup
-  layer.bindPopup(popup, {autoPanPadding:[0,50]}).openPopup();
+  layer.bindPopup(popup, {autoPanPadding:[0,200]}).openPopup();
 };
 
 CaueViews.clickLayer = function(layer, community, category) {
