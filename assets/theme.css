@@ -2930,6 +2930,11 @@ body[data-state="map"] #map-modal {
   height: 30px;
   overflow: hidden;
 }
+#footer .disclaimer {
+  display: inline-block;
+  font-size: 70%;
+  margin-left: 30px;
+}
 #logos {
   list-style: none;
   margin: 0;
