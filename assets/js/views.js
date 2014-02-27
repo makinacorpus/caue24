@@ -359,12 +359,18 @@ CaueViews.displayMapPage = function(community, category) {
 CaueViews.displayData = function(layer, rawHtml) {
   var dom$ = $(rawHtml);
   // Parse data
-  var popup = '';
+  var popup = L.popup({autoPanPadding:[0,60]});
   $.each(dom$, function() {
-    popup = popup + $(this)[0].outerHTML;
+    popup = popup.setContent($(this)[0].outerHTML);
   });
   // Open popup
-  layer.bindPopup(popup, {autoPanPadding:[0,200]}).openPopup();
+  layer.bindPopup(popup).openPopup();
+
+  $(popup._wrapper).find('img').each(function () {
+    $(this).load(function () {
+      popup._update();
+    });
+  });
 };
 
 CaueViews.clickLayer = function(layer, community, category) {
