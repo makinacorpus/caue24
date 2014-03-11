@@ -10,17 +10,17 @@
 "description": "Evolution urbaine d'un même lieu entre deux époques",
                                                                                 
 "features": [
-{ "type": "Feature", "properties": { "COMMUNE": "Léguillac de l'Auche" }, "geometry": { "type": "Point", "coordinates": [ 0.552822638313297, 45.189327164156019 ] } },
-{ "type": "Feature", "properties": { "COMMUNE": "Chantérac" }, "geometry": { "type": "Point", "coordinates": [ 0.44609751521884, 45.17257136300438 ] } },
-{ "type": "Feature", "properties": { "COMMUNE": "Saint Astier" }, "geometry": { "type": "Point", "coordinates": [ 0.500635283505984, 45.145925647250522 ] } },
-{ "type": "Feature", "properties": { "COMMUNE": "Saint Léon sur l'Isle" }, "geometry": { "type": "Point", "coordinates": [ 0.500014728513395, 45.116600383783712 ] } },
-{ "type": "Feature", "properties": { "COMMUNE": "Montrem" }, "geometry": { "type": "Point", "coordinates": [ 0.56372184199867, 45.152826608184228 ] } },
-{ "type": "Feature", "properties": { "COMMUNE": "Saint Astier" }, "geometry": { "type": "Point", "coordinates": [ 0.524192487439973, 45.146807634213246 ] } },
-{ "type": "Feature", "properties": { "COMMUNE": "Grignols" }, "geometry": { "type": "Point", "coordinates": [ 0.539867422392023, 45.08236900158559 ] } },
-{ "type": "Feature", "properties": { "COMMUNE": "Vallereuil" }, "geometry": { "type": "Point", "coordinates": [ 0.500947168773561, 45.071789079987759 ] } },
-{ "type": "Feature", "properties": { "COMMUNE": "Sourzac" }, "geometry": { "type": "Point", "coordinates": [ 0.383968237574477, 45.033519776461958 ] } },
-{ "type": "Feature", "properties": { "COMMUNE": "Beauronne" }, "geometry": { "type": "Point", "coordinates": [ 0.379569214388204, 45.079268759545748 ] } },
-{ "type": "Feature", "properties": { "COMMUNE": "St severin" }, "geometry": { "type": "Point", "coordinates": [ 0.467664592723708, 45.053291525743482 ] } },
-{ "type": "Feature", "properties": { "COMMUNE": "Neuvic" }, "geometry": { "type": "Point", "coordinates": [ 0.458193419767823, 45.099623040109385 ] } }
+{ "type": "Feature", "properties": { "COMMUNE": "Léguillac de l'Auche" }, "geometry": { "type": "Point", "coordinates": [ 0.55282, 45.18932 ] } },
+{ "type": "Feature", "properties": { "COMMUNE": "Chantérac" }, "geometry": { "type": "Point", "coordinates": [ 0.44609, 45.17257 ] } },
+{ "type": "Feature", "properties": { "COMMUNE": "Saint Astier" }, "geometry": { "type": "Point", "coordinates": [ 0.50063, 45.14592 ] } },
+{ "type": "Feature", "properties": { "COMMUNE": "Saint Léon sur l'Isle" }, "geometry": { "type": "Point", "coordinates": [ 0.50001, 45.11660 ] } },
+{ "type": "Feature", "properties": { "COMMUNE": "Montrem" }, "geometry": { "type": "Point", "coordinates": [ 0.56372, 45.15282 ] } },
+{ "type": "Feature", "properties": { "COMMUNE": "Saint Astier" }, "geometry": { "type": "Point", "coordinates": [ 0.52419, 45.14680 ] } },
+{ "type": "Feature", "properties": { "COMMUNE": "Grignols" }, "geometry": { "type": "Point", "coordinates": [ 0.53986, 45.0823 ] } },
+{ "type": "Feature", "properties": { "COMMUNE": "Vallereuil" }, "geometry": { "type": "Point", "coordinates": [ 0.50094, 45.07178 ] } },
+{ "type": "Feature", "properties": { "COMMUNE": "Sourzac" }, "geometry": { "type": "Point", "coordinates": [ 0.38396, 45.03351 ] } },
+{ "type": "Feature", "properties": { "COMMUNE": "Beauronne" }, "geometry": { "type": "Point", "coordinates": [ 0.37956, 45.07926 ] } },
+{ "type": "Feature", "properties": { "COMMUNE": "St severin" }, "geometry": { "type": "Point", "coordinates": [ 0.46766, 45.05329 ] } },
+{ "type": "Feature", "properties": { "COMMUNE": "Neuvic" }, "geometry": { "type": "Point", "coordinates": [ 0.45819, 45.09962 ] } }
 ]
 }
