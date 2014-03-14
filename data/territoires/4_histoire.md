@@ -4,7 +4,7 @@ published: true
 ---
 
 ## Fenêtre modale
-Territoire non renseigné
+Territoire en cours d'élaboration
 
 ## Informations
 
