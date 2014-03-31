@@ -20,8 +20,6 @@ La carte présente les secteurs protégés aussi bien naturels que bâtis.
 
 **Le diaporama illustre ces éléments patrimoniaux**
 
-Patrimoines reconnus : Espaces naturels reconnus ou protégés au titre de NATURA 2000 ou des ZNIEFF type 1 ou 2 et patrimoine bâti de qualité et protégé (églises et châteaux) mais peu connu.
-
 **Patrimoines reconnus**
 
 Espaces naturels (NATURA 2000 ou des ZNIEFF type 1 ou 2) et patrimoine bâti et protégé (Monuments, sites classés ou inscrits, ZPPAUP ou AVAP) .
