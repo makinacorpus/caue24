@@ -4,6 +4,7 @@ published: true
 ---
 
 ## Fenêtre modale
+
 ### 5 ENTITES PAYSAGERES CARACTERISENT ISLE VERN SALEMBRE EN PERIGORD :
 - marges de la Double
 - coteaux calcaires Nord
@@ -16,6 +17,7 @@ Elles traduisent l'implantation humaine du territoire et l'organisation spécifi
 **CLIQUEZ sur "Entités paysagères"**
 
 ## Informations
+
 ### DE L’ARCHITECTURE TRADITIONNELLE A LA CONTEMPORAINE
 
 **Le diaporama illustre ces types d’architecture**
@@ -29,6 +31,7 @@ Elles traduisent l'implantation humaine du territoire et l'organisation spécifi
 **Quels matériaux** choisir en harmonie avec l’environnement ? …
 
 ## En savoir plus
+
 ### L’ARCHITECTURE TRADITIONNELLE
 
 **Les fermes, une architecture soignée**
