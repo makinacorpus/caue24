@@ -21,7 +21,7 @@ La carte représente les 5 types de sous-sol composant le territoire :
 
 
 ## Informations
-### GEOLOGIE ET ARCHITECTURE
+### GEO LOGIE ET ARCHITECTURE
 
 **Découvrez les influences du sous-sol au travers du diaporama**
 
