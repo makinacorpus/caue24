@@ -4,6 +4,7 @@ published: true
 ---
 
 ## Fenêtre modale
+
 ### DES ESPACES NATURELS OU BATIS RECONNUS ET PROTEGES.
 
 A ces espaces reconnus s’ajoutent ceux non reconnus liés au passé industriel du territoire et à son cadre de vie actuel.
@@ -12,11 +13,9 @@ La carte présente les secteurs protégés aussi bien naturels que bâtis.
 
 **CLIQUEZ sur chacun d’eux**
 
-
-
-
 ## Informations
-### DES PAT RIMOINES
+
+### DES PATRIMOINES
 
 **Le diaporama illustre ces éléments patrimoniaux**
 
@@ -33,8 +32,6 @@ Anciens bâtiments industriels, remarquables mais non classés, ayant profondém
 Territoire agricole (polyculture élevage, forêt en production, riches terres arables…), et industriel (voies de communications, activités industrielles). Habitat et ses annexes dans un cadre de vie agréable.
 
 
-
-
 ## En savoir plus
 
 ### UN TERRITOIRE AGRICOLE ET INDUSTRIEL, UN CADRE DE VIE AGREABLE
@@ -44,7 +41,8 @@ Dans la vallée de l’Isle, riche en terres arables, se juxtaposent aussi les v
 
 Un patrimoine remarquable mais non classé, constitué des anciens bâtiments industriels, a profondément marqué l’histoire du XXème siècle du territoire : usines le long de la rivière, fours à chaux, moulins…
 
-### LES PROTECTIONS ET INVENTAIRES DES PATRIMOINES NATURELS ET BATIS 
+### LES PROTECTIONS ET INVENTAIRES DES PATRIMOINES NATURELS ET BATIS
+
 Les espaces naturels du territoire sont reconnus ou protégés au titre de NATURA 2000 ou des ZNIEFF type 1 ou 2, (la forêt du Salembre, les cours d’eau, les coteaux de Léguillac… ). À ce patrimoine naturel du quotidien s’ajoute le patrimoine bâti de qualité et protégé (églises et châteaux et ZPPAUP de St-Astier) mais peu connu.  
 
 **NATURA 2000 :** Réseau de sites écologiques dont les objectifs sont de préserver la diversité biologique et de valoriser le patrimoine naturel.
