@@ -4,6 +4,7 @@ published: true
 ---
 
 ## Fenêtre modale
+
 ### UN SOUS-SOL - UN PAYSAGE.
 
 La géologie est un élément fondateur pour la compréhension du paysage et de l’architecture locale. 
@@ -17,19 +18,16 @@ La carte représente les 5 types de sous-sol composant le territoire :
 
 **CLIQUEZ sur "Points de vue"**
 
-
-
-
 ## Informations
-### GEO LOGIE ET ARCHITECTURE
+
+### GEOLOGIE ET ARCHITECTURE
 
 **Découvrez les influences du sous-sol au travers du diaporama**
 
 Les matériaux disponibles localement (calcaire, altérites et sables) ont longtemps été utilisés en priorité pour l’édification des maisons, des dépendances agricoles et de leurs abords.
 
-
-
 ## En savoir plus
+
 ### 3 THEMES FORTS IDENTIFIENT AUSSI LE PAYSAGE D’ISLE VERN SALEMBRE EN PERIGORD
 
 **La polyculture-élevage**
@@ -44,6 +42,7 @@ A l’Ouest et au Sud du territoire, la forêt est gérée et diversifiée. Elle
 Dans la vallée de l’Isle, de grandes peupleraies gagnent de plus en plus sur les terres agricoles. Dans les vallées secondaires du Nord, le boisement est signe de déprise agricole.
 
 ## Photos
+
 ![Mur en pierre calcaire avec enduit couleur du sable local](data/images/1/geographie/1_geographie_1.jpg)
 ![Mur en pierre calcaire assisée](data/images/1/geographie/1_geographie_2.jpg)
 ![Appareillage en moellons tout venant ou "têtes de chat"](data/images/1/geographie/1_geographie_3.jpg)
