@@ -10,6 +10,8 @@ root: /caue24
 exclude:
   - README.md
   - .gitignore
+# Markdown interpreter
+markdown: kramdown
 # prose.io settings
 # https://github.com/prose/prose/wiki/Prose-Configuration
 prose:
