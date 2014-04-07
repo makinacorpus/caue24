@@ -140,7 +140,7 @@ CaueViews.addInitTexts = function(community, category) {
     });
 
     $('#map-savoir-plus').html('');
-    $.each(dom$.find('h2#en_savoir_plus').first().nextUntil('h2'), function () {
+    $.each(dom$.find('h2').nextAll('h2').nextAll('h2').first().nextUntil('h2'), function () {
       $('#map-savoir-plus').append($(this)[0].outerHTML);
     });
 

@@ -6,6 +6,7 @@ published: true
 ## Fenêtre modale
 
 ### LES ZONES CONSTRUCTIBLES EN 2013
+
 La carte présente les terrains constructibles des PLU et cartes communales selon 4 grands types de zones :
 - zones urbaines 30% des espaces constructibles
 - zones diffuses 46% des espaces constructibles
@@ -17,8 +18,8 @@ La carte présente les terrains constructibles des PLU et cartes communales selo
 ## Informations
 
 ### Quel terrain ? quelle maison ?
-**Le diaporama illustre ces interrogations :**
 
+**Le diaporama illustre ces interrogations :**
 
 - Comment adapter des pavillons de plain-pied sur les terrains pentus ? 
 28% des terrains constructibles situés dans la pente.

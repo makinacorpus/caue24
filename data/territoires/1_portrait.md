@@ -4,6 +4,7 @@ published: false
 ---
 
 ## Fenêtre modale
+
 ### UN TERRITOIRE ALLIANT SES ATOUTS DE PAYSAGES A CEUX DE SON ACTIVITE ECONOMIQUE
 
 Isle Vern Salembre en Périgord, quelques chiffres :
@@ -14,6 +15,7 @@ Isle Vern Salembre en Périgord, quelques chiffres :
 **CLIQUEZ sur "Bourg"**
 
 ## Informations
+
 ### Un territoire dynamique
 
 **Découvrez ses atouts au travers du diaporama.**
@@ -24,6 +26,7 @@ Ce territoire doit être attentif à la pression foncière qui risque de grignot
 
 
 ## En savoir plus
+
 ### 4 thèmes forts identifient Isle Vern Salembre en Périgord
 
 **L’eau**
@@ -50,9 +53,8 @@ Des villages tout au long de la vallée, d’autres à flanc de coteaux.
 Des fermes isolées en plaine comme sur les coteaux. 
 Le XXème siècle, par son dynamisme industriel, a marqué le territoire tant par ses constructions industrielles que par ses habitations.
 
-
-
 ## Photos
+
 ![Vallée de l’Isle, colonne vertébrale du territoire](data/images/1/portrait/1_portrait_00.jpg)
 ![Ruisseau](data/images/1/portrait/1_portrait_01.jpg)
 ![Pont sur l’Isle](data/images/1/portrait/1_portrait_02.jpg)
