@@ -16,7 +16,7 @@ La carte présente les secteurs protégés aussi bien naturels que bâtis.
 
 
 ## Informations
-### DES PATRIMOINES
+### DES PAT RIMOINES
 
 **Le diaporama illustre ces éléments patrimoniaux**
 
