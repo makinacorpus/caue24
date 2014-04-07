@@ -4,6 +4,7 @@ published: true
 ---
 
 ## Fenêtre modale
+
 ### LES ZONES CONSTRUCTIBLES EN 2013
 La carte présente les terrains constructibles des PLU et cartes communales selon 4 grands types de zones :
 - zones urbaines 30% des espaces constructibles
@@ -14,6 +15,7 @@ La carte présente les terrains constructibles des PLU et cartes communales selo
 **CLIQUEZ sur "Documents d’urbanisme"**
 
 ## Informations
+
 ### Quel terrain ? quelle maison ?
 **Le diaporama illustre ces interrogations :**
 
@@ -27,6 +29,7 @@ La carte présente les terrains constructibles des PLU et cartes communales selo
 
 
 ## En savoir plus
+
 ### UN POINT SUR LA COMMUNAUTE DE COMMNUNES 2013
 
 Les communes connaissent une augmentation de population (7% en 10 ans), excepté St-Astier depuis la disparition des dernières usines de chaussures dans les années 2000.
@@ -64,6 +67,7 @@ Certaines zones constructibles peuvent également être affectées par les règl
 Le PPR est un document réalisé par l’État qui réglemente l’utilisation des sols à l'échelle communale, en fonction des risques auxquels ils sont soumis. Cette réglementation va de l’interdiction de construire à la possibilité de construire sous certaines conditions.
 
 ## Photos
+
 ![Implantation dans la plaine ou dans la pente ?](data/images/1/urbanisme/1_urbanisme_1.jpg)
 ![Terrain pentu : adaptation nécessaire à la pente](data/images/1/urbanisme/1_urbanisme_2.jpg)
 ![Vision de loin : attention covisibilité](data/images/1/urbanisme/1_urbanisme_3.jpg)
