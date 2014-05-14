@@ -10,6 +10,7 @@ published: true
 La géologie est un élément fondateur pour la compréhension du paysage et de l’architecture locale. 
 
 La carte représente les 5 types de sous-sol composant le territoire : 
+
 - les formations sablo-argileuses et graveleuses
 - le calcaire crétacé
 - les altérites argilo-sableuses
