@@ -7,7 +7,8 @@ published: true
 
 ### LES ZONES CONSTRUCTIBLES EN 2013
 
-La carte présente les terrains constructibles des PLU et cartes communales selon 4 grands types de zones :
+La carte présente les terrains constructibles des PLU et cartes communales selon 4 grands types de zoness :
+
 - zones urbaines 30% des espaces constructibles
 - zones diffuses 46% des espaces constructibles
 - zones à aménager 11% des espaces constructibles
