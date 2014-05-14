@@ -8,6 +8,7 @@ published: false
 ### UN TERRITOIRE ALLIANT SES ATOUTS DE PAYSAGES A CEUX DE SON ACTIVITE ECONOMIQUE
 
 Isle Vern Salembre en Périgord, quelques chiffres :
+
 - 17 communes
 - 19 662 habitants (source INSEE - recensement 2013-11-20)
 - superficie de 305 km2.
