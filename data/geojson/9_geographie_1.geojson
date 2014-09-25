@@ -1,0 +1,19 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"name": "Points de vue",
+"color": "#E30613",
+"active": "true",
+"interactive": "true",
+"description": "Un sous-sol, un paysage",
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "NOM": "Pop_3", "ID_CC2014": 9.000000, "COMMUNE": "Saint Félix de Reilhac et Mortemart" }, "geometry": { "type": "Point", "coordinates": [ 0.889932166998192, 45.022739327795854 ] } },
+{ "type": "Feature", "properties": { "NOM": "Pop_4", "ID_CC2014": 9.000000, "COMMUNE": "Fleurac" }, "geometry": { "type": "Point", "coordinates": [ 1.007696338249605, 44.993735294203432 ] } },
+{ "type": "Feature", "properties": { "NOM": "Pop_7", "ID_CC2014": 9.000000, "COMMUNE": "Les Eyzies de Tayac Sireuil" }, "geometry": { "type": "Point", "coordinates": [ 1.006702242580282, 44.928591237428982 ] } },
+{ "type": "Feature", "properties": { "NOM": "Pop_5", "ID_CC2014": 9.000000, "COMMUNE": "Peyzac le Moustier" }, "geometry": { "type": "Point", "coordinates": [ 1.083769193699053, 44.988549938704608 ] } },
+{ "type": "Feature", "properties": { "NOM": "Pop_6", "ID_CC2014": 9.000000, "COMMUNE": "Sergeac" }, "geometry": { "type": "Point", "coordinates": [ 1.108781342169063, 45.004078543270118 ] } },
+{ "type": "Feature", "properties": { "NOM": "Pop_1", "ID_CC2014": 9.000000, "COMMUNE": "Les Farges" }, "geometry": { "type": "Point", "coordinates": [ 1.203740377906925, 45.127834060602012 ] } },
+{ "type": "Feature", "properties": { "NOM": "Pop_2", "ID_CC2014": 9.000000, "COMMUNE": "Fanlac" }, "geometry": { "type": "Point", "coordinates": [ 1.115816964381619, 45.077691322942037 ] } }
+]
+}
