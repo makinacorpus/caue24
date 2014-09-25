@@ -1,6 +1,6 @@
 ---
 layout: page
-published: false
+published: true
 ---
 
 ## _**Le territoire des plateaux**_

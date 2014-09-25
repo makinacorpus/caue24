@@ -1,6 +1,6 @@
 ---
 layout: page
-published: false
+published: true
 ---
 
 ## Communauté de communes Isle Vern Salembre en Périgord

@@ -1,6 +1,6 @@
 ---
 layout: page
-published: false
+published: true
 ---
 
 **Vallée de l'Isle entre Razac et Saint-Astier**

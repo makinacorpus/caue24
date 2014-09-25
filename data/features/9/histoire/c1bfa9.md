@@ -1,6 +1,6 @@
 ---
 layout: page
-published: false
+published: true
 ---
 
 ![P20_01.jpg](data/images/9/histoire/P20_01.jpg)
