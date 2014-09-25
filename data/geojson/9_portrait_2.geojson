@@ -7,7 +7,7 @@
 "description": "Coordonnées de la communauté de communes",
                                                                                 
 "features": [
-{ "type": "Feature", "properties": { "NOM": null }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 1.158328708292246, 45.069236004338208 ], [ 1.168405775040365, 45.06937864351233 ], [ 1.16862016872311, 45.061581205018712 ], [ 1.158492987984137, 45.061474022908193 ], [ 1.158328708292246, 45.069236004338208 ] ] ] } },
-{ "type": "Feature", "properties": { "NOM": "Les Eyzies" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 1.007759545757717, 44.939498171094378 ], [ 1.017812791326737, 44.939654483193536 ], [ 1.018047717069471, 44.931857716103849 ], [ 1.007944375011035, 44.931736791340796 ], [ 1.007759545757717, 44.939498171094378 ] ] ] } }
+{ "type": "Feature", "properties": { "NOM": Montignac }, "geometry": { "type": "Polygon", "coordinates": [ 1.158328708292246, 45.069236004338208 ] } },
+{ "type": "Feature", "properties": { "NOM": "Les Eyzies" }, "geometry": { "type": "Polygon", "coordinates":[ 1.007759545757717, 44.939498171094378 ]} }
 ]
 }
