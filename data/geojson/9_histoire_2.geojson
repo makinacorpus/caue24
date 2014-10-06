@@ -2,7 +2,7 @@
 "type": "FeatureCollection",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "name": "Photo témoin",
-"color": "#6a3a02",
+"color": "#4f04a4",
 "marker-width": "15",
 "Outline width": "30",
 "active": "true",
