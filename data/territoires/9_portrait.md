@@ -4,6 +4,7 @@ published: true
 ---
 
 ## Fenêtre modale
+
 ###LA VALLEE DE L’HOMME – SPLENDEUR DES PAYSAGES ET DE L’ARCHITECTURE
 
 La Vallée de l’Homme, quelques chiffres : 
@@ -14,7 +15,8 @@ La Vallée de l’Homme, quelques chiffres :
 **CLIQUEZ sur « Bourg »**
 
 ## Informations
-### UN TERRITOIRE TOURISTIQUE EXCEPTIONNEL
+
+###UN TERRITOIRE TOURISTIQUE EXCEPTIONNEL
 
 De la Préhistoire à nos jours, une évolution permanente. La qualité des paysages, des gisements préhistoriques, des châteaux, des bourgs, des fermes et de leurs abords en fait sa richesse.
 **Découvrez ses attraits au travers du diaporama**
