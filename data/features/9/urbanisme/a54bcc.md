@@ -3,6 +3,6 @@ layout: page
 published: true
 ---
 
-Montignac 
+**Montignac**
 
 Plan Local d'Urbanisme
