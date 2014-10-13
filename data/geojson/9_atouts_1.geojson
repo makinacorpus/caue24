@@ -8,7 +8,6 @@
 "description": "Protection des monuments historiques loi du 31 décembre 1913",
                                                                                 
 "features": [
-{ "type": "Feature", "properties": { "INSEE": "24172", "COMMUNE": "EYZIES-DE-TAYAC-SIREUIL", "PROTECTION": "Cl.MH.", "PROCEDURE": "ARRETE MINISTERIEL", "TYPE": "CHATEAU" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 1.101678073122106, 44.94180112824084 ] ] } },
 { "type": "Feature", "properties": { "INSEE": "24172", "COMMUNE": "EYZIES-DE-TAYAC-SIREUIL", "PROTECTION": "Cl.MH.", "PROCEDURE": "ARRETE MINISTERIEL", "TYPE": "GROTTE" }, "geometry": { "type": "Point", "coordinates": [ 1.019541194714475, 44.924921594574137 ] } },
 { "type": "Feature", "properties": { "INSEE": "24261", "COMMUNE": "MAUZENS-ET-MIREMONT", "PROTECTION": "Cl.MH.", "PROCEDURE": "ARRETE MINISTERIEL", "TYPE": "GISEMENT PREHISTORIQUE" }, "geometry": { "type": "Point", "coordinates": [ 0.955091246797465, 44.983060422359003 ] } },
 { "type": "Feature", "properties": { "INSEE": "24524", "COMMUNE": "SAVIGNAC-DE-MIREMONT", "PROTECTION": "Cl.MH.", "PROCEDURE": "ARRETE MINISTERIEL", "TYPE": "GISEMENT PREHISTORIQUE" }, "geometry": { "type": "Point", "coordinates": [ 0.938103960412282, 44.951773857594318 ] } },
@@ -55,7 +54,6 @@
 { "type": "Feature", "properties": { "INSEE": null, "COMMUNE": "SAINT-CHAMASSY", "PROTECTION": "Ins.MH.", "PROCEDURE": null, "TYPE": null }, "geometry": { "type": "Point", "coordinates": [ 0.919362104753878, 44.860683384381595 ] } },
 { "type": "Feature", "properties": { "INSEE": "24172", "COMMUNE": "EYZIES-DE-TAYAC-SIREUIL", "PROTECTION": "Ins.MH.", "PROCEDURE": null, "TYPE": null }, "geometry": { "type": "Point", "coordinates": [ 1.065995410154129, 44.933507516351597 ] } },
 { "type": "Feature", "properties": { "INSEE": "24443", "COMMUNE": "SAINT-LEON-SUR-VEZERE", "PROTECTION": "Inv.MH.", "PROCEDURE": "ARRETE PREFECTORAL", "TYPE": "CHATEAU" }, "geometry": { "type": "Point", "coordinates": [ 1.060750340880999, 45.013350376512562 ] } },
-{ "type": "Feature", "properties": { "INSEE": "24330", "COMMUNE": "PLAZAC", "PROTECTION": "Inv.MH.", "PROCEDURE": "ARRETE PREFECTORAL", "TYPE": "EGLISE" }, "geometry": { "type": "Point", "coordinates": [ 1.040848921162198, 45.035798963251061 ] } },
 { "type": "Feature", "properties": { "INSEE": "24172", "COMMUNE": "EYZIES-DE-TAYAC-SIREUIL", "PROTECTION": "Cl.MH.", "PROCEDURE": null, "TYPE": "ARRETE MINISTERIEL" }, "geometry": { "type": "Point", "coordinates": [ 0.998243199044866, 44.943890473559108 ] } },
 { "type": "Feature", "properties": { "INSEE": "24389", "COMMUNE": "SAINT-CIRQ", "PROTECTION": "Cl.MH.", "PROCEDURE": null, "TYPE": null }, "geometry": { "type": "Point", "coordinates": [ 0.966933997919066, 44.925658876890878 ] } },
 { "type": "Feature", "properties": { "INSEE": "24172", "COMMUNE": "EYZIES-DE-TAYAC-SIREUIL", "PROTECTION": "Cl.MH.", "PROCEDURE": "OGIS-ABRI DE LAUGERIE-HAUTE\"\"\"\"\"", "TYPE": "ARRETE MINISTERIEL" }, "geometry": { "type": "Point", "coordinates": [ 1.001663975738514, 44.952334182423648 ] } },
