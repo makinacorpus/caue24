@@ -3,6 +3,6 @@ layout: page
 published: true
 ---
 
-Manaurie 
+**Manaurie**
 
 Carte Communale
