@@ -13,3 +13,4 @@ Territoire en cours d'élaboration
 ## Photos
 ![9_ATOUT_01.jpg](/data/images/9/atouts/9_ATOUT_01.jpg)
 ![9_ATOUT_02.jpg](/data/images/9/atouts/9_ATOUT_02.jpg)
+![9_ATOUT_03.jpg](/data/images/9/atouts/9_ATOUT_03.jpg)
