@@ -3,6 +3,9 @@ layout: page
 published: true
 ---
 
-**Montignac**
+Communauté de communes Vallée de l’Homme
 
-2892 habitants
+Pôle de Montignac
+
+3, avenue de Lascaux
+24290 Montignac
