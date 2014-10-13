@@ -1,6 +1,6 @@
 ---
 layout: page
-published: false
+published: true
 ---
 
 **Presbytère de Mortemart**
@@ -8,4 +8,3 @@ published: false
 **Eglise de Mortemart**
 
 2 Monuments inscrits, Inv MH
-
