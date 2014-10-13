@@ -5,18 +5,19 @@ published: true
 
 ## Fenêtre modale
 
-###LA VALLEE DE L’HOMME – SPLENDEUR DES PAYSAGES ET DE L’ARCHITECTURE
+### LA VALLEE DE L’HOMME – SPLENDEUR DES PAYSAGES ET DE L’ARCHITECTURE
 
 La Vallée de l’Homme, quelques chiffres : 
 
 - 26 communes
 - 15401 habitants (source INSEE - 2014)
 - superficie de 513 km2
+
 **CLIQUEZ sur « Bourg »**
 
 ## Informations
 
-###UN TERRITOIRE TOURISTIQUE EXCEPTIONNEL
+### UN TERRITOIRE TOURISTIQUE EXCEPTIONNEL
 
 De la Préhistoire à nos jours, une évolution permanente. La qualité des paysages, des gisements préhistoriques, des châteaux, des bourgs, des fermes et de leurs abords en fait sa richesse.
 **Découvrez ses attraits au travers du diaporama**
