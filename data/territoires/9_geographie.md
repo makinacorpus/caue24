@@ -40,4 +40,15 @@ Le bassin versant de la vallée de la Vézère couvre l’ensemble du territoire
 La forêt couvre environ 50% du territoire. Présente sur toutes les pentes, elle gagne aussi les terres cultivées et les petites vallées à cause de la déprise agricole. Le chêne pubescent, arbre dominant, est complété par le châtaignier et le pin sylvestre sur les sols pauvres. Le chêne vert s’établit sur les calcaires arides des causses exposés à la chaleur. Les cours d’eau sont bordés d’une ripisylve riche de chênes pédonculés, d’aulnes, de peupliers…
 
 ## Photos
-
+![Mur en calcaire tendre, moellons et pierre d’angle arrondis](/data/images/9/géographie/9_GEOGRAPHIE_01.jpg)
+![Mur en calcaire dur, organisation régulière, toiture en tuiles plates](/data/images/9/géographie/9_GEOGRAPHIE_02.jpg)
+![Mur de composition hétérogène sur sous-sol d’altérites avec pierres ferrugineuses](/data/images/9/géographie/9_GEOGRAPHIE_03.jpg)
+![Enduits chaux et sable provenant des dépôts du tertiaire](/data/images/9/géographie/9_GEOGRAPHIE_04.jpg)
+![Enduit de protection des maçonneries hétérogènes, bande chaulée soulignant la toiture](/data/images/9/géographie/9_GEOGRAPHIE_05.jpg)
+![Partie haute de la maçonnerie réalisée en lauzes calcaire de récupération](/data/images/9/géographie/9_GEOGRAPHIE_06.jpg)
+![Pierre de taille calcaire formant l’encadrement d’une ouverture de commerce avec porte et vitrine](/data/images/9/géographie/9_GEOGRAPHIE_07.jpg)
+![Lucarne fénière dans toiture en tuiles plates et mécaniques](/data/images/9/géographie/9_GEOGRAPHIE_09.jpg)
+![Important volume des toitures à forte pente couverte en tuiles plates](/data/images/9/géographie/9_GEOGRAPHIE_10.jpg)
+![Petite lucarne en lauze avec encadrement en pierre calcaire](/data/images/9/géographie/9_GEOGRAPHIE_11.jpg)
+![Lucarne fénière dans toiture en lauzes calcaires](/data/images/9/géographie/9_GEOGRAPHIE_12.jpg)
+![Important volume des toitures à forte pente couverte en lauzes calcaires ](/data/images/9/géographie/9_GEOGRAPHIE_13.jpg)
