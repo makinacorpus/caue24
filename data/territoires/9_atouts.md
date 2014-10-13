@@ -44,23 +44,23 @@ Politique nationale de conservation et de valorisation touristique des sites pro
 
 ### LES PROTECTIONS - DEFINITIONS
 
-NATURA 2000 :
+**NATURA 2000 :**
 Réseau de sites écologiques dont les objectifs sont de préserver la diversité biologique et de valoriser le patrimoine naturel.
 
-ZNIEFF : 
+**ZNIEFF :**
 Zones Naturelles d’Intérêt Ecologique Faunistique et Floristique. Cet outil de connaissance de la biodiversité, subdivisé en deux groupes, est le recensement d’espaces naturels terrestres.
 
-ZPPAUP :
+**ZPPAUP :**
 Une  Zone de Protection du Patrimoine Architectural, Urbain et Paysager (ZPPAUP) peut être instituée autour des monuments historiques et dans les quartiers, sites et espaces à protéger ou à mettre en valeur pour des motifs d’ordre esthétique, historique ou culturel.
 Créée par arrêté préfectoral après accord du conseil municipal, la ZPAUP constitue une servitude annexée au PLU (POS) et s’impose aux opérations de construction et d’aménagement menées dans son périmètre.
 
-MONUMENT CLASSE OU INSCRIT :
+**MONUMENT CLASSE OU INSCRIT :**
 La loi du 31 décembre 1913 sur les monuments historiques permet de protéger certains bâtiments à caractère patrimonial. Celle du 23 février 1943 sur les abords, la complète en fixant un périmètre de 500m autour de l’édifice.
 
-SITE CLASSE OU INSCRIT :
+**SITE CLASSE OU INSCRIT :**
 La loi de 1930 sur les sites permet de protéger des espaces d’une grande diversité : parcs et jardins, espaces naturels, paysages…écrins paysagers de monuments historiques pour lesquels la seule protection des abords ne suffirait pas.
 
-UNESCO :
+**UNESCO :**
 Organisation des Nations Unies pour l’éducation, la science et la Culture. Une des missions et protéger notre patrimoine et de favoriser la créativité.
 
 ## Photos
