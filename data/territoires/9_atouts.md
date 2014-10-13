@@ -11,3 +11,4 @@ Territoire en cours d'élaboration
 ## En savoir plus
 
 ## Photos
+![9_PORTRAIT_01.jpg](/data/images/9/portrait/9_PORTRAIT_01.jpg)
