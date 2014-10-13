@@ -4,8 +4,10 @@ published: true
 ---
 
 ## Fenêtre modale
-### LA VALLEE DE L’HOMME – SPLENDEUR DES PAYSAGES ET DE L’ARCHITECTURE
+###LA VALLEE DE L’HOMME – SPLENDEUR DES PAYSAGES ET DE L’ARCHITECTURE
+
 La Vallée de l’Homme, quelques chiffres : 
+
 - 26 communes
 - 15401 habitants (source INSEE - 2014)
 - superficie de 513 km2
@@ -13,6 +15,7 @@ La Vallée de l’Homme, quelques chiffres :
 
 ## Informations
 ### UN TERRITOIRE TOURISTIQUE EXCEPTIONNEL
+
 De la Préhistoire à nos jours, une évolution permanente. La qualité des paysages, des gisements préhistoriques, des châteaux, des bourgs, des fermes et de leurs abords en fait sa richesse.
 **Découvrez ses attraits au travers du diaporama**
 
@@ -27,7 +30,7 @@ Le relief marqué et varié permet des points de vue spectaculaires et pittoresq
 
 ### L’architecture rurale de qualité
 L’architecture rurale est caractérisée par les matériaux nobles pierre, lauzes, tuiles plates. Ce territoire emblématique du Périgord Noir nous offre des architectures témoins de chaque époque, habitat dense des villes et bourgs médiévaux, architecture rurale des fermes de polyculture-élevage isolées au milieu de leurs terres. De nombreuses restaurations soignées respectent cette architecture. Les abords bâtis murets, porches et les éléments végétaux, treilles, potagers, arbres maîtres contribuent autant que l’architecture à la richesse de ce cadre bâti.
-"
+
 ## Photos
 ![Cingle de St-Léon-sur-Vézère depuis la Côte de Jord](/data/images/9/portrait/9_PORTRAIT_01.jpg)
 ![Cingle Sud des Eyzies](/data/images/9/portrait/9_PORTRAIT_02.jpg)
