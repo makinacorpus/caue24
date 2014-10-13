@@ -1,6 +1,6 @@
 ---
 layout: page
-published: false
+published: true
 ---
 
 ## Coteau Nord de la Vallée Vézère
