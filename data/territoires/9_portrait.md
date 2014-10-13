@@ -19,8 +19,10 @@ La Vallée de l’Homme, quelques chiffres :
 
 ### UN TERRITOIRE TOURISTIQUE EXCEPTIONNEL
 
-De la Préhistoire à nos jours, une évolution permanente. La qualité des paysages, des gisements préhistoriques, des châteaux, des bourgs, des fermes et de leurs abords en fait sa richesse.
 **Découvrez ses attraits au travers du diaporama**
+
+De la Préhistoire à nos jours, une évolution permanente. La qualité des paysages, des gisements préhistoriques, des châteaux, des bourgs, des fermes et de leurs abords en fait sa richesse.
+
 
 ## En savoir plus
 3 thèmes forts identifient La Vallée de l’Homme
