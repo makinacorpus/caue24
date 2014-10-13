@@ -3,6 +3,6 @@ layout: page
 published: true
 ---
 
-Aubas 
+**Aubas** 
 
 Carte Communale
