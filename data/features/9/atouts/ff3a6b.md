@@ -1,8 +1,8 @@
 ---
 layout: page
-published: false
+published: true
 ---
 
 **Site de la grotte des Combarelles**
 
-Site classé
+Site classÃ©
