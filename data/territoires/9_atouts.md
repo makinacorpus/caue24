@@ -75,7 +75,7 @@ Organisation des Nations Unies pour l’éducation, la science et la Culture. Un
 ![Pôle International de la Préhistoire - architecte : Raphaël Voinchet](/data/images/9/atouts/9_ATOUT_07.jpg)
 ![Accueil touristique contemporain](/data/images/9/atouts/9_ATOUT_08.jpg)
 ![Hébergement touristique](/data/images/9/atouts/9_ATOUT_09.jpg)
-![Pigeonnier](/data/images/9/histoire/9_HISTOIRE_10.jpg)
+![Pigeonnier](/data/images/9/atouts/9_ATOUT_10.jpg)
 ![Four à pain, toiture en lauze](/data/images/9/atouts/9_ATOUT_11.jpg)
 ![Cabane de pierre sèche](/data/images/9/atouts/9_ATOUT_12.jpg)
 ![Fontaine lavoir ](/data/images/9/atouts/9_ATOUT_13.jpg)
