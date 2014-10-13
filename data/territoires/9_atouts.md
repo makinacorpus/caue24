@@ -17,6 +17,8 @@ La carte présente les secteurs protégés aussi bien naturels que bâtis
 
 ### DES PATRIMOINES
 
+**Le diaporama illustre ces éléments patrimoniaux**
+
 **Patrimoines protégés :**
 Patrimoine naturel et bâti protégé (sites préhistoriques, châteaux…) et espaces naturels (NATURA 2000 ou des ZNIEFF type 1 ou 2).
 
