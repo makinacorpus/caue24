@@ -47,9 +47,8 @@ La forêt couvre environ 50% du territoire. Présente sur toutes les pentes, ell
 ![Enduit de protection des maçonneries hétérogènes, bande chaulée soulignant la toiture](/data/images/9/géographie/9_GEOGRAPHIE_05.jpg)
 ![Partie haute de la maçonnerie réalisée en lauzes calcaire de récupération](/data/images/9/géographie/9_GEOGRAPHIE_06.jpg)
 ![Pierre de taille calcaire formant l’encadrement d’une ouverture de commerce avec porte et vitrine](/data/images/9/géographie/9_GEOGRAPHIE_07.jpg)
-![Lucarne fénière dans toiture en tuiles plates et mécaniques](/data/images/9/géographie/9_GEOGRAPHIE_09.jpg)
+![Lucarne en pierre dans toiture en tuiles plates et mécaniques](/data/images/9/géographie/9_GEOGRAPHIE_09.jpg)
 ![Important volume des toitures à forte pente couverte en tuiles plates](/data/images/9/géographie/9_GEOGRAPHIE_10.jpg)
 ![Petite lucarne en lauze avec encadrement en pierre calcaire](/data/images/9/géographie/9_GEOGRAPHIE_11.jpg)
 ![Lucarne fénière dans toiture en lauzes calcaires](/data/images/9/géographie/9_GEOGRAPHIE_12.jpg)
 ![Important volume des toitures à forte pente couverte en lauzes calcaires ](/data/images/9/géographie/9_GEOGRAPHIE_13.jpg)
-
