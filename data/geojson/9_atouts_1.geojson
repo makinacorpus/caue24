@@ -8,6 +8,7 @@
 "description": "Protection des monuments historiques loi du 31 décembre 1913",
                                                                                 
 "features": [
+{ "type": "Feature", "properties": { "INSEE": "24172", "COMMUNE": "EYZIES-DE-TAYAC-SIREUIL", "PROTECTION": "Cl.MH.", "PROCEDURE": "ARRETE MINISTERIEL", "TYPE": "CHATEAU" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 1.101678073122106, 44.94180112824084 ] ] } },
 { "type": "Feature", "properties": { "INSEE": "24172", "COMMUNE": "EYZIES-DE-TAYAC-SIREUIL", "PROTECTION": "Cl.MH.", "PROCEDURE": "ARRETE MINISTERIEL", "TYPE": "GROTTE" }, "geometry": { "type": "Point", "coordinates": [ 1.019541194714475, 44.924921594574137 ] } },
 { "type": "Feature", "properties": { "INSEE": "24261", "COMMUNE": "MAUZENS-ET-MIREMONT", "PROTECTION": "Cl.MH.", "PROCEDURE": "ARRETE MINISTERIEL", "TYPE": "GISEMENT PREHISTORIQUE" }, "geometry": { "type": "Point", "coordinates": [ 0.955091246797465, 44.983060422359003 ] } },
 { "type": "Feature", "properties": { "INSEE": "24524", "COMMUNE": "SAVIGNAC-DE-MIREMONT", "PROTECTION": "Cl.MH.", "PROCEDURE": "ARRETE MINISTERIEL", "TYPE": "GISEMENT PREHISTORIQUE" }, "geometry": { "type": "Point", "coordinates": [ 0.938103960412282, 44.951773857594318 ] } },
