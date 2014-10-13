@@ -7,7 +7,7 @@
 "description": "Localisation du centre bourg, population de la commune",
                                                                                 
 "features": [
-{ "type": "Feature", "properties": { "COMMUNE": "Savignac de Miremont" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 0.945939786263824, 44.972357149808751 ] ] } },
+{ "type": "Feature", "properties": { "COMMUNE": "Savignac de Miremont" }, "geometry": { "type": "Point", "coordinates": [ [ 0.945939786263824, 44.972357149808751 ] ] } },
 { "type": "Feature", "properties": { "COMMUNE": "Les Farges" }, "geometry": { "type": "Point", "coordinates": [ 1.187275057066052, 45.115294789430294 ] } },
 { "type": "Feature", "properties": { "COMMUNE": "Aubas" }, "geometry": { "type": "Point", "coordinates": [ 1.191390299090031, 45.082042212271553 ] } },
 { "type": "Feature", "properties": { "COMMUNE": "Montignac" }, "geometry": { "type": "Point", "coordinates": [ 1.163389457754006, 45.06524138867065 ] } },
