@@ -52,3 +52,4 @@ La forêt couvre environ 50% du territoire. Présente sur toutes les pentes, ell
 ![Petite lucarne en lauze avec encadrement en pierre calcaire](/data/images/9/géographie/9_GEOGRAPHIE_11.jpg)
 ![Lucarne fénière dans toiture en lauzes calcaires](/data/images/9/géographie/9_GEOGRAPHIE_12.jpg)
 ![Important volume des toitures à forte pente couverte en lauzes calcaires ](/data/images/9/géographie/9_GEOGRAPHIE_13.jpg)
+
