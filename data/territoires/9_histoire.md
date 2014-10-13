@@ -29,6 +29,7 @@ Vocation touristique  de la communauté de communes affirmée.
 
 
 ## En savoir plus
+
 ### DE 1832 A 1950
 Les villages, de taille très variée, étaient agglomérés autour de leur église. L’habitat s’implantait de manière éparse en fermes isolées ou petits hameaux au milieu de leurs terres.  La vallée de la Vézère, est un axe important, à la fois de transport et économique.
 1832 est la date du premier cadastre : le cadastre napoléonien.
