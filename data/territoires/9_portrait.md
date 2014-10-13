@@ -25,15 +25,15 @@ De la Préhistoire à nos jours, une évolution permanente. La qualité des pays
 
 
 ## En savoir plus
-3 thèmes forts identifient La Vallée de l’Homme
+### 3 THEMES FORTS IDENTIFIENT LA VALLEE DE L'HOMME
 
-### La Vallée de la Vézère
+**La Vallée de la Vézère**
 Elément fédérateur, elle offre une diversité de paysages, des séquences étroites avec des coteaux abrupts où la Vézère s’appuie contre les falaises et des méandres plus larges avec une ouverture sur la vallée cultivée. De nombreux points de vue permettent d’admirer ces lieux.
 
-### Paysage et points de vue
+**Paysage et points de vue**
 Le relief marqué et varié permet des points de vue spectaculaires et pittoresques. Petites clairières agricoles cernées par les massifs boisés, vallées pâturées, combes, pelouses calcaires se contemplent depuis les grandes lignes de crêtes. La vallée riante de la Vézère se découvre par le sommet des coteaux et les avancées rocheuses.
 
-### L’architecture rurale de qualité
+**L’architecture rurale de qualité**
 L’architecture rurale est caractérisée par les matériaux nobles pierre, lauzes, tuiles plates. Ce territoire emblématique du Périgord Noir nous offre des architectures témoins de chaque époque, habitat dense des villes et bourgs médiévaux, architecture rurale des fermes de polyculture-élevage isolées au milieu de leurs terres. De nombreuses restaurations soignées respectent cette architecture. Les abords bâtis murets, porches et les éléments végétaux, treilles, potagers, arbres maîtres contribuent autant que l’architecture à la richesse de ce cadre bâti.
 
 ## Photos
