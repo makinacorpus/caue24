@@ -3,6 +3,6 @@ layout: page
 published: true
 ---
 
-Sergeac 
+**Sergeac**
 
 Plan Local d'Urbanisme
