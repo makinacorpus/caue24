@@ -16,6 +16,7 @@ La carte présente les terrains constructibles des PLU et cartes communales selo
 **CLIQUEZ sur "Documents d’urbanisme"**
 
 ## Informations
+
 ### QUEL TERRAIN ? QUELLE MAISON ?
 
 - Comment réaliser une maison en correspondance avec le paysage ?
@@ -27,6 +28,7 @@ La carte présente les terrains constructibles des PLU et cartes communales selo
 **Le diaporama illustre ces interrogations**
 
 ## En savoir plus
+
 ### UN POINT SUR LA COMMUNAUTE DE COMMUNES EN 2014
 
 La surface des terrains est d’environ 2000 à 2500 m2, leurs problématiques principales sont la covisibilité et les terrains en pente. Chaque projet doit prendre en compte ces contraintes sans oublier celles des accès de l’orientation et des vues.
