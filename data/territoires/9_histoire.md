@@ -59,7 +59,7 @@ Les activités économiques restent principalement dans les deux centres Montign
 ![Extension de fermes par grands bâtiments, années 80](/data/images/9/histoire/9_HISTOIRE_07.jpg)
 ![Bâtiments agricoles de grande échelle ](/data/images/9/histoire/9_HISTOIRE_08.jpg)
 ![Opération concertée en périphérie de bourg](/data/images/9/histoire/9_HISTOIRE_09.jpg)
-![Extension en limite de hameau](/data/images/1/portrait/1_portrait_10.jpg)
+![Extension en limite de hameau](/data/images/9/histoire/9_HISTOIRE_10.jpg)
 ![Lotissement situé à distance du bourg](/data/images/9/histoire/9_HISTOIRE_11.jpg)
 ![Equipement touristique d’accompagnement](/data/images/9/histoire/9_HISTOIRE_12.jpg)
 ![Pavillons récents, implantation lâche sur plateau](/data/images/9/histoire/9_HISTOIRE_13.jpg)
