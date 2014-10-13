@@ -1,6 +1,6 @@
 ---
 layout: page
-published: false
+published: true
 ---
 
 **Ruines du château de Miremont**
