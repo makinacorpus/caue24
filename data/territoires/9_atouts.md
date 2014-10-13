@@ -17,3 +17,5 @@ Territoire en cours d'élaboration
 ![Causses, pelouses calcaire et polyculture](/data/images/9/atouts/9_ATOUT_04.jpg)
 ![Vallée de la Beune, zone humide Natura 2000 - Photo : Bernard Dupuy](/data/images/9/atouts/9_ATOUT_05.jpg)
 ![Musée national de la Préhistoire – architecte : Jean-Pierre Buffi](/data/images/9/atouts/9_ATOUT_06.jpg)
+![Pôle International de la Préhistoire - architecte : Raphaël Voinchet](/data/images/9/atouts/9_ATOUT_07.jpg)
+![Accueil touristique contemporain](/data/images/9/atouts/9_ATOUT_08.jpg)
