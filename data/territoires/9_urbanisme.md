@@ -75,5 +75,5 @@ Le PPR est un document réalisé par l’État qui réglemente l’utilisation d
 ![Impact en ligne de crête mais atténué par la présence des boisements](/data/images/9/urbanisme/9_URBA_02.jpg)
 ![Construction adaptée à la pente et au paysage](/data/images/9/urbanisme/9_URBA_03.jpg)
 ![Difficulté d’intégrer un pavillon de plain-pied sur une butte artificielle](/data/images/9/urbanisme/9_URBA_04.jpg)
-![Garder les arbres favorise l’intégration](//data/images/9/urbanisme/9_URBA_05.jpg)
+![Garder les arbres favorise l’intégration](/data/images/9/urbanisme/9_URBA_05.jpg)
 ![Une haie d’une seule essence n’est pas forcément élément d’intégration](/data/images/9/urbanisme/9_URBA_06.jpg)
