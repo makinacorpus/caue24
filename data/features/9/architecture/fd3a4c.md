@@ -1,6 +1,6 @@
 ---
 layout: page
-published: false
+published: true
 ---
 
 ## Plateau Sud de la Vallée Vézère
@@ -8,4 +8,3 @@ published: false
 Collines douces sillonnées par de nombreuses petites vallées pâturées.
 Habitat implanté sur les hauteurs dans des petites clairières cultivées.
 ![9_ARCHITECTURE_bloc4.png](/data/images/9/architecture/9_ARCHITECTURE_bloc4.png)
-
