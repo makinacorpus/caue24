@@ -1,6 +1,6 @@
 ---
 layout: page
-published: false
+published: true
 ---
 
 ## Le centre des Eyzies
