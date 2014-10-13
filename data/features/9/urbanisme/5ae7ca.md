@@ -3,6 +3,6 @@ layout: page
 published: true
 ---
 
-Journiac 
+**Journiac**
 
 Carte Communale
