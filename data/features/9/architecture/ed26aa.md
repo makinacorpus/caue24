@@ -3,4 +3,4 @@ layout: page
 published: true
 ---
 
-## en cours d'élaboration
+## En cours d'élaboration
