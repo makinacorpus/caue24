@@ -15,7 +15,7 @@ La carte représente les 5 types de sous-sol composant le territoire :
 - le calcaire du crétacé
 - le calcaire du jurassique
 - les altérites et colluvions
-- les dépôts superficiels et sables.
+- les dépôts superficiels et sables
 
 **CLIQUEZ sur «Points de vue»**
 
