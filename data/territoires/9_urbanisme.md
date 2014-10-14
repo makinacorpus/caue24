@@ -36,13 +36,15 @@ La carte présente les terrains constructibles des PLU et cartes communales selo
 
 La surface des terrains est d’environ 2000 à 2500 m2, leurs problématiques principales sont la covisibilité et les terrains en pente. Chaque projet doit prendre en compte ces contraintes sans oublier celles des accès de l’orientation et des vues.
 
-Répartition géographique des surfaces constructibles : 
+**Répartition géographique des surfaces constructibles :** 
+
 - sur les plateaux 34 %
 - en vallée 29 %
 - en ligne de crête 19 %
 - sur les pentes 18 %
 
-Qualification des surfaces constructibles :
+**Qualification des surfaces constructibles :**
+
 - 47 % non boisés
 - 27 % en clairière
 - 26 % boisés
