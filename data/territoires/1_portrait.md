@@ -19,7 +19,7 @@ Isle Vern Salembre en Périgord, quelques chiffres :
 
 ### Un territoire dynamique
 
-**Découvrez ses atouts au travers du diaporama.**
+**Découvrez ses atouts au travers du diaporama**
 
 Ses atouts : **Une colonne vertébrale** de voies de communication le long de l’Isle, la proximité immédiate de l’agglomération Périgourdine, **un riche passé industriel et un cadre de vie agréable.**
 
@@ -28,7 +28,7 @@ Ce territoire doit être attentif à la pression foncière qui risque de grignot
 
 ## En savoir plus
 
-### 4 thèmes forts identifient Isle Vern Salembre en Périgord
+### 4 THEMES FORTS IDENTIFIENT ISLE VERN SALEMBRE EN PERIGORD
 
 **L’eau**
 
