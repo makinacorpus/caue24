@@ -23,7 +23,7 @@ La carte présente les terrains constructibles des PLU et cartes communales selo
 **Le diaporama illustre ces interrogations**
 
 - Comment réaliser une maison en correspondance avec le paysage ?
-27 % des terrains en covisibilité dans les vallées ou en lignes+B9 de crête. Toute construction y est très visible. 
+27 % des terrains en covisibilité dans les vallées ou en lignes de crête. Toute construction y est très visible. 
 - Comment adapter les constructions aux terrains pentus ? 
 18 % des terrains constructibles situés dans la pente.
 - Comment s’implanter sur son terrain ? Comment composer avec la végétation existante ? Les terrains ont encore de grandes dimensions, un accompagnement végétal est essentiel.
