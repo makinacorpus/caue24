@@ -16,20 +16,13 @@ La carte présente les secteurs protégés aussi bien naturels que bâtis.
 ## Informations
 
 ### DES PATRIMOINES
-
 **Le diaporama illustre ces éléments patrimoniaux**
 
-**Patrimoines reconnus**
+**Patrimoines reconnus** : espaces naturels (NATURA 2000 ou des ZNIEFF type 1 ou 2) et patrimoine bâti et protégé (Monuments, sites classés ou inscrits, ZPPAUP ou AVAP).
 
-Espaces naturels (NATURA 2000 ou des ZNIEFF type 1 ou 2) et patrimoine bâti et protégé (Monuments, sites classés ou inscrits, ZPPAUP ou AVAP).
+**Patrimoines non reconnus** : anciens bâtiments industriels, remarquables mais non classés, ayant profondément marqué l’histoire du XXème siècle : usines le long de la rivière, fours à chaux, moulins…
 
-**Patrimoines non reconnus**
-
-Anciens bâtiments industriels, remarquables mais non classés, ayant profondément marqué l’histoire du XXème siècle : usines le long de la rivière, fours à chaux, moulins…
-
-**Patrimoine du quotidien**
-
-Territoire agricole (polyculture élevage, forêt en production, riches terres arables…), et industriel (voies de communications, activités industrielles). Habitat et ses annexes dans un cadre de vie agréable.
+**Patrimoine du quotidien** : territoire agricole (polyculture élevage, forêt en production, riches terres arables…), et industriel (voies de communications, activités industrielles). Habitat et ses annexes dans un cadre de vie agréable.
 
 
 ## En savoir plus
