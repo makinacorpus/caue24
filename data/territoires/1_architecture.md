@@ -11,7 +11,7 @@ published: true
 - coteaux calcaires Nord
 - vallée de l’isle
 - coteaux calcaires Sud
-- marge du Landais.
+- marge du Landais
 
 Elles traduisent l'implantation humaine du territoire et l'organisation spécificque du relief, de la forêt et de l'agriculture.
 
