@@ -21,7 +21,7 @@ La carte présente les secteurs protégés aussi bien naturels que bâtis.
 
 **Patrimoines reconnus**
 
-Espaces naturels (NATURA 2000 ou des ZNIEFF type 1 ou 2) et patrimoine bâti et protégé (Monuments, sites classés ou inscrits, ZPPAUP ou AVAP) .
+Espaces naturels (NATURA 2000 ou des ZNIEFF type 1 ou 2) et patrimoine bâti et protégé (Monuments, sites classés ou inscrits, ZPPAUP ou AVAP).
 
 **Patrimoines non reconnus**
 
