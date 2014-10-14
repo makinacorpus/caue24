@@ -23,6 +23,7 @@ La carte présente les terrains constructibles des PLU et cartes communales selo
 **Le diaporama illustre ces interrogations :**
 
 - Comment adapter des pavillons de plain-pied sur les terrains pentus ? 
+
 28% des terrains constructibles situés dans la pente.
 - Comment réaliser une maison en correspondance avec le paysage ?
 14% des terrains en covisibilité sur le haut des pentes ou en ligne de crête. Toute construction y est très visible. 
