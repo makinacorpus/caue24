@@ -70,7 +70,7 @@ La carte communale est un document d’urbanisme simple qui délimite les secteu
 
 Certaines zones constructibles peuvent également être concernées par les règlements du Plan de Prévention des Risques d’Inondation dans la vallée de la Vézère.
 
-## Un Plan de Prévention des Risques (PPR)
+**Un Plan de Prévention des Risques (PPR)**
 
 est une servitude d'utilité publique de droit français.
 Le PPR est un document réalisé par l’État qui réglemente l’utilisation des sols, à l'échelle communale, en fonction des risques auxquels ils sont soumis. Cette réglementation va de l’interdiction de construire à la possibilité de construire sous certaines conditions."
