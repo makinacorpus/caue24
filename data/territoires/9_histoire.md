@@ -17,13 +17,13 @@ La carte présente en différents sites des analyses et des photos de l’évolu
 
 **Le diaporama illustre l’architecture des époques de la rurbanisation**
 
-**de 1832** (cadastre napoléonien) **à 1950**, conservation de la vocation agricole des bourgs et des hameaux.
+**De 1832** (cadastre napoléonien) **à 1950**, conservation de la vocation agricole des bourgs et des hameaux.
 
-**de 1950 à 1980**, forte expansion de l’agriculture. Début de l’extension des bourgs avec des maisons individuelles, implantation des premiers équipements touristiques hors des grands sites.
+**De 1950 à 1980**, forte expansion de l’agriculture. Début de l’extension des bourgs avec des maisons individuelles, implantation des premiers équipements touristiques hors des grands sites.
 
-**de 1980 à 2000**, extension des bourgs variable selon la proximité des sites et leur situation par rapport aux activités. Implantation disséminée de maisons individuelles sur terrains avec vue.
+**De 1980 à 2000**, extension des bourgs variable selon la proximité des sites et leur situation par rapport aux activités. Implantation disséminée de maisons individuelles sur terrains avec vue.
 
-**de 2000 à 2014**, dynamique identique à la période précédente pour l’implantation des maisons individuelles.
+**De 2000 à 2014**, dynamique identique à la période précédente pour l’implantation des maisons individuelles.
 Vocation touristique  de la communauté de communes affirmée.
 
 
