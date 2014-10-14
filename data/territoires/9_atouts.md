@@ -9,7 +9,7 @@ published: true
 
 Dans un cadre paysager de qualité, l’architecture soignée des fermes, les équipements touristiques de qualité et un riche patrimoine du pays accompagnent les nombreux sites et monuments protégés.
 
-La carte présente les secteurs protégés aussi bien naturels que bâtis
+La carte présente les secteurs protégés aussi bien naturels que bâtis.
 
 **CLIQUEZ sur chacun d’eux**
 
