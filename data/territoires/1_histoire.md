@@ -18,13 +18,13 @@ La carte présente ce développement en 4 périodes : avant 1832 (cadastre napol
 
 **Le diaporama illustre l’architecture des époques d’urbanisation**
 
-**avant 1832** (cadastre napoléonien), implantation de l’habitat de manière éparse en fermes isolées au milieu de leurs terres, villages agglomérés autour de l’église.
+**Avant 1832** (cadastre napoléonien), implantation de l’habitat de manière éparse en fermes isolées au milieu de leurs terres, villages agglomérés autour de l’église.
 
-**de 1832 à 1970**, forte expansion dans la vallée de l’Isle. Sur les coteaux, installation des premiers pavillons aux abords des fermes et des villages. 
+**De 1832 à 1970**, forte expansion dans la vallée de l’Isle. Sur les coteaux, installation des premiers pavillons aux abords des fermes et des villages. 
 
-**de 1971 à 2000**, très importantes surfaces urbanisées pour la création d’habitat ; implantations sur de grands terrains.
+**De 1971 à 2000**, très importantes surfaces urbanisées pour la création d’habitat ; implantations sur de grands terrains.
 
-**de 2000 à 2013**, densification en vallée. Sur les coteaux, constructions continuant de s’implanter de manière éparse sur de grands terrains.
+**De 2000 à 2013**, densification en vallée. Sur les coteaux, constructions continuant de s’implanter de manière éparse sur de grands terrains.
 
 ## En savoir plus
 
