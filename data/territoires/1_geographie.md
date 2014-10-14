@@ -15,7 +15,7 @@ La carte représente les 5 types de sous-sol composant le territoire :
 - le calcaire crétacé
 - les altérites argilo-sableuses
 - les terrasses alluviales
-- les alluvions de fond de vallée.
+- les alluvions de fond de vallée
 
 **CLIQUEZ sur "Points de vue"**
 
