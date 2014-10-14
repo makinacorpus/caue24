@@ -6,9 +6,9 @@ published: true
 ## Fenêtre modale
 
 ### DES TERRITOIRES RURAUX AVEC DES VILLES CENTRES
-La carte présente en différents sites des analyses et des photos de l’évolution rurbaine des communes
+La carte présente en différents sites des analyses et des photos de l’évolution rurbaine des communes.
 
-**CLIQUEZ sur les repères de la carte pour découvrir ces évolutions.**
+**CLIQUEZ sur la carte pour découvrir ces évolutions**
 
 
 ## Informations
@@ -41,8 +41,10 @@ Création des premiers grands équipements touristiques, proches des grands site
 
 ### DE 1980 A 2000
 Avec la systématisation de l’utilisation de la voiture, les maisons individuelles sont de plus en plus dispersées sur tout le territoire. Deux cas de figure d’implantation des maisons sont récurrents : 
+
 - autour mais non contiguës aux bourgs ruraux
 - le long des routes, avec points de vue, sur de très grands terrains, déconnectées de toutes formes agglomérées
+
 De ce fait un grand nombre de bourgs connait une extension très modérée voire inexistante.
 Selon la pression touristique, la création d’équipements (camping, aires de loisirs…) demande de grandes surfaces, dans des espaces retirés des communes.
 
