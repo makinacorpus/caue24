@@ -5,7 +5,7 @@ published: true
 
 ## Fenêtre modale
 
-### DES ESPACES NATURELS OU BATIS RECONNUS ET PROTEGES.
+### DES ESPACES NATURELS OU BATIS RECONNUS ET PROTEGES
 
 A ces espaces reconnus s’ajoutent ceux non reconnus liés au passé industriel du territoire et à son cadre de vie actuel.
 
