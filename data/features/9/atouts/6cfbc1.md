@@ -1,6 +1,6 @@
 ---
 layout: page
-published: false
+published: true
 ---
 
 **La petite Beune (Beune sud), le Puymartin**
