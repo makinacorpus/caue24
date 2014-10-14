@@ -12,7 +12,7 @@ La carte présente les terrains constructibles des PLU et cartes communales selo
 - zones urbaines 30% des espaces constructibles
 - zones diffuses 46% des espaces constructibles
 - zones à aménager 11% des espaces constructibles
-- zones artisanales et de loisirs 13 % des espaces constructibles.
+- zones artisanales et de loisirs 13 % des espaces constructibles
 
 **CLIQUEZ sur "Documents d’urbanisme"**
 
