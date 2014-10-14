@@ -56,6 +56,7 @@ Enfin, 27 % des terrains sont en forte covisibilité, ils sont essentiellement s
 Consultez votre document d'urbanisme en ligne
 [Géoportail de l'urbanisme en Aquitaine](http://ids.pigma.org/mapfishapp/?wmc=http://ids.pigma.org/public/urbanisme_pigma.wmc)
 
+
 ## Plan Local d’Urbanisme (PLU)
 
 approuvé ou en cours de validation dans les communes de Campagne, Fanlac, Fleurac, Le Bugue, Les Farges, Montignac, Rouffignac-St-Cernin-de-Reilhac, St-Léon-sur-Vézère, Sergeac, Thonac et Valojoulx.
