@@ -24,3 +24,7 @@ prose:
         field:
           element: "hidden"
           value: "page"
+      - name: "published"
+        field:
+          element: "hidden"
+          value: "true"
