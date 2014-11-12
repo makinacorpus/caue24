@@ -1,0 +1,17 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"name": "Points de vue",
+"color": "#E30613",
+"active": "true",
+"interactive": "true",
+"description": "Un sous-sol, un paysage",
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "NOM": "Pop_5", "ID_CC2014": 4.000000, "COMMUNE": "St Vincent de Cosse" }, "geometry": { "type": "Point", "coordinates": [ 1.136678214119258, 44.84214551513206 ] } },
+{ "type": "Feature", "properties": { "NOM": "Pop_2", "ID_CC2014": 4.000000, "COMMUNE": "Marquay" }, "geometry": { "type": "Point", "coordinates": [ 1.101885902716614, 44.947290957054243 ] } },
+{ "type": "Feature", "properties": { "NOM": "Pop_1", "ID_CC2014": 4.000000, "COMMUNE": "Marcillac St Quentin" }, "geometry": { "type": "Point", "coordinates": [ 1.190444617654966, 44.955944415220941 ] } },
+{ "type": "Feature", "properties": { "NOM": "Pop_3", "ID_CC2014": 4.000000, "COMMUNE": "Proissans" }, "geometry": { "type": "Point", "coordinates": [ 1.279494774989762, 44.933361593716647 ] } },
+{ "type": "Feature", "properties": { "NOM": "Pop_4", "ID_CC2014": 4.000000, "COMMUNE": "Ste Nathalène" }, "geometry": { "type": "Point", "coordinates": [ 1.255952056846047, 44.903286746624822 ] } }
+]
+}

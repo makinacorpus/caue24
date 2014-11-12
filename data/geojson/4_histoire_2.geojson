@@ -1,0 +1,20 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"name": "Photo témoin",
+"color": "#048136",
+"marker-width": "15",
+"Outline width": "30",
+"active": "true",
+"interactive": "true",
+"description": "Evolution du paysage à partir d'une carte postale ancienne",
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "COMMUNE": "Marquay", "COMMUNAUTE": "Sarlat - Périgord Noir" }, "geometry": { "type": "Point", "coordinates": [ 1.134569416159762, 44.941956570360382 ] } },
+{ "type": "Feature", "properties": { "COMMUNE": "Sarlat", "COMMUNAUTE": "Sarlat - Périgord Noir" }, "geometry": { "type": "Point", "coordinates": [ 1.216356292688267, 44.878856447312209 ] } },
+{ "type": "Feature", "properties": { "COMMUNE": "Vitrac", "COMMUNAUTE": "Sarlat - Périgord Noir" }, "geometry": { "type": "Point", "coordinates": [ 1.248311496777079, 44.838129993693407 ] } },
+{ "type": "Feature", "properties": { "COMMUNE": "La Roque Gageac", "COMMUNAUTE": "Sarlat - Périgord Noir" }, "geometry": { "type": "Point", "coordinates": [ 1.199539993454724, 44.808727505292289 ] } },
+{ "type": "Feature", "properties": { "COMMUNE": "La Roque Gageac", "COMMUNAUTE": "Sarlat - Périgord Noir" }, "geometry": { "type": "Point", "coordinates": [ 1.181776042431574, 44.826353764235897 ] } },
+{ "type": "Feature", "properties": { "COMMUNE": "Beynac et Cazenac", "COMMUNAUTE": "Sarlat - Périgord Noir" }, "geometry": { "type": "Point", "coordinates": [ 1.143369554474997, 44.840239027293009 ] } }
+]
+}

@@ -1,0 +1,12 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"name": "Siège de la CdC",
+"color": "#049d41",
+"active": "true",
+"description": "Coordonnées de la communauté de communes",
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "COMMUNE": "Sarlat la Canéda", "COMMUNAUTE": "4" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 1.211590738845795, 44.893092913467669 ], [ 1.221636169276998, 44.893230705957976 ], [ 1.221842459162425, 44.885433672536216 ], [ 1.211747102137088, 44.885331358839444 ], [ 1.211590738845795, 44.893092913467669 ] ] ] } }
+]
+}

@@ -1,0 +1,24 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"name": "Bourg",
+"color": "#1D1D1B",
+"active": "true",
+"description": "Localisation des centres bourgs des communes",
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "COMMUNE": "Sarlat la Canéda", "COMMUNAUTE": "sarladais", "INSEE_COMM": 24520.0, "ID_CDECOMM": 4.0 }, "geometry": { "type": "Point", "coordinates": [ 1.216713433045927, 44.889438786057632 ] } },
+{ "type": "Feature", "properties": { "COMMUNE": "Marquay", "COMMUNAUTE": "sarladais", "INSEE_COMM": 24255.0, "ID_CDECOMM": 4.0 }, "geometry": { "type": "Point", "coordinates": [ 1.133046659903804, 44.943847132006503 ] } },
+{ "type": "Feature", "properties": { "COMMUNE": "Tamniès", "COMMUNAUTE": "sarladais", "INSEE_COMM": 24544.0, "ID_CDECOMM": 4.0 }, "geometry": { "type": "Point", "coordinates": [ 1.149730551141136, 44.965797412041013 ] } },
+{ "type": "Feature", "properties": { "COMMUNE": "Marcillac Saint Quentin", "COMMUNAUTE": "sarladais", "INSEE_COMM": 24252.0, "ID_CDECOMM": 4.0 }, "geometry": { "type": "Point", "coordinates": [ 1.213387399646097, 44.950359478126778 ] } },
+{ "type": "Feature", "properties": { "COMMUNE": "Proissans", "COMMUNAUTE": "sarladais", "INSEE_COMM": 24341.0, "ID_CDECOMM": 4.0 }, "geometry": { "type": "Point", "coordinates": [ 1.252556441987231, 44.934099311484495 ] } },
+{ "type": "Feature", "properties": { "COMMUNE": "Sainte Nathalène", "COMMUNAUTE": "sarladais", "INSEE_COMM": 24471.0, "ID_CDECOMM": 4.0 }, "geometry": { "type": "Point", "coordinates": [ 1.28687901334864, 44.905707737592621 ] } },
+{ "type": "Feature", "properties": { "COMMUNE": "Saint Vincent le Paluel", "COMMUNAUTE": "sarladais", "INSEE_COMM": 24512.0, "ID_CDECOMM": 4.0 }, "geometry": { "type": "Point", "coordinates": [ 1.285875009908738, 44.891800226058258 ] } },
+{ "type": "Feature", "properties": { "COMMUNE": "Saint André d'Allas", "COMMUNAUTE": "perigord noir sud", "INSEE_COMM": 24366.0, "ID_CDECOMM": 4.0 }, "geometry": { "type": "Point", "coordinates": [ 1.166734449705989, 44.88553861462465 ] } },
+{ "type": "Feature", "properties": { "COMMUNE": "Vézac", "COMMUNAUTE": "perigord noir sud", "INSEE_COMM": 24577.0, "ID_CDECOMM": 4.0 }, "geometry": { "type": "Point", "coordinates": [ 1.165158815420326, 44.833977668935802 ] } },
+{ "type": "Feature", "properties": { "COMMUNE": "La Roque Gageac", "COMMUNAUTE": "perigord noir sud", "INSEE_COMM": 24355.0, "ID_CDECOMM": 4.0 }, "geometry": { "type": "Point", "coordinates": [ 1.182153121193248, 44.826456657623048 ] } },
+{ "type": "Feature", "properties": { "COMMUNE": "Saint Vincent de Cosse", "COMMUNAUTE": "perigord noir sud", "INSEE_COMM": 24510.0, "ID_CDECOMM": 4.0 }, "geometry": { "type": "Point", "coordinates": [ 1.114619715485802, 44.840761153802625 ] } },
+{ "type": "Feature", "properties": { "COMMUNE": "Beynac et Cazenac", "COMMUNAUTE": "perigord noir sud", "INSEE_COMM": 24040.0, "ID_CDECOMM": 4.0 }, "geometry": { "type": "Point", "coordinates": [ 1.144537654154891, 44.840008767668984 ] } },
+{ "type": "Feature", "properties": { "COMMUNE": "Vitrac", "COMMUNAUTE": "perigord noir sud", "INSEE_COMM": 24587.0, "ID_CDECOMM": 4.0 }, "geometry": { "type": "Point", "coordinates": [ 1.22642445243508, 44.829987199149613 ] } }
+]
+}

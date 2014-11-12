@@ -1,0 +1,12 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"name": "Coupe transversale",
+"color": "#E30613",
+"active": "true",
+"description": "Coupe du territoire",
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "NOM": "Coupe_4_Pop6" }, "geometry": { "type": "LineString", "coordinates": [ [ 1.180287522503856, 44.821930459167206 ], [ 1.152311208117885, 44.868149415384302 ] ] } }
+]
+}

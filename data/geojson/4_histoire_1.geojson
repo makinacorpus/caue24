@@ -1,0 +1,26 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"name": "Exemple d'évolution",
+"color": "#048136",
+"marker-width": "15",
+"Outline width": "30",
+"active": "true",
+"interactive": "true",
+"description": "Evolution urbaine d'un même lieu entre plusieurs époques",
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "COMMUNE": "Tamniès", "COMMUNAUTE": "Sarlat - Périgord Noir" }, "geometry": { "type": "Point", "coordinates": [ 1.148661358754892, 44.965426102195799 ] } },
+{ "type": "Feature", "properties": { "COMMUNE": "Marcillac Saint Quentin", "COMMUNAUTE": "Sarlat - Périgord Noir" }, "geometry": { "type": "Point", "coordinates": [ 1.213723221717339, 44.950039040808406 ] } },
+{ "type": "Feature", "properties": { "COMMUNE": "Marquay", "COMMUNAUTE": "Sarlat - Périgord Noir" }, "geometry": { "type": "Point", "coordinates": [ 1.134419851584244, 44.944194912196288 ] } },
+{ "type": "Feature", "properties": { "COMMUNE": "Proissans", "COMMUNAUTE": "Sarlat - Périgord Noir" }, "geometry": { "type": "Point", "coordinates": [ 1.252896392891141, 44.934201595324105 ] } },
+{ "type": "Feature", "properties": { "COMMUNE": "Ste Nathalène", "COMMUNAUTE": "Sarlat - Périgord Noir" }, "geometry": { "type": "Point", "coordinates": [ 1.287413635971218, 44.904201574759092 ] } },
+{ "type": "Feature", "properties": { "COMMUNE": "St Vincent le Paluel", "COMMUNAUTE": "Sarlat - Périgord Noir" }, "geometry": { "type": "Point", "coordinates": [ 1.262087655060562, 44.890959787869619 ] } },
+{ "type": "Feature", "properties": { "COMMUNE": "Sarlat la Canéda", "COMMUNAUTE": "Sarlat - Périgord Noir" }, "geometry": { "type": "Point", "coordinates": [ 1.216195613979457, 44.889388559240317 ] } },
+{ "type": "Feature", "properties": { "COMMUNE": "St André d'Allas", "COMMUNAUTE": "Sarlat - Périgord Noir" }, "geometry": { "type": "Point", "coordinates": [ 1.167374964438313, 44.886372989212923 ] } },
+{ "type": "Feature", "properties": { "COMMUNE": "St Vincent de Cosse", "COMMUNAUTE": "Sarlat - Périgord Noir" }, "geometry": { "type": "Point", "coordinates": [ 1.115485295293315, 44.839916155777061 ] } },
+{ "type": "Feature", "properties": { "COMMUNE": "Beynac et Cazenac", "COMMUNAUTE": "Sarlat - Périgord Noir" }, "geometry": { "type": "Point", "coordinates": [ 1.148061247098781, 44.839596982470304 ] } },
+{ "type": "Feature", "properties": { "COMMUNE": "Vézac", "COMMUNAUTE": "Sarlat - Périgord Noir" }, "geometry": { "type": "Point", "coordinates": [ 1.163972629456217, 44.833875121329513 ] } },
+{ "type": "Feature", "properties": { "COMMUNE": "Vitrac", "COMMUNAUTE": "Sarlat - Périgord Noir" }, "geometry": { "type": "Point", "coordinates": [ 1.213444074134022, 44.827382177236309 ] } }
+]
+}
