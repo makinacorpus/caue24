@@ -58,3 +58,15 @@ La maison d’aujourd’hui se réfère à l’architecture traditionnelle tout 
 
 ## Photos
 ![Maison à rez-de-chaussée, toiture couverte en lauze](/data/images/4/architecture/4_ARCHITECTURE_1.jpg)
+![Maison à superposition, adaptée à la pente naturelle du terrain](/data/images/4/architecture/4_ARCHITECTURE_2.jpg)
+![Pavillon avec volumes d’inspiration traditionnelle](/data/images/4/architecture/4_ARCHITECTURE_3.jpg)
+![Ferme en alignement, succession de différents volumes](/data/images/4/architecture/4_ARCHITECTURE_4.jpg)
+![Maison contemporaine, pignon vitré tel le séchoir à noix - architectes : Coq & Lefranc](/data/images/4/architecture/4_ARCHITECTURE_5.jpg)
+![Séchoir à noix, large ouverture en pignon pour la ventilation](/data/images/4/architecture/4_ARCHITECTURE_6.jpg)
+![Extension contemporaine, rupture des volumes, harmonie des couleurs](/data/images/4/architecture/4_ARCHITECTURE_7.jpg)
+![Grande grange étable à étage, couverture en lauze](/data/images/4/architecture/4_ARCHITECTURE_8.jpg)
+![Grande grange étable, toiture à faible pente, tuiles mécanique](/data/images/9/architecture/9_ARCHITECTURE_09.jpg)
+![Séchoir à tabac, architecture en bois, volume de grande hauteur](/data/images/4/architecture/4_ARCHITECTURE_10.jpg)
+![Réécriture du séchoir à tabac, maison sur deux étages - architectes : Arkétype](/data/images/4/architecture/4_ARCHITECTURE_11.jpg)
+![Architecture contemporaine, jeu de volumes et de matériaux - architectes : Coq & Lefranc](/data/images/4/architecture/4_ARCHITECTURE_12.jpg)
+![Hauts murs et porche](/data/images/4/architecture/4_ARCHITECTURE_13.jpg)
