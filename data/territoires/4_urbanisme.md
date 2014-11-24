@@ -51,7 +51,7 @@ Enfin, 7 % des terrains sont en forte covisibilité et sont essentiellement situ
 
 ### DOCUMENTS D’URBANISME DE LA COMMUNAUTE EN 2014
 
-## CONSULTEZ VOTRE DOCUMENT D'URBANISME EN LIGNE
+CONSULTEZ VOTRE DOCUMENT D'URBANISME EN LIGNE
 
 [Géoportail de l'urbanisme en Aquitaine](Géoportail de l'urbanisme en Aquitaine)
 
