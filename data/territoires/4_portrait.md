@@ -35,4 +35,5 @@ Des grands sites inscrits ou classés, des coteaux aux vallées dont celle de la
 **Qualité de l’accueil touristique**
 
 Des gîtes ruraux aux complexes de vacances noyés dans la verdure, l’accueil touristique réussit à se fondre dans le paysage ou dans la ville, tout en affichant une grande capacité d’accueil. 
+
 ## Photos
