@@ -40,3 +40,15 @@ Ils ont conservé, parfois entièrement jusqu’à ce jour, leur vocation agrico
 C’est seulement depuis le dernier quart du XXème siècle, avec la pression foncière de Sarlat-la-Canéda, le développement touristique et l’utilisation systématique de l’automobile qu’ils connaissent une extension essentiellement composée de maisons individuelles sur de grands terrains. Cette expansion est cependant modulée par la quantité de protections patrimoniales touchant le bourg. Aujourd’hui, le développement rurbain et touristique, très présent, engendre une confrontation des formes architecturales et des usages (résidentiel, touristique et agricole).
 
 ## Photos
+![Centre médiéval de Sarlat](/data/images/4/histoire/4_HISTOIRE_01.jpg)
+![Bourg médiéval au pied de son château](/data/images/4/histoire/4_HISTOIRE_02.jpg)
+![Rue tortueuse et montante vers château](/data/images/4/histoire/4_HISTOIRE_03.jpg)
+![Extension XIXe de Sarlat](/data/images/4/histoire/4_HISTOIRE_04.jpg)
+![Constructions 1ère partie du XXe](/data/images/4/histoire/4_HISTOIRE_05.jpg)
+![Pavillons des années 50, Sarlat](/data/images/4/histoire/4_HISTOIRE_06.jpg)
+![Lotissements des années 60](/data/images/4/histoire/4_HISTOIRE_07.jpg)
+![Extension de Sarlat sur les coteaux](/data/images/4/histoire/4_HISTOIRE_08.jpg)
+![Développement pavillonnaire d’un bourg rural](/data/images/4/histoire/4_HISTOIRE_09.jpg)
+![Extension vue d’un bourg](/data/images/4/histoire/4_HISTOIRE_10.jpg)
+![Ensemble de pavillons ex nihilo](/data/images/4/histoire/4_HISTOIRE_11.jpg)
+![Campagne agricole préservée](/data/images/4/histoire/4_HISTOIRE_12.jpg)
