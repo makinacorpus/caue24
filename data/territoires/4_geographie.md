@@ -42,7 +42,7 @@ Le territoire s’inscrit majoritairement dans le bassin versant de la vallée d
 Exceptée la commune urbanisée de Sarlat-la-Canéda, le taux de boisement de chaque commune varie entre 45 et 70%. Les taillis de chênes et de châtaigniers couvrent les placages de sables résiduels des sommets et les pentes abruptes. Sur les coteaux calcaires se développent des landes à genévriers et des chênes verts sur les versants les plus chauds. La majorité des cours d’eau est bordée d’une ripisylve dense.
 
 ## Photos
-![Toiture en lauzes calcaires sur toiture à forte pente](/data/images/4/geographie/4_GEOGRAPHIE_01.jpg)
+![Toiture en lauzes calcaires sur toit à forte pente](/data/images/4/geographie/4_GEOGRAPHIE_01.jpg)
 ![Les tuiles plates remplacent petit à petit les lauzes](/data/images/4/geographie/4_GEOGRAPHIE_02.jpg)
 ![Les tuiles mécaniques apparaissent au XXe siècle](/data/images/4/geographie/4_GEOGRAPHIE_03.jpg)
 ![Tuiles plates et tuiles mécaniques](/data/images/4/geographie/4_GEOGRAPHIE_04.jpg)
