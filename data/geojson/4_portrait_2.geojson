@@ -4,6 +4,7 @@
 "name": "Siège de la CdC",
 "color": "#049d41",
 "active": "true",
+"interactive": "true",
 "description": "Coordonnées de la communauté de communes",
                                                                                 
 "features": [

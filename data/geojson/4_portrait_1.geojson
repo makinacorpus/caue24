@@ -4,6 +4,7 @@
 "name": "Bourg",
 "color": "#E30613",
 "active": "true",
+"interactive": "true",
 "description": "Localisation du centre bourg, population de la commune",
                                                                                 
 "features": [
