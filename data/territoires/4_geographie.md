@@ -4,7 +4,8 @@ layout: page
 ---
 
 ## Fenêtre modale
-UN SOUS-SOL – UN PAYSAGE
+
+### UN SOUS-SOL – UN PAYSAGE
 
 La géologie est un élément fondateur pour la compréhension du paysage et de l’architecture locale.
 
@@ -17,13 +18,16 @@ La carte représente les 3 types de sous-sol du territoire dont le calcaire du c
 **CLIQUEZ sur «Points de vue » et «Coupe transversale»**
 
 ## Informations
-GEOLOGIE ET ARCHITECTURE
+
+### GEOLOGIE ET ARCHITECTURE
 
 **Découvrez les influences du sous-sol au travers du diaporama**
 
 La forte présence de lauzes calcaires témoigne de l’utilisation traditionnelle des matériaux disponibles localement pour l’édification des maisons, des dépendances agricoles et de leurs abords.
+
 ## En savoir plus
-3 THEMES FORTS IDENTIFIENT LE PAYSAGE DE SARLAT-PERIGORD NOIR
+
+### 3 THEMES FORTS IDENTIFIENT LE PAYSAGE DE SARLAT-PERIGORD NOIR
 
 **L’agriculture**
 
