@@ -61,3 +61,17 @@ Créée par arrêté préfectoral après accord du conseil municipal, la ZPPAUP 
 
 
 ## Photos
+![Ferme au pied d’un château](/data/images/4/atouts/4_ATOUTS_01.jpg)
+![Eglise de Marquay](/data/images/4/atouts/4_ATOUTS_02.jpg)
+![Rue médiévale](/data/images/4/atouts/4_ATOUTS_03.jpg)
+![Falaise et coteau calcaire](/data/images/4/atouts/4_ATOUTS_04.jpg)
+![Vallée de la Beune](/data/images/4/atouts/4_ATOUTS_05.jpg)
+![Hameau et Dordogne](/data/images/4/atouts/4_ATOUTS_06.jpg)
+![Petite clairière, habitat traditionnel dispersé, jouelle et potager](/data/images/4/atouts/4_ATOUTS_07.jpg)
+![Village touristique](/data/images/4/atouts/4_ATOUTS_08.jpg)
+![Accueil de camping](/data/images/4/atouts/4_ATOUTS_09.jpg)
+![Hébergement touristique](/data/images/4/atouts/4_ATOUTS_10.jpg)
+![Pigeonnier, porche, toiture en lauze](/data/images/4/atouts/4_ATOUTS_11.jpg)
+![Four à pain](/data/images/4/atouts/4_ATOUTS_12.jpg)
+![Cabane de vigne](/data/images/4/atouts/4_ATOUTS_13.jpg)
+![Lavoir couvert, source](/data/images/4/atouts/4_ATOUTS_14.jpg)
