@@ -79,3 +79,7 @@ est une servitude d'utilité publique de droit français.
 Le PPR est un document réalisé par l’État qui réglemente l’utilisation des sols, à l'échelle communale, en fonction des risques auxquels ils sont soumis. Cette réglementation va de l’interdiction de construire à la possibilité de construire sous certaines conditions.
 
 ## Photos
+
+![Construire en site patrimonial](/data/images/4/urbanisme/4_URBANISME_1.jpg)
+![Architecture contemporaine dans paysage patrimonial](/data/images/4/urbanisme/4_URBANISME_2.jpg)
+![Extension de bourg, dialogue neuf ancien](/data/images/4/urbanisme/4_URBANISME_3.jpg)
