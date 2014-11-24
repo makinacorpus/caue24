@@ -18,6 +18,7 @@ Elles traduisent des perceptions propres à une organisation spécifique du reli
 ### DE LA CONSTRUCTION TRADITIONNELLE A L’ARCHITECTURE CONTEMPORAINE
 
 **Découvrez ces architectures dans le diaporama**
+
 Tout bâtiment construit hier ou aujourd’hui participe à l’écriture du paysage du Sarladais. Et vous, quelle empreinte souhaitez-vous laisser ? 
 Que souhaitez-vous faire ? 
 
