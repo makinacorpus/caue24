@@ -20,9 +20,13 @@ Elles traduisent des perceptions propres à une organisation spécifique du reli
 **Découvrez ces architectures dans le diaporama**
 Tout bâtiment construit hier ou aujourd’hui participe à l’écriture du paysage du Sarladais. Et vous, quelle empreinte souhaitez-vous laisser ? 
 Que souhaitez-vous faire ? 
+
 **Restaurer** un ancien bâtiment ?
+
 **Construire** une maison d’inspiration traditionnelle ?  
+
 **Choisir des matériaux** en harmonie avec l’environnement. 
+
 **Edifier** une maison contemporaine ?
 
 
