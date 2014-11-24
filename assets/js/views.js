@@ -72,30 +72,25 @@ CaueViews.addGeoJSONLegend = function(layers, community, category, data, n) {
   var interactive = data.interactive || "true";
   // Layer text information property
   var displayText = data.displayText;
+  var style = {
+    "color": color,
+    "weight": 1,
+    "fillOpacity": 0.4,
+    "opacity": 0.8,
+    "clickable": true,
+  };
+  if (category == 'portrait' || category == 'geographie' || category == 'architecture') {
+    style.weight = 4;
+  }
 
   onEachFeature = function (feature, layer) {
     if (interactive != "false") {
       layer.on('click', function(e) {
         CaueViews.clickLayer(e.target, community, category);
       });
-    }
-  }
-
-  style = function (feature, layer) {
-    var style = {
-      "color": color,
-      "weight": 1,
-      "fillOpacity": 0.4,
-      "opacity": 0.8,
-      "clickable": true,
-    };
-    if (interactive = "false") {
+    } else {
       style.clickable = false;
-    };
-    if (category == 'portrait' || category == 'geographie' || category == 'architecture') {
-      style.weight = 4;
     }
-    return style;
   }
 
   // Add the geojson layer to the map
