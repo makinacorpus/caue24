@@ -11,6 +11,6 @@ Pôle de Montignac
 
 24290 Montignac
 
-www.cc-valleedelhomme.fr
+[www.cc-valleedelhomme.fr](www.cc-valleedelhomme.fr)
 
 ![](/data/images/9/portrait/LogotypeCCVH-WEB.jpg)
