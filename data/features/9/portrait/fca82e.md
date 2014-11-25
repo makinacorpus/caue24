@@ -13,4 +13,4 @@ Pôle de Montignac
 
 [www.cc-valleedelhomme.fr](http://www.cc-valleedelhomme.fr/)
 
-![](/data/images/9/portrait/LogotypeCCVH-WEB.jpg)
+![](/data/images/9/portrait/9_PORTRAIT_logo.jpg)
