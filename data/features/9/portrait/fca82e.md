@@ -3,7 +3,7 @@ published: true
 layout: page
 ---
 
-**Communauté de communes Vallée de l’Homme**
+[**Communauté de communes Vallée de l’Homme**](http://www.cc-valleedelhomme.fr/)
 
 Pôle de Montignac
 
