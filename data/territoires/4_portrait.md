@@ -14,8 +14,6 @@ Sarlat - Périgord Noir, quelques chiffres :
 
 **CLIQUEZ sur « Bourg »**
 
-Territoire réalisé avec la participation et le soutien de la Communauté de Communes de la Vallée de l'Homme.
-
 ## Informations
 PATRIMOINE ET ACCUEIL TOURISTIQUE EXCEPTIONNELS
 
