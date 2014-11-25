@@ -12,7 +12,9 @@ Sarlat - Périgord Noir, quelques chiffres :
 - 17469 habitants (source INSEE - 2014)
 - superficie de 235 km2
 
-**CLIQUEZ sur « Bourg »** 
+**CLIQUEZ sur « Bourg »**
+
+Territoire réalisé avec la participation et le soutien de la Communauté de Communes de la Vallée de l'Homme.
 
 ## Informations
 PATRIMOINE ET ACCUEIL TOURISTIQUE EXCEPTIONNELS
@@ -51,5 +53,3 @@ Des gîtes ruraux aux complexes de vacances noyés dans la verdure, l’accueil 
 ![Séchoir à tabac en bois](/data/images/4/portrait/4_PORTRAIT_12.jpg)
 ![Marronnier au cœur d’une ferme](/data/images/4/portrait/4_PORTRAIT_13.jpg)
 ![Jardin potager](/data/images/4/portrait/4_PORTRAIT_14.jpg)
-
-
