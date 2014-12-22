@@ -1,0 +1,27 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"name": "Photo témoin",
+"color": "#4f04a4",
+"marker-width": "15",
+"Outline width": "30",
+"active": "true",
+"interactive": "true",
+"description": "Evolution du paysage à partir d'une carte postale ancienne",
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "NOM": "POP CP 1", "COMMUNE": "Vergt", "COMMUNAUTE": "20" }, "geometry": { "type": "Point", "coordinates": [ 0.719987163661253, 45.029989140982778 ] } },
+{ "type": "Feature", "properties": { "NOM": "POP CP 2", "COMMUNE": "Vergt", "COMMUNAUTE": "20" }, "geometry": { "type": "Point", "coordinates": [ 0.722598472606442, 45.024377115971312 ] } },
+{ "type": "Feature", "properties": { "NOM": "POP CP 3", "COMMUNE": "St Maime de Péreyrol", "COMMUNAUTE": "20" }, "geometry": { "type": "Point", "coordinates": [ 0.646875231552344, 45.012172436325031 ] } },
+{ "type": "Feature", "properties": { "NOM": "POP CP 5", "COMMUNE": "St Michel de Villadeix", "COMMUNAUTE": "20" }, "geometry": { "type": "Point", "coordinates": [ 0.725258877209049, 44.987222664516338 ] } },
+{ "type": "Feature", "properties": { "NOM": "POP CP 6", "COMMUNE": "Fouleix", "COMMUNAUTE": "20" }, "geometry": { "type": "Point", "coordinates": [ 0.677408212469375, 44.985229241896512 ] } },
+{ "type": "Feature", "properties": { "NOM": "POP CP 4", "COMMUNE": "Cendrieux", "COMMUNAUTE": "20" }, "geometry": { "type": "Point", "coordinates": [ 0.826710215248656, 44.996893798300874 ] } },
+{ "type": "Feature", "properties": { "NOM": "POP CP 7", "COMMUNE": "Ste Alvère", "COMMUNAUTE": "20" }, "geometry": { "type": "Point", "coordinates": [ 0.806929382620834, 44.947932660573564 ] } },
+{ "type": "Feature", "properties": { "NOM": "POP CP 9", "COMMUNE": "Trémolat", "COMMUNAUTE": "20" }, "geometry": { "type": "Point", "coordinates": [ 0.82381686432758, 44.885793008605795 ] } },
+{ "type": "Feature", "properties": { "NOM": "POP CP 13", "COMMUNE": "Trémolat", "COMMUNAUTE": "20" }, "geometry": { "type": "Point", "coordinates": [ 0.828413422551403, 44.875843025423507 ] } },
+{ "type": "Feature", "properties": { "NOM": "POP CP 8", "COMMUNE": "Paunat", "COMMUNAUTE": "20" }, "geometry": { "type": "Point", "coordinates": [ 0.86014068718657, 44.905212368277752 ] } },
+{ "type": "Feature", "properties": { "NOM": "POP CP 10", "COMMUNE": "Paunat", "COMMUNAUTE": "20" }, "geometry": { "type": "Point", "coordinates": [ 0.869131086451437, 44.881995951269822 ] } },
+{ "type": "Feature", "properties": { "NOM": "POP CP 11", "COMMUNE": "Limeuil", "COMMUNAUTE": "20" }, "geometry": { "type": "Point", "coordinates": [ 0.879485295325712, 44.883797265260199 ] } },
+{ "type": "Feature", "properties": { "NOM": "POP CP 12", "COMMUNE": "Limeuil", "COMMUNAUTE": "20" }, "geometry": { "type": "Point", "coordinates": [ 0.890280079785166, 44.88229279815927 ] } }
+]
+}
