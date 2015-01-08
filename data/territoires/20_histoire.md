@@ -17,6 +17,7 @@ La carte présente en différents sites des analyses et des photos de l’évolu
 ### EVOLUTION RURBAINE ET ARCHITECTURE
 **Le diaporama illustre l’architecture des époques de la rurbanisation**
 
+
 **de 1832** (cadastre napoléonien) à **1950**
 Conservation de la vocation agricole de l’ensemble du territoire.
 
