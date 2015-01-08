@@ -65,7 +65,7 @@ Enfin, les 16% des terrains qui sont en forte covisibilité se situent aussi bie
 ### DOCUMENTS D’URBANISME DE LA COMMUNAUTE EN 2014
 
 CONSULTEZ VOTRE DOCUMENT D'URBANISME EN LIGNE
-_Géoportail de l'urbanisme en Aquitaine_
+[Géoportail de l'urbanisme en Aquitaine]()
 
 
 **2 PLUi (Plan Local d’Urbanisme intercommunal), approuvés dans la Communauté de communes du Pays Vernois et du Terroir de la Truffe.**
