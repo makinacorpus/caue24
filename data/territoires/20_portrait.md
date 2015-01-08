@@ -3,6 +3,7 @@ published: true
 layout: page
 ---
 
+##
 ### UN TERRITOIRE AUX DEUX VISAGES
 Pays Vernois et Terroir de la Truffe, quelques chiffres :
 
@@ -12,6 +13,7 @@ Pays Vernois et Terroir de la Truffe, quelques chiffres :
 
 **CLIQUEZ sur « Bourg »**
 
+##
 ### DU NORD AU SUD, DES VISAGES DIFFERENTS
 Découvrez ses spécificités au travers du diaporama
 Architecture et paysages varient et se transforment du Nord au Sud du territoire révélant des identités différentes.
