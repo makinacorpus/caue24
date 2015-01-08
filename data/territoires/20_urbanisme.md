@@ -41,11 +41,8 @@ La carte présente les terrains constructibles des 2 PLUi et d’une carte commu
 Répartition urbanistique des surfaces constructibles :
 
 - en zone urbaine 25 %
-
 - en zone diffuse 59 %
-
 - en zone à aménager 9 %
-
 - en zone d’activités ou de loisirs 7 %
 
 Pour les 59 % de terrains situés en zone diffuse, la surface est d’environ 2000 à 2500 m2. Ils se situent pour 48% sur les plateaux vallonnés. Dans les 17% situés en ligne de crête et les 23% dans la pente, l’implantation des nouveaux projets est très sensible. Elle doit prendre en compte ces contraintes sans oublier celles des accès de l’orientation et des vues.
