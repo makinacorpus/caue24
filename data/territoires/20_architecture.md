@@ -32,7 +32,7 @@ Toute construction participe à l’écriture du paysage du Pays Vernois et du T
 
 ## En savoir plus
 
-**L’ARCHITECTURE TRADITIONNELLE**
+### **L’ARCHITECTURE TRADITIONNELLE**
 
 Les fermes sont constituées de nombreux bâtiments, abritant chacun des fonctions distinctes. Séparés ou accolés ces bâtiments constituent une cour souvent bien dessinée, c’est le lieu de travail et de vie de la ferme.
 
