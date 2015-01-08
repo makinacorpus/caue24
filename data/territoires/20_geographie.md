@@ -4,6 +4,7 @@ layout: page
 ---
 
 ## Fenêtre modale
+
 ### UN SOUS-SOL – UN PAYSAGE
 
 La géologie est un élément fondateur pour la compréhension du paysage et de l’architecture locale.
