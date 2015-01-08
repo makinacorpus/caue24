@@ -37,7 +37,7 @@ Au sud, les plateaux calcaires se terminent par le paysage imposant des cingles 
 
 ![Vallée du Vern](/data/images/20/portrait/20_PORTRAIT_01.jpg)
 ![Vallée du Verdançon](/data/images/20/portrait/20_PORTRAIT_02.jpg)
-![Vallée de le Dordogne](/data/images/20/portrait/20_PORTRAIT_03.jpg)
+![Vallée de la Dordogne](/data/images/20/portrait/20_PORTRAIT_03.jpg)
 ![Plateau boisé, agriculture](/data/images/20/portrait/20_PORTRAIT_04.jpg)
 ![Vallée du Verdançon](/data/images/20/portrait/20_PORTRAIT_05.jpg)
 ![Petit bourg et son clocher signal](/data/images/20/portrait/20_PORTRAIT_06.jpg)
