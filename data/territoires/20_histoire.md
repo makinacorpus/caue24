@@ -47,8 +47,7 @@ De ce fait un grand nombre de bourgs connait une extension très modérée voire
 Parallèlement, les bourgs touristiques restaurent leur patrimoine et les fermes se transforment en gîtes ruraux.
 
 ### DE 2000 A 2014
-L’urbanisation est toujours et essentiellement composée de maisons individuelles, habitations principales ou secondaires. Elles continuent les modes d’implantation de la période précédente (grands terrains, dispersion sur tout le territoire) et commencent par endroits à combler les dents creuses des zones au bâti lâche. 
-Les activités économiques restent principalement dans les deux centres Montignac et Le Bugue.  
+L’urbanisation est toujours composée de maisons individuelles, essentiellement en habitations principales. Elles accentuent les modes d’implantation de la période précédente (grands terrains, dispersion sur tout le territoire). Ce phénomène s’amplifie sous l’influence de l’agglomération périgourdine. Dans les 2 bourgs principaux, les dents creuses des zones au bâti lâche commencent à se combler. 
 
 ## Photos
 ![Un bourg rural aux constructions serrées](/data/images/20/histoire/20_HISTOIRE_01.jpg)
