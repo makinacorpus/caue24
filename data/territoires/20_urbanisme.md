@@ -85,3 +85,16 @@ Certaines zones constructibles peuvent également être concernées par les règ
 
 
 ## Photos
+
+![Covisibilité avec un bourg](/data/images/20/urbanisme/20_URBA_01.jpg)
+![Nouveau «village» de maisons neuves](/data/images/20/urbanisme/20_URBA_02.jpg)
+![Covisibilité lointaine en plateau atténuée par boisement](/data/images/20/urbanisme/20_URBA_03.jpg)
+![Implantation en ligne de crête sur très grand terrain](/data/images/20/urbanisme/20_URBA_04.jpg)
+![Voir et être vu](/data/images/20/urbanisme/20_URBA_05.jpg)
+![Implantation sur grand terrain](/data/images/20/urbanisme/20_URBA_06.jpg)
+![Utilisation de la pente](/data/images/20/urbanisme/20_URBA_07.jpg)
+![Impact des abords sur terrain en pente](/data/images/20/urbanisme/20_URBA_08.jpg)
+![Gestion de la pente avec murets](/data/images/20/urbanisme/20_URBA_09.jpg)
+![Diminution de l’impact de la pente grâce au jardin](/data/images/20/urbanisme/20_URBA_10.jpg)
+![Implantation en terrain boisé](/data/images/20/urbanisme/20_URBA_11.jpg)
+![Implantation en limite de bois avec haies en feuillage persistant incongru](/data/images/20/urbanisme/20_URBA_12.jpg)
