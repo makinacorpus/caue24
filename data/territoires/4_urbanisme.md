@@ -52,7 +52,7 @@ Enfin, 7 % des terrains sont en forte covisibilité et sont essentiellement situ
 ### DOCUMENTS D’URBANISME DE LA COMMUNAUTE EN 2014
 
 CONSULTEZ VOTRE DOCUMENT D'URBANISME EN LIGNE
-[Géoportail de l'urbanisme en Aquitaine]()
+[Géoportail de l'urbanisme en Aquitaine](http://ids.pigma.org/mapfishapp/?wmc=contexts/urbanisme_pigma.wmc)
 
 **Plan Local d’Urbanisme (PLU), Plan d’Occupation des Sols (POS)**
 
