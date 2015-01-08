@@ -15,6 +15,9 @@ Isle Vern Salembre en Périgord, quelques chiffres :
 
 **CLIQUEZ sur "Bourg"**
 
+![](/data/images/1/portrait/1_portrait_logo2.jpg)
+
+
 
 
 
