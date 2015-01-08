@@ -41,7 +41,7 @@ Deux marchés de renom animent le territoire, celui fermier et très ancien de V
 ### LE TOURISME
 
 La randonnée est très développée sur l’ensemble du territoire. Les nombreux chemins mènent les promeneurs à la découverte de l’architecture rurale, des cités médiévales et autres sites et monuments protégés, mais également des paysages avec leur points de vue sur les cingles.
-Le bassin nautique de Trémolat et l’étang de Neufont à Saint-Amand-de-Vergt offrent un large panel, voire unique, d’activités nautiques en Dordogne
+Le bassin nautique de Trémolat et l’étang de Neufont à Saint-Amand-de-Vergt offrent un large panel, voire unique, d’activités nautiques en Dordogne.
 A cela s’ajoute une offre d’hébergement diversifiée.
 
 ## Photos
