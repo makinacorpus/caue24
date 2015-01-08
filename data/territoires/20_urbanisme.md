@@ -65,7 +65,7 @@ Enfin, les 16% des terrains qui sont en forte covisibilité se situent aussi bie
 ### DOCUMENTS D’URBANISME DE LA COMMUNAUTE EN 2014
 
 CONSULTEZ VOTRE DOCUMENT D'URBANISME EN LIGNE
-[géoportail](http://ids.pigma.org/mapfishapp/?wmc=http://ids.pigma.org/public/urbanisme_pigma.wmc)
+[Géoportail de l'urbanisme en Aquitaine](http://ids.pigma.org/mapfishapp/?wmc=http://ids.pigma.org/public/urbanisme_pigma.wmc)
 
 
 
