@@ -4,11 +4,13 @@ layout: page
 ---
 
 ## Fenêtre modale
+
 ### DES TERRITOIRES RURAUX, DES TERRITOIRES PATRIMONIAUX
 La carte présente en différents sites des analyses et des photos de l’évolution rurbaine des communes.
 **CLIQUEZ sur les repères de la carte pour découvrir ces évolutions**
 
 ## Informations
+
 ### EVOLUTION RURBAINE ET ARCHITECTURE
 **Le diaporama illustre l’architecture des époques de la rurbanisation**
 **de 1832** (cadastre napoléonien) à **1950**
@@ -44,9 +46,17 @@ L’urbanisation est toujours et essentiellement composée de maisons individuel
 Les activités économiques restent principalement dans les deux centres Montignac et Le Bugue.  
 
 ## Photos
-
-
-
-
-
-
+![Un bourg rural aux constructions serrées](/data/images/20/histoire/20_HISTOIRE_01.jpg)
+![Un bourg ancien aux constructions lâches](/data/images/20/histoire/20_HISTOIRE_02.jpg)
+![Construction du XVIIIe dans un bourg](/data/images/20/histoire/20_HISTOIRE_03.jpg)
+![Constructions du XIXe dans un village](/data/images/20/histoire/20_HISTOIRE_04.jpg)
+![Alignement du XIXe siècle](/data/images/20/histoire/20_HISTOIRE_05.jpg)
+![Maison de ville associant habitat et activités](/data/images/20/histoire/20_HISTOIRE_06.jpg)
+![Maison dit «plan courant» années 60  ](/data/images/20/histoire/20_HISTOIRE_07.jpg)
+![Architecture moderne de maison des années 60](/data/images/20/histoire/20_HISTOIRE_08.jpg)
+![Maisons individuelles en bordure de bourg](/data/images/20/histoire/20_HISTOIRE_09.jpg)
+![Implantation des maisons sur grands terrains, fin années 90](/data/images/20/histoire/20_HISTOIRE_10.jpg)
+![Maison individuelle isolée](/data/images/20/histoire/20_HISTOIRE_11.jpg)
+![Ferme traditionnelle et son extension](/data/images/20/histoire/20_HISTOIRE_12.jpg)
+![Ferme traditionnelle d’élevage](/data/images/20/histoire/20_HISTOIRE_13.jpg)
+![Fort impact des serres agricoles, architecture éphémère](/data/images/20/histoire/20_HISTOIRE_14.jpg)
