@@ -44,3 +44,9 @@ L’urbanisation est toujours et essentiellement composée de maisons individuel
 Les activités économiques restent principalement dans les deux centres Montignac et Le Bugue.  
 
 ## Photos
+
+
+
+
+
+
