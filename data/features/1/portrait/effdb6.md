@@ -8,6 +8,6 @@ Le Bateau - BP 6
 
 24110 Saint-Astier
 
-
 ![](/data/images/1/portrait/1_portrait_logo2.jpg)
+
 
