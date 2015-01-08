@@ -3,7 +3,7 @@ published: true
 layout: page
 ---
 
-![Grange isolée, toiture tuiles canal et croupes en tuiles plates](/data/images/20/portrait/20_PORTRAIT_10.jpg)## Fenêtre modale
+## Fenêtre modale
 
 ### UN TERRITOIRE AUX DEUX VISAGES
 
@@ -34,6 +34,7 @@ Les plateaux du Nord avec une alternance de boisements, de clairières, vallons 
 Au sud, les plateaux calcaires se terminent par le paysage imposant des cingles et leurs falaises sur la vallée de la Dordogne.
 
 ## Photos
+
 ![Vallée du Vern](/data/images/20/portrait/20_PORTRAIT_01.jpg)
 ![Vallée du Verdançon](/data/images/20/portrait/20_PORTRAIT_02.jpg)
 ![Vallée de le Dordogne](/data/images/20/portrait/20_PORTRAIT_03.jpg)
