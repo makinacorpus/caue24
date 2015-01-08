@@ -45,3 +45,17 @@ Le bassin nautique de Trémolat et l’étang de Neufont à Saint-Amand-de-Vergt
 A cela s’ajoute une offre d’hébergement diversifiée.
 
 ## Photos
+![Vallée de la Dordogne](/data/images/20/atouts/20_ATOUTS_01.jpg)
+![Cingle de Limeuil](/data/images/20/atouts/20_ATOUTS_02.jpg)
+![Cingle de Limeuil](/data/images/20/atouts/20_ATOUTS_03.jpg)
+![La tour des Dames – Sainte-Alvère](/data/images/20/atouts/20_ATOUTS_04.jpg)
+![Organisation d’une ferme autour d’une cour](/data/images/20/atouts/20_ATOUTS_05.jpg)
+![Architecture traditionnelle, moellons et tuiles plates](/data/images/20/atouts/20_ATOUTS_06.jpg)
+![Fuies, pigeonniers intégrés dans la construction](/data/images/20/atouts/20_ATOUTS_07.jpg)
+![Four à pain, lauze calcaire et tuiles plates](/data/images/20/atouts/20_ATOUTS_08.jpg)
+![Pigeonnier isolé à base carrée](/data/images/20/atouts/20_ATOUTS_09.jpg)
+![Fuies, pigeonniers intégrés dans la construction](/data/images/20/atouts/20_ATOUTS_10.jpg)
+![Polyculture et forêt](/data/images/20/atouts/20_ATOUTS_11.jpg)
+![Culture de la fraise](/data/images/20/atouts/20_ATOUTS_12.jpg)
+![Base nautique - Trémolat](/data/images/20/atouts/20_ATOUTS_13.jpg)
+![Lac de Neufont dans cadre naturel et forestier](/data/images/20/atouts/20_ATOUTS_14.jpg)
