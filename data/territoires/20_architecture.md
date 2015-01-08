@@ -45,6 +45,16 @@ La maison à étage et à forte pente domine dans le Sud. La toiture principalem
 
 La grange étable est l’élément incontournable des fermes de polyculture élevage, elles assurent les fonctions de production (étable) et de conservation (grange). Elles sont de volume modeste sont construites avec des matériaux similaires aux habitations. Étables à cochons et autres annexes complètent les fermes. Les séchoirs à tabac sont présents dans le Sud du territoire. Murs, murets, portillons, pergolas, autant d’éléments qui participent à l’écriture des fermes.
 
-L’ARCHITECTURE AUJOURD’HUI
+### L’ARCHITECTURE AUJOURD’HUI
+
+**Influences et réinterprétation du traditionnel**
+
+La maison d’aujourd’hui peut se référer à l’architecture traditionnelle tout en offrant une conception contemporaine des espaces intérieurs. Qu’elle soit néo-traditionnelle, avec des références en volumétrie de l’ancien, une réinterprétation d’un séchoir à tabac ou simplement un mimétisme par la couleur, la maison s’intègre dans son environnement paysager.
+
+
+**Timide percée de l’architecture contemporaine**
+
+La maison contemporaine s’adapte aux modes de vie actuels, elle propose un plan libre, de larges ouvertures et privilégie les relations avec les espaces extérieurs. Elles sont encore rares dans ce territoire rural et à forte identité architecturale. 
+
 
 ## Photos
