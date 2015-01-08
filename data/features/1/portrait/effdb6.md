@@ -10,4 +10,4 @@ Le Bateau - BP 6
 
 ![](/data/images/1/portrait/1_portrait_logo2.jpg)
 
-
+[www.ccivs](http://www.ccivs.fr/)
