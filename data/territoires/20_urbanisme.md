@@ -47,13 +47,15 @@ Répartition urbanistique des surfaces constructibles :
 
 Pour les 59 % de terrains situés en zone diffuse, la surface est d’environ 2000 à 2500 m2. Ils se situent pour 48% sur les plateaux vallonnés. Dans les 17% situés en ligne de crête et les 23% dans la pente, l’implantation des nouveaux projets est très sensible. Elle doit prendre en compte ces contraintes sans oublier celles des accès de l’orientation et des vues.
 
-Répartition géographique des surfaces constructibles : 
+Répartition géographique des surfaces constructibles :
+
 - sur les plateaux 40 %
 - en vallée 24 %
 - en ligne de crête 13 %
 - sur les pentes 23 %
 
 Qualification des surfaces constructibles :
+
 - 70 % non boisés
 - 13 % en clairière
 - 17 % boisés
