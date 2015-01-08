@@ -4,6 +4,7 @@ layout: page
 ---
 
 ## Fenêtre modale
+
 ### UN TERRITOIRE AUX DEUX VISAGES
 Pays Vernois et Terroir de la Truffe, quelques chiffres :
 - 21 communes
@@ -13,11 +14,13 @@ Pays Vernois et Terroir de la Truffe, quelques chiffres :
 **CLIQUEZ sur « Bourg »**
 
 ## Informations
+
 ### DU NORD AU SUD, DES VISAGES DIFFERENTS
 Découvrez ses spécificités au travers du diaporama.
 Architecture et paysages varient et se transforment du Nord au Sud du territoire révélant des identités différentes.
 
 ## En savoir plus
+
 ### ARCHITECTURE
 Les bourgs se déclinent sous de multiples facettes : des petits bourgs parfois peu denses au Nord, la bastide de Vergt très structurée, des bourgs médiévaux et patrimoniaux au creux d’une vallée (Paunat) ou sur un promontoire (Limeuil) ou encore d’une grande discrétion (Cendrieux). 
 L’architecture vernaculaire des fermes se différencie du Nord au Sud par ses toitures, à faible pente et tuile canal dans le Nord et à forte pente et tuiles plates au Sud. De riches abords accompagnent les fermes dans le Sud : murs, murets, portails et pergolas.
