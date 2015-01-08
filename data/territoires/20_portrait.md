@@ -6,16 +6,15 @@ layout: page
 ## Fenêtre modale
 ### UN TERRITOIRE AUX DEUX VISAGES
 Pays Vernois et Terroir de la Truffe, quelques chiffres :
-
 - 21 communes
 - 8832 habitants (source INSEE - 2014)
 - superficie de 340 km2 
 
-**CLIQUEZ sur « Bourg »**
+**CLIQUEZ sur « Bourg »**
 
 ## Informations
 ### DU NORD AU SUD, DES VISAGES DIFFERENTS
-Découvrez ses spécificités au travers du diaporama
+Découvrez ses spécificités au travers du diaporama.
 Architecture et paysages varient et se transforment du Nord au Sud du territoire révélant des identités différentes.
 
 ## En savoir plus
@@ -27,6 +26,5 @@ L’architecture vernaculaire des fermes se différencie du Nord au Sud par ses 
 Deux identités fortes dessinent ce paysage. 
 Les plateaux du Nord avec une alternance de boisements, de clairières, vallons secs et entrecoupés par la vallée du Vern.
 Au sud, les plateaux calcaires se terminent par le paysage imposant des cingles et leurs falaises sur la vallée de la Dordogne.
-
 
 ## Photos
