@@ -57,7 +57,7 @@ L’ensemble du territoire est très boisé, avec un taux de boisement de 45 %. 
 ![Linteau cintré en pierre de taille](/data/images/20/geographie/20_GEOGRAPHIE_08.jpg)
 ![Lucarne en pierre dans toiture forte pente](/data/images/20/geographie/20_GEOGRAPHIE_09.jpg)
 ![Encadrement fenêtres en pierre de taille](/data/images/20/geographie/20_GEOGRAPHIE_10.jpg)
-![Mur enduit et bande chaulée soulignant la toiture](/data/images/20/geographie/20_GEOGRAPHIE_11.jpg)
+![Mur enduit et bande chaulée marquant la toiture et l'ouverture](/data/images/20/geographie/20_GEOGRAPHIE_11.jpg)
 ![Couverture tuile canal – faible pente](/data/images/20/geographie/20_GEOGRAPHIE_12.jpg)
 ![Jeu de toitures à forte pente et tuiles plates](/data/images/20/geographie/20_GEOGRAPHIE_13.jpg)
 ![Toiture à la mansard - tuile plate et tuile canal](/data/images/20/geographie/20_GEOGRAPHIE_14.jpg)
