@@ -18,9 +18,6 @@ Isle Vern Salembre en Périgord, quelques chiffres :
 ![](/data/images/1/portrait/1_portrait_logo2.jpg)
 
 
-
-
-
 ## Informations
 
 ### Un territoire dynamique
