@@ -38,7 +38,7 @@ La carte présente les terrains constructibles des 2 PLUi et d’une carte commu
 
 3,2%  des terrains de la Communauté de communes sont constructibles. C’est un urbanisme extrêmement diffus.
 
-Répartition urbanistique des surfaces constructibles :
+**Répartition urbanistique des surfaces constructibles :**
 
 - en zone urbaine 25 %
 - en zone diffuse 59 %
@@ -47,7 +47,7 @@ Répartition urbanistique des surfaces constructibles :
 
 Pour les 59 % de terrains situés en zone diffuse, la surface est d’environ 2000 à 2500 m2. Ils se situent pour 48% sur les plateaux vallonnés. Dans les 17% situés en ligne de crête et les 23% dans la pente, l’implantation des nouveaux projets est très sensible. Elle doit prendre en compte ces contraintes sans oublier celles des accès de l’orientation et des vues.
 
-Répartition géographique des surfaces constructibles :
+**Répartition géographique des surfaces constructibles :**
 
 - sur les plateaux 40 %
 - en vallée 24 %
@@ -64,12 +64,12 @@ Enfin, les 16% des terrains qui sont en forte covisibilité se situent aussi bie
 
 ### DOCUMENTS D’URBANISME DE LA COMMUNAUTE EN 2014
 
-CONSULTEZ VOTRE DOCUMENT D'URBANISME EN LIGNE
+**Consultez votre document d'urbanisme en ligne**
 [Géoportail de l'urbanisme en Aquitaine](http://ids.pigma.org/mapfishapp/?wmc=contexts/urbanisme_pigma.wmc)
 
 
 
-**2 PLUi (Plan Local d’Urbanisme intercommunal), approuvés dans la Communauté de communes du Pays Vernois et du Terroir de la Truffe.**
+**2 PLUi (Plan Local d’Urbanisme intercommunal),** approuvés dans la Communauté de communes du Pays Vernois et du Terroir de la Truffe.
 Le PLU est un document d’urbanisme qui, à l’échelle d’une commune ou d’un groupement de communes (EPCI), établit un projet global d’urbanisme et d’aménagement et fixe en conséquence les règles générales d’utilisation du sol sur le territoire considéré. Il détermine les modalités d’implantation sur les parcelles (types de constructions autorisées, densités, règles de recul, aspect des constructions, stationnement, espaces verts…) et il peut contenir des orientations d’aménagement et de programmation.
 
 **Carte Communale,**
