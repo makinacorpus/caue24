@@ -54,7 +54,7 @@ Pour les 59 % de terrains situés en zone diffuse, la surface est d’environ 20
 - en ligne de crête 13 %
 - sur les pentes 23 %
 
-Qualification des surfaces constructibles :
+**Qualification des surfaces constructibles :**
 
 - 70 % non boisés
 - 13 % en clairière
