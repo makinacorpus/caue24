@@ -1,6 +1,6 @@
 ---
-layout: page
 published: true
+layout: page
 ---
 
 ## Fenêtre modale
@@ -36,6 +36,7 @@ La carte présente les terrains constructibles des PLU et cartes communales selo
 
 Les communes connaissent une augmentation de population (7% en 10 ans), excepté St-Astier depuis la disparition des dernières usines de chaussures dans les années 2000.
 La surface des terrains est d’environ 2000m2 à 2500m2 dans les documents d’urbanisme existants, elle baisse actuellement dans les PLU en cours d’élaboration pour atteindre 800m2 à 1000m2.
+
 **Répartition géographique des espaces constructibles :**
 
 - en vallée 53%
@@ -54,7 +55,7 @@ Enfin, 14% des terrains situés en ligne de crête ou sur les pentes des coteaux
 
 ### DOCUMENTS D'URBANISME DE LA COMMUNAUTE DE COMMUNES EN 2013
 
-CONSULTEZ VOTRE DOCUMENT D'URBANISME EN LIGNE
+**Consultez votre document d'urbanisme en ligne**
 [Géoportail de l'urbanisme d'Aquitaine](http://ids.pigma.org/mapfishapp/?wmc=http://ids.pigma.org/public/urbanisme_pigma.wmc "Consulter votre document d'urbanisme en ligne")
 
 **Plan Local d’Urbanisme**, approuvé ou en cours de validation dans les communes de Chantérac, Douzillac, Léguillac-de-l’Auche, Montrem, Neuvic-sur-l’Isle, St-Astier, St-Germain-du-Salembre, Sourzac et St-Léon-sur-l’Isle.
