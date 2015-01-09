@@ -53,7 +53,7 @@ Enfin, 27 % des terrains sont en forte covisibilité, ils sont essentiellement s
 
 ### DOCUMENTS D’URBANISME DE LA COMMUNAUTE EN 2014
 
-CONSULTEZ VOTRE DOCUMENT D'URBANISME EN LIGNE
+**Consultez votre document d'urbanisme en ligne**
 [Géoportail de l'urbanisme en Aquitaine](http://ids.pigma.org/mapfishapp/?wmc=contexts/urbanisme_pigma.wmc)
 
 **Plan Local d’Urbanisme (PLU)**
