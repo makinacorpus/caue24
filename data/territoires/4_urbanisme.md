@@ -34,14 +34,14 @@ Environ 1 terrain sur 2 est situé dans la pente.
 
 13% de son territoire est en zone constructible. La surface des terrains est d’environ 2500 m2 (1500m2 pour Sarlat) dans les documents d’urbanisme existants. Elle tend à baisser lors de leur révision pour atteindre 1300 à 1600m2. Chaque projet doit tenir compte de cette caractéristique sans oublier les contraintes d’accès, d’orientation de vues et surtout de pente du terrain.
 
-Répartition géographique des espaces constructibles :
+**Répartition géographique des espaces constructibles :**
 
 - sur les plateaux 37 %
 - en vallée 13 %
 - en ligne de crête 8 %
 - sur les pentes 42 %
 
-Qualification des espaces constructibles : 
+**Qualification des espaces constructibles :**
 
 - 51 % non boisés,
 - 25 % en clairière,
@@ -51,8 +51,8 @@ Enfin, 7 % des terrains sont en forte covisibilité et sont essentiellement situ
 
 ### DOCUMENTS D’URBANISME DE LA COMMUNAUTE EN 2014
 
-CONSULTEZ VOTRE DOCUMENT D'URBANISME EN LIGNE
-[Géoportail de l'urbanisme en Aquitaine]()
+**Consultez votre document d'urbanisme en ligne**
+[Géoportail de l'urbanisme en Aquitaine](http://ids.pigma.org/mapfishapp/?wmc=contexts/urbanisme_pigma.wmc)
 
 **Plan Local d’Urbanisme (PLU), Plan d’Occupation des Sols (POS)**
 

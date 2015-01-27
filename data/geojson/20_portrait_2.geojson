@@ -1,0 +1,13 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"name": "Siège de la CdC",
+"color": "#049d41",
+"active": "true",
+"description": "Coordonnées de la communauté de communes",
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "NOM": "Vergt" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 0.713120633231753, 45.029204954996757 ], [ 0.723189164702356, 45.029388037674664 ], [ 0.723465676805744, 45.021591693860238 ], [ 0.713346783447382, 45.021443866137481 ], [ 0.713120633231753, 45.029204954996757 ] ] ] } },
+{ "type": "Feature", "properties": { "NOM": "Ste Alvère" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 0.803905748208711, 44.950085962547369 ], [ 0.813960297586549, 44.950260793743162 ], [ 0.814223740129037, 44.942464454432823 ], [ 0.804118955732185, 44.942324918368591 ], [ 0.803905748208711, 44.950085962547369 ] ] ] } }
+]
+}

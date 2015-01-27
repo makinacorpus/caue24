@@ -1,6 +1,6 @@
 ---
-layout: page
 published: true
+layout: page
 ---
 
 ## Fenêtre modale
@@ -14,6 +14,12 @@ La Vallée de l’Homme, quelques chiffres :
 - superficie de 513 km2
 
 **CLIQUEZ sur « Bourg »**
+
+Territoire réalisé avec la participation et le soutien de la Communauté de Communes de la Vallée de l'Homme.
+
+![](/data/images/9/portrait/9_PORTRAIT_logo.jpg)
+
+
 
 ## Informations
 

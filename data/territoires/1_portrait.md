@@ -1,6 +1,6 @@
 ---
-layout: page
 published: true
+layout: page
 ---
 
 ## Fenêtre modale
@@ -14,6 +14,11 @@ Isle Vern Salembre en Périgord, quelques chiffres :
 - superficie de 305 km2
 
 **CLIQUEZ sur "Bourg"**
+
+Territoire réalisé avec la participation et le soutien de la Communauté de Communes Isle Vern Salembre en Périgord
+
+![](/data/images/1/portrait/1_portrait_logo2.jpg)
+
 
 ## Informations
 

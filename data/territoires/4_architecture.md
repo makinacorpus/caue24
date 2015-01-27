@@ -54,7 +54,7 @@ La maison contemporaine s’adapte aux modes de vie actuels, elle propose un pla
 
 **Influences et réinterprétation du traditionnel**
 
-La maison d’aujourd’hui se réfère à l’architecture traditionnelle tout en s’affranchissant de manière plus ou moins forte avec une conception contemporaine des espaces. Qu’elle soit néo-traditionnelle, avec des références en volumétrie de l’ancien, une réinterprétation d’un séchoir à tabac ou simplement un mimétisme par la couleur, la maison s’intègre dans son environnement paysager.
+La maison d’aujourd’hui se réfère à l’architecture traditionnelle tout en s’en affranchissant de manière plus ou moins forte avec une conception contemporaine des espaces. Qu’elle soit néo-traditionnelle, avec des références en volumétrie de l’ancien, une réinterprétation d’un séchoir à tabac ou simplement un mimétisme par la couleur, la maison s’intègre dans son environnement paysager.
 
 ## Photos
 ![Maison à rez-de-chaussée, toiture couverte en lauze](/data/images/4/architecture/4_ARCHITECTURE_1.jpg)
