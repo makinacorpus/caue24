@@ -1,13 +1,18 @@
 ---
-layout: page
 published: true
+layout: page
 ---
 
 ## Fenêtre modale
 
 ### DE 1832 A 2013, FORTE EVOLUTION URBAINE LIEE AU DYNAMISME ECONOMIQUE 
 
-La carte présente ce développement en 4 périodes : avant 1832 (cadastre napoléonien), de 1832 à 1970, de 1970 à 2000 et de 2000 à 2013. 
+La carte présente ce développement en 4 périodes :
+
+avant 1832 (cadastre napoléonien)
+de 1832 à 1970
+de 1970 à 2000
+de 2000 à 2013. 
 
 **CLIQUEZ sur "Exemples d'évolution"**
 
