@@ -58,7 +58,7 @@ La maison contemporaine s’adapte aux modes de vie actuels, elle propose un pla
 
 
 ## Photos
-![Habitation à étage, toiture faible pente, tuiles canal](//data/images/20/architecture/20_ARCHITECTURE_1.jpg)
+![Habitation à étage, toiture faible pente, tuiles canal](/data/images/20/architecture/20_ARCHITECTURE_1.jpg)
 ![Pavillon à étage, toit à faible pente, tuile romane-canal](/data/images/20/architecture/20_ARCHITECTURE_2.jpg)
 ![Restauration d’une ferme avec grange en habitation](/data/images/20/architecture/20_ARCHITECTURE_3.jpg)
 ![Pavillon et garage indépendant, faible pente et tuiles canal ](/data/images/20/architecture/20_ARCHITECTURE_4.jpg)
