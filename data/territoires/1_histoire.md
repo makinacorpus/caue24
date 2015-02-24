@@ -9,10 +9,10 @@ layout: page
 
 La carte présente ce développement en 4 périodes :
 
-avant 1832 (cadastre napoléonien)
-de 1832 à 1970
-de 1970 à 2000
-de 2000 à 2013. 
+- avant 1832 (cadastre napoléonien)
+- de 1832 à 1970
+- de 1970 à 2000
+- de 2000 à 2013
 
 **CLIQUEZ sur "Exemples d'évolution"**
 
