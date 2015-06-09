@@ -4,8 +4,9 @@
 "name": "Urbanisation avant 1832",
 "color": "#000",
 "active": "true",
-"description": "Emprise des bâtiments et de leurs abords construits avant l'année 1832",
 "interactive": "false",
+"description": "Emprise des bâtiments et de leurs abords construits avant l'année 1832",
+
                                                                                 
 "features": [
 { "type": "Feature", "properties": { "RECNUM": 596.0, "PERIODE": "Avant 1832" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 0.535312708303552, 45.062212504300753 ], [ 0.536470600402478, 45.062132341373704 ], [ 0.53646372673636, 45.061952278808697 ], [ 0.536095458358523, 45.061955295053437 ], [ 0.536078223671989, 45.061703083781296 ], [ 0.535709956920762, 45.061706098745688 ], [ 0.53573987882214, 45.061958516226724 ], [ 0.535308165961679, 45.061960499085529 ], [ 0.535312708303552, 45.062212504300753 ] ] ] } },
