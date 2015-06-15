@@ -1,10 +1,10 @@
 {
 "type": "FeatureCollection",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"name": "Petit Patrimoine public",
-"color": "#E30613",
+"name": "Patrimoine de pays public",
+"color": "#f78b0b",
 "active": "true",
-"description": "Inventaire général du petit patrimoine public par commune",
+"description": "Localisation d'éléments publics du patrimoine de pays",
                                                                                 
 "features": [
 { "type": "Feature", "properties": { "IDENTIFIAN": "F2", "INSEE_COMM": 24426.000000, "CONCAT_ID": "24426F2", "BASE_JOINT": "24426-AP-040.JPG", "BASE_JOI_1": "St Jean d Estissac", "BASE_JOI_2": "bourg", "BASE_JOI_3": "5_pays de villamblard", "BASE_JOI_4": "croix", "BASE_JOI_6": "Villamblard", "BASE_JOI_7": "F2", "BASE_JOI_9": "public" }, "geometry": { "type": "Point", "coordinates": [ 0.507056110860762, 45.031184955710948 ] } },

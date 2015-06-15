@@ -1,11 +1,11 @@
 {
 "type": "FeatureCollection",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"name": "Petit Patrimoine communal",
-"color": "#E30613",
+"name": "Exemples de patrimoine de pays",
+"color": "#ac48fa",
 "active": "true",
 "interactive": "true",
-"description": "Inventaire général du petit patrimoine public et privé par commune",
+"description": "Patrimoine de pays représentatif de la commune",
                                                                                 
 "features": [
 { "type": "Feature", "properties": { "INSEE_COMM": 24426.000000, "BASE_JOI_1": "St Jean d Estissac" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 0.509449723709707, 45.030936537946125 ], [ 0.514738009530097, 45.0310236299973 ], [ 0.51485505617998, 45.027444549376185 ], [ 0.509554133920753, 45.02736624653123 ], [ 0.509449723709707, 45.030936537946125 ] ] ] } },
