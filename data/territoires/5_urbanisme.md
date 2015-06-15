@@ -1,10 +1,11 @@
 ---
-layout: page
 published: true
+layout: page
 ---
 
+
 ## Fenêtre modale
-Territoire non renseigné
+Territoire en cours d'élaboration
 
 ## Informations
 
