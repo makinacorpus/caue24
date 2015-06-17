@@ -1,10 +1,10 @@
-{
+ï»¿{
 "type": "FeatureCollection",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "name": "Documents d'urbanisme",
 "color": "#1D1D1B",
 "active": "true",
-"description": "Documents approuvés",
+"description": "Documents approuvÃ©s",
                                                                                 
 "features": [
 { "type": "Feature", "properties": { "COMMUNE": "Issac", "COMMUNAUTE": "Pays de Villamblard" }, "geometry": { "type": "Point", "coordinates": [ 0.450456814707053, 45.01529068903843 ] } },
@@ -14,7 +14,7 @@
 { "type": "Feature", "properties": { "COMMUNE": "Beleymas", "COMMUNAUTE": "Pays de Villamblard" }, "geometry": { "type": "Point", "coordinates": [ 0.505777898024613, 44.993248499104553 ] } },
 { "type": "Feature", "properties": { "COMMUNE": "Montagnac la Crempse", "COMMUNAUTE": "Pays de Villamblard" }, "geometry": { "type": "Point", "coordinates": [ 0.546413079651975, 44.98034511421676 ] } },
 { "type": "Feature", "properties": { "COMMUNE": "Maurens", "COMMUNAUTE": "Pays de Villamblard" }, "geometry": { "type": "Point", "coordinates": [ 0.483213373669536, 44.935100925332442 ] } },
-{ "type": "Feature", "properties": { "COMMUNE": "Laveyssière", "COMMUNAUTE": "Pays de Villamblard" }, "geometry": { "type": "Point", "coordinates": [ 0.441655637202591, 44.940991791141784 ] } },
+{ "type": "Feature", "properties": { "COMMUNE": "LaveyssiÃ¨re", "COMMUNAUTE": "Pays de Villamblard" }, "geometry": { "type": "Point", "coordinates": [ 0.441655637202591, 44.940991791141784 ] } },
 { "type": "Feature", "properties": { "COMMUNE": "Saint Jean d'Eyraud", "COMMUNAUTE": "Pays de Villamblard" }, "geometry": { "type": "Point", "coordinates": [ 0.452986816989186, 44.954708426589725 ] } },
 { "type": "Feature", "properties": { "COMMUNE": "Eglise Neuve d'Issac", "COMMUNAUTE": "Pays de Villamblard" }, "geometry": { "type": "Point", "coordinates": [ 0.427406300822624, 44.982009367866652 ] } },
 { "type": "Feature", "properties": { "COMMUNE": "Saint Martin des Combes", "COMMUNAUTE": "Pays de Villamblard" }, "geometry": { "type": "Point", "coordinates": [ 0.615245399818382, 44.956209244053909 ] } },
