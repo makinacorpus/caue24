@@ -84,4 +84,4 @@ L’inspiration des maisons traditionnelles avec leur toit à forte pente ne sem
 ![Architecture bois, mimétisme avec les séchoirs à tabac]({{site.baseurl}}/data/images/5/architecture/05_ARCHITECTURE-10.jpg)
 ![Architecture bois forme contemporaine - architectes : Pialat-Belingheri]({{site.baseurl}}/data/images/5/architecture/05_ARCHITECTURE-11.jpg)
 ![Architecture bois, menuiserie couleur vive - maître d'œuvre : Jean-Marie Labrousse]({{site.baseurl}}/data/images/5/architecture/05_ARCHITECTURE-12.jpg)
-![05_ARCHITECTURE-13.jpg]({{site.baseurl}}/data/images/5/architecture/05_ARCHITECTURE-13.jpg)
+![Maison contemporaine, bois et toit terrasse - architecte : Nicolas Zweyacker]({{site.baseurl}}/data/images/5/architecture/05_ARCHITECTURE-13.jpg)
