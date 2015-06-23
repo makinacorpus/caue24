@@ -1,6 +1,6 @@
 {
 "type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::27572" } },
 "name": "Points de vue",
 "color": "#E30613",
 "active": "true",
@@ -8,14 +8,14 @@
 "description": "Un sous-sol, un paysage",
                                                                                 
 "features": [
-{ "type": "Feature", "properties": { "NOM": "Altérites", "TYPOLOGIE": 9.000000, "ID_CC2014": 5.000000, "COMMUNE": "St Georges de Montclard" }, "geometry": { "type": "Point", "coordinates": [ 0.590121447201912, 44.926971074367806 ] } },
-{ "type": "Feature", "properties": { "NOM": "Alluvions", "TYPOLOGIE": 5.000000, "ID_CC2014": 5.000000, "COMMUNE": "Beauregard et Bassac" }, "geometry": { "type": "Point", "coordinates": [ 0.618227375225607, 44.987331399615357 ] } },
-{ "type": "Feature", "properties": { "NOM": "Dépôts superficiels et Sables", "TYPOLOGIE": 8.000000, "ID_CC2014": 5.000000, "COMMUNE": "Laveyssière" }, "geometry": { "type": "Point", "coordinates": [ 0.455212186798577, 44.928177050485772 ] } },
-{ "type": "Feature", "properties": { "NOM": "Calcaire", "TYPOLOGIE": 4.000000, "ID_CC2014": 5.000000, "COMMUNE": "Montagnac la Crempse" }, "geometry": { "type": "Point", "coordinates": [ 0.529277129232587, 44.981416235370034 ] } },
-{ "type": "Feature", "properties": { "NOM": "Altérites et Colluvions", "TYPOLOGIE": 3.000000, "ID_CC2014": 5.000000, "COMMUNE": "Beleymas" }, "geometry": { "type": "Point", "coordinates": [ 0.476102764585668, 44.985762748358788 ] } },
-{ "type": "Feature", "properties": { "NOM": "Dépôts superficiels", "TYPOLOGIE": 1.000000, "ID_CC2014": 5.000000, "COMMUNE": "St Hilaire d'Estissac" }, "geometry": { "type": "Point", "coordinates": [ 0.507989492923127, 45.023237567069366 ] } },
-{ "type": "Feature", "properties": { "NOM": "Dépôts superficiels", "TYPOLOGIE": 2.000000, "ID_CC2014": 5.000000, "COMMUNE": "Eglise Neuve d'Issac" }, "geometry": { "type": "Point", "coordinates": [ 0.421783062167473, 44.990702904592759 ] } },
-{ "type": "Feature", "properties": { "NOM": "Calcaire crétacé", "TYPOLOGIE": 6.000000, "ID_CC2014": 5.000000, "COMMUNE": "St Julien de Crempse" }, "geometry": { "type": "Point", "coordinates": [ 0.609410629023224, 44.960904729058285 ] } },
-{ "type": "Feature", "properties": { "NOM": "Alluvions", "TYPOLOGIE": 7.000000, "ID_CC2014": 5.000000, "COMMUNE": "Clermont de Beauregard" }, "geometry": { "type": "Point", "coordinates": [ 0.63905795502914, 44.94776916629975 ] } }
+{ "type": "Feature", "properties": { "NOM": "AltÃ©rites", "TYPOLOGIE": 9.000000, "ID_CC2014": 5.000000, "COMMUNE": "St Georges de Montclard" }, "geometry": { "type": "Point", "coordinates": [ 462079.0, 1993342.0 ] } },
+{ "type": "Feature", "properties": { "NOM": "Alluvions", "TYPOLOGIE": 7.000000, "ID_CC2014": 5.000000, "COMMUNE": "Clermont de Beauregard" }, "geometry": { "type": "Point", "coordinates": [ 465993.0, 1995569.0 ] } },
+{ "type": "Feature", "properties": { "NOM": "Alluvions", "TYPOLOGIE": 5.000000, "ID_CC2014": 5.000000, "COMMUNE": "Beauregard et Bassac" }, "geometry": { "type": "Point", "coordinates": [ 464445.0, 2000002.0 ] } },
+{ "type": "Feature", "properties": { "NOM": "DÃ©pÃ´ts superficiels et Sables", "TYPOLOGIE": 8.000000, "ID_CC2014": 5.000000, "COMMUNE": "LaveyssiÃ¨re" }, "geometry": { "type": "Point", "coordinates": [ 451430.0, 1993722.0 ] } },
+{ "type": "Feature", "properties": { "NOM": "Calcaire", "TYPOLOGIE": 4.000000, "ID_CC2014": 5.000000, "COMMUNE": "Montagnac la Crempse" }, "geometry": { "type": "Point", "coordinates": [ 457414.0, 1999502.0 ] } },
+{ "type": "Feature", "properties": { "NOM": "AltÃ©rites et Colluvions", "TYPOLOGIE": 3.000000, "ID_CC2014": 5.000000, "COMMUNE": "Beleymas" }, "geometry": { "type": "Point", "coordinates": [ 453231.0, 2000083.0 ] } },
+{ "type": "Feature", "properties": { "NOM": "DÃ©pÃ´ts superficiels", "TYPOLOGIE": 2.000000, "ID_CC2014": 5.000000, "COMMUNE": "Eglise Neuve d'Issac" }, "geometry": { "type": "Point", "coordinates": [ 448960.0, 2000735.0 ] } },
+{ "type": "Feature", "properties": { "NOM": "DÃ©pÃ´ts superficiels", "TYPOLOGIE": 1.000000, "ID_CC2014": 5.000000, "COMMUNE": "Issac" }, "geometry": { "type": "Point", "coordinates": [ 452454.0, 2005423.0 ] } },
+{ "type": "Feature", "properties": { "NOM": "Calcaire crÃ©tacÃ©", "TYPOLOGIE": 6.000000, "ID_CC2014": 5.000000, "COMMUNE": "St Julien de Crempse" }, "geometry": { "type": "Point", "coordinates": [ 457332.0, 1995636.0 ] } }
 ]
 }
