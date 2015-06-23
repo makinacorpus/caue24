@@ -4,5 +4,6 @@ layout: page
 ---
 
 
-## Saint Georges de Monclar 
+
+**Saint Georges de Monclar**
 290 habitants
