@@ -5,6 +5,7 @@ layout: page
 
 
 
+
 ## Fenêtre modale
 
 ### UN CADRE DE VIE DOUX ET DISCRET – UNE QUALITE DE VIE
@@ -77,8 +78,3 @@ La loi de 1930 sur les sites permet de protéger des espaces d’une grande dive
 ![Hébergement touristique]({{site.baseurl}}/data/images/5/atouts/05_ATOUT_12.jpg)
 ![Gîte rural]({{site.baseurl}}/data/images/5/atouts/05_ATOUT_13.jpg)
 ![Artisanat local]({{site.baseurl}}/data/images/5/atouts/05_ATOUT_14.jpg)
-
-
-
-
-
