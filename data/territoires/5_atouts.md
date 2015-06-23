@@ -6,6 +6,7 @@ layout: page
 
 
 
+
 ## Fenêtre modale
 
 ### UN CADRE DE VIE DOUX ET DISCRET – UNE QUALITE DE VIE
@@ -60,10 +61,8 @@ La loi du 31 décembre 1913 sur les monuments historiques permet de protéger ce
 **SITE CLASSE OU INSCRIT :**
 La loi de 1930 sur les sites permet de protéger des espaces d’une grande diversité : parcs et jardins, espaces naturels, paysages…écrins paysagés de Monuments historiques pour lesquels la seule protection des abords ne suffirait pas.
 
-
-
-
 ## Photos
+
 ![Cadre de vie de qualité ]({{site.baseurl}}/data/images/5/atouts/05_ATOUT_01.jpg)
 ![Mur clocher, église romane]({{site.baseurl}}/data/images/5/atouts/05_ATOUT_02.jpg)
 ![Château dans écrin de verdure]({{site.baseurl}}/data/images/5/atouts/05_ATOUT_03.jpg)
