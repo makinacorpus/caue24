@@ -34,7 +34,7 @@ La carte présente les terrains constructibles des cartes communales de chaque c
 
 ### UN POINT SUR LA COMMUNAUTE DE COMMUNES EN 2015
 
-"3% de son territoire est en zone constructible. Sur l’ensemble des terrains constructibles, 12% seulement sont en covisibilité. Il s’agit essentiellement de vues lointaines pour des terrains situés en pente.
+3% de son territoire est en zone constructible. Sur l’ensemble des terrains constructibles, 12% seulement sont en covisibilité. Il s’agit essentiellement de vues lointaines pour des terrains situés en pente.
 Sur le paysage de l’ensemble du territoire, l’urbanisation future aura un impact généralement limité à l’échelle de la parcelle. La surface des terrains est d’environ 2500 m2. Chaque projet doit prendre en compte ces contraintes sans oublier celles des accès, de l’orientation et des vues.
 
 Répartition géographique des surfaces constructibles : 
@@ -52,6 +52,8 @@ Qualification des surfaces constructibles :
 - 15 % boisés
 
 Malgré une très forte présence de la forêt sur le territoire, seuls 15% sont boisés. Dans une clairière la covisibilité est limitée.
-"
+
 
 ## Photos
+
+
