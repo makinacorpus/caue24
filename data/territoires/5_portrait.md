@@ -5,6 +5,7 @@ layout: page
 
 
 
+
 ## Fenêtre modale
 
 ### DU PAYSAGE A L’ARCHITECTURE, UN TERRITOIRE A DECOUVRIR
@@ -14,7 +15,7 @@ Pays de Villamblard, quelques chiffres :
 - 5 739 habitants (source INSEE - 2015)
 - superficie de 250 km2
 
-CLIQUEZ sur « Bourg » 
+**CLIQUEZ sur « Bourg »**
 
 ## Informations
 
@@ -22,7 +23,7 @@ CLIQUEZ sur « Bourg »
 
 Un cadre, boisé et vallonné, abrite et protège l’architecture et le paysage de ce pays structuré autour de la vallée de la Crempse.
 
-Découvrez ses attraits au travers du diaporama
+**Découvrez ses attraits au travers du diaporama**
 
 ## En savoir plus
 
@@ -58,6 +59,3 @@ Elle couvre 55% du territoire. Située principalement sur les plateaux, elle est
 ![Ferme en alignement et mur de clôture en pierre]({{site.baseurl}}/data/images/5/portrait/05_PORTRAIT_13.jpg)
 ![Une halle abritant les marchés, au cœur de la bastide]({{site.baseurl}}/data/images/5/portrait/05_PORTRAIT_14.jpg)
 ![Un moulin à eau et son bief]({{site.baseurl}}/data/images/5/portrait/05_PORTRAIT_15.jpg)
-
-
-
