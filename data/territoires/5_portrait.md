@@ -28,16 +28,16 @@ Découvrez ses attraits au travers du diaporama
 
 ### 3 THÈMES FORTS IDENTIFIENT LE PAYS DE VILLAMBLARD
 
-L’architecture rurale dans son écrin de verdure
+**L’architecture rurale dans son écrin de verdure**
 
 Les bourgs, en vallée comme sur les plateaux sont des repères dans le paysage boisé. Fermes isolées, hameaux et demeures (maisons bourgeoises, chartreuses, maisons des maîtres de forge) surprennent par leur nombre et leur qualité architecturale méconnue. 
 Non moins important, le patrimoine de pays évoque la vie quotidienne : les marchés par les halles, la production par les moulins à eau, les éléments de confort comme les puits et les lavoirs.
 
-La vallée de la Crempse
+**La vallée de la Crempse**
 
 Les fonds de la vallée de la Crempse et de ses affluents concentrent les cultures céréalières. Là, le paysage s’ouvre sur des grandes parcelles de maïs, de blés et de tournesols. Un chapelet de petites retenues d’eau organise et rythme les cours d’eau. La valeur agronomique de ces terres a presque exclu l’implantation humaine. 
 
-La forêt
+**La forêt**
 
 Elle couvre 55% du territoire. Située principalement sur les plateaux, elle est percée ponctuellement par des clairières. Très dense au niveau du Landais, elle se fragmente progressivement vers l’Est. Le bois, exploité en partie pour l’industrie, se retrouve aussi dans les constructions contemporaines et dans les clôtures de jardins.
 
