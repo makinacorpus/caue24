@@ -4,5 +4,6 @@ layout: page
 ---
 
 
-## Clermont de Beauregard
+
+**Clermont de Beauregard**
 123 habitants
