@@ -5,6 +5,7 @@ layout: page
 
 
 
+
 ## Fenêtre modale
 
 ### UN SOUS-SOL – UN PAYSAGE
@@ -52,3 +53,5 @@ Présente majoritairement sur les plateaux, elle couvre 55 % du territoire. Le s
 
 
 ## Photos
+
+![Moellons calcaires et pierres ferrugineuses – sous-sol altérites]({{site.baseurl}}/data/images/5/geographie/05_GEOGRAPHIE-01.jpg)
