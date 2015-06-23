@@ -22,7 +22,7 @@ La carte présente les secteurs protégés naturels et bâtis et le patrimoine d
 **Cadre de vie :**
 Forêt, plans d’eau, vallonnements doux, abords paysagés…
 
-**Patrimoines protégés en non protégés :**
+**Patrimoines protégés et non protégés :**
 Eglises, châteaux, chartreuses, fermes traditionnelles, patrimoine de pays…
 
 **Tourisme et artisanat :**
