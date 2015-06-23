@@ -49,5 +49,11 @@ Elle couvre 55% du territoire. Située principalement sur les plateaux, elle est
 ![Un ensemble bâti niché au fond de la vallée]({{site.baseurl}}/data/images/5/portrait/05_PORTRAIT_04.jpg)
 ![La vallée cultivée de la Crempse]({{site.baseurl}}/data/images/5/portrait/05_PORTRAIT_05.jpg)
 ![Forêt de châtaigniers sur terrain acide]({{site.baseurl}}/data/images/5/portrait/05_PORTRAIT_06.jpg)
+![Pinède sur plateaux sableux]({{site.baseurl}}/data/images/5/portrait/05_PORTRAIT_07.jpg)
+![Etang en fond de vallée]({{site.baseurl}}/data/images/5/portrait/05_PORTRAIT_08.jpg)
+![Potager bordé de fruitiers]({{site.baseurl}}/data/images/5/portrait/05_PORTRAIT_09.jpg)
+![Ruine du château Barrière]({{site.baseurl}}/data/images/5/portrait/05_PORTRAIT_10.jpg)
+![Clocher-mur, église romane de Saint-Jean-d’Estissac]({{site.baseurl}}/data/images/5/portrait/05_PORTRAIT_11.jpg)
+
 
 
