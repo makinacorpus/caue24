@@ -66,4 +66,9 @@ La loi de 1930 sur les sites permet de protéger des espaces d’une grande dive
 ![Cadre de vie de qualité ]({{site.baseurl}}/data/images/5/atouts/05_ATOUT_01.jpg)
 ![Mur clocher, église romane]({{site.baseurl}}/data/images/5/atouts/05_ATOUT_02.jpg)
 ![Château dans écrin de verdure]({{site.baseurl}}/data/images/5/atouts/05_ATOUT_03.jpg)
+![Large vallée de la Crempse]({{site.baseurl}}/data/images/5/atouts/05_ATOUT_04.jpg)
+![Sous-bois, feuillus et résineux]({{site.baseurl}}/data/images/5/atouts/05_ATOUT_05.jpg)
+![Jardin potager, clôture bois]({{site.baseurl}}/data/images/5/atouts/05_ATOUT_06.jpg)
+![Valorisation du travail du bois]({{site.baseurl}}/data/images/5/atouts/05_ATOUT_07.jpg)
+
 
