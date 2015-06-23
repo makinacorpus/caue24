@@ -53,6 +53,14 @@ Un grand nombre de bourgs connaît une extension urbaine très mesurée voire in
 ## Photos
 ![Un village à structure médiévale]({{site.baseurl}}/data/images/5/histoire/05-HISTOIRE_01.jpg)
 ![Un bourg rural aux constructions serrées]({{site.baseurl}}/data/images/5/histoire/05-HISTOIRE_02.jpg)
-
-
-
+![Moulin à eau dans la vallée de la Crempse]({{site.baseurl}}/data/images/5/histoire/05-HISTOIRE_03.jpg)
+![Constructions XVIIIe et XIXe siècle dans un bourg]({{site.baseurl}}/data/images/5/histoire/05-HISTOIRE_04.jpg)
+![Fin XIXe siècle, maison de ville associant habitat et activité]({{site.baseurl}}/data/images/5/histoire/05-HISTOIRE_05.jpg)
+![Rare maison dit « plan courant » des années 60]({{site.baseurl}}/data/images/5/histoire/05-HISTOIRE_06.jpg)
+![Extension de ferme : longs bâtiments agricoles des années 80]({{site.baseurl}}/data/images/5/histoire/05-HISTOIRE_07.jpg)
+![Maison individuelle isolée dans la campagne]({{site.baseurl}}/data/images/5/histoire/05-HISTOIRE_08.jpg)
+![Hameau agricole avec activités du XXe siècle (conserverie, scierie)]({{site.baseurl}}/data/images/5/histoire/05-HISTOIRE_09.jpg)
+![Développement d’une ferme fin XXe siècle, bâtiments à grand volume]({{site.baseurl}}/data/images/9/histoire/9_HISTOIRE_10.jpg)
+![Maisons récentes en continuité de bourg ancien]({{site.baseurl}}/data/images/5/histoire/05-HISTOIRE_11.jpg)
+![Pavillons récents en lotissement]({{site.baseurl}}/data/images/5/histoire/05-HISTOIRE_12.jpg)
+![Serres agricoles, architecture éphémère]({{site.baseurl}}/data/images/5/histoire/05-HISTOIRE_13.jpg)
