@@ -4,11 +4,54 @@ layout: page
 ---
 
 
+
 ## Fenêtre modale
-Territoire en cours d'élaboration
+
+### LES ZONES CONSTRUCTIBLES EN 2015
+
+La carte présente les terrains constructibles des cartes communales de chaque commune selon 4 grands types de zones :
+
+- zones urbaines 9 % des espaces constructibles
+- zones diffuses 74 % des espaces constructibles
+- zones à aménager 12 % des espaces constructibles 
+
+**CLIQUEZ sur "Documents d’urbanisme"**
 
 ## Informations
 
+### QUEL TERRAIN ? QUELLE MAISON ?
+
+**Le diaporama illustre ces interrogations**
+
+- Comment choisir son terrain plat ou en pente ? 25% des terrains sont dans la pente
+
+- Comment adapter une maison de plain-pied sur un terrain en pente ? Quels impacts dans le site : terrassements, accès et quels surcoûts de travaux ?
+
+- Comment aménager les abords et limites de grands terrains en harmonie avec le paysage ? 74% des terrains sont en zone diffuse.
+
+
 ## En savoir plus
+
+### UN POINT SUR LA COMMUNAUTE DE COMMUNES EN 2015
+
+"3% de son territoire est en zone constructible. Sur l’ensemble des terrains constructibles, 12% seulement sont en covisibilité. Il s’agit essentiellement de vues lointaines pour des terrains situés en pente.
+Sur le paysage de l’ensemble du territoire, l’urbanisation future aura un impact généralement limité à l’échelle de la parcelle. La surface des terrains est d’environ 2500 m2. Chaque projet doit prendre en compte ces contraintes sans oublier celles des accès, de l’orientation et des vues.
+
+Répartition géographique des surfaces constructibles : 
+
+- sur les plateaux 56 %
+- sur les pentes 25 %
+- en vallée 14 %
+- en ligne de crête 4 %
+
+
+Qualification des surfaces constructibles :
+
+- 51 % non boisés
+- 34 % en clairière
+- 15 % boisés
+
+Malgré une très forte présence de la forêt sur le territoire, seuls 15% sont boisés. Dans une clairière la covisibilité est limitée.
+"
 
 ## Photos
