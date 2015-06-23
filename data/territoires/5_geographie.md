@@ -55,3 +55,62 @@ Présente majoritairement sur les plateaux, elle couvre 55 % du territoire. Le s
 ## Photos
 
 ![Moellons calcaires et pierres ferrugineuses – sous-sol altérites]({{site.baseurl}}/data/images/5/geographie/05_GEOGRAPHIE-01.jpg)
+![Mur de composition hétérogène avec pierres ferrugineuses – sous-sol altérites]({{site.baseurl}}/data/images/5/geographie/05_GEOGRAPHIE-02.jpg)
+![Enduit à pierre vue, encadrement en pierre et linteau bois]({{site.baseurl}}/data/images/5/geographie/05_GEOGRAPHIE-03.jpg)
+![Important débord de toiture, protection du mur]({{site.baseurl}}/data/images/5/architecture/05_ARCHITECTURE-04.jpg)
+![Moellons de calcaire - sous-sol du crétacé]({{site.baseurl}}/data/images/5/geographie/05_GEOGRAPHIE-05.jpg)
+![Enduit chaux et sable, pierres d’angle – sous-sol du crétacé]({{site.baseurl}}/data/images/5/geographie/05_GEOGRAPHIE-06.jpg)
+![Enduit à pierre vue, tuiles mécaniques en remplacement de tuiles plates sur coyau]({{site.baseurl}}/data/images/5/geographie/05_GEOGRAPHIE-07.jpg)![Encadrements d’ouvertures en pierre calcaire, pierre d’évier]({{site.baseurl}}/data/images/5/geographie/05_GEOGRAPHIE-08.jpg)
+![Encadrement en pierre ouvragée, génoise en tuiles canal]({{site.baseurl}}/data/images/5/geographie/05_GEOGRAPHIE-09.jpg)
+![Pierre de taille ouvragée (corniche, linteaux, balcon)]({{site.baseurl}}/data/images/5/geographie/05_GEOGRAPHIE-10.jpg)
+![Linteau cintré en pierre de taille]({{site.baseurl}}/data/images/5/geographie/05_GEOGRAPHIE-11.jpg)
+![Lucarne en pierre de taille sur toiture à forte pente]({{site.baseurl}}/data/images/5/geographie/05_GEOGRAPHIE-12.jpg)
+![Tuiles canal sur toits à faible pente]({{site.baseurl}}/data/images/5/geographie/05_GEOGRAPHIE-13.jpg)
+![Tuiles plates sur toit à forte pente]({{site.baseurl}}/data/images/5/geographie/05_GEOGRAPHIE-14.jpg)
+![Bardage bois, tuiles mécaniques]({{site.baseurl}}/data/images/5/geographie/05_GEOGRAPHIE-15.jpg)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
