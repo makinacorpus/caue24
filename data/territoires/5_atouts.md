@@ -50,7 +50,7 @@ Même si le territoire connaît un faible nombre d’édifices protégés (par r
 A l’image du Villamblardais, ce patrimoine est riche mais caché. Accompagnant l’architecture traditionnelle des fermes comme des bourgs, il participe au cadre de vie.  Il est cependant essentiellement privé et identitaire d’une richesse passée (puits couverts pour les maisons de maîtres, simples puits bâtis pour les maisons plus modestes). 54% des éléments relevés sont liés à l’eau (puits, fontaines, lavoirs, moulins…) et 22% aux exploitations agricoles (pigeonniers, fours…). 
 Le patrimoine public, intégré à de nouvelles activités montre l’exemple de restauration et d’animation. Un potentiel à exploiter.
 
-**LES PROTECTIONS - DEFINITIONS**
+### LES PROTECTIONS - DEFINITIONS
 
 **ZNIEFF :**
 Zones Naturelles d’Intérêt Ecologique Faunistique et Floristique. Cet outil de connaissance de la biodiversité, subdivisé en deux groupes, est le recensement d’espaces naturels terrestres.
