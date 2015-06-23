@@ -5,6 +5,7 @@ layout: page
 
 
 
+
 ## Fenêtre modale
 
 ### 3 ENTITES PAYSAGERES CARACTERISENT LE PAYS DE VILLAMBLARD :
@@ -70,3 +71,17 @@ Ces maisons peuvent aussi s’inspirer de l’architecture locale en reprenant c
 L’inspiration des maisons traditionnelles avec leur toit à forte pente ne semble plus correspondre au goût actuel. La simplicité de son volume et le traitement des abords sont les atouts principaux des pavillons. Majoritairement de plain-pied avec une toiture à faible pente en tuiles courbes, l’intégration sera facilitée par le soin apporté aux détails sobres et à la couleur des matériaux.
 
 ## Photos
+
+![Architecture traditionnelle en rez-de-chaussée et toit forte pente]({{site.baseurl}}/data/images/5/architecture/05_ARCHITECTURE-01.jpg)
+![Maison couverte d’un imposant toit à 4 pans en tuiles plates]({{site.baseurl}}/data/images/5/architecture/05_ARCHITECTURE-02.jpg)
+![Maison de bourg à étage et toit en mansart]({{site.baseurl}}/data/images/5/architecture/05_ARCHITECTURE-03.jpg)
+![Maison à étage, toit à faible pente et tuiles canal]({{site.baseurl}}/data/images/5/architecture/05_ARCHITECTURE-04.jpg)
+![Habitation sur cave, accès par escalier extérieur]({{site.baseurl}}/data/images/5/architecture/05_ARCHITECTURE-05.jpg)
+![Habitation sur cave, accès par escalier extérieur]({{site.baseurl}}/data/images/5/architecture/05_ARCHITECTURE-06.jpg)
+![Habitation sur sous-sol, importance de la voiture]({{site.baseurl}}/data/images/5/architecture/05_ARCHITECTURE-07.jpg)
+![Pavillon en rez-de-chaussée, toit à 4 pans]({{site.baseurl}}/data/images/5/architecture/05_ARCHITECTURE-08.jpg)
+![Pavillon en rez-de-chaussée, toit à 2 pans]({{site.baseurl}}/data/images/5/architecture/05_ARCHITECTURE-09.jpg)
+![Architecture bois, mimétisme avec les séchoirs à tabac]({{site.baseurl}}/data/images/5/architecture/05_ARCHITECTURE-10.jpg)
+![Architecture bois forme contemporaine - architectes : Pialat-Belingheri]({{site.baseurl}}/data/images/5/architecture/05_ARCHITECTURE-11.jpg)
+![Architecture bois, menuiserie couleur vive - maître d'œuvre : Jean-Marie Labrousse]({{site.baseurl}}/data/images/5/architecture/05_ARCHITECTURE-12.jpg)
+![05_ARCHITECTURE-13.jpg]({{site.baseurl}}/data/images/5/architecture/05_ARCHITECTURE-13.jpg)
