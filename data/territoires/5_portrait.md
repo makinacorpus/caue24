@@ -54,6 +54,9 @@ Elle couvre 55% du territoire. Située principalement sur les plateaux, elle est
 ![Potager bordé de fruitiers]({{site.baseurl}}/data/images/5/portrait/05_PORTRAIT_09.jpg)
 ![Ruine du château Barrière]({{site.baseurl}}/data/images/5/portrait/05_PORTRAIT_10.jpg)
 ![Clocher-mur, église romane de Saint-Jean-d’Estissac]({{site.baseurl}}/data/images/5/portrait/05_PORTRAIT_11.jpg)
+![Une maison de maître et son porche ouvrant sur la cour]({{site.baseurl}}/data/images/5/portrait/05_PORTRAIT_12.jpg)
+![Ferme en alignement et mur de clôture en pierre]({{site.baseurl}}/data/images/5/portrait/05_PORTRAIT_13.jpg)
+![Une halle abritant les marchés, au cœur de la bastide]({{site.baseurl}}/data/images/5/portrait/05_PORTRAIT_14.jpg)
 
 
 
