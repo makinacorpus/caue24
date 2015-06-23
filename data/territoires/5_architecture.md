@@ -43,21 +43,30 @@ Les fermes se sont implantées de façon isolée (au sein de clairières) ou reg
 isolée ou incluse dans une ferme, est le plus couramment à rez-de-chaussée, de forme simple, rectangulaire, de faible profondeur et couverte d’un haut toit en tuiles plates.
 Les maisons à étage sont présentes dans les bourgs. Des maisons imposantes voire des demeures, à étages, souvent couvertes d’un mansart «périgourdin», existent sur tout le territoire.
 
-La grange étable 
+**La grange étable**
 
 est bâtie sur un plan rectangulaire avec un toit à forte pente (parfois même en mansart). Comme la maison d’habitation elle est construite avec des matériaux locaux. Souvent elle n’a qu’une seule porte d’étable.
 Le séchoir à tabac, construction du XXe siècle, est essentiellement en bois et couvert en tuiles mécaniques.
  
-Les annexes et patrimoine de pays
+**Les annexes et patrimoine de pays**
 
 Les étables à cochons, les rares pigeonniers, les fours, ainsi que les puits bâtis complètent avec la même qualité architecturale les bâtiments de la ferme.
  
-Les abords
+**Les abords**
 
 Ils fleurissent les pieds de bâtiments, de cours ou de façades des maisons en mêlant finement essences locales et essences horticoles. A l’Est du territoire, ceintures de murets bas en pierre calcaire et à l’Ouest, présence importante des bois dans les clôtures… Des haies d’arbustes champêtres accompagnent les limites des parcelles.
 Les cours fermées des demeures sont ceinturées de hauts murs avec des entrées marquées par des piles ou des porches ouvragés.
 Les potagers, les vignes et les vergers sont souvent complantés.
 
+### L’ARCHITECTURE AUJOURD’HUI
 
+**Une conception d’architecture contemporaine**
+
+La maison contemporaine permet de répondre aux nouveaux modes de vie: aménagement intérieur plus fluide, liberté de formes et grandes baies vitrées facilitant les relations intérieur-extérieur et un éclairage naturel important… 
+Ces maisons peuvent aussi s’inspirer de l’architecture locale en reprenant certains matériaux comme la pierre, la terre ou le bois (cas majoritaire des exemples existants en Villamblardais)…
+
+**Architecture inspirée mais affranchie**
+
+L’inspiration des maisons traditionnelles avec leur toit à forte pente ne semble plus correspondre au goût actuel. La simplicité de son volume et le traitement des abords sont les atouts principaux des pavillons. Majoritairement de plain-pied avec une toiture à faible pente en tuiles courbes, l’intégration sera facilitée par le soin apporté aux détails sobres et à la couleur des matériaux.
 
 ## Photos
