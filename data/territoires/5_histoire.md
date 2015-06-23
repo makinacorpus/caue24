@@ -4,8 +4,14 @@ layout: page
 ---
 
 
+
 ## Fenêtre modale
-Territoire en cours d'élaboration
+
+### UNE CAMPAGNE PATRIMONIALE INTACTE
+
+La carte présente en différents sites des analyses et des photos de l’évolution rurbaine des communes.
+
+**CLIQUEZ sur les repères de la carte pour découvrir ces évolutions**
 
 ## Informations
 
