@@ -18,6 +18,7 @@ La carte présente les secteurs protégés naturels et bâtis et le patrimoine d
 ## Informations
 
 ### DES ATOUTS CACHES
+
 **Le diaporama illustre ces éléments patrimoniaux**
 **Cadre de vie :**
 Forêt, plans d’eau, vallonnements doux, abords paysagés…
@@ -48,6 +49,7 @@ A l’image du Villamblardais, ce patrimoine est riche mais caché. Accompagnant
 Le patrimoine public, intégré à de nouvelles activités montre l’exemple de restauration et d’animation. Un potentiel à exploiter.
 
 **LES PROTECTIONS - DEFINITIONS**
+
 **ZNIEFF :**
 Zones Naturelles d’Intérêt Ecologique Faunistique et Floristique. Cet outil de connaissance de la biodiversité, subdivisé en deux groupes, est le recensement d’espaces naturels terrestres.
 
