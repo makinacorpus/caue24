@@ -57,7 +57,7 @@ Présente majoritairement sur les plateaux, elle couvre 55 % du territoire. Le s
 ![Moellons calcaires et pierres ferrugineuses – sous-sol altérites]({{site.baseurl}}/data/images/5/geographie/05_GEOGRAPHIE-01.jpg)
 ![Mur de composition hétérogène avec pierres ferrugineuses – sous-sol altérites]({{site.baseurl}}/data/images/5/geographie/05_GEOGRAPHIE-02.jpg)
 ![Enduit à pierre vue, encadrement en pierre et linteau bois]({{site.baseurl}}/data/images/5/geographie/05_GEOGRAPHIE-03.jpg)
-![Important débord de toiture, protection du mur]({{site.baseurl}}/data/images/5/architecture/05_ARCHITECTURE-04.jpg)
+![Important débord de toiture, protection du mur]({{site.baseurl}}/data/images/5/geographie/05_GEOGRAPHIE-04.jpg)
 ![Moellons de calcaire - sous-sol du crétacé]({{site.baseurl}}/data/images/5/geographie/05_GEOGRAPHIE-05.jpg)
 ![Enduit chaux et sable, pierres d’angle – sous-sol du crétacé]({{site.baseurl}}/data/images/5/geographie/05_GEOGRAPHIE-06.jpg)
 ![Enduit à pierre vue, tuiles mécaniques en remplacement de tuiles plates sur coyau]({{site.baseurl}}/data/images/5/geographie/05_GEOGRAPHIE-07.jpg)![Encadrements d’ouvertures en pierre calcaire, pierre d’évier]({{site.baseurl}}/data/images/5/geographie/05_GEOGRAPHIE-08.jpg)
