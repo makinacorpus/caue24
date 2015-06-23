@@ -63,3 +63,7 @@ La loi de 1930 sur les sites permet de protéger des espaces d’une grande dive
 
 
 ## Photos
+![Cadre de vie de qualité ]({{site.baseurl}}/data/images/5/atouts/05_ATOUT_01.jpg)
+![Mur clocher, église romane]({{site.baseurl}}/data/images/5/atouts/05_ATOUT_02.jpg)
+![Château dans écrin de verdure]({{site.baseurl}}/data/images/5/atouts/05_ATOUT_03.jpg)
+
