@@ -57,6 +57,7 @@ Elle couvre 55% du territoire. Située principalement sur les plateaux, elle est
 ![Une maison de maître et son porche ouvrant sur la cour]({{site.baseurl}}/data/images/5/portrait/05_PORTRAIT_12.jpg)
 ![Ferme en alignement et mur de clôture en pierre]({{site.baseurl}}/data/images/5/portrait/05_PORTRAIT_13.jpg)
 ![Une halle abritant les marchés, au cœur de la bastide]({{site.baseurl}}/data/images/5/portrait/05_PORTRAIT_14.jpg)
+![Un moulin à eau et son bief]({{site.baseurl}}/data/images/5/portrait/05_PORTRAIT_15.jpg)
 
 
 
