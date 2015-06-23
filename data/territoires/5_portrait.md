@@ -42,3 +42,7 @@ Les fonds de la vallée de la Crempse et de ses affluents concentrent les cultur
 Elle couvre 55% du territoire. Située principalement sur les plateaux, elle est percée ponctuellement par des clairières. Très dense au niveau du Landais, elle se fragmente progressivement vers l’Est. Le bois, exploité en partie pour l’industrie, se retrouve aussi dans les constructions contemporaines et dans les clôtures de jardins.
 
 ## Photos
+
+![Le bourg de Villamblard, dans un cadre boisé et agricole]({{site.baseurl}}/data/images/5/portrait/05_PORTRAIT_01.jpg)
+
+![Une chartreuse, implantée sur le coteau boisé]({{site.baseurl}}/data/images/5/portrait/05_PORTRAIT_02.jpg)
