@@ -70,5 +70,9 @@ La loi de 1930 sur les sites permet de protéger des espaces d’une grande dive
 ![Sous-bois, feuillus et résineux]({{site.baseurl}}/data/images/5/atouts/05_ATOUT_05.jpg)
 ![Jardin potager, clôture bois]({{site.baseurl}}/data/images/5/atouts/05_ATOUT_06.jpg)
 ![Valorisation du travail du bois]({{site.baseurl}}/data/images/5/atouts/05_ATOUT_07.jpg)
+![Jardin potager et muret]({{site.baseurl}}/data/images/5/atouts/05_ATOUT_08.jpg)
+![Exploitation forestière]({{site.baseurl}}/data/images/5/atouts/05_ATOUT_09.jpg)
+![Patrimoine communal restauré]({{site.baseurl}}/data/images/5/atouts/05_ATOUT_10.jpg)
+
 
 
