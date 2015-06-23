@@ -51,3 +51,8 @@ Un grand nombre de bourgs connaît une extension urbaine très mesurée voire in
 "L’urbanisation sur le territoire reste modérée. Deux cas de figures d’implantation des maisons sont récurrents :- autour de fermes isolées ou en continuité de hameaux sur de très grands terrains, - en lotissement dans des clairières. De ce fait, les silhouettes des villages au caractère patrimonial se voient préserver.
 
 ## Photos
+![Un village à structure médiévale]({{site.baseurl}}/data/images/5/histoire/05-HISTOIRE_01.jpg)
+![Un bourg rural aux constructions serrées]({{site.baseurl}}/data/images/5/histoire/05-HISTOIRE_02.jpg)
+
+
+
