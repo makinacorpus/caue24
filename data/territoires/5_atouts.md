@@ -7,6 +7,7 @@ layout: page
 
 
 
+
 ## Fenêtre modale
 
 ### UN CADRE DE VIE DOUX ET DISCRET – UNE QUALITE DE VIE
@@ -22,6 +23,7 @@ La carte présente les secteurs protégés naturels et bâtis et le patrimoine d
 ### DES ATOUTS CACHES
 
 **Le diaporama illustre ces éléments patrimoniaux**
+
 **Cadre de vie :**
 Forêt, plans d’eau, vallonnements doux, abords paysagés…
 
