@@ -3,7 +3,7 @@ published: true
 layout: page
 ---
 
-**Beauregard et Bassac**
+
+**Clermont de Beauregard**
 
 Carte Communale
-
