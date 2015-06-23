@@ -50,3 +50,9 @@ Elle couvre 55% du territoire. Située principalement sur les plateaux, elle est
 ![Une ferme sur le plateau, au milieu de ses terres]({{site.baseurl}}/data/images/5/urbanisme/05_URBANISME_03.jpg)
 
 ![Un ensemble bâti niché au fond de la vallée]({{site.baseurl}}/data/images/5/portrait/05_PORTRAIT_04.jpg)
+
+![La vallée cultivée de la Crempse]({{site.baseurl}}/data/images/5/portrait/05_PORTRAIT_05.jpg)
+
+![Forêt de châtaigniers sur terrain acide]({{site.baseurl}}/data/images/5/portrait/05_PORTRAIT_06.jpg)
+
+
