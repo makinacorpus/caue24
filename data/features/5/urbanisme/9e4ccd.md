@@ -1,0 +1,9 @@
+---
+published: true
+layout: page
+---
+
+**Beauregard et Bassac**
+
+Carte Communale
+
