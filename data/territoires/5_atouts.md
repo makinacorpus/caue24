@@ -73,6 +73,10 @@ La loi de 1930 sur les sites permet de protéger des espaces d’une grande dive
 ![Jardin potager et muret]({{site.baseurl}}/data/images/5/atouts/05_ATOUT_08.jpg)
 ![Exploitation forestière]({{site.baseurl}}/data/images/5/atouts/05_ATOUT_09.jpg)
 ![Patrimoine communal restauré]({{site.baseurl}}/data/images/5/atouts/05_ATOUT_10.jpg)
+![Puits bâti]({{site.baseurl}}/data/images/5/atouts/05_ATOUT_11.jpg)
+![Hébergement touristique]({{site.baseurl}}/data/images/5/atouts/05_ATOUT_11.jpg)
+![Gîte rural]({{site.baseurl}}/data/images/5/atouts/05_ATOUT_12.jpg)
+
 
 
 
