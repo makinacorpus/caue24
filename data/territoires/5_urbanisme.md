@@ -10,6 +10,7 @@ layout: page
 
 
 
+
 ## Fenêtre modale
 
 ### LES ZONES CONSTRUCTIBLES EN 2015
@@ -21,7 +22,7 @@ La carte présente les terrains constructibles des cartes communales de chaque c
 - zones à aménager 12 % des espaces constructibles 
 
 **CLIQUEZ sur "Documents d’urbanisme"**
-
+[(http://ids.pigma.org/mapfishapp/?wmc=http://ids.pigma.org/public/urbanisme_pigma.wmc]( "Géoportail de l'urbanisme en Aquitaine")
 
 
 ## Informations
