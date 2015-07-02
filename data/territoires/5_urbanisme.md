@@ -4,16 +4,6 @@ layout: page
 ---
 
 
-
-
-
-
-
-
-
-
-
-
 ## Fenêtre modale
 
 ### LES ZONES CONSTRUCTIBLES EN 2015
@@ -62,6 +52,9 @@ Sur le paysage de l’ensemble du territoire, l’urbanisation future aura un im
 
 Malgré une très forte présence de la forêt sur le territoire, seuls 15% sont boisés. Dans une clairière la covisibilité est limitée.
 
+### DOCUMENTS D’URBANISME DE LA COMMUNAUTE EN 2014
+
+**Consultez votre document d'urbanisme en ligne**
 
 ## Photos
 ![Vue lointaine, clairière en ligne de crête]({{site.baseurl}}/data/images/5/urbanisme/05_URBANISME_01.jpg)
