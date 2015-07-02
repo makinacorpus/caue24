@@ -5,6 +5,7 @@ layout: page
 
 
 
+
 ## Fenêtre modale
 
 ### UNE CAMPAGNE PATRIMONIALE INTACTE
@@ -60,7 +61,7 @@ Un grand nombre de bourgs connaît une extension urbaine très mesurée voire in
 ![Extension de ferme : longs bâtiments agricoles des années 80]({{site.baseurl}}/data/images/5/histoire/05-HISTOIRE_07.jpg)
 ![Maison individuelle isolée dans la campagne]({{site.baseurl}}/data/images/5/histoire/05-HISTOIRE_08.jpg)
 ![Hameau agricole avec activités du XXe siècle (conserverie, scierie)]({{site.baseurl}}/data/images/5/histoire/05-HISTOIRE_09.jpg)
-![Développement d’une ferme fin XXe siècle, bâtiments à grand volume]({{site.baseurl}}/data/images/9/histoire/9_HISTOIRE_10.jpg)
+![Développement d’une ferme fin XXe siècle, bâtiments à grand volume]({{site.baseurl}}/data/images/4/histoire/4_HISTOIRE_10.jpg)
 ![Maisons récentes en continuité de bourg ancien]({{site.baseurl}}/data/images/5/histoire/05-HISTOIRE_11.jpg)
 ![Pavillons récents en lotissement]({{site.baseurl}}/data/images/5/histoire/05-HISTOIRE_12.jpg)
 ![Serres agricoles, architecture éphémère]({{site.baseurl}}/data/images/5/histoire/05-HISTOIRE_13.jpg)
