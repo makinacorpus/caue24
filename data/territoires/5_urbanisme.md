@@ -71,7 +71,7 @@ Malgré une très forte présence de la forêt sur le territoire, seuls 15% sont
 ![Ecran végétal]({{site.baseurl}}/data/images/5/urbanisme/05_URBANISME_05.jpg)
 ![Implantation en lotissement]({{site.baseurl}}/data/images/5/urbanisme/05_URBANISME_06.jpg)
 ![Traitement des limites, haie champêtre]({{site.baseurl}}/data/images/5/urbanisme/05_URBANISME_07.jpg)
-![Grandes parcelles paysagées en clairière]({{site.baseurl}}/data/images/5/architecture/05_ARCHITECTURE-08.jpg)
+![Grandes parcelles paysagées en clairière]({{site.baseurl}}/data/images/5/urbanisme/05_URBANISME_08.jpg)
 ![Versant bâti à différentes époques]({{site.baseurl}}/data/images/5/architecture/05_ARCHITECTURE-09.jpg)
 ![Implantation dans une clairière]({{site.baseurl}}/data/images/5/architecture/05_ARCHITECTURE-10.jpg)
 ![Grands terrains en zone diffuse]({{site.baseurl}}/data/images/5/architecture/05_ARCHITECTURE-11.jpg)
