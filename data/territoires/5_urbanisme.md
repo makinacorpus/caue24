@@ -5,6 +5,7 @@ layout: page
 
 
 
+
 ## Fenêtre modale
 
 ### LES ZONES CONSTRUCTIBLES EN 2015
@@ -57,6 +58,16 @@ Malgré une très forte présence de la forêt sur le territoire, seuls 15% sont
 
 **Consultez votre document d'urbanisme en ligne**
 [Géoportail de l'urbanisme d'Aquitaine](http://ids.pigma.org/mapfishapp/?wmc=http://ids.pigma.org/public/urbanisme_pigma.wmc)
+
+**Cartes Communales.**
+Toutes les communes ont une carte communale approuvée.
+La carte communale est un document d’urbanisme simple qui délimite les secteurs de la commune où les permis de construire peuvent être délivrés. Ce sont les dispositions du règlement national d’urbanisme qui s’y appliquent.
+
+**Un Plan de Prévention des Risques (PPR)**
+est une servitude d’utilité publique de droit français. Le PPR est un document réalisé par l’État qui réglemente l’utilisation des sols, à l’échelle communale, en fonction des risques auxquels ils sont soumis (inondations, mouvements de terrain, séismes, incendies de forêts…). Cette réglementation va de l’interdiction de construire à la possibilité de construire sous certaines conditions.
+
+**Plan de Prévention des Risques d’Inondation (PPRI).**
+Certaines zones constructibles peuvent également être concernées par les règlements du Plan de Prévention des Risques d’Inondation dans la vallée du Caudeau."
 
 ## Photos
 ![Vue lointaine, clairière en ligne de crête]({{site.baseurl}}/data/images/5/urbanisme/05_URBANISME_01.jpg)
