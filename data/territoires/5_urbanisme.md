@@ -67,7 +67,7 @@ Malgré une très forte présence de la forêt sur le territoire, seuls 15% sont
 ![Vue lointaine, clairière en ligne de crête]({{site.baseurl}}/data/images/5/urbanisme/05_URBANISME_01.jpg)
 ![Implantation en clairière et ligne de crête]({{site.baseurl}}/data/images/5/urbanisme/05_URBANISME_02.jpg)
 ![Covisibilité neuf et ancien]({{site.baseurl}}/data/images/5/urbanisme/05_URBANISME_03.jpg)
-![Dialogue entre pavillon et ferme]({{site.baseurl}}/data/images/5/architecture/05_ARCHITECTURE-04.jpg)
+![Dialogue entre pavillon et ferme]({{site.baseurl}}/data/images/5/urbanisme/05_URBANISME_04.jpg)
 ![Ecran végétal]({{site.baseurl}}/data/images/5/architecture/05_ARCHITECTURE-05.jpg)
 ![Implantation en lotissement]({{site.baseurl}}/data/images/5/architecture/05_ARCHITECTURE-06.jpg)
 ![Traitement des limites, haie champêtre]({{site.baseurl}}/data/images/5/architecture/05_ARCHITECTURE-07.jpg)
