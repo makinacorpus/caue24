@@ -55,6 +55,7 @@ Malgré une très forte présence de la forêt sur le territoire, seuls 15% sont
 ### DOCUMENTS D’URBANISME DE LA COMMUNAUTE EN 2014
 
 **Consultez votre document d'urbanisme en ligne**
+[http://ids.pigma.org/mapfishapp/?wmc=http://ids.pigma.org/public/urbanisme_pigma.wmc](http://ids.pigma.org/mapfishapp/?wmc=http://ids.pigma.org/public/urbanisme_pigma.wmc "géoportail de l'urbanisme d'aquitaine")
 
 ## Photos
 ![Vue lointaine, clairière en ligne de crête]({{site.baseurl}}/data/images/5/urbanisme/05_URBANISME_01.jpg)
