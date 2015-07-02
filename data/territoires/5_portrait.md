@@ -7,6 +7,7 @@ layout: page
 
 
 
+
 ## Fenêtre modale
 
 ### DU PAYSAGE A L’ARCHITECTURE, UN TERRITOIRE A DECOUVRIR
@@ -20,7 +21,7 @@ Pays de Villamblard, quelques chiffres :
 
 Territoire réalisé avec la participation et le soutien de la Communauté de Communes du Pays de Villamblard
 
-![05_PORTRAIT_logo03.jpg]({{site.baseurl}}/data/images/5/portrait/05_PORTRAIT_logo03.jpg)
+![05_PORTRAIT_logo.jpg]({{site.baseurl}}/data/images/5/portrait/05_PORTRAIT_logo.jpg)
 
 ## Informations
 
