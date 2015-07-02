@@ -18,6 +18,8 @@ Pays de Villamblard, quelques chiffres :
 
 **CLIQUEZ sur « Bourg »**
 
+Territoire réalisé avec la participation et le soutien de la Communauté de Communes Isle Vern Salembre en Périgord
+
 ![05_PORTRAIT_logo03.jpg]({{site.baseurl}}/data/images/5/portrait/05_PORTRAIT_logo03.jpg)
 
 ## Informations
