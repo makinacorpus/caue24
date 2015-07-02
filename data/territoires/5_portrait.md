@@ -6,6 +6,7 @@ layout: page
 
 
 
+
 ## Fenêtre modale
 
 ### DU PAYSAGE A L’ARCHITECTURE, UN TERRITOIRE A DECOUVRIR
@@ -16,6 +17,8 @@ Pays de Villamblard, quelques chiffres :
 - superficie de 250 km2
 
 **CLIQUEZ sur « Bourg »**
+
+![05_PORTRAIT_logo03.jpg]({{site.baseurl}}/data/images/5/portrait/05_PORTRAIT_logo03.jpg)
 
 ## Informations
 
