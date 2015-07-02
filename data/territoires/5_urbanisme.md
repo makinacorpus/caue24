@@ -13,6 +13,7 @@ layout: page
 
 
 
+
 ## Fenêtre modale
 
 ### LES ZONES CONSTRUCTIBLES EN 2015
@@ -24,9 +25,6 @@ La carte présente les terrains constructibles des cartes communales de chaque c
 - zones à aménager 12 % des espaces constructibles 
 
 **CLIQUEZ sur "Documents d’urbanisme"**
-[http://ids.pigma.org/mapfishapp/?wmc=http://ids.pigma.org/public/urbanisme_pigma.wmc](http://ids.pigma.org/mapfishapp/?wmc=http://ids.pigma.org/public/urbanisme_pigma.wmc "Géoportail de l’urbanisme d’Aquitaine")
-
-
 
 ## Informations
 
@@ -68,7 +66,7 @@ Malgré une très forte présence de la forêt sur le territoire, seuls 15% sont
 ## Photos
 ![Vue lointaine, clairière en ligne de crête]({{site.baseurl}}/data/images/5/urbanisme/05_URBANISME_01.jpg)
 ![Implantation en clairière et ligne de crête]({{site.baseurl}}/data/images/5/urbanisme/05_URBANISME_02.jpg)
-![Covisibilité neuf et ancien]({{site.baseurl}}/data/images/5/architecture/05_ARCHITECTURE-03.jpg)
+![Covisibilité neuf et ancien]({{site.baseurl}}/data/images/5/urbanisme/05_URBANISME_03.jpg)
 ![Dialogue entre pavillon et ferme]({{site.baseurl}}/data/images/5/architecture/05_ARCHITECTURE-04.jpg)
 ![Ecran végétal]({{site.baseurl}}/data/images/5/architecture/05_ARCHITECTURE-05.jpg)
 ![Implantation en lotissement]({{site.baseurl}}/data/images/5/architecture/05_ARCHITECTURE-06.jpg)
