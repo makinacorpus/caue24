@@ -3,6 +3,7 @@ published: true
 layout: page
 ---
 
+
 ## Fenêtre modale
 
 ### 4 ENTITES PAYSAGERES CARACTERISENT LE PAYS VERNOIS ET TERROIR DE LA TRUFFE :
@@ -68,7 +69,7 @@ La maison contemporaine s’adapte aux modes de vie actuels, elle propose un pla
 ![Réécriture du séchoir à tabac – architecte : Eric Lanusse](/data/images/20/architecture/20_ARCHITECTURE_8.jpg)
 ![Maison contemporaine - architecte : Dune studio d’architecture](/data/images/20/architecture/20_ARCHITECTURE_9.jpg)
 ![Restauration d’un ancien séchoir en équipement touristique](/data/images/20/architecture/20_ARCHITECTURE_10.jpg)
-![Ferme de bourg, bâtiments en alignement](//data/images/20/architecture/20_ARCHITECTURE_11.jpg)
+![Ferme de bourg, bâtiments en alignement](/data/images/20/architecture/20_ARCHITECTURE_11.jpg)
 ![Grange étable, toit à 4 pans, adaptation à la pente](/data/images/20/architecture/20_ARCHITECTURE_12.jpg)
 ![Etables à cochons](/data/images/20/architecture/20_ARCHITECTURE_13.jpg)
 ![Murs de clôture en pierre, portillon métallique](/data/images/20/architecture/20_ARCHITECTURE_14.jpg)
