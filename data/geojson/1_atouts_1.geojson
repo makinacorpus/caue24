@@ -1,11 +1,11 @@
-{
+ï»¿{
 "type": "FeatureCollection",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"name": "Monument inscrit ou classé",
+"name": "Monument inscrit ou classÃ©",
 "color": "#8B0E13",
 "active": "true",
 "interactive":"true",
-"description": "Protection des monuments historiques loi du 31 décembre 1913",
+"description": "Protection des monuments historiques loi du 31 dÃ©cembre 1913",
                                                                                 
 "features": [
 { "type": "Feature", "properties": { "INSEE": "24104", "COMMUNE": "CHANTERAC", "PROTECTION": "Cl.MH.", "PROCEDURE": "ARRETE MINISTERIEL", "TYPE": "EGLISE" }, "geometry": { "type": "Point", "coordinates": [ 0.446111452829417, 45.172535607789357 ] } },
@@ -29,7 +29,7 @@
 { "type": "Feature", "properties": { "INSEE": "24372", "COMMUNE": "SAINT-ASTIER", "PROTECTION": "Cl.MH.", "PROCEDURE": "ARRETE MINISTERIEL", "TYPE": "CHATEAU" }, "geometry": { "type": "Point", "coordinates": [ 0.506323830836007, 45.148862913372895 ] } },
 { "type": "Feature", "properties": { "INSEE": "24372", "COMMUNE": "SAINT-ASTIER", "PROTECTION": "Ins.MH.", "PROCEDURE": "ARRETE PREFECTORAL", "TYPE": "architecture religieuse" }, "geometry": { "type": "Point", "coordinates": [ 0.511792079631027, 45.156592133343473 ] } },
 { "type": "Feature", "properties": { "INSEE": "24372", "COMMUNE": "SAINT-ASTIER", "PROTECTION": "Ins.MH.", "PROCEDURE": "ARRETE PREFECTORAL", "TYPE": "architecture domestique" }, "geometry": { "type": "Point", "coordinates": [ 0.546315784826443, 45.17446598640835 ] } },
-{ "type": "Feature", "properties": { "INSEE": "24372", "COMMUNE": "SAINT-ASTIER", "PROTECTION": "Cl.MH.", "PROCEDURE": "ARRETE MINISTERIEL", "TYPE": "Monument commémoratif" }, "geometry": { "type": "Point", "coordinates": [ 0.529847211157314, 45.146521902545011 ] } },
+{ "type": "Feature", "properties": { "INSEE": "24372", "COMMUNE": "SAINT-ASTIER", "PROTECTION": "Cl.MH.", "PROCEDURE": "ARRETE MINISTERIEL", "TYPE": "Monument commÃ©moratif" }, "geometry": { "type": "Point", "coordinates": [ 0.529847211157314, 45.146521902545011 ] } },
 { "type": "Feature", "properties": { "INSEE": "24372", "COMMUNE": "SAINT-ASTIER", "PROTECTION": "Cl.MH.", "PROCEDURE": "ARRETE MINISTERIEL", "TYPE": "EGLISE" }, "geometry": { "type": "Point", "coordinates": [ 0.529284700122946, 45.146224815856222 ] } },
 { "type": "Feature", "properties": { "INSEE": "24543", "COMMUNE": "SOURZAC", "PROTECTION": "Cl.MH.", "PROCEDURE": "ARRETE MINISTERIEL", "TYPE": "GROTTE" }, "geometry": { "type": "Point", "coordinates": [ 0.379198533301557, 45.038168502114502 ] } }
 ]
