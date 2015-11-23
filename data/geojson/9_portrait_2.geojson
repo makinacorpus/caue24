@@ -1,14 +1,14 @@
 {
 "type": "FeatureCollection",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"name": "Siège de la CdC",
+"name": "PÃ´le de la CdC",
 "color": "#049d41",
 "active": "true",
-"description": "Coordonnées de la communauté de communes",
+"description": "CoordonnÃ©es de la communautÃ© de communes",
                                                                                 
 "features": [
-{ "type": "Feature", "properties": { "COMMUNAUTE": "Vallée de l'Homme", "ID_CDECOMM": 9.000000 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 1.158328708292247, 45.069236004338201 ], [ 1.168405775040365, 45.06937864351233 ], [ 1.168620168723111, 45.061581205018705 ], [ 1.158492987984137, 45.061474022908179 ], [ 1.158328708292247, 45.069236004338201 ] ] ] } },
-{ "type": "Feature", "properties": { "COMMUNAUTE": "Vallée de l'Homme", "ID_CDECOMM": 9.000000 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 1.007746883195802, 44.939498018959235 ], [ 1.017800128702059, 44.939654332208683 ], [ 1.018035056212464, 44.931857565146366 ], [ 1.007931714208887, 44.93173663922726 ], [ 1.007746883195802, 44.939498018959235 ] ] ] } },
-{ "type": "Feature", "properties": { "COMMUNAUTE": "Vallée de l'Homme", "ID_CDECOMM": 9.000000 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 0.971523575993279, 45.051753912360049 ], [ 0.981596975363251, 45.051913521993143 ], [ 0.981837442216297, 45.044116513772153 ], [ 0.971713825217266, 45.043992276531228 ], [ 0.971523575993279, 45.051753912360049 ] ] ] } }
+{ "type": "Feature", "properties": { "COMMUNAUTE": "VallÃ©e de l'Homme", "ID_CDECOMM": 9.000000 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 1.158328708292247, 45.069236004338201 ], [ 1.168405775040365, 45.06937864351233 ], [ 1.168620168723111, 45.061581205018705 ], [ 1.158492987984137, 45.061474022908179 ], [ 1.158328708292247, 45.069236004338201 ] ] ] } },
+{ "type": "Feature", "properties": { "COMMUNAUTE": "VallÃ©e de l'Homme", "ID_CDECOMM": 9.000000 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 1.007746883195802, 44.939498018959235 ], [ 1.017800128702059, 44.939654332208683 ], [ 1.018035056212464, 44.931857565146366 ], [ 1.007931714208887, 44.93173663922726 ], [ 1.007746883195802, 44.939498018959235 ] ] ] } },
+{ "type": "Feature", "properties": { "COMMUNAUTE": "VallÃ©e de l'Homme", "ID_CDECOMM": 9.000000 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 0.971523575993279, 45.051753912360049 ], [ 0.981596975363251, 45.051913521993143 ], [ 0.981837442216297, 45.044116513772153 ], [ 0.971713825217266, 45.043992276531228 ], [ 0.971523575993279, 45.051753912360049 ] ] ] } }
 ]
 }
