@@ -3,8 +3,11 @@ published: true
 layout: page
 ---
 
+
 ## Communauté de communes Isle Vern Salembre en Périgord
-Le Bateau - BP 6
+Pôle administratif : Le Bateau - BP 6
+
+Pôle technique : Rue Henri Rebière - BP6
 
 24110 Saint-Astier
 
