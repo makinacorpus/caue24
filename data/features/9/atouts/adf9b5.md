@@ -1,8 +1,9 @@
 ---
-layout: page
 published: true
+layout: page
 ---
 
-**Manoir de Montpeyrat**
+
+**Manoir de Monpeyrat**
 
 Monument inscrit, Inv MH
