@@ -3,6 +3,7 @@ published: true
 layout: page
 ---
 
+
 ## Fenêtre modale
 
 ### LES ZONES CONSTRUCTIBLES EN 2013
@@ -10,9 +11,9 @@ layout: page
 La carte présente les terrains constructibles des PLU et cartes communales selon 4 grands types de zones :
 
 - zones urbaines 30% des espaces constructibles
-- zones diffuses 46% des espaces constructibles
+- zones diffuses 45% des espaces constructibles
 - zones à aménager 11% des espaces constructibles
-- zones artisanales et de loisirs 13 % des espaces constructibles
+- zones artisanales et de loisirs 14 % des espaces constructibles
 
 **CLIQUEZ sur "Documents d’urbanisme"**
 
@@ -39,24 +40,21 @@ La surface des terrains est d’environ 2000m2 à 2500m2 dans les documents d’
 
 **Répartition géographique des espaces constructibles :**
 
-- en vallée 53%
-- sur les pentes 28%
+- en vallée 54%
+- sur les pentes 27%
 - sur les plateaux 11%
 - en ligne de crête 8%.
 
 **Qualification des espaces constructibles :**
 
-- 75% non boisés
+- 76% non boisés
 - 13% en clairière
-- 12% boisés
+- 11% boisés
 
-Enfin, 14% des terrains situés en ligne de crête ou sur les pentes des coteaux calcaires Nord et Sud, en forte covisibilité.
+Enfin, 32% des terrains situés en ligne de crête ou sur les pentes des coteaux calcaires Nord et Sud, en forte covisibilité.
 
 
-### DOCUMENTS D'URBANISME DE LA COMMUNAUTE DE COMMUNES EN 2013
-
-**Consultez votre document d'urbanisme en ligne**
-[Géoportail de l'urbanisme d'Aquitaine](http://ids.pigma.org/mapfishapp/?wmc=http://ids.pigma.org/public/urbanisme_pigma.wmc "Consulter votre document d'urbanisme en ligne")
+### DOCUMENTS D'URBANISME DE LA COMMUNAUTE DE COMMUNES EN 2015
 
 **Plan Local d’Urbanisme**, approuvé ou en cours de validation dans les communes de Chantérac, Douzillac, Léguillac-de-l’Auche, Montrem, Neuvic-sur-l’Isle, St-Astier, St-Germain-du-Salembre, Sourzac et St-Léon-sur-l’Isle.
 Le Plan Local d’Urbanisme (PLU) est un document d’urbanisme qui, à l’échelle d’une commune ou d’un groupement de communes (EPCI), établit un projet global d’urbanisme et d’aménagement et fixe en conséquence les règles générales d’utilisation du sol sur le territoire considéré.
