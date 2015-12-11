@@ -3,16 +3,17 @@ published: true
 layout: page
 ---
 
+
 ## Fenêtre modale
 
-### LES ZONES CONSTRUCTIBLES EN 2014
+### LES ZONES CONSTRUCTIBLES EN 2015
 
 La carte présente les terrains constructibles des PLU et cartes communales selon 4 grands types de zones :
 
-- zones urbaines 18 % des espaces constructibles
+- zones urbaines 17 % des espaces constructibles
 - zones diffuses 63 % des espaces constructibles
 - zones à aménager 6 % des espaces constructibles 
-- zones artisanales et de loisirs 13 % des espaces constructibles
+- zones artisanales et de loisirs 14 % des espaces constructibles
 
 **CLIQUEZ sur "Documents d’urbanisme"**
 
@@ -23,38 +24,33 @@ La carte présente les terrains constructibles des PLU et cartes communales selo
 **Le diaporama illustre ces interrogations**
 
 - Comment réaliser une maison en correspondance avec le paysage ?
-27 % des terrains en covisibilité dans les vallées ou en lignes de crête. Toute construction y est très visible. 
+31 % des terrains en forte covisibilité. Toute construction y est très visible. 
 - Comment adapter les constructions aux terrains pentus ? 
-18 % des terrains constructibles situés dans la pente.
+25 % des terrains constructibles situés dans la pente.
 - Comment s’implanter sur son terrain ? Comment composer avec la végétation existante ? Les terrains ont encore de grandes dimensions, un accompagnement végétal est essentiel.
 
 
 
 ## En savoir plus
 
-### UN POINT SUR LA COMMUNAUTE DE COMMUNES EN 2014
+### UN POINT SUR LA COMMUNAUTE DE COMMUNES EN 2015
 
 La surface des terrains est d’environ 2000 à 2500 m2, leurs problématiques principales sont la covisibilité et les terrains en pente. Chaque projet doit prendre en compte ces contraintes sans oublier celles des accès de l’orientation et des vues.
 
 **Répartition géographique des surfaces constructibles :** 
 
-- sur les plateaux 34 %
-- en vallée 29 %
-- en ligne de crête 19 %
-- sur les pentes 18 %
+- sur les plateaux 38 %
+- en vallée 28 %
+- sur les pentes 25 %
+- en ligne de crête 9 %
 
 **Qualification des surfaces constructibles :**
 
-- 47 % non boisés
+- 53 % non boisés
 - 27 % en clairière
-- 26 % boisés
+- 18 % boisés
 
-Enfin, 27 % des terrains sont en forte covisibilité, ils sont essentiellement situés en ligne de crête ou en vallée.
-
-### DOCUMENTS D’URBANISME DE LA COMMUNAUTE EN 2014
-
-**Consultez votre document d'urbanisme en ligne**
-[Géoportail de l'urbanisme en Aquitaine](http://ids.pigma.org/mapfishapp/?wmc=contexts/urbanisme_pigma.wmc)
+### DOCUMENTS D’URBANISME DE LA COMMUNAUTE EN 2015
 
 **Plan Local d’Urbanisme (PLU)**
 
