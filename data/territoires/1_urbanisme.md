@@ -33,7 +33,7 @@ La carte présente les terrains constructibles des PLU et cartes communales selo
 
 ## En savoir plus
 
-### UN POINT SUR LA COMMUNAUTE DE COMMNUNES 2013
+### UN POINT SUR LA COMMUNAUTE DE COMMNUNES 2015
 
 Les communes connaissent une augmentation de population (7% en 10 ans), excepté St-Astier depuis la disparition des dernières usines de chaussures dans les années 2000.
 La surface des terrains est d’environ 2000m2 à 2500m2 dans les documents d’urbanisme existants, elle baisse actuellement dans les PLU en cours d’élaboration pour atteindre 800m2 à 1000m2.
