@@ -4,7 +4,7 @@
 "name": "Patrimoine de pays public",
 "color": "#f78b0b",
 "active": "false",
-"interactive": "true",
+"interactive": "false",
 "description": "Localisation d'éléments publics du patrimoine de pays",
                                                                                 
 "features": [
