@@ -3,6 +3,7 @@ published: true
 layout: page
 ---
 
+
 ## Fenêtre modale
 
 ### LES ZONES CONSTRUCTIBLES EN 2014
@@ -51,8 +52,6 @@ Enfin, 7 % des terrains sont en forte covisibilité et sont essentiellement situ
 
 ### DOCUMENTS D’URBANISME DE LA COMMUNAUTE EN 2014
 
-**Consultez votre document d'urbanisme en ligne**
-[Géoportail de l'urbanisme en Aquitaine](http://ids.pigma.org/mapfishapp/?wmc=contexts/urbanisme_pigma.wmc)
 
 **Plan Local d’Urbanisme (PLU), Plan d’Occupation des Sols (POS)**
 
