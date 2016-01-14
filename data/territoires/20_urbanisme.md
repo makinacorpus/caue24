@@ -3,6 +3,7 @@ published: true
 layout: page
 ---
 
+
 ## Fenêtre modale
 
 ### LES ZONES CONSTRUCTIBLES EN 2014
@@ -63,10 +64,6 @@ Pour les 59 % de terrains situés en zone diffuse, la surface est d’environ 20
 Enfin, les 16% des terrains qui sont en forte covisibilité se situent aussi bien en plateau, en pente, en lignes de crêtes qu’en vallée. Ce sont essentiellement des vues lointaines. Leur impact dans le paysage est important.
 
 ### DOCUMENTS D’URBANISME DE LA COMMUNAUTE EN 2014
-
-**Consultez votre document d'urbanisme en ligne**
-[Géoportail de l'urbanisme en Aquitaine](http://ids.pigma.org/mapfishapp/?wmc=contexts/urbanisme_pigma.wmc)
-
 
 
 **2 PLUi (Plan Local d’Urbanisme intercommunal),** approuvés dans la Communauté de communes du Pays Vernois et du Terroir de la Truffe.
