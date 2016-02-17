@@ -4,6 +4,7 @@ layout: page
 ---
 
 
+
 ## Fenêtre modale
 
 ### UN TERRITOIRE AUX DEUX VISAGES
@@ -15,6 +16,10 @@ Pays Vernois et Terroir de la Truffe, quelques chiffres :
 - superficie de 340 km2 
 
 **CLIQUEZ sur « Bourg »**
+
+Territoire réalisé avec la participation et le soutien de la Communauté de Communes Isle Vern Salembre en Périgord
+
+![20_PORTRAIT_logo5.jpg]({{site.baseurl}}/data/images/20/portrait/20_PORTRAIT_logo5.jpg)
 
 ## Informations
 
