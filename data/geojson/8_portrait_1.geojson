@@ -1,0 +1,33 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"name": "Bourg",
+"color": "#E30613",
+"active": "true",
+"description": "Localisation du centre bourg, population de la commune",
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "COMMUNE": "audrix", "COMMUNAUTE": "vallee de la dordogne", "INSEE_COMM": 24015.000000 }, "geometry": { "type": "Point", "coordinates": [ 0.947039270938, 44.880430323368401 ] } },
+{ "type": "Feature", "properties": { "COMMUNE": "Berbiguières", "COMMUNAUTE": "vallee de la dordogne", "INSEE_COMM": 24036.000000 }, "geometry": { "type": "Point", "coordinates": [ 1.042444855480543, 44.834424423406588 ] } },
+{ "type": "Feature", "properties": { "COMMUNE": "Allas les Mines", "COMMUNAUTE": "vallee de la dordogne", "INSEE_COMM": 24006.000000 }, "geometry": { "type": "Point", "coordinates": [ 1.072540942091296, 44.832974007874718 ] } },
+{ "type": "Feature", "properties": { "COMMUNE": "Bezenac", "COMMUNAUTE": "vallee de la dordogne", "INSEE_COMM": 24041.000000 }, "geometry": { "type": "Point", "coordinates": [ 1.08549996783595, 44.846480059720498 ] } },
+{ "type": "Feature", "properties": { "COMMUNE": "Castels", "COMMUNAUTE": "vallee de la dordogne", "INSEE_COMM": 24087.000000 }, "geometry": { "type": "Point", "coordinates": [ 1.052718123252548, 44.872065372897254 ] } },
+{ "type": "Feature", "properties": { "COMMUNE": "Meyrals", "COMMUNAUTE": "vallee de la dordogne", "INSEE_COMM": 24268.000000 }, "geometry": { "type": "Point", "coordinates": [ 1.06485149750523, 44.898680291835007 ] } },
+{ "type": "Feature", "properties": { "COMMUNE": "St Cyprien", "COMMUNAUTE": "vallee de la dordogne", "INSEE_COMM": 24396.000000 }, "geometry": { "type": "Point", "coordinates": [ 1.044776587398752, 44.866458393196481 ] } },
+{ "type": "Feature", "properties": { "COMMUNE": "Belvès", "COMMUNAUTE": "vallee de la dordogne", "INSEE_COMM": 0.000000 }, "geometry": { "type": "Point", "coordinates": [ 1.007458780392995, 44.776140115995744 ] } },
+{ "type": "Feature", "properties": { "COMMUNE": "Le Coux et Bigaroque", "COMMUNAUTE": "vallee de la dordogne", "INSEE_COMM": 24142.000000 }, "geometry": { "type": "Point", "coordinates": [ 0.973279915345594, 44.834878365115173 ] } },
+{ "type": "Feature", "properties": { "COMMUNE": "Siorac en Périgord", "COMMUNAUTE": "vallee de la dordogne", "INSEE_COMM": 24538.000000 }, "geometry": { "type": "Point", "coordinates": [ 0.98878030237291, 44.818075793886067 ] } },
+{ "type": "Feature", "properties": { "COMMUNE": "Marnac", "COMMUNAUTE": "vallee de la dordogne", "INSEE_COMM": 24254.000000 }, "geometry": { "type": "Point", "coordinates": [ 1.026130619025648, 44.836282986505651 ] } },
+{ "type": "Feature", "properties": { "COMMUNE": "Cladech", "COMMUNAUTE": "vallee de la dordogne", "INSEE_COMM": null }, "geometry": { "type": "Point", "coordinates": [ 1.071951286756574, 44.815452935211859 ] } },
+{ "type": "Feature", "properties": { "COMMUNE": "St Germain de Belvès", "COMMUNAUTE": "vallee de la dordogne", "INSEE_COMM": null }, "geometry": { "type": "Point", "coordinates": [ 1.049977019350694, 44.804881069704571 ] } },
+{ "type": "Feature", "properties": { "COMMUNE": "Carvès", "COMMUNAUTE": "vallee de la dordogne", "INSEE_COMM": null }, "geometry": { "type": "Point", "coordinates": [ 1.064921284524923, 44.786703598619368 ] } },
+{ "type": "Feature", "properties": { "COMMUNE": "Monplaisant", "COMMUNAUTE": "vallee de la dordogne", "INSEE_COMM": null }, "geometry": { "type": "Point", "coordinates": [ 0.99646083082813, 44.789761188383281 ] } },
+{ "type": "Feature", "properties": { "COMMUNE": "St Pardoux et Vielvic", "COMMUNAUTE": "vallee de la dordogne", "INSEE_COMM": null }, "geometry": { "type": "Point", "coordinates": [ 0.978459402629604, 44.770002691976913 ] } },
+{ "type": "Feature", "properties": { "COMMUNE": "Salles de Belvès", "COMMUNAUTE": "vallee de la dordogne", "INSEE_COMM": null }, "geometry": { "type": "Point", "coordinates": [ 0.999732225319383, 44.711019204378402 ] } },
+{ "type": "Feature", "properties": { "COMMUNE": "Larzac", "COMMUNAUTE": "vallee de la dordogne", "INSEE_COMM": null }, "geometry": { "type": "Point", "coordinates": [ 1.007123078310718, 44.747215774761798 ] } },
+{ "type": "Feature", "properties": { "COMMUNE": "Grives", "COMMUNAUTE": "vallee de la dordogne", "INSEE_COMM": null }, "geometry": { "type": "Point", "coordinates": [ 1.076995810366735, 44.764875496950573 ] } },
+{ "type": "Feature", "properties": { "COMMUNE": "Doissat", "COMMUNAUTE": "vallee de la dordogne", "INSEE_COMM": null }, "geometry": { "type": "Point", "coordinates": [ 1.069081756480098, 44.731304464987723 ] } },
+{ "type": "Feature", "properties": { "COMMUNE": "Ste Foy de Belvès", "COMMUNAUTE": "vallee de la dordogne", "INSEE_COMM": null }, "geometry": { "type": "Point", "coordinates": [ 1.035204899644317, 44.733797085373965 ] } },
+{ "type": "Feature", "properties": { "COMMUNE": "Sagelat", "COMMUNAUTE": "vallee de la dordogne", "INSEE_COMM": null }, "geometry": { "type": "Point", "coordinates": [ 1.015664828094516, 44.783219198578756 ] } }
+]
+}

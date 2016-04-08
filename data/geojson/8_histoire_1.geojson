@@ -1,0 +1,26 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"name": "Exemple d'évolution",
+"color": "#048136",
+"marker-width": "15",
+"Outline width": "30",
+"active": "true",
+"interactive": "true",
+"description": "Evolution urbaine d'un même lieu entre deux époques",
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "COMMUNE": "St Cyprien", "INSEE_COMM": 24396.000000, "POP_UP": "POPUP_B1" }, "geometry": { "type": "Point", "coordinates": [ 1.043342049098349, 44.869958947743797 ] } },
+{ "type": "Feature", "properties": { "COMMUNE": "Meyrals", "INSEE_COMM": 24268.000000, "POP_UP": "POPUP_01" }, "geometry": { "type": "Point", "coordinates": [ 1.064369026548198, 44.8987467057446 ] } },
+{ "type": "Feature", "properties": { "COMMUNE": "Mouzens", "INSEE_COMM": 24298.000000, "POP_UP": "POPUP_03" }, "geometry": { "type": "Point", "coordinates": [ 1.01303639432382, 44.845203458194369 ] } },
+{ "type": "Feature", "properties": { "COMMUNE": "Allas les Mines", "INSEE_COMM": 24006.000000, "POP_UP": "POPUP_05" }, "geometry": { "type": "Point", "coordinates": [ 1.072391978591258, 44.833970810937487 ] } },
+{ "type": "Feature", "properties": { "COMMUNE": "Saint Germain de Belvès", "INSEE_COMM": 24416.000000, "POP_UP": "POPUP_06" }, "geometry": { "type": "Point", "coordinates": [ 1.049988823971697, 44.804917189389727 ] } },
+{ "type": "Feature", "properties": { "COMMUNE": "Audrix", "INSEE_COMM": 24015.000000, "POP_UP": "POPUP_02" }, "geometry": { "type": "Point", "coordinates": [ 0.947505147818194, 44.880013370065186 ] } },
+{ "type": "Feature", "properties": { "COMMUNE": "Coux et Bigaroque", "INSEE_COMM": 24142.000000, "POP_UP": "POPUP_04" }, "geometry": { "type": "Point", "coordinates": [ 0.972598657240779, 44.832746949243635 ] } },
+{ "type": "Feature", "properties": { "COMMUNE": "Siorac en Périgord", "INSEE_COMM": 24538.000000, "POP_UP": "POPUP_B2" }, "geometry": { "type": "Point", "coordinates": [ 0.986830209382052, 44.82137137063966 ] } },
+{ "type": "Feature", "properties": { "COMMUNE": "Monplaisant", "INSEE_COMM": 24293.000000, "POP_UP": "POPUP_07" }, "geometry": { "type": "Point", "coordinates": [ 0.99686653410604, 44.789172409773059 ] } },
+{ "type": "Feature", "properties": { "COMMUNE": "Belvès", "INSEE_COMM": 24035.000000, "POP_UP": "POPUP_B3" }, "geometry": { "type": "Point", "coordinates": [ 1.007762008713649, 44.776134774478109 ] } },
+{ "type": "Feature", "properties": { "COMMUNE": "Larzac", "INSEE_COMM": 24230.000000, "POP_UP": "POPUP_08" }, "geometry": { "type": "Point", "coordinates": [ 1.007483694307395, 44.747445007690004 ] } },
+{ "type": "Feature", "properties": { "COMMUNE": "Doissat", "INSEE_COMM": 24151.000000, "POP_UP": "POPUP_09" }, "geometry": { "type": "Point", "coordinates": [ 1.075153292790543, 44.742986937989826 ] } }
+]
+}

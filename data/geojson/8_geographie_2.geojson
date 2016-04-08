@@ -1,0 +1,14 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"name": "Coupe transversale",
+"color": "#E30613",
+"active": "true",
+"description": "Coupe du territoire",
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "NOM": "BB'", "TYPOLOGIE": null, "TYPOLOGIE_": null }, "geometry": { "type": "LineString", "coordinates": [ [ 1.073235726226475, 44.808945912873604 ], [ 1.074549993222064, 44.866613666916855 ] ] } },
+{ "type": "Feature", "properties": { "NOM": "AA'", "TYPOLOGIE": null, "TYPOLOGIE_": null }, "geometry": { "type": "LineString", "coordinates": [ [ 0.963401683677767, 44.791828415669464 ], [ 0.961857925649914, 44.854644495986065 ] ] } },
+{ "type": "Feature", "properties": { "NOM": "CC'", "TYPOLOGIE": null, "TYPOLOGIE_": null }, "geometry": { "type": "LineString", "coordinates": [ [ 0.944813606617992, 44.774260891495423 ], [ 1.079877478468544, 44.776557322957736 ] ] } }
+]
+}
