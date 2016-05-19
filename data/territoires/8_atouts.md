@@ -17,17 +17,13 @@ La carte présente les secteurs protégés naturels et bâtis et le patrimoine d
 
 ### DES PATRIMOINES
 
-**Grands paysages**
+**Le diaporama illustre ces éléments patrimoniaux**
 
-Le relief tourmenté offre de nombreux points de vue très prisés sur des paysages protégés au titre des sites ou reconnus (Natura 2000, ZNIEFF).
+**Grands paysages** : Le relief tourmenté offre de nombreux points de vue très prisés sur des paysages protégés au titre des sites ou reconnus (Natura 2000, ZNIEFF).
 
-**Bourgs de caractère**
+**Bourgs de caractère** : Aussi bien par leur implantation que par leur architecture et le traitement de leurs voies (murs et murets en pierre, végétation de façades…) les villages sont agréables à regarder et à vivre.
 
-Aussi bien par leur implantation que par leur architecture et le traitement de leurs voies (murs et murets en pierre, végétation de façades…) les villages sont agréables à regarder et à vivre.
-
-**Patrimoines protégés et non protégés**
-
-Du patrimoine inscrit ou classé au titre des Monuments historiques existe dans 19 communes. De nombreux bâtiments et patrimoine de pays du quotidien, non reconnus complètent ce panel d’architecture de qualité.
+**Patrimoines protégés et non protégés** : Du patrimoine inscrit ou classé au titre des Monuments historiques existe dans 19 communes. De nombreux bâtiments et patrimoine de pays du quotidien, non reconnus complètent ce panel d’architecture de qualité.
 
 
 ## En savoir plus
