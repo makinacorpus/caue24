@@ -4,7 +4,9 @@ layout: page
 ---
 
 ## Fenêtre modale
+
 ### UN SOUS-SOL – UN PAYSAGE
+
 La géologie est un élément fondateur pour la compréhension du paysage et de l’architecture locale traditionnelle.
 
 La carte représente les 7 types de sous-sol composant le territoire :
