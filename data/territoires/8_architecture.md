@@ -75,3 +75,7 @@ La maison contemporaine s’adapte aux modes de vie actuels. Elle propose un pla
 
 
 ## Photos
+
+![Maison à superposition, toit 4 pans, tuiles plates]({{site.baseurl}}/data/images/8/architecture/08_ARCHITECTURE_01.JPG)
+
+
