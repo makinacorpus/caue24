@@ -19,6 +19,14 @@ La carte présente les terrains constructibles des PLU et cartes communales selo
 
 ## Informations
 
+### QUEL TERRAIN ? QUELLE MAISON ? QUELS IMPACTS ?
+
+**Le diaporama illustre ces interrogations**
+
+- Comment s’inclure dans un terrain en pente ?
+- Comment prendre en compte l’environnement de mon terrain ?
+- Quel type d’architecture, quelles couleurs choisir ?
+
 ## En savoir plus
 
 ## Photos
