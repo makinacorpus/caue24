@@ -70,6 +70,8 @@ Le taux de boisement est de 51% sur le territoire. Dans les vallées, la forêt 
 ![Maçonnerie en altérites et linteau monolithe]({{site.baseurl}}/data/images/8/geographie/08_GEOGRAPHIE_10.JPG)
 ![Moellons composite protégés par enduit, linteau bois]({{site.baseurl}}/data/images/8/geographie/08_GEOGRAPHIE_11.JPG)
 ![Encadrement en pierre de taille et rang de génoise]({{site.baseurl}}/data/images/8/geographie/08_GEOGRAPHIE_12.JPG)
+![Variété de matériaux de couverture, porche au linteau cintré en pierre de taille]({{site.baseurl}}/data/images/8/geographie/08_GEOGRAPHIE_13.JPG)
+![Murs et murets en pierre formant des terrasses]({{site.baseurl}}/data/images/8/geographie/08_GEOGRAPHIE_14.JPG)
 
 
 
