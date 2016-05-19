@@ -48,23 +48,23 @@ Le patrimoine de pays, à l’image de son environnement, est remarquable et var
 
 ### LES PROTECTIONS - DEFINITIONS
 
-MONUMENT CLASSE OU INSCRIT :
+**MONUMENT CLASSE OU INSCRIT :**
 La loi du 31 décembre 1913 sur les Monuments historiques permet de protéger certains bâtiments à caractère patrimonial. Celle du 23 février 1943 sur les abords, la complète en fixant un périmètre de 500 m autour de l’édifice.
 
-SITE CLASSE OU INSCRIT :
+**SITE CLASSE OU INSCRIT :**
 La loi de 1930 sur les sites permet de protéger des espaces d’une grande diversité : parcs et jardins, espaces naturels, paysages… écrins paysagers de Monuments historiques pour lesquels la seule protection des abords ne suffirait pas.
 
-ZPPAUP : 
+**ZPPAUP :**
 Une Zone de Protection du Patrimoine Architectural, Urbain et Paysager (ZPPAUP) peut être instituée autour des Monuments historiques et dans les quartiers, sites et espaces à protéger ou à mettre en valeur pour des motifs d’ordre esthétique, historique ou culturel.
 Créée par arrêté préfectoral après accord du conseil municipal, la ZPPAUP constitue une servitude annexée au PLU et s’impose aux opérations de construction et d’aménagement menées dans son périmètre.
 
-ZNIEFF : 
+**ZNIEFF :**
 Zones Naturelles d’Intérêt Ecologique Faunistique et Floristique. Cet outil de connaissance de la biodiversité, subdivisé en deux groupes, est le recensement d’espaces naturels terrestres.
 
-ARRETE PREFECTORAL DE PROTECTION DE BIOTOPE : 
+**ARRETE PREFECTORAL DE PROTECTION DE BIOTOPE :**
 Les biotopes sont des aires géographiques protégées par des mesures réglementaires : les arrêtés de protection de biotope qui ont pour objectif de prévenir la disparition d’espèces protégées. Chaque arrêté vise un biotope précis, nécessaire à l’alimentation, à la reproduction, au repos ou à la survie de la ou des espèces concernées. L’effet du classement suit le territoire concerné lors de chaque changement de son statut ou de sa vente. 
 
-NATURA 2000 : 
+**NATURA 2000 :**
 Réseau de sites écologiques dont les objectifs sont de préserver la diversité biologique et de valoriser le patrimoine naturel.
 "
 
