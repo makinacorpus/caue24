@@ -78,4 +78,20 @@ La maison contemporaine s’adapte aux modes de vie actuels. Elle propose un pla
 
 ![Maison à superposition, toit 4 pans, tuiles plates]({{site.baseurl}}/data/images/8/architecture/08_ARCHITECTURE_01.JPG)
 
+![Maison néo-traditionnelle]({{site.baseurl}}/data/images/8/architecture/08_ARCHITECTURE_02.JPG)
+
+![Séchoir traditionnel à tabac en bois]({{site.baseurl}}/data/images/8/architecture/08_ARCHITECTURE_03.jpg)
+
+![Extension contemporaine en bois ]({{site.baseurl}}/data/images/8/architecture/08_ARCHITECTURE_04.JPG)
+
+![Changement d’usage : du hangar à tabac à la maison]({{site.baseurl}}/data/images/8/architecture/08_ARCHITECTURE_05.JPG)
+
+![Maison à rez-de-chaussée, toit 2 pans]({{site.baseurl}}/data/images/8/architecture/08_ARCHITECTURE_06.jpg)
+
+![Pavillon à rez-de-chaussée, d’inspiration traditionnelle]({{site.baseurl}}/data/images/8/architecture/08_ARCHITECTURE_07.JPG)
+
+![Grange à rez-de-chaussée, tuiles mécaniques]({{site.baseurl}}/data/images/8/architecture/08_ARCHITECTURE_08.jpg)
+
+![Grange étable de taille modeste]({{site.baseurl}}/data/images/8/architecture/08_ARCHITECTURE_09.jpg)
+
 
