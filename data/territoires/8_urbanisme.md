@@ -99,7 +99,7 @@ Certaines zones constructibles peuvent également être concernées par les règ
 
 ![Grand terrain, impact important du long chemin d’accès]({{site.baseurl}}/data/images/8/urbanisme/08_URBANISME-08.jpg)
 
-![Terrain en pente et maison de plain-pied: nécessité de terrasser]({{site.baseurl}}/data/images/8/urbanisme/08_URBANISME-09.jpg)
+![Terrain en pente et maison de plain-pied : nécessité de terrasser]({{site.baseurl}}/data/images/8/urbanisme/08_URBANISME-09.jpg)
 
 ![Adaptation d’une maison à la pente avec terrasse bâtie ]({{site.baseurl}}/data/images/8/urbanisme/08_URBANISME-10.jpg)
 
