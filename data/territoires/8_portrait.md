@@ -17,6 +17,8 @@ Vallée de la Dordogne et Forêt Bessède, quelques chiffres :
 
 Territoire réalisé avec la participation et le soutien de la Communauté de Communes Vallée de la Dordogne et Forêt Bessède
 
+![08_PORTRAIT_logo.jpg]({{site.baseurl}}/data/images/8/portrait/08_PORTRAIT_logo.jpg)
+
 
 
 
