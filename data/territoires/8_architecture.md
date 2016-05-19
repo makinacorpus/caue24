@@ -21,6 +21,18 @@ Elles traduisent des perceptions propres à une organisation spécifique du reli
 
 ## Informations
 
+DE LA CONSTRUCTION TRADITIONNELLE A L’ARCHITECTURE CONTEMPORAINE
+
+Tout bâtiment construit hier et aujourd’hui participe à l’écriture du paysage en Vallée de la Dordogne et Forêt Bessède. Et vous, demain, quelle empreinte souhaitez-vous laisser ?
+
+Construire une maison contemporaine ?
+
+Restaurer une ancienne ferme ?
+
+Choisir une maison d’inspiration traditionnelle ?
+
+Quels matériaux choisir en harmonie avec l’environnement ?...
+
 ## En savoir plus
 
 ## Photos
