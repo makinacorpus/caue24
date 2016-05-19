@@ -69,3 +69,15 @@ Réseau de sites écologiques dont les objectifs sont de préserver la diversit�
 "
 
 ## Photos
+
+![Large vallée de la Dordogne avec une protection de biotope]({{site.baseurl}}/data/images/8/atouts/08_ATOUTS_01.jpg)
+
+![Vallée plus étroite de la Nauze et vue lointaine sur Belvès]({{site.baseurl}}/data/images/8/atouts/08_ATOUTS_02.jpg)
+
+![Paysage rural et agricole]({{site.baseurl}}/data/images/8/atouts/08_ATOUTS_03.jpg)
+
+![La rivière Dordogne et ses châteaux]({{site.baseurl}}/data/images/8/atouts/08_ATOUTS_04.jpg)
+
+![La Dordogne au fort potentiel touristique]({{site.baseurl}}/data/images/8/atouts/08_ATOUTS_05.jpg)
+
+
