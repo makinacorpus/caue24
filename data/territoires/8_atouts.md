@@ -90,4 +90,14 @@ Réseau de sites écologiques dont les objectifs sont de préserver la diversit�
 
 ![Château en cœur de bourg ]({{site.baseurl}}/data/images/8/atouts/08_ATOUTS_10.jpg)
 
+![Eglise romane à clocher peigne, patrimoine reconnu]({{site.baseurl}}/data/images/8/atouts/08_ATOUTS_11.jpg)
+
+![Source et lavoir, patrimoine de pays]({{site.baseurl}}/data/images/8/atouts/08_ATOUT_POPPP_12.jpg)
+
+![Pont du Garrit, patrimoine industriel]({{site.baseurl}}/data/images/8/atouts/08_ATOUTS_13.jpg)
+
+![Four familial couvert en lauze, patrimoine de pays]({{site.baseurl}}/data/images/8/atouts/08_ATOUTS_14.jpg)
+
+![Un des nombreux moulins de la Nauze, patrimoine de pays]({{site.baseurl}}/data/images/8/atouts/08_ATOUTS_15.jpg)
+
 
