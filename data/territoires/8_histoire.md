@@ -56,3 +56,8 @@ L’extension des bourgs est mesurée dans la partie Sud. Au Nord et dans les bo
 De nombreuses maisons individuelles, sur de grands terrains, séparés des bourgs, s’égrainent le long des voies pour répondre à la recherche de vues imprenables sur le paysage. Les terrains sont plus vastes que dans la période précédente. Là où la pression foncière est plus forte, l’habitat est soit groupé en petites opérations avec des logements mitoyens, soit implanté sur des parcelles plus petites.
 
 ## Photos
+
+![Bourg médiéval sous le château, habitat à flanc de coteau]({{site.baseurl}}/data/images/8/histoire/08_HISTOIRE_01.JPG)
+![Structure médiévale, ruelle étroite, habitat mitoyen ]({{site.baseurl}}/data/images/8/histoire/08_HISTOIRE_02.JPG)
+![Hameau sur plateau cultivé, bâtiment agricole récent ]({{site.baseurl}}/data/images/8/histoire/08_HISTOIRE_03.JPG)
+![Evolution d’une ferme isolée, séchoir à tabac, habitation années 60, stabulation]({{site.baseurl}}/data/images/8/histoire/08_HISTOIRE_04.JPG)
