@@ -58,3 +58,18 @@ Le taux de boisement est de 51% sur le territoire. Dans les vallées, la forêt 
 
 
 ## Photos
+![Appareillage en moellons – calcaire crétacé dur]({{site.baseurl}}/data/images/8/geographie/08_GEOGRAPHIE_01.JPG)
+![Maçonnerie altérites et enduit chaux sable ton rosé]({{site.baseurl}}/data/images/8/geographie/08_GEOGRAPHIE_02.JPG)
+![Maçonnerie pierres en calcaire jurassique]({{site.baseurl}}/data/images/8/geographie/08_GEOGRAPHIE_03.JPG)
+![Murs en moellons – calcaire crétacé tendre aux tons ocrés]({{site.baseurl}}/data/images/8/geographie/08_GEOGRAPHIE_04.JPG)
+![Toiture en lauzes calcaires, houteaux et lucarne]({{site.baseurl}}/data/images/8/geographie/08_GEOGRAPHIE_05.JPG)
+![Egout du toit en lauzes et couverture en tuiles canal]({{site.baseurl}}/data/images/8/geographie/08_GEOGRAPHIE_06.JPG)
+![Tuiles plates et mécaniques, houteau et demi-croupe]({{site.baseurl}}/data/images/8/geographie/08_GEOGRAPHIE_07.JPG)
+![Tuiles plates sur forte pente, lucarne ouvragée, épis de faîtage en pierre]({{site.baseurl}}/data/images/8/geographie/08_GEOGRAPHIE_08.JPG)
+![Souche de cheminée imposante en pignon, tuiles plates et mécaniques sur croupe]({{site.baseurl}}/data/images/8/geographie/08_GEOGRAPHIE_09.JPG)
+![Maçonnerie en altérites et linteau monolithe]({{site.baseurl}}/data/images/8/geographie/08_GEOGRAPHIE_10.JPG)
+![Moellons composite protégés par enduit, linteau bois]({{site.baseurl}}/data/images/8/geographie/08_GEOGRAPHIE_11.JPG)
+![Encadrement en pierre de taille et rang de génoise]({{site.baseurl}}/data/images/8/geographie/08_GEOGRAPHIE_12.JPG)
+
+
+
