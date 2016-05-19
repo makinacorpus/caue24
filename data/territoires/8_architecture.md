@@ -28,8 +28,11 @@ Elles traduisent des perceptions propres à une organisation spécifique du reli
 Tout bâtiment construit hier et aujourd’hui participe à l’écriture du paysage en Vallée de la Dordogne et Forêt Bessède. Et vous, demain, quelle empreinte souhaitez-vous laisser ?
 
 **Construire** une maison contemporaine ?
-**Restaurer**une ancienne ferme ?
+
+**Restaurer** une ancienne ferme ?
+
 **Choisir** une maison d’inspiration traditionnelle ?
+
 **Quels matériaux** choisir en harmonie avec l’environnement ?...
 
 ## En savoir plus
@@ -57,6 +60,7 @@ Le four à pain, le pigeonnier, l’abreuvoir... sont autant de petits bâtiment
 **Les abords**
 
 L’habitation traditionnelle est souvent accompagnée d’un petit muret en pierre sèche qui encadre un jardin fleuri. Les plantations des demeures bénéficiant de points de vue, sont souvent limitées au pied des façades afin de libérer les vues lointaines. Les treilles de vignes et les massifs marquent l’entrée des maisons. Des noyers et d’autres fruitiers s’alignent le long des parcelles et des routes.
+
 
 ### L’ARCHITECTURE AUJOURD’HUI
 
