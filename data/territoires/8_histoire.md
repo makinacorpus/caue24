@@ -10,7 +10,7 @@ layout: page
 
 La carte présente en différents sites des analyses et des photos de l’évolution rurbaine des communes.
 
-**CLIQUEZ sur les repères de la carte pour découvrir ces évolution**
+**CLIQUEZ sur les repères de la carte pour découvrir ces évolutions**
 
 
 
@@ -72,4 +72,3 @@ De nombreuses maisons individuelles, sur de grands terrains, séparés des bourg
 ![Pavillons isolés au milieu de terres agricoles ]({{site.baseurl}}/data/images/8/histoire/08_HISTOIRE_13.JPG)
 ![Habitat groupé, architecture bois, abris voiture]({{site.baseurl}}/data/images/8/histoire/08_HISTOIRE_14.JPG)
 ![Opération d’habitat groupé]({{site.baseurl}}/data/images/8/histoire/08_HISTOIRE_15.JPG)
-
