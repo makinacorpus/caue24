@@ -80,4 +80,14 @@ Réseau de sites écologiques dont les objectifs sont de préserver la diversit�
 
 ![La Dordogne au fort potentiel touristique]({{site.baseurl}}/data/images/8/atouts/08_ATOUTS_05.jpg)
 
+![Bourg de caractère, patrimoine reconnu]({{site.baseurl}}/data/images/8/atouts/08_ATOUTS_06.jpg)
+
+![Bourg en belvédère sur la Dordogne]({{site.baseurl}}/data/images/8/atouts/08_ATOUTS_07.jpg)
+
+![Ville commerçante]({{site.baseurl}}/data/images/8/atouts/08_ATOUTS_08.jpg)
+
+![Bourg médiéval]({{site.baseurl}}/data/images/8/atouts/08_ATOUTS_09.jpg)
+
+![Château en cœur de bourg ]({{site.baseurl}}/data/images/8/atouts/08_ATOUTS_10.jpg)
+
 
