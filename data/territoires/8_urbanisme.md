@@ -103,5 +103,9 @@ Certaines zones constructibles peuvent également être concernées par les règ
 
 ![Adaptation d’une maison à la pente avec terrasse bâtie ]({{site.baseurl}}/data/images/8/urbanisme/08_URBANISME-10.jpg)
 
+![Adaptation au terrain en pente et maison avec garage en partie haute]({{site.baseurl}}/data/images/8/urbanisme/08_URBANISME-11.jpg)
+
+![Impact de la couleur claire des aménagements extérieurs plus fort que celui des toits en harmonie avec le site ]({{site.baseurl}}/data/images/8/urbanisme/08_URBANISME-12.jpg)
+
 
 
