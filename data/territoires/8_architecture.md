@@ -94,4 +94,16 @@ La maison contemporaine s’adapte aux modes de vie actuels. Elle propose un pla
 
 ![Grange étable de taille modeste]({{site.baseurl}}/data/images/8/architecture/08_ARCHITECTURE_09.jpg)
 
+![Restauration « dans son jus »]({{site.baseurl}}/data/images/8/architecture/08_ARCHITECTURE_10.JPG)
+
+![Restauration contemporaine du bâti ancien]({{site.baseurl}}/data/images/8/architecture/08_ARCHITECTURE_11.jpg)
+
+![Pavillon, toit 2 pans, tuiles canal]({{site.baseurl}}/data/images/8/architecture/08_ARCHITECTURE_12.JPG)
+
+![Conception contemporaine à partir de l’empreinte d’une grange – architecte : JP. Legros]({{site.baseurl}}/data/images/8/architecture/08_ARCHITECTURE_13.jpg)
+
+![Architecture forme contemporaine et bioclimatique – architectes : Coq et Lefranc]({{site.baseurl}}/data/images/8/architecture/08_ARCHITECTURE_14.JPG)
+
+![Architecture traditionnelle revisitée]({{site.baseurl}}/data/images/8/architecture/08_ARCHITECTURE_15.JPG)
+
 
