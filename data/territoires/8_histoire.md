@@ -34,4 +34,25 @@ La carte présente en différents sites des analyses et des photos de l’évolu
 
 ## En savoir plus
 
+
+### AVANT 1832
+
+Tous les bourgs sont présents sur le cadastre napoléonien. Chaque bourg a ses particularités, du plus grand au plus petit. Ces derniers sont parfois moins importants que certains hameaux de leur commune. Saint-Cyprien s’est constitué autour d’une abbaye, Siorac-en-Périgord autour de son château et Belvès s’est construit à partir de son castrum. D’autres sont agglomérés autour d’une église ou d’une place. En dehors des bourgs, les fermes isolées sont implantées au milieu des terres, surtout dans le Sud du territoire. Elles sont regroupées en hameaux dont les plus denses se situent sur les plateaux et dans les clairières dans le Nord du territoire.
+
+### DE 1832 A 1950
+
+Cette période est marquée par le développement industriel et celui des voies de communication (chemin de fer et de nouvelles routes). Le relief accidenté et la présence de la rivière Dordogne impliquent la construction de nombreux viaducs et ponts qui marquent le paysage. L’extraction de la lignite, le développement du tabac et l’exploitation du bois sont les principales ressources. L’architecture du XIXe et du début XXe siècle, avec ses modifications de façades et ses constructions le long des voies nouvelles, ne s’est implantée que dans les bourgs les plus importants.
+
+### DE 1950 A 1980
+
+Les exploitations agricoles se diversifient et s’agrandissent, de nouveaux bâtiments plus grands répondent aux nouvelles pratiques. L’architecture des maisons s’adapte à l’utilisation de la voiture (rez-de-chaussée réservé au garage). Les maisons isolées s’implantent en périphérie des bourgs.
+
+### DE 1980 A 2000
+
+L’extension des bourgs est mesurée dans la partie Sud. Au Nord et dans les bourgs plus importants, l’habitat individuel se développe. Les maisons sont à rez-de-chaussée, implantées au milieu de leur terrain. L’urbanisation est principalement diffuse, les premiers lotissements font leur apparition. 
+
+### DE 2000 A 2014
+
+De nombreuses maisons individuelles, sur de grands terrains, séparés des bourgs, s’égrainent le long des voies pour répondre à la recherche de vues imprenables sur le paysage. Les terrains sont plus vastes que dans la période précédente. Là où la pression foncière est plus forte, l’habitat est soit groupé en petites opérations avec des logements mitoyens, soit implanté sur des parcelles plus petites.
+
 ## Photos
