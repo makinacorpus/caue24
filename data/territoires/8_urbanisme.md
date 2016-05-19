@@ -83,3 +83,25 @@ Certaines zones constructibles peuvent également être concernées par les règ
 
 ## Photos
 
+![Implantation avec vue et covisibilité avec site]({{site.baseurl}}/data/images/5/urbanisme/05_URBANISME_01.jpg)
+
+![Petit terrain en extension de bourg]({{site.baseurl}}/data/images/8/urbanisme/08_URBANISME-02.jpg)
+
+![Implantation de nouvelles constructions en hameau, attention à la couleur des façades pour l’intégration ! ]({{site.baseurl}}/data/images/8/urbanisme/08_URBANISME-03.jpg)
+
+![Nouvelle extension pavillonnaire aux constructions de styles variés]({{site.baseurl}}/data/images/8/urbanisme/08_URBANISME-04.jpg)
+
+![Implantation isolée avec impact ]({{site.baseurl}}/data/images/8/urbanisme/08_URBANISME-05.jpg)
+
+![Implantation en ligne de crête : voir et être vu]({{site.baseurl}}/data/images/8/urbanisme/08_URBANISME-06.jpg)
+
+![Impact des chemins d’accès sur les terrains en pente]({{site.baseurl}}/data/images/8/urbanisme/08_URBANISME-07.jpg)
+
+![Grand terrain, impact important du long chemin d’accès]({{site.baseurl}}/data/images/8/urbanisme/08_URBANISME-08.jpg)
+
+![Terrain en pente et maison de plain-pied: nécessité de terrasser]({{site.baseurl}}/data/images/8/urbanisme/08_URBANISME-09.jpg)
+
+![Adaptation d’une maison à la pente avec terrasse bâtie ]({{site.baseurl}}/data/images/8/urbanisme/08_URBANISME-10.jpg)
+
+
+
