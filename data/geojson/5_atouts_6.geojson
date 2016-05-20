@@ -2,7 +2,7 @@
 "type": "FeatureCollection",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "name": "Patrimoine de pays public",
-"color": "#f5d11d",
+"color": "#e67405",
 "active": "false",
 "interactive": "false",
 "description": "Localisation d'éléments publics du patrimoine de pays",
