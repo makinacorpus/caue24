@@ -2,7 +2,7 @@
 "type": "FeatureCollection",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "name": "Exemples de patrimoine de pays",
-"color": "#e65405",
+"color": "#f90510",
 "interactive": "true",
 "description": "Patrimoine de pays représentatif de la commune",
                                                                                 
