@@ -1,17 +1,18 @@
 ---
-layout: page
 published: true
+layout: page
 ---
 
 ## Fenêtre modale
 
-### 5 ENTITES PAYSAGERES CARACTERISENT LA VALLEE DE L’HOMME :
+### 6 ENTITES PAYSAGERES CARACTERISENT LA VALLEE DE L’HOMME :
 
 - plateau Nord de la vallée de la Vézère
 - coteau Nord de la vallée de la Vézère
 - vallée de la Vézère
 - plateau Sud de la Vallée de la Vézère
 - vallée des Beunes
+- vallee de la Dordogne et ses cingles
 
 Elles traduisent des perceptions propres à une organisation spécifique du relief, de la forêt, de l’agriculture et de l’implantation humaine du territoire.
 
@@ -77,4 +78,3 @@ Du néo-traditionnel à la réinterprétation de l'architecture rurale, (de la m
 ![Architecture du hangar à tabac réinterprétée, fond boisé](/data/images/9/architecture/9_ARCHITECTURE_10.jpg)
 ![Maison d’aujourd’hui dans la pente, entre vignes et bois – architecte : JP.Rodrigues](/data/images/9/architecture/9_ARCHITECTURE_11.jpg)
 ![Mixité des matériaux et volumes contemporains – architecte : B.Chinours](/data/images/9/architecture/9_ARCHITECTURE_12.jpg)
-
