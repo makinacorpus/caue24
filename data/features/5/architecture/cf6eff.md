@@ -3,7 +3,7 @@ published: true
 layout: page
 ---
 
-## La forêt du landais
+## Forêt du landais
 
 Ce plateau vallonné est largement recouvert par les bois, parfois percés par des clairières d’agriculture et d’habitat. Une clairière se forme autour de ces bourgs peu développés.
 
