@@ -10,9 +10,9 @@ layout: page
 
 ### 3 ENTITES PAYSAGERES CARACTERISENT LE PAYS DE VILLAMBLARD :
 
-- La forêt du Landais
-- La vallée de la Crempse
-- Les vallées affluentes de la Dordogne
+- forêt du Landais
+- vallée de la Crempse
+- vallées affluentes de la Dordogne
 
 Elles traduisent des perceptions propres à une organisation spécifique du relief, de la forêt, de l’agriculture et de l’implantation humaine.
 
