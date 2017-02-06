@@ -10,4 +10,4 @@ layout: page
 
 **Saint Julien de Crempse**
 
-224 habitants
+230 habitants
