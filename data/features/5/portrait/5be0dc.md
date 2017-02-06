@@ -7,4 +7,4 @@ layout: page
 
 **Beleymas**
 
-266 habitants
+278 habitants
