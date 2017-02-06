@@ -1,8 +1,8 @@
 ---
-layout: page
 published: true
+layout: page
 ---
 
 **Douzillac**
 
-822 habitants
+818 habitants
