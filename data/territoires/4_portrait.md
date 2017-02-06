@@ -16,7 +16,7 @@ Sarlat - Périgord Noir, quelques chiffres :
 
 Territoire réalisé avec la participation et le soutien de la Communauté de Communes Sarlat - Périgord Noir
 
-![04_portrait_logo.jpg]({{site.baseurl}}/data/images/4/portrait/04_portrait_logo.jpg)
+![4_PORTRAIT_LOGO2.jpg]({{site.baseurl}}/data/images/4/portrait/4_PORTRAIT_LOGO2.jpg)
 
 ## Informations
 PATRIMOINE ET ACCUEIL TOURISTIQUE EXCEPTIONNELS
