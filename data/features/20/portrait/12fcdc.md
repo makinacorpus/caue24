@@ -6,4 +6,4 @@ layout: page
 
 **Creyssensac et Pissot** 
 
-431 habitants
+262 habitants
