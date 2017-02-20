@@ -12,8 +12,8 @@ layout: page
 
 Pays Vernois et Terroir de la Truffe, quelques chiffres :
 
-- 21 communes
-- 8978 habitants (source INSEE)
+- 19 communes
+- 9071 habitants (source INSEE)
 - superficie de 340 km2 
 
 **CLIQUEZ sur « Bourg »**
