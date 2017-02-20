@@ -13,7 +13,7 @@ layout: page
 La Vallée de l’Homme, quelques chiffres : 
 
 - 26 communes
-- 15411 habitants (source INSEE)
+- 15450 habitants (source INSEE)
 - superficie de 513 km2
 
 **CLIQUEZ sur « Bourg »**
