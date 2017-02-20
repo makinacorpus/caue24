@@ -5,7 +5,7 @@ layout: page
 
 ## Fenêtre modale
 
-### LES ZONES CONSTRUCTIBLES EN 2016
+### LES ZONES CONSTRUCTIBLES EN 2017
 
 La carte présente les terrains constructibles des PLU et cartes communales selon 4 grands types de zones :
 
@@ -29,7 +29,7 @@ La carte présente les terrains constructibles des PLU et cartes communales selo
 
 ## En savoir plus
 
-### UN POINT SUR LA COMMUNAUTE DE COMMUNES EN 2016
+### UN POINT SUR LE TERRITOIRE EN 2017
 
 6% de son territoire sont en zones constructibles.
 17 communes ont un document d’urbanisme (PLU ou carte communale), 5 communes n’en possèdent pas.
@@ -56,7 +56,7 @@ et
 
 
 
-### DOCUMENTS D’URBANISME et de PREVENTION DE LA COMMUNAUTE EN 2016
+### DOCUMENTS D’URBANISME et de PREVENTION DU TERRITOIRE EN 2017
 
 **Plan Local d’Urbanisme (PLU).** 
 
@@ -106,6 +106,3 @@ Certaines zones constructibles peuvent également être concernées par les règ
 ![Adaptation au terrain en pente et maison avec garage en partie haute]({{site.baseurl}}/data/images/8/urbanisme/08_URBANISME-11.jpg)
 
 ![Impact de la couleur claire des aménagements extérieurs plus fort que celui des toits en harmonie avec le site ]({{site.baseurl}}/data/images/8/urbanisme/08_URBANISME-12.jpg)
-
-
-
