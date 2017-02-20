@@ -9,8 +9,8 @@ layout: page
 
 Vallée de la Dordogne et Forêt Bessède, quelques chiffres :
 
-- 22 communes
-- 9588 habitants (source INSEE)
+- 21 communes
+- 9565 habitants (source INSEE)
 - superficie de 256 km2
 
 **CLIQUEZ sur « Bourg »**
