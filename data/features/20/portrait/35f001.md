@@ -13,4 +13,3 @@ layout: page
 
 ![20_PORTRAIT_logo5.jpg]({{site.baseurl}}/data/images/20/portrait/20_PORTRAIT_logo5.jpg)
 
-[http://www.ccpvtt.fr/](http://www.ccpvtt.fr/)
