@@ -263,7 +263,7 @@ CaueViews.displayHomePage = function() {
     var layer = e.target;
     CaueViews.updateInfo(layer.feature.properties);
     layer.setStyle({
-      weight: 3,
+      weight: 0,
       fillOpacity: 0.7,
     });
 
@@ -275,7 +275,7 @@ CaueViews.displayHomePage = function() {
     CaueViews.updateInfo();
     var layer = e.target;
     layer.setStyle({
-      weight: 1,
+      weight: 0,
       fillOpacity: 0.2,
     });
 
@@ -303,9 +303,9 @@ CaueViews.displayHomePage = function() {
     return {
       color: 'black',
       opacity: 1,
-      weight: 1,
+      weight: 0,
       fillColor: 'white',
-      fillOpacity: 0.5,
+      fillOpacity: 0,
     };
   }
   $.ajax({
