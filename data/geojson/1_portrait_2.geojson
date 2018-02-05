@@ -5,8 +5,9 @@
 "color": "#049d41",
 "active": "true",
 "description": "Coordonnées de la communauté de communes",
-                                                                                
+
 "features": [
-{ "type": "Feature", "properties": { "NOM": "Saint Astier" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 0.523085287877747, 45.148787072132983 ], [ 0.533174813768911, 45.148987424170905 ], [ 0.53347855239452, 45.141191263279147 ], [ 0.523338438828445, 45.141026081219302 ], [ 0.523085287877747, 45.148787072132983 ] ] ] } }
+{ "type": "Feature", "properties": { "NOM": "Saint Astier" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 457355.0, 2018115.0 ], [ 458149.0, 2018119.0 ], [ 458153.0, 2017252.0 ], [ 457355.0, 2017252.0 ], [ 457355.0, 2018115.0 ] ] ] } },
+{ "type": "Feature", "properties": { "NOM": "Sourzac" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 446669.0, 2007943.0 ], [ 447463.0, 2007947.0 ], [ 447467.0, 2007080.0 ], [ 446669.0, 2007080.0 ], [ 446669.0, 2007943.0 ] ] ] } }
 ]
 }
