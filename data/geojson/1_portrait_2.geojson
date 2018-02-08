@@ -8,6 +8,6 @@
 
 "features": [
 { "type": "Feature", "properties": { "NOM": "Saint Astier" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 457355.0, 2018115.0 ], [ 458149.0, 2018119.0 ], [ 458153.0, 2017252.0 ], [ 457355.0, 2017252.0 ], [ 457355.0, 2018115.0 ] ] ] } },
-{ "type": "Feature", "properties": { "NOM": "Sourzac" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 446669.0, 2007943.0 ], [ 447463.0, 2007947.0 ], [ 447467.0, 2007080.0 ], [ 446669.0, 2007080.0 ], [ 446669.0, 2007943.0 ] ] ] } }
+{ "type": "Feature", "properties": { "NOM": "Saint Astier" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 446669.0, 2007943.0 ], [ 447463.0, 2007947.0 ], [ 447467.0, 2007080.0 ], [ 446669.0, 2007080.0 ], [ 446669.0, 2007943.0 ] ] ] } }
 ]
 }
