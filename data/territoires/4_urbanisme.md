@@ -6,7 +6,7 @@ layout: page
 
 ## Fenêtre modale
 
-### LES ZONES CONSTRUCTIBLES EN 2017
+### LES ZONES CONSTRUCTIBLES EN 2018
 
 La carte présente les terrains constructibles des PLU, des POS et cartes communales selon 4 grands types de zones :
 
@@ -50,7 +50,7 @@ Environ 1 terrain sur 2 est situé dans la pente.
 
 Enfin, 7 % des terrains sont en forte covisibilité et sont essentiellement situés en ligne de crête ou en pente.
 
-### DOCUMENTS D’URBANISME DU TERRITOIRE EN 2017
+### DOCUMENTS D’URBANISME DU TERRITOIRE EN 2018
 
 
 **Plan Local d’Urbanisme (PLU), Plan d’Occupation des Sols (POS)**
@@ -66,7 +66,7 @@ La carte communale est un document d’urbanisme simple qui délimite les secteu
 **Plan de Sauvegarde et de Mise en Valeur (PSMV)**
 
 approuvé dans la commune de Sarlat-la-Canéda.
-Le PSMV est un document d’urbanisme tenant lieu de PLU dans le périmètre d’un secteur sauvegardé. Une fois institué, il se substitue au PLU dans les zones où il s’applique.
+Le PSMV est un document d’urbanisme tenant lieu de PLU dans le périmètre d’un Site Patrimonial Remarquable. Une fois institué, il se substitue au PLU dans les zones où il s’applique.
 
 **Plan de Prévention des Risques d’Inondation (PPRI)**
 
