@@ -21,9 +21,7 @@ Pays de Villamblard, quelques chiffres :
 
 **CLIQUEZ sur « Bourg »**
 
-Territoire réalisé avec la participation et le soutien de la Communauté de Communes du Pays de Villamblard
-
-![05_PORTRAIT_logo.jpg]({{site.baseurl}}/data/images/5/portrait/05_PORTRAIT_logo.jpg)
+Territoire réalisé avec la participation et le soutien du Pays de Villamblard, aujourd’hui : Isle et Crempse en Périgord (1er janvier 2017 fusion avec CC Mussidanais en Périgord), son siège est à Mussidan
 
 ## Informations
 
