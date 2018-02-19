@@ -31,7 +31,7 @@ Environ 1 terrain sur 2 est situé dans la pente.
 
 ## En savoir plus
 
-### UN POINT SUR LE TERRITOIRE EN 2017
+### UN POINT SUR LE TERRITOIRE EN 2018
 
 13% de son territoire est en zone constructible. La surface des terrains est d’environ 2500 m2 (1500m2 pour Sarlat) dans les documents d’urbanisme existants. Elle tend à baisser lors de leur révision pour atteindre 1300 à 1600m2. Chaque projet doit tenir compte de cette caractéristique sans oublier les contraintes d’accès, d’orientation de vues et surtout de pente du terrain.
 
