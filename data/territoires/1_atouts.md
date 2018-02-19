@@ -36,7 +36,7 @@ Un patrimoine remarquable mais non classé, constitué des anciens bâtiments in
 
 ### LES PROTECTIONS ET INVENTAIRES DES PATRIMOINES NATURELS ET BATIS
 
-Les espaces naturels du territoire sont reconnus ou protégés au titre de NATURA 2000 ou des ZNIEFF type 1 ou 2, (la forêt du Salembre, les cours d’eau, les coteaux de Léguillac… ). À ce patrimoine naturel du quotidien s’ajoute le patrimoine bâti de qualité et protégé (églises et châteaux et ZPPAUP de St-Astier) mais peu connu.  
+Les espaces naturels du territoire sont reconnus ou protégés au titre de NATURA 2000 ou des ZNIEFF type 1 ou 2, (la forêt du Salembre, les cours d’eau, les coteaux de Léguillac… ). À ce patrimoine naturel du quotidien s’ajoute le patrimoine bâti de qualité et protégé (églises et châteaux et SPR de St-Astier) mais peu connu.  
 
 **NATURA 2000 :** Réseau de sites écologiques dont les objectifs sont de préserver la diversité biologique et de valoriser le patrimoine naturel.
 
