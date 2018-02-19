@@ -1,6 +1,6 @@
 ---
-layout: page
 published: true
+layout: page
 ---
 
 ## Fenêtre modale
@@ -18,7 +18,7 @@ La carte présente les secteurs protégés aussi bien naturels que bâtis.
 ### DES PATRIMOINES
 **Le diaporama illustre ces éléments patrimoniaux**
 
-**Patrimoines reconnus** : espaces naturels (NATURA 2000 ou des ZNIEFF type 1 ou 2) et patrimoine bâti et protégé (Monuments, sites classés ou inscrits, ZPPAUP ou AVAP).
+**Patrimoines reconnus** : espaces naturels (NATURA 2000 ou des ZNIEFF type 1 ou 2) et patrimoine bâti et protégé (Monuments, sites classés ou inscrits, SPR).
 
 **Patrimoines non reconnus** : anciens bâtiments industriels, remarquables mais non classés, ayant profondément marqué l’histoire du XXème siècle : usines le long de la rivière, fours à chaux, moulins…
 
