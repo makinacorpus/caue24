@@ -42,8 +42,8 @@ Les espaces naturels du territoire sont reconnus ou protégés au titre de NATUR
 
 **ZNIEFF :** Zones Naturelles d’Intérêt Ecologique Faunistique et Floristique. Cet outil de connaissance de la biodiversité, subdivisé en deux groupes, est le recensement d’espaces naturels terrestres.
 
-**ZPPAUP :** 
-Une  Zone de Protection du Patrimoine Architectural, Urbain et Paysager (ZPPAUP) peut être instituée autour des monuments historiques et dans les quartiers, sites et espaces à protéger ou à mettre en valeur pour des motifs d’ordre esthétique, historique ou culturel. Créée par arrêté préfectoral après accord du conseil municipal, la ZPAUP constitue une servitude annexée au PLU (POS) et s’impose aux opérations de construction et d’aménagement menées dans son périmètre.
+**SPR :** La loi du 7 juillet 2016 a créé les sites patrimoniaux remarquables. Ce dispositif a pour objectif de protéger et mettre en valeur le patrimoine architectural, urbain et paysager de nos territoires. Les sites patrimoniaux remarquables sont "les villes, les villages ou quartiers dont la conservation, la restauration, la réhabilitation ou la mise en valeur présente, au point de vue historique, architectural, archéologique, artistique ou paysager, un intérêt public." Les espaces ruraux et les paysages qui forment avec ces villes, viillages ou quartiers un ensemble cohérent ou qui sont suseptibles de contribuer à leur conservation ou à leur mise en valeur peuvent être classés au même titre.
+Les SPR se substituent aux anciens dispositifs de protection : Les secteurs sauvegardés, les ZPPAUP et les AVAP.
 
 **MONUMENT CLASSE OU INSCRIT :** La loi du 31 décembre 1913 sur les monuments historiques permet de protéger certains bâtiments à caractère patrimonial. Celle du 23 février 1943 sur les abords, la complète en fixant un périmètre de 500m autour de l’édifice.
 
