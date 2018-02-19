@@ -25,7 +25,7 @@ Sites classés et inscrits (cingles, bourgs), monuments protégés (abbayes, ég
 **Patrimoines non reconnus :**
 Les fermes traditionnelles de polyculture-élevage d’architecture, imposantes ou modestes, ponctuent le paysage ou constituent les bourgs.
 
-**Patrimoine du quotidien:**
+**Patrimoine du quotidien :**
 Les pigeonniers, les fours à pain et un important patrimoine lié à l’eau (puits, moulins…) font partie intégrante de l’architecture rurale traditionnelle.
 
 ## En savoir plus
@@ -43,6 +43,19 @@ Deux marchés de renom animent le territoire, celui fermier et très ancien de V
 La randonnée est très développée sur l’ensemble du territoire. Les nombreux chemins mènent les promeneurs à la découverte de l’architecture rurale, des cités médiévales et autres sites et monuments protégés, mais également des paysages avec leur points de vue sur les cingles.
 Le bassin nautique de Trémolat et l’étang de Neufont à Saint-Amand-de-Vergt offrent un large panel, voire unique, d’activités nautiques en Dordogne.
 A cela s’ajoute une offre d’hébergement diversifiée.
+
+### LES PROTECTIONS - DEFINITIONS
+
+**NATURA 2000** : Réseau de sites écologiques dont les objectifs sont de préserver la diversité biologique et de valoriser le patrimoine naturel.
+
+**ZNIEFF** : Zones Naturelles d’Intérêt Ecologique Faunistique et Floristique. Cet outil de connaissance de la biodiversité, subdivisé en deux groupes, est le recensement d’espaces naturels terrestres.
+
+**SPR** : La loi du 7 juillet 2016 a créé les sites patrimoniaux remarquables. Ce dispositif a pour objectif de protéger et mettre en valeur le patrimoine architectural, urbain et paysager de nos territoires. Les sites patrimoniaux remarquables sont "les villes, les villages ou quartiers dont la conservation, la restauration, la réhabilitation ou la mise en valeur présente, au point de vue historique, architectural, archéologique, artistique ou paysager, un intérêt public." Les espaces ruraux et les paysages qui forment avec ces villes, viillages ou quartiers un ensemble cohérent ou qui sont suseptibles de contribuer à leur conservation ou à leur mise en valeur peuvent être classés au même titre.
+Les SPR se substituent aux anciens dispositifs de protection : Les secteurs sauvegardés, les ZPPAUP et les AVAP.
+
+**MONUMENT CLASSE OU INSCRIT** : La loi du 31 décembre 1913 sur les monuments historiques permet de protéger certains bâtiments à caractère patrimonial. Celle du 23 février 1943 sur les abords, la complète en fixant un périmètre de 500m autour de l’édifice.
+
+**SITE CLASSE OU INSCRIT** : La loi de 1930 sur les sites permet de protéger des espaces d’une grande diversité : parcs et jardins, espaces naturels, paysages… écrins paysagers de monuments historiques pour lesquels la seule protection des abords ne suffirait pas.
 
 ## Photos
 ![Vallée de la Dordogne](/data/images/20/atouts/20_ATOUTS_01.jpg)
