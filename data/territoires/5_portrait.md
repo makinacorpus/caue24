@@ -16,7 +16,7 @@ layout: page
 Pays de Villamblard, quelques chiffres :
 
 - 17 communes
-- 5 761 habitants (source INSEE)
+- 5 797 habitants (source INSEE)
 - superficie de 250 km2
 
 **CLIQUEZ sur « Bourg »**
