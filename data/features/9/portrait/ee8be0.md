@@ -7,4 +7,4 @@ layout: page
 
 **Manaurie**
 
-159 habitants
+148 habitants
