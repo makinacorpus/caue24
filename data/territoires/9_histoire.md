@@ -1,6 +1,6 @@
 ---
-layout: page
 published: true
+layout: page
 ---
 
 ## Fenêtre modale
@@ -10,6 +10,8 @@ La carte présente en différents sites des analyses et des photos de l’évolu
 
 **CLIQUEZ sur la carte pour découvrir ces évolutions**
 
+- Audrix voir Vallée Dordogne et Forêt Bessède
+- Limeuil voir Pays Vernois et Terroir de la Truffe
 
 ## Informations
 
