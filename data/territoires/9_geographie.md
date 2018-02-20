@@ -1,6 +1,6 @@
 ---
-layout: page
 published: true
+layout: page
 ---
 
 ## Fenêtre modale
@@ -18,6 +18,9 @@ La carte représente les 5 types de sous-sol composant le territoire :
 - les dépôts superficiels et sables
 
 **CLIQUEZ sur «Points de vue»**
+
+- Audrix voir Vallée Dordogne et Forêt Bessède
+- Limeuil voir Pays Vernois et Terroir de la Truffe
 
 ## Informations
 
