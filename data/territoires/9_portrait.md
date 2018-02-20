@@ -22,7 +22,8 @@ Territoire réalisé avec la participation et le soutien de la Communauté de Co
 
 ![](/data/images/9/portrait/9_PORTRAIT_logo.jpg)
 
-
+- Audrix voir Vallée Dordogne et Forêt Bessède
+- Limeuil voir Pays Vernois et Terroir de la Truffe
 
 ## Informations
 
