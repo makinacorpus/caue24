@@ -17,6 +17,9 @@ La carte présente les terrains constructibles des PLU et cartes communales selo
 
 **CLIQUEZ sur "Documents d’urbanisme"**
 
+- Audrix voir Vallée Dordogne et Forêt Bessède
+- Limeuil voir Pays Vernois et Terroir de la Truffe
+
 ## Informations
 
 ### QUEL TERRAIN ? QUELLE MAISON ?
