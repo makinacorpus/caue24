@@ -7,4 +7,4 @@ layout: page
 
 **Sergeac**
 
-228 habitants
+222 habitants
