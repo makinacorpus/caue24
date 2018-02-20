@@ -13,6 +13,9 @@ La carte présente les secteurs protégés aussi bien naturels que bâtis.
 
 **CLIQUEZ sur chacun d’eux**
 
+- Audrix voir Vallée Dordogne et Forêt Bessède
+- Limeuil voir Pays Vernois et Terroir de la Truffe
+
 ## Informations
 
 ### DES PATRIMOINES
