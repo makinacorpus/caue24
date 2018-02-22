@@ -12,15 +12,13 @@ layout: page
 
 Pays Vernois et Terroir de la Truffe, quelques chiffres :
 
-- 19 communes
-- 9071 habitants (source INSEE)
-- superficie de 340 km2 
+- 17 communes et Limeuil et Trémolat
+- 8854 habitants hors Breuilh (source INSEE)
+- superficie de 340 km2
 
 **CLIQUEZ sur « Bourg »**
 
-Territoire réalisé avec la participation et le soutien de la Communauté de Pays Vernois et Terroir de la Truffe
-
-![20_PORTRAIT_logo5.jpg]({{site.baseurl}}/data/images/20/portrait/20_PORTRAIT_logo5.jpg)
+Territoire réalisé avec la participation et le soutien de la Communauté de Communes Pays Vernois et du Terroir de la Truffe, aujourd’hui : Le Grand Périgueux (1er janvier 2017 fusion avec Le Grand Périgueux), son siège est à Périgueux
 
 ## Informations
 
