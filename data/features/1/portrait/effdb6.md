@@ -13,4 +13,4 @@ Pôle technique : Rue Henri Rebière - BP6
 
 ![](/data/images/1/portrait/1_portrait_logo2.jpg)
 
-[www.ccivs](http://www.ccivs.fr/)
+<a href="http://www.ccivs.fr/" target="_blank">www.ccivs.fr</a>
