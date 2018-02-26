@@ -6,7 +6,7 @@ layout: page
 
 ## Fenêtre modale
 
-### LES ZONES CONSTRUCTIBLES EN 2017
+### LES ZONES CONSTRUCTIBLES EN 2018
 
 
 La carte présente les terrains constructibles des 2 PLUi et d’une carte communale selon 4 grands types de zones :
@@ -35,7 +35,7 @@ La carte présente les terrains constructibles des 2 PLUi et d’une carte commu
 
 ## En savoir plus
 
-### UN POINT SUR LE TERRITOIRE EN 2017
+### UN POINT SUR LE TERRITOIRE EN 2018
 
 3,2%  des terrains de la Communauté de communes sont constructibles. C’est un urbanisme extrêmement diffus.
 
@@ -63,7 +63,7 @@ Pour les 59 % de terrains situés en zone diffuse, la surface est d’environ 20
 
 Enfin, les 16% des terrains qui sont en forte covisibilité se situent aussi bien en plateau, en pente, en lignes de crêtes qu’en vallée. Ce sont essentiellement des vues lointaines. Leur impact dans le paysage est important.
 
-### DOCUMENTS D’URBANISME DU TERRITOIRE EN 2017
+### DOCUMENTS D’URBANISME DU TERRITOIRE EN 2018
 
 
 **2 PLUi (Plan Local d’Urbanisme intercommunal),** approuvés dans la Communauté de communes du Pays Vernois et du Terroir de la Truffe.
