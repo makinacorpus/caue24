@@ -5,14 +5,14 @@ layout: page
 
 ## Fenêtre modale
 
-### LES ZONES CONSTRUCTIBLES EN 2017
+### LES ZONES CONSTRUCTIBLES EN 2018
 
 La carte présente les terrains constructibles des PLU et cartes communales selon 4 grands types de zones :
 
-- zones diffuses 65 % des espaces constructibles
+- zones diffuses 63 % des espaces constructibles
 - zones urbaines 26 % des espaces constructibles
-- zones artisanales et de loisirs 8 % des espaces constructibles
-- zones à aménager 1 % des espaces constructibles 
+- zones artisanales et de loisirs 9 % des espaces constructibles
+- zones à aménager 2 % des espaces constructibles 
 
 **CLIQUEZ sur chaque point bourg pour connaître le document d’urbanisme en vigueur**
 
@@ -29,7 +29,7 @@ La carte présente les terrains constructibles des PLU et cartes communales selo
 
 ## En savoir plus
 
-### UN POINT SUR LE TERRITOIRE EN 2017
+### UN POINT SUR LE TERRITOIRE EN 2018
 
 6% de son territoire sont en zones constructibles.
 17 communes ont un document d’urbanisme (PLU ou carte communale), 5 communes n’en possèdent pas.
@@ -37,20 +37,20 @@ La surface des terrains constructibles de ces dernières années est d’environ
 
 **Répartition géographique des surfaces constructibles :**
 
-- sur les plateaux-plaine 41 %
-- sur les pentes 25 %
-- en vallée 20 %
-- en ligne de crête 14 %
+- sur les plateaux-plaine 35 %
+- sur les pentes 30 %
+- en vallée 19 %
+- en ligne de crête 16 %
 
 
 **Qualification des espaces constructibles :**
 
-- 83 % non boisés
-- 17 % boisés
+- 80 % non boisés
+- 20 % boisés
 
 et
 
-- 24 % en covisibilité
+- 22 % en covisibilité
 
 
 
