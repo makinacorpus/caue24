@@ -60,10 +60,10 @@ et
 
 **Plan Local d’Urbanisme (PLU).** 
 
-Seule la commune de Siorac-en-Périgord possède un PLU. Le PLU est un document d’urbanisme qui, à l’échelle d’une commune ou d’un groupement de communes (EPCI), établit un projet global d’urbanisme et d’aménagement et fixe en conséquence les règles générales d’utilisation du sol sur le territoire considéré. Il détermine les modalités d’implantation sur les parcelles (types de constructions autorisées, densités, règles de recul, aspect des constructions, stationnement, espaces verts…). Le PLU peut contenir des orientations d’aménagement et de programmation
+Siorac-en-Périgord et Coux-et-Bigaroque possèdent un PLU. Le PLU est un document d’urbanisme qui, à l’échelle d’une commune ou d’un groupement de communes (EPCI), établit un projet global d’urbanisme et d’aménagement et fixe en conséquence les règles générales d’utilisation du sol sur le territoire considéré. Il détermine les modalités d’implantation sur les parcelles (types de constructions autorisées, densités, règles de recul, aspect des constructions, stationnement, espaces verts…). Le PLU peut contenir des orientations d’aménagement et de programmation.
 
 **Cartes Communales**.
-Les communes d’Audrix, Pays de Belvès, Berbiguières, Bézenac, Castels, Coux-et-Bigaroque -Mouzens, Grives, Larzac, Marnac, Meyrals, Monplaisant, Saint-Cyprien, Saint-Germain-de-Belvès, Saint-Pardoux-et-Vielvic, Sainte-Foy-de-Belvès ont une carte communale approuvée.
+Les communes d’Audrix, Pays de Belvès, Berbiguières, Bézenac, Castels, Mouzens, Grives, Larzac, Marnac, Meyrals, Monplaisant, Saint-Cyprien, Saint-Germain-de-Belvès, Saint-Pardoux-et-Vielvic, Sainte-Foy-de-Belvès ont une carte communale approuvée.
 La carte communale est un document d’urbanisme simple qui délimite les secteurs de la commune où les permis de construire peuvent être délivrés. Ce sont les dispositions du règlement national d’urbanisme (RNU) qui s’y appliquent.
 
 **Le principe de constructibilité limitée.**
