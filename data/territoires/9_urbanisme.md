@@ -6,13 +6,13 @@ layout: page
 
 ## Fenêtre modale
 
-### LES ZONES CONSTRUCTIBLES EN 2017
+### LES ZONES CONSTRUCTIBLES EN 2018
 
 La carte présente les terrains constructibles des PLU et cartes communales selon 4 grands types de zones :
 
-- zones urbaines 17 % des espaces constructibles
-- zones diffuses 63 % des espaces constructibles
-- zones à aménager 6 % des espaces constructibles 
+- zones urbaines 18 % des espaces constructibles
+- zones diffuses 61 % des espaces constructibles
+- zones à aménager 7 % des espaces constructibles 
 - zones artisanales et de loisirs 14 % des espaces constructibles
 
 **CLIQUEZ sur "Documents d’urbanisme"**
@@ -27,33 +27,33 @@ La carte présente les terrains constructibles des PLU et cartes communales selo
 **Le diaporama illustre ces interrogations**
 
 - Comment réaliser une maison en correspondance avec le paysage ?
-31 % des terrains en forte covisibilité. Toute construction y est très visible. 
+27 % des terrains en forte covisibilité. Toute construction y est très visible. 
 - Comment adapter les constructions aux terrains pentus ? 
-25 % des terrains constructibles situés dans la pente.
+20 % des terrains constructibles situés dans la pente.
 - Comment s’implanter sur son terrain ? Comment composer avec la végétation existante ? Les terrains ont encore de grandes dimensions, un accompagnement végétal est essentiel.
 
 
 
 ## En savoir plus
 
-### UN POINT SUR LE TERRITOIRE EN 2017
+### UN POINT SUR LE TERRITOIRE EN 2018
 
 La surface des terrains est d’environ 2000 à 2500 m2, leurs problématiques principales sont la covisibilité et les terrains en pente. Chaque projet doit prendre en compte ces contraintes sans oublier celles des accès de l’orientation et des vues.
 
 **Répartition géographique des surfaces constructibles :** 
 
-- sur les plateaux 38 %
-- en vallée 28 %
-- sur les pentes 25 %
-- en ligne de crête 9 %
+- en vallée 30 %
+- sur les plateaux 29 %
+- sur les pentes 20 %
+- en ligne de crête 21 %
 
 **Qualification des surfaces constructibles :**
 
-- 53 % non boisés
+- 48 % non boisés
 - 27 % en clairière
-- 18 % boisés
+- 25 % boisés
 
-### DOCUMENTS D’URBANISME DU TERRITOIRE EN 2017
+### DOCUMENTS D’URBANISME DU TERRITOIRE EN 2018
 
 **Plan Local d’Urbanisme (PLU)**
 
