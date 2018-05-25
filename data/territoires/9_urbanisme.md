@@ -57,12 +57,12 @@ La surface des terrains est d’environ 2000 à 2500 m2, leurs problématiques p
 
 **Plan Local d’Urbanisme (PLU)**
 
-approuvé ou en cours de validation dans les communes de Campagne, Fanlac, Fleurac, Le Bugue, Les Farges, Montignac, Rouffignac-St-Cernin-de-Reilhac, St-Léon-sur-Vézère, Sergeac, Thonac et Valojoulx.
+approuvé ou en cours de validation dans les communes de Campagne, Fanlac, Le Bugue, Les Farges, Montignac, Rouffignac-St-Cernin-de-Reilhac, St-Léon-sur-Vézère, Sergeac, Thonac et Valojoulx.
 Le PLU est un document d’urbanisme qui, à l’échelle d’une commune ou d’un groupement de communes (EPCI), établit un projet global d’urbanisme et d’aménagement et fixe en conséquence les règles générales d’utilisation du sol sur le territoire considéré. Il détermine les modalités d’implantation sur les parcelles (types de constructions autorisées, densités, règles de recul, aspect des constructions, stationnement, espaces verts…) et il peut contenir des orientations d’aménagement et de programmation.
 
 **Cartes Communales**
 
-approuvées dans les communes d’Aubas, Journiac, La-Chapelle-Aubareil, Les-Eyzies-de-Tayac-Sireuil, Manaurie, Mauzens-et-Miremont, Peyzac-le-Moustier, Plazac, St-Amand-de-Coly, St-Avit-de-Vialard, St-Chamassy, St Cirq, St-Félix-de-Reillac-et-Mortemart, Savignac-de-Miremont et Tursac.
+approuvées dans les communes d’Aubas, Fleurac, Journiac, La-Chapelle-Aubareil, Les-Eyzies-de-Tayac-Sireuil, Manaurie, Mauzens-et-Miremont, Peyzac-le-Moustier, Plazac, St-Amand-de-Coly, St-Avit-de-Vialard, St-Chamassy, St Cirq, St-Félix-de-Reillac-et-Mortemart, Savignac-de-Miremont et Tursac.
 La carte communale est un document d’urbanisme simple qui délimite les secteurs de la commune où les permis de construire peuvent être délivrés. Ce sont les dispositions du règlement national d’urbanisme qui s’y appliquent.
 
 **Plan de Prévention des Risques d’Inondation (PPRI)**
