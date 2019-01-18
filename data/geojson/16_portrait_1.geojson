@@ -1,0 +1,28 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"name": "Bourg",
+"color": "#E30613",
+"active": "true",
+"interactive": "true",
+"description": "Localisation du centre bourg, population de la commune",
+
+"features": [
+{ "type": "Feature", "properties": { "COMMUNE": "Saint Félix de Bourdeilles", "COMMUNAUTE": "Dronne et Belle" }, "geometry": { "type": "Point", "coordinates": [ 0.568383600940147, 45.416031758706957 ] } },
+{ "type": "Feature", "properties": { "COMMUNE": "La Chapelle Montmoreau", "COMMUNAUTE": "Dronne et Belle" }, "geometry": { "type": "Point", "coordinates": [ 0.642606771274675, 45.448434553982018 ] } },
+{ "type": "Feature", "properties": { "COMMUNE": "La Rochebeaucourt et Argentine", "COMMUNAUTE": "Dronne et Belle" }, "geometry": { "type": "Point", "coordinates": [ 0.379649220010277, 45.484097976760708 ] } },
+{ "type": "Feature", "properties": { "COMMUNE": "Saint Pancrace", "COMMUNAUTE": "Dronne et Belle" }, "geometry": { "type": "Point", "coordinates": [ 0.66447886967848, 45.427753594800379 ] } },
+{ "type": "Feature", "properties": { "COMMUNE": "Villars", "COMMUNAUTE": "Dronne et Belle" }, "geometry": { "type": "Point", "coordinates": [ 0.754337850497557, 45.419778286516546 ] } },
+{ "type": "Feature", "properties": { "COMMUNE": "Rudeau Ladosse", "COMMUNAUTE": "Dronne et Belle" }, "geometry": { "type": "Point", "coordinates": [ 0.550820213388245, 45.480019273144457 ] } },
+{ "type": "Feature", "properties": { "COMMUNE": "Mareuillais", "COMMUNAUTE": "Dronne et Belle" }, "geometry": { "type": "Point", "coordinates": [ 0.452101665744334, 45.450536659516608 ] } },
+{ "type": "Feature", "properties": { "COMMUNE": "Condat sur Trincou", "COMMUNAUTE": "Dronne et Belle" }, "geometry": { "type": "Point", "coordinates": [ 0.708750721761438, 45.382401457103448 ] } },
+{ "type": "Feature", "properties": { "COMMUNE": "Bourdeilles", "COMMUNAUTE": "Dronne et Belle" }, "geometry": { "type": "Point", "coordinates": [ 0.586749411987087, 45.321722889157378 ] } },
+{ "type": "Feature", "properties": { "COMMUNE": "Biras", "COMMUNAUTE": "Dronne et Belle" }, "geometry": { "type": "Point", "coordinates": [ 0.638081717702142, 45.287362658112684 ] } },
+{ "type": "Feature", "properties": { "COMMUNE": "Brantome en Périgord", "COMMUNAUTE": "Dronne et Belle" }, "geometry": { "type": "Point", "coordinates": [ 0.649642835480914, 45.364048349149513 ] } },
+{ "type": "Feature", "properties": { "COMMUNE": "Champagnac de Bélair", "COMMUNAUTE": "Dronne et Belle" }, "geometry": { "type": "Point", "coordinates": [ 0.698564087128701, 45.392671930521878 ] } },
+{ "type": "Feature", "properties": { "COMMUNE": "Bussac", "COMMUNAUTE": "Dronne et Belle" }, "geometry": { "type": "Point", "coordinates": [ 0.606950132962347, 45.272774333019555 ] } },
+{ "type": "Feature", "properties": { "COMMUNE": "Quinsac", "COMMUNAUTE": "Dronne et Belle" }, "geometry": { "type": "Point", "coordinates": [ 0.704575785657143, 45.428734266311643 ] } },
+{ "type": "Feature", "properties": { "COMMUNE": "Sainte Croix de Mareuil", "COMMUNAUTE": "Dronne et Belle" }, "geometry": { "type": "Point", "coordinates": [ 0.427306008876833, 45.463280567481931 ] } },
+{ "type": "Feature", "properties": { "COMMUNE": "La Chapelle Faucher", "COMMUNAUTE": "Dronne et Belle" }, "geometry": { "type": "Point", "coordinates": [ 0.752247890811368, 45.370512127293054 ] } }
+]
+}
