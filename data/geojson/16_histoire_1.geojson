@@ -1,0 +1,37 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"name": "Exemple d'évolution",
+"color": "#048136",
+"marker-width": "15",
+"Outline width": "30",
+"active": "true",
+"interactive": "true",
+"description": "Evolution urbaine d'un même lieu entre plusieurs époques",
+
+"features": [
+{ "type": "Feature", "properties": { "NOM": "bourg", "COMMUNE": "Quinsac" }, "geometry": { "type": "Point", "coordinates": [ 0.704549442379924, 45.428760875202698 ] } },
+{ "type": "Feature", "properties": { "NOM": "bourg", "COMMUNE": "Valeuil" }, "geometry": { "type": "Point", "coordinates": [ 0.618024081825792, 45.333241575366358 ] } },
+{ "type": "Feature", "properties": { "NOM": "Mareuil sur belle, bourg", "COMMUNE": "Mareuil en Périgord" }, "geometry": { "type": "Point", "coordinates": [ 0.450772584667738, 45.450145260891382 ] } },
+{ "type": "Feature", "properties": { "NOM": "bourg", "COMMUNE": "Champagnac de Bélair" }, "geometry": { "type": "Point", "coordinates": [ 0.698185375710359, 45.392954302692431 ] } },
+{ "type": "Feature", "properties": { "NOM": "bourg", "COMMUNE": "Brantôme en Périgord" }, "geometry": { "type": "Point", "coordinates": [ 0.651052164899534, 45.36010152811631 ] } },
+{ "type": "Feature", "properties": { "NOM": "bourg", "COMMUNE": "Biras" }, "geometry": { "type": "Point", "coordinates": [ 0.638596655206351, 45.287613459837665 ] } },
+{ "type": "Feature", "properties": { "NOM": "bourg", "COMMUNE": "Bourdeilles" }, "geometry": { "type": "Point", "coordinates": [ 0.586375728679944, 45.321842990296773 ] } },
+{ "type": "Feature", "properties": { "NOM": "bourg", "COMMUNE": "Bussac" }, "geometry": { "type": "Point", "coordinates": [ 0.606838862422866, 45.272664627634668 ] } },
+{ "type": "Feature", "properties": { "NOM": "bourg", "COMMUNE": "Cantillac" }, "geometry": { "type": "Point", "coordinates": [ 0.655122075234189, 45.396308347632775 ] } },
+{ "type": "Feature", "properties": { "NOM": "bourg", "COMMUNE": "La Chapelle Faucher" }, "geometry": { "type": "Point", "coordinates": [ 0.751680258499217, 45.370720004877654 ] } },
+{ "type": "Feature", "properties": { "NOM": "les valades", "COMMUNE": "Condat sur Trincou" }, "geometry": { "type": "Point", "coordinates": [ 0.704272260243628, 45.364969902551323 ] } },
+{ "type": "Feature", "properties": { "NOM": "bourg", "COMMUNE": "Condat sur Trincou" }, "geometry": { "type": "Point", "coordinates": [ 0.709006050294048, 45.382837087916919 ] } },
+{ "type": "Feature", "properties": { "NOM": "bourg", "COMMUNE": "Eyvirat" }, "geometry": { "type": "Point", "coordinates": [ 0.752784540907365, 45.322741510977394 ] } },
+{ "type": "Feature", "properties": { "NOM": "bourg", "COMMUNE": "La Gonterie Boulouneix" }, "geometry": { "type": "Point", "coordinates": [ 0.588882561695007, 45.387956165912769 ] } },
+{ "type": "Feature", "properties": { "NOM": "bourg", "COMMUNE": "La Chapelle Montmoreau" }, "geometry": { "type": "Point", "coordinates": [ 0.642264247990248, 45.448348370110857 ] } },
+{ "type": "Feature", "properties": { "NOM": "bourg", "COMMUNE": "La Rochebeaucourt et Argentine" }, "geometry": { "type": "Point", "coordinates": [ 0.379859196384778, 45.483948672267523 ] } },
+{ "type": "Feature", "properties": { "NOM": "bourg", "COMMUNE": "Rudeau Ladosse" }, "geometry": { "type": "Point", "coordinates": [ 0.550612458032721, 45.480114934899213 ] } },
+{ "type": "Feature", "properties": { "NOM": "bourg", "COMMUNE": "Saint Crépin de Richemont" }, "geometry": { "type": "Point", "coordinates": [ 0.600382825103365, 45.418262105600242 ] } },
+{ "type": "Feature", "properties": { "NOM": "bourg", "COMMUNE": "Saint Félix de Bourdeilles" }, "geometry": { "type": "Point", "coordinates": [ 0.568735741889538, 45.415407453064176 ] } },
+{ "type": "Feature", "properties": { "NOM": "bourg", "COMMUNE": "Saint Pancrace" }, "geometry": { "type": "Point", "coordinates": [ 0.663962501860493, 45.427925817978 ] } },
+{ "type": "Feature", "properties": { "NOM": "bourg", "COMMUNE": "Sainte Croix de Mareuil" }, "geometry": { "type": "Point", "coordinates": [ 0.427117096666384, 45.463196346579124 ] } },
+{ "type": "Feature", "properties": { "NOM": "puy de fourches", "COMMUNE": "Sencenac Puy de Fourches" }, "geometry": { "type": "Point", "coordinates": [ 0.661467797838762, 45.307332516690884 ] } },
+{ "type": "Feature", "properties": { "NOM": "bourg", "COMMUNE": "Villars" }, "geometry": { "type": "Point", "coordinates": [ 0.753882187212322, 45.419627855121064 ] } }
+]
+}
