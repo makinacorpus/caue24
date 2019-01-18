@@ -1,0 +1,21 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"name": "Points de vue",
+"color": "#E30613",
+"active": "true",
+"interactive": "true",
+"description": "Un sous-sol, un paysage",
+
+"features": [
+{ "type": "Feature", "properties": { "NOM": "altérites", "TOPONYMIE_": "puyjean", "COMMUNE": "Bussac", "ID_GEOGRAP": 9 }, "geometry": { "type": "Point", "coordinates": [ 0.62223783956475, 45.265497691216247 ] } },
+{ "type": "Feature", "properties": { "NOM": "Alluvions", "TOPONYMIE_": "Les sablières", "COMMUNE": "Villars", "ID_GEOGRAP": 5 }, "geometry": { "type": "Point", "coordinates": [ 0.764168116927259, 45.425001119846854 ] } },
+{ "type": "Feature", "properties": { "NOM": "Calcaire crétacé", "TOPONYMIE_": "puyremale", "COMMUNE": "Léguillac de Cercles", "ID_GEOGRAP": 6 }, "geometry": { "type": "Point", "coordinates": [ 0.478478695873873, 45.388096428839418 ] } },
+{ "type": "Feature", "properties": { "NOM": "Dépôts superficiels et sables", "TOPONYMIE_": "coulouniex", "COMMUNE": "Beaussac", "ID_GEOGRAP": 1 }, "geometry": { "type": "Point", "coordinates": [ 0.506727475945648, 45.496636952245197 ] } },
+{ "type": "Feature", "properties": { "NOM": "Calcaire crétacé", "TOPONYMIE_": "Argentine", "COMMUNE": "La Rochebeaucourt et Argentine", "ID_GEOGRAP": 2 }, "geometry": { "type": "Point", "coordinates": [ 0.383088121093095, 45.474034281103691 ] } },
+{ "type": "Feature", "properties": { "NOM": "Dépôts superficiels et sables", "TOPONYMIE_": "Pontarnaud", "COMMUNE": "Saint Félix de Bourdeilles", "ID_GEOGRAP": 3 }, "geometry": { "type": "Point", "coordinates": [ 0.569352265239807, 45.424505605027328 ] } },
+{ "type": "Feature", "properties": { "NOM": "Altérites argilo_sableuses", "TOPONYMIE_": "Champredon", "COMMUNE": "Saint Crépin de Richemont", "ID_GEOGRAP": 4 }, "geometry": { "type": "Point", "coordinates": [ 0.638858713378697, 45.430192111583438 ] } },
+{ "type": "Feature", "properties": { "NOM": "Alluvions", "TOPONYMIE_": "Chambon", "COMMUNE": "Brantôme en Périgord", "ID_GEOGRAP": 7 }, "geometry": { "type": "Point", "coordinates": [ 0.631647384172299, 45.353192712524198 ] } },
+{ "type": "Feature", "properties": { "NOM": "Calcaire crétacé", "TOPONYMIE_": "bourland", "COMMUNE": "Valeuil", "ID_GEOGRAP": 8 }, "geometry": { "type": "Point", "coordinates": [ 0.654338072215913, 45.30655016345262 ] } }
+]
+}
