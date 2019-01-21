@@ -1,0 +1,12 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"name": "Pôle de la CdC",
+"color": "#049d41",
+"active": "true",
+"description": "Coordonnées de la communauté de communes",
+
+"features": [
+{ "type": "Feature", "properties": { "COMMUNAUTE": "CC Dronne et Belle", "ID_CDECOMM": 16 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 0.644397957667754, 45.36776602309714 ], [ 0.654527789032202, 45.367955365465797 ], [ 0.654815652896885, 45.360158392137926 ], [ 0.644635116771096, 45.360004277158836 ], [ 0.644397957667754, 45.36776602309714 ] ] ] } }
+]
+}
