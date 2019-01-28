@@ -66,3 +66,8 @@ L’habitat s’installe, comme sur la période précédente, sur de plus grands
 ![Implantation de l’habitat en périphérie de bourg, début XXe siècle]({{site.baseurl}}/data/images/16/histoire/16_HISTOIRE_08.jpg)
 ![Extension des bourgs le long des voies, XXe siècle]({{site.baseurl}}/data/images/16/histoire/16_HISTOIRE_09.jpg)
 ![Maison en extension de bourg, recul de la voie]({{site.baseurl}}/data/images/16/histoire/16_HISTOIRE_10.jpg)
+![Premiers lotissements à proximité de nouveaux emplois]({{site.baseurl}}/data/images/16/histoire/16_HISTOIRE_11.jpg)
+![Habitat diffus en ligne de crête, années 1980 à 2000]({{site.baseurl}}/data/images/16/histoire/16_HISTOIRE_12.jpg)
+![Constructions le long des voies, années 1980 à 2000]({{site.baseurl}}/data/images/16/histoire/16_HISTOIRE_13.jpg)
+![Constructions en extension de hameau]({{site.baseurl}}/data/images/16/histoire/16_HISTOIRE_14.jpg)
+![Habitat groupé en extension de bourg ]({{site.baseurl}}/data/images/16/histoire/16_HISTOIRE_15.jpg)
