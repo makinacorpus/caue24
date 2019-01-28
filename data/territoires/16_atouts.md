@@ -57,3 +57,19 @@ Ces paysages de qualité, ponctués de pépites architecturales, invitent à un 
 **SITE CLASSE OU INSCRIT :** La loi de 1930 sur les sites permet de protéger des espaces d’une grande diversité : parcs et jardins, espaces naturels, paysages… écrins paysagers de monuments historiques pour lesquels la seule protection des abords ne suffirait pas.
 
 ## Photos
+
+![Château Renaissance et bourg médiéval en surplomb de la Dronne]({{site.baseurl}}/data/images/16/atouts/16_ATOUTS_01.jpg)
+![Silhouette de bourg inscrite dans le paysage]({{site.baseurl}}/data/images/16/atouts/16_ATOUTS_02.jpg)
+![Jardin potager]({{site.baseurl}}/data/images/16/atouts/16_ATOUTS_03.jpg)
+![Truffière]({{site.baseurl}}/data/images/16/atouts/16_ATOUTS_04.jpg)
+![Activités nautiques sur la Dronne]({{site.baseurl}}/data/images/16/atouts/16_ATOUTS_05.jpg)
+![Muret de pierres sèches et arbres fruitiers]({{site.baseurl}}/data/images/16/atouts/16_ATOUTS_06.jpg)
+![Cluzeau]({{site.baseurl}}/data/images/16/atouts/16_ATOUTS_07.jpg)
+![Centre bourg animé]({{site.baseurl}}/data/images/16/atouts/16_ATOUTS_08.jpg)
+![Château et son muret d'enceinte en pierres sèches]({{site.baseurl}}/data/images/16/atouts/16_ATOUTS_09.jpg)
+![Loisirs équestres]({{site.baseurl}}/data/images/16/atouts/16_ATOUTS_10.jpg)
+![Escalade en site naturel]({{site.baseurl}}/data/images/16/atouts/16_ATOUTS_11.jpg)
+![La ressource bois à l'origine d'activités sur le territoire]({{site.baseurl}}/data/images/16/architecture/16_ARCHI_12.jpg)
+![Chemin de randonnée en forêt]({{site.baseurl}}/data/images/16/atouts/16_ATOUTS_13.jpg)
+![Espace public réaménagé]({{site.baseurl}}/data/images/16/atouts/16_ATOUTS_14.jpg)
+
