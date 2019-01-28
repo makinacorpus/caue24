@@ -9,7 +9,8 @@ layout: page
 
 La carte présentant les zones constructibles sera mise en ligne dès l’approbation du zonage du PLUi
 
-SUIVEZ L’AVANCEMENT DU PLUi EN LIGNE
+**SUIVEZ L’AVANCEMENT DU PLUi EN LIGNE**
+
 https://dronneetbelle.fr/PLUi.html
 
 CLIQUEZ sur chaque point bourg pour connaître le document d’urbanisme actuellement en vigueur
