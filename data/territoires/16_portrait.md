@@ -44,3 +44,18 @@ Des paysages de vallées ouvertes, des combes, des falaises, de grandes parcelle
 Fermes isolées, hameaux, châteaux et demeures (maisons bourgeoises, fermes-domaines) surprennent par leur nombre, leur qualité architecturale et leur implantation intelligente dans le paysage. Les éléments de patrimoine de pays, tout aussi remarquables, comme les puits, les lavoirs, les moulins ou les cabanes de vignes, ponctuent les panoramas et apparaissent comme des repères, mis en scène dans le paysage.
 
 ## Photos
+![Combes, carrière et truffière sur les coteaux]({{site.baseurl}}/data/images/16/portrait/16_PORTRAIT_01.jpg)
+![Moulin et son bourg en surplomb de la Côle]({{site.baseurl}}/data/images/16/portrait/16_PORTRAIT_02.jpg)
+![Falaise calcaire]({{site.baseurl}}/data/images/16/portrait/16_PORTRAIT_03.jpg)
+![Corps de ferme dans la pente]({{site.baseurl}}/data/images/16/portrait/16_PORTRAIT_04.jpg)
+![Coupe de bois exploitation]({{site.baseurl}}/data/images/16/portrait/16_PORTRAIT_05.jpg)
+![Château en promontoire sur la vallée]({{site.baseurl}}/data/images/16/portrait/16_PORTRAIT_06.jpg)
+![La rivière de la Dronne]({{site.baseurl}}/data/images/16/portrait/16_PORTRAIT_07.jpg)
+![Piles ouvragées cadrant sur un pigeonnier]({{site.baseurl}}/data/images/16/portrait/16_PORTRAIT_08.jpg)
+![Paysage de grande culture]({{site.baseurl}}/data/images/16/portrait/16_PORTRAIT_09.jpg)
+![Hameau dans la pente et château en arrière plan]({{site.baseurl}}/data/images/16/portrait/16_PORTRAIT_10.jpg)
+![Prairie pâturée par les moutons]({{site.baseurl}}/data/images/16/portrait/16_PORTRAIT_11.jpg)
+![Cabane de vigne dans les champs]({{site.baseurl}}/data/images/16/portrait/16_PORTRAIT_12.jpg)
+![Elevage de bovins à viande]({{site.baseurl}}/data/images/16/portrait/16_PORTRAIT_13.jpg)
+![Grange et pigeonnier ]({{site.baseurl}}/data/images/16/portrait/16_PORTRAIT_14.jpg)![Bourg implanté dans la pente]({{site.baseurl}}/data/images/16/portrait/16_PORTRAIT_15.jpg)
+
