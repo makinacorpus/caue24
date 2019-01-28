@@ -68,6 +68,9 @@
 { "type": "Feature", "properties": { "PROTECTION": "Inscrit", "DATE": "2007\/02\/24", "TYPE": "archéologie" }, "geometry": { "type": "Point", "coordinates": [ 0.538593982003353, 45.300664750332189 ] } },
 { "type": "Feature", "properties": { "PROTECTION": "Inscrit", "DATE": "1962\/02\/24", "TYPE": "architecture commémorative" }, "geometry": { "type": "Point", "coordinates": [ 0.661388989346007, 45.321755007584748 ] } },
 { "type": "Feature", "properties": { "PROTECTION": "Inscrit", "DATE": "1948\/02\/24", "TYPE": "architecture domestique" }, "geometry": { "type": "Point", "coordinates": [ 0.750806986630304, 45.369564856660169 ] } },
-{ "type": "Feature", "properties": { "PROTECTION": "Inscrit", "DATE": "1948\/02\/24", "TYPE": "architecture religieuse" }, "geometry": { "type": "Point", "coordinates": [ 0.698521775941302, 45.393670089064692 ] } }
+{ "type": "Feature", "properties": { "PROTECTION": "Inscrit", "DATE": "1948\/02\/24", "TYPE": "architecture religieuse" }, "geometry": { "type": "Point", "coordinates": [ 0.698521775941302, 45.393670089064692 ] } },
+{ "type": "Feature", "properties": { "PROTECTION": null, "DATE": null, "TYPE": null }, "geometry": { "type": "Point", "coordinates": [ 0.663153676040849, 45.361309697299781 ] } },
+{ "type": "Feature", "properties": { "PROTECTION": null, "DATE": null, "TYPE": null }, "geometry": { "type": "Point", "coordinates": [ 0.648291422184664, 45.365251621898061 ] } },
+{ "type": "Feature", "properties": { "PROTECTION": null, "DATE": null, "TYPE": null }, "geometry": { "type": "Point", "coordinates": [ 0.646756409468074, 45.363266774975742 ] } }
 ]
 }
