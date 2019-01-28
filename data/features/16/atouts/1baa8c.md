@@ -2,6 +2,6 @@
 published: true
 layout: page
 ---
-**Eglise**
+**Eglise de Monsec**
 
 Monument inscrit, Inv MH
