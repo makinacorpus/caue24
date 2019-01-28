@@ -93,3 +93,4 @@ Certaines zones constructibles peuvent également être concernées par les règ
 ![Intégration dans terrain boisé]({{site.baseurl}}/data/images/16/urbanisme/16_URBA_13.jpg)
 
 ![Maison bois, en adéquation avec le contexte boisé ]({{site.baseurl}}/data/images/16/urbanisme/16_URBA_14.jpg)
+
