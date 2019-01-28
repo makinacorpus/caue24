@@ -67,3 +67,19 @@ Sur le territoire, les maisons d'aujourd'hui font peu référence aux volumes de
 La maison contemporaine s’adapte aux modes de vie actuels. Elle propose un plan libre, de larges ouvertures, privilégie les relations avec les espaces extérieurs et intègre une réflexion sur le paysage, le bio climatisme et les énergies. Sa présence modérée est localisée sur quelques communes du territoire, dans des hameaux où les habitants ont la même aspiration pour l’architecture innovante. C’est essentiellement le bois qui est utilisé en vêture. 
 
 ## Photos
+
+![Ferme en alignement, toiture en tuile canal et fuies intégrées dans la façade]({{site.baseurl}}/data/images/16/architecture/16_ARCHI_01.jpg)
+![Ferme en alignement ]({{site.baseurl}}/data/images/16/architecture/16_ARCHI_02.jpg)
+![Typologie de grange étable fréquente, toiture imposante en tuile canal, ouvertures sur le pignon ]({{site.baseurl}}/data/images/16/architecture/16_ARCHI_03.jpg)
+![Autre type courant de grange, ouvertures sur mur gouttereau]({{site.baseurl}}/data/images/16/architecture/16_ARCHI_04.jpg)
+![Maison de hameau à étage, pierres de taille]({{site.baseurl}}/data/images/16/architecture/16_ARCHI_05.jpg)
+![Maison à bolet, enduit à pierres vues]({{site.baseurl}}/data/images/16/architecture/16_ARCHI_06.jpg)
+![Transformation d'une grange en habitation ]({{site.baseurl}}/data/images/16/architecture/16_ARCHI_07.jpg)
+![Restauration contemporaine d'une grange]({{site.baseurl}}/data/images/16/architecture/16_ARCHI_08.jpg)
+![Transformation d'une grange en habitation ]({{site.baseurl}}/data/images/16/architecture/16_ARCHI_09.jpg)
+![Extension contemporaine discrète d'une maison en pierre]({{site.baseurl}}/data/images/16/architecture/16_ARCHI_10.jpg)
+![Pavillon à enduit clair, tuiles canal et muret ancien]({{site.baseurl}}/data/images/16/architecture/16_ARCHI_11.jpg)
+![Maison paille contemporaine, volumes inspirés des bâtiments agricoles imbriqués ]({{site.baseurl}}/data/images/16/architecture/16_ARCHI_12.jpg)
+![Pavillon en rez-de-chaussée, terrasse couverte et charpente apparente]({{site.baseurl}}/data/images/16/architecture/16_ARCHI_13.jpg
+![Pavillon en rez-de-chaussée, encadrements en parement pierre]({{site.baseurl}}/data/images/16/architecture/16_ARCHI_14.jpg)
+![Maison néo-traditionnelle]({{site.baseurl}}/data/images/16/architecture/16_ARCHI_15.jpg)
