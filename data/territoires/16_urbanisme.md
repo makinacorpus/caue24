@@ -65,6 +65,7 @@ est une servitude d’utilité publique de droit français. Le PPR est un docume
 Certaines zones constructibles peuvent également être concernées par les règlements du Plan de Prévention des Risques d’Inondation dans la vallée du Caudeau.
 
 ## Photos
+
 ![Extension de bourg dans la pente et sur le plateau]({{site.baseurl}}/data/images/16/urbanisme/16_URBA_01.jpg)
 
 ![Lotissement sur plateau, pavillons sur parcelle arborée]({{site.baseurl}}/data/images/16/urbanisme/16_URBA_02.jpg)
