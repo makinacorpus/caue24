@@ -55,4 +55,10 @@ Deux bassins versants se déploient sur le territoire : ceux de la Nizonne et de
 ![Forte pente et tuiles plates ; faible pente en tuiles canal]({{site.baseurl}}/data/images/16/geographie/16_GEO_08.jpg)
 ![Tuiles mécaniques, corniche pierre]({{site.baseurl}}/data/images/16/geographie/16_GEO_09.jpg)
 ![Toiture en ardoises, tabatière, corniche en pierre]({{site.baseurl}}/data/images/16/geographie/16_GEO_10.jpg)
+![Bolet, espace de l’entrée couverte ; escalier extérieur en pierre]({{site.baseurl}}/data/images/16/geographie/16_GEO_11.jpg)
+![Lucarnes et modénatures en pierre taillée]({{site.baseurl}}/data/images/16/geographie/16_GEO_12.jpg)
+![Brisis en ardoise, lucarne et corniche en pierre taillée]({{site.baseurl}}/data/images/16/geographie/16_GEO_13.jpg)
+![Linteau cintré en pierre, lucarne fenière à l’aplomb du mur]({{site.baseurl}}/data/images/16/geographie/16_GEO_14.jpg)
+![Piles en pierre de taille]({{site.baseurl}}/data/images/16/geographie/16_GEO_15.jpg)
+
 
