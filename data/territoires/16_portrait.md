@@ -57,5 +57,6 @@ Fermes isolées, hameaux, châteaux et demeures (maisons bourgeoises, fermes-dom
 ![Prairie pâturée par les moutons]({{site.baseurl}}/data/images/16/portrait/16_PORTRAIT_11.jpg)
 ![Cabane de vigne dans les champs]({{site.baseurl}}/data/images/16/portrait/16_PORTRAIT_12.jpg)
 ![Elevage de bovins à viande]({{site.baseurl}}/data/images/16/portrait/16_PORTRAIT_13.jpg)
-![Grange et pigeonnier ]({{site.baseurl}}/data/images/16/portrait/16_PORTRAIT_14.jpg)![Bourg implanté dans la pente]({{site.baseurl}}/data/images/16/portrait/16_PORTRAIT_15.jpg)
+![Grange et pigeonnier ]({{site.baseurl}}/data/images/16/portrait/16_PORTRAIT_14.jpg)
+![Bourg implanté dans la pente]({{site.baseurl}}/data/images/16/portrait/16_PORTRAIT_15.jpg)
 
