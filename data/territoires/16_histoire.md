@@ -55,3 +55,14 @@ L’utilisation systématique de la voiture pour de nombreux usages (travail, co
 L’habitat s’installe, comme sur la période précédente, sur de plus grands terrains, mais il se développe près des bourgs pôles qui offrent de l’emploi et des activités liées au tourisme. Les bourgs périphériques et les hameaux bénéficient de la proximité de ces pôles attractifs de la Communauté de communes et même de Périgueux.
 
 ## Photos
+
+![Bourg castral au pied du château]({{site.baseurl}}/data/images/16/histoire/16_HISTOIRE_01.jpg)
+![Rue étroite dans bourg médiéval]({{site.baseurl}}/data/images/16/histoire/16_HISTOIRE_02.jpg)
+![Château et sa ferme au milieu de son domaine]({{site.baseurl}}/data/images/16/histoire/16_HISTOIRE_03.jpg)
+![Hameau important dans un environnement agricole]({{site.baseurl}}/data/images/16/histoire/16_HISTOIRE_04.jpg)
+![Rue élargie au XIXe siècle, façades ordonnancées avec balcons]({{site.baseurl}}/data/images/16/histoire/16_HISTOIRE_05.jpg)
+![Commerce en rez-de-chaussée, devanture en bois]({{site.baseurl}}/data/images/16/histoire/16_HISTOIRE_06.jpg)
+![Ferme isolée, extension : bâtiment agricole et pavillon]({{site.baseurl}}/data/images/16/histoire/16_HISTOIRE_07.jpg)
+![Implantation de l’habitat en périphérie de bourg, début XXe siècle]({{site.baseurl}}/data/images/16/histoire/16_HISTOIRE_08.jpg)
+![Extension des bourgs le long des voies, XXe siècle]({{site.baseurl}}/data/images/16/histoire/16_HISTOIRE_09.jpg)
+![Maison en extension de bourg, recul de la voie]({{site.baseurl}}/data/images/16/histoire/16_HISTOIRE_10.jpg)
