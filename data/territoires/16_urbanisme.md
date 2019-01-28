@@ -65,3 +65,30 @@ est une servitude d’utilité publique de droit français. Le PPR est un docume
 Certaines zones constructibles peuvent également être concernées par les règlements du Plan de Prévention des Risques d’Inondation dans la vallée du Caudeau.
 
 ## Photos
+![Extension de bourg dans la pente et sur le plateau]({{site.baseurl}}/data/images/16/urbanisme/16_URBA_01.jpg)
+
+![Lotissement sur plateau, pavillons sur parcelle arborée]({{site.baseurl}}/data/images/16/urbanisme/16_URBA_02.jpg)
+
+![Pavillons au milieu de parcelles en pente]({{site.baseurl}}/data/images/1/urbanisme/1_urbanisme_3.jpg)
+
+![Lotissement linéaire dans clairière]({{site.baseurl}}/data/images/16/urbanisme/16_URBA_04.jpg)
+
+![Habitat égrainé le long de voies en extension de bourg]({{site.baseurl}}/data/images/16/urbanisme/16_URBA_05.jpg)
+
+![Extension en harmonie avec le bourg, volume et matériau]({{site.baseurl}}/data/images/16/urbanisme/16_URBA_06.jpg)
+
+![Intégration d’un pavillon dans centre bourg]({{site.baseurl}}/data/images/16/urbanisme/16_URBA_07.jpg)
+
+![Maison isolée sur grand terrain, covisibilité lointaine]({{site.baseurl}}/data/images/16/urbanisme/16_URBA_08.jpg)
+
+![Covisibilité, voir et être vu, impact des couleurs]({{site.baseurl}}/data/images/16/urbanisme/16_URBA_09.jpg)
+
+![Pavillon mitoyen, parcelle optimisée ]({{site.baseurl}}/data/images/16/urbanisme/16_URBA_10.jpg)
+
+![Adaptation à la pente, terrasse avec muret]({{site.baseurl}}/data/images/20/atouts/20_ATOUTS_11.jpg)
+
+![Adaptation à la pente, maison sur sous-sol. Haie paysagère]({{site.baseurl}}/data/images/16/urbanisme/16_URBA_12.jpg)
+
+![Intégration dans terrain boisé]({{site.baseurl}}/data/images/16/urbanisme/16_URBA_13.jpg)
+
+![Maison bois, en adéquation avec le contexte boisé ]({{site.baseurl}}/data/images/16/urbanisme/16_URBA_14.jpg)
