@@ -86,7 +86,7 @@ Certaines zones constructibles peuvent également être concernées par les règ
 
 ![Pavillon mitoyen, parcelle optimisée ]({{site.baseurl}}/data/images/16/urbanisme/16_URBA_10.jpg)
 
-![Adaptation à la pente, terrasse avec muret]({{site.baseurl}}/data/images/20/atouts/20_ATOUTS_11.jpg)
+![Adaptation à la pente, terrasse avec muret]({{site.baseurl}}/data/images/16/urbanisme/16_URBA_11.jpg)
 
 ![Adaptation à la pente, maison sur sous-sol. Haie paysagère]({{site.baseurl}}/data/images/16/urbanisme/16_URBA_12.jpg)
 
