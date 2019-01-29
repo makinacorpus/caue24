@@ -62,7 +62,7 @@ est une servitude d’utilité publique de droit français. Le PPR est un docume
 
 **Plan de Prévention des Risques d’Inondation (PPRI)**
 
-Certaines zones constructibles peuvent également être concernées par les règlements du Plan de Prévention des Risques d’Inondation dans la vallée du Caudeau.
+Certaines zones constructibles peuvent également être concernées par les règlements du Plan de Prévention des Risques d’Inondation dans les vallées de la Dronne et de la Côle.
 
 ## Photos
 
@@ -93,4 +93,3 @@ Certaines zones constructibles peuvent également être concernées par les règ
 ![Intégration dans terrain boisé]({{site.baseurl}}/data/images/16/urbanisme/16_URBA_13.jpg)
 
 ![Maison bois, en adéquation avec le contexte boisé ]({{site.baseurl}}/data/images/16/urbanisme/16_URBA_14.jpg)
-
