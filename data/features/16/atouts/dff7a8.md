@@ -2,6 +2,6 @@
 published: true
 layout: page
 ---
-**Château**
+**Château de Mareuil**
 
 Monument classé MH
