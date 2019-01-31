@@ -60,7 +60,7 @@ Ces paysages de qualité, ponctués de pépites architecturales, invitent à un 
 
 ## Photos
 
-![Château Renaissance et bourg médiéval en surplomb de la Dronne]({{site.baseurl}}/data/images/16/atouts/16_ATOUTS_01.jpg)
+![Vue sur bourg médiéval]({{site.baseurl}}/data/images/16/atouts/16_ATOUTS_01.jpg)
 ![Silhouette de bourg inscrite dans le paysage]({{site.baseurl}}/data/images/16/atouts/16_ATOUTS_02.jpg)
 ![Jardin potager]({{site.baseurl}}/data/images/16/atouts/16_ATOUTS_03.jpg)
 ![Truffière]({{site.baseurl}}/data/images/16/atouts/16_ATOUTS_04.jpg)
