@@ -7,7 +7,9 @@ layout: page
 
 ### UNE SUCCESSION DE TABLEAUX PAYSAGERS
 
-Des paysages d'une grande variété et une quantité de patrimoines remarquables brassant plusieurs époques. Ce territoire recèle de richesses méconnues. Découvrez les pour chaque commune.
+Des paysages d'une grande variété et une quantité de patrimoines remarquables brassant plusieurs époques. Ce territoire recèle de richesses méconnues.
+
+Découvrez les pour chaque commune.
 
 **CLIQUEZ sur chacun d’eux**
 
@@ -72,4 +74,3 @@ Ces paysages de qualité, ponctués de pépites architecturales, invitent à un 
 ![La ressource bois à l'origine d'activités sur le territoire]({{site.baseurl}}/data/images/16/architecture/16_ARCHI_12.jpg)
 ![Chemin de randonnée en forêt]({{site.baseurl}}/data/images/16/atouts/16_ATOUTS_13.jpg)
 ![Espace public réaménagé]({{site.baseurl}}/data/images/16/atouts/16_ATOUTS_14.jpg)
-
