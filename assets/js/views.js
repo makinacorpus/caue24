@@ -247,6 +247,30 @@ CaueViews.updateInfo = function (props) {
   }
 };
 
+CaueViews.populateDropdownMenu = function (response) {
+  if (response.features) {
+    const menuItems = response.features.reduce(function (acc, feature) {
+      const props = feature.properties;
+      const fullfillRequirements = props && props.TYPOLOGIE2 && props.COMMUNAUT;
+
+      if (fullfillRequirements) {
+        const itemLi = document.createElement('li');
+        const itemA = document.createElement('a');
+        itemA.href = '#' + props.TYPOLOGIE2;
+        itemA.innerText = props.LABEL || props.COMMUNAUT;
+        itemLi.appendChild(itemA);
+        acc.appendChild(itemLi);
+      }
+
+      return acc;
+    }, document.createDocumentFragment());
+
+    const menu = document.querySelector('.dropdown-menu');
+    menu.innerHTML = '';
+    menu.appendChild(menuItems);
+  }
+}
+
 CaueViews.getHomeData = function (callback) {
   const that = this;
   const boundCallback = callback.bind(this);
@@ -262,6 +286,7 @@ CaueViews.getHomeData = function (callback) {
     dataType: 'json',
     success: function (response) {
       that.homeData = response;
+      that.populateDropdownMenu(response);
       boundCallback(that.homeData);
     },
   });
@@ -331,28 +356,6 @@ CaueViews.displayHomePage = function() {
   }
 
   this.getHomeData(function (response) {
-    if (response.features) {
-      const menuItems = response.features.reduce(function (acc, feature) {
-        const props = feature.properties;
-        const fullfillRequirements = props && props.TYPOLOGIE2 && props.COMMUNAUT;
-
-        if (fullfillRequirements) {
-          const itemLi = document.createElement('li');
-          const itemA = document.createElement('a');
-          itemA.href = '#' + props.TYPOLOGIE2;
-          itemA.innerText = props.LABEL || props.COMMUNAUT;
-          itemLi.appendChild(itemA);
-          acc.appendChild(itemLi);
-        }
-
-        return acc;
-      }, document.createDocumentFragment());
-
-      const menu = document.querySelector('.dropdown-menu');
-      menu.innerHTML = '';
-      menu.appendChild(menuItems);
-    }
-
     var geojsonLayer = L.geoJson(response, {style: style, onEachFeature: onEachFeature}).addTo(map);
   });
 };
