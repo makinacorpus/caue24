@@ -225,26 +225,21 @@ CaueViews.pointToLayer = function(featureData, latlng) {
 
 // Function that we will use to update the control based on feature properties passed
 CaueViews.updateInfo = function (props) {
-  if (props) {
-    var cdc = props.TYPOLOGIE2.toFixed();
-    var realCdc = $('.dropdown-menu li:nth-child('+cdc+') a').text();
-    $('button.dropdown-toggle:first').text(realCdc);
-  } else {
-    $('button.dropdown-toggle:first').text('Choisissez un territoire');
-  }
+  $('button.dropdown-toggle:first').text(props ? props.label : 'Choisissez un territoire');
 };
 
 CaueViews.populateDropdownMenu = function (response) {
   if (response.features) {
     const menuItems = response.features.reduce(function (acc, feature) {
       const props = feature.properties;
-      const fullfillRequirements = props && props.TYPOLOGIE2 && props.COMMUNAUT;
+      const id = props.TYPOLOGIE2 || props.id;
+      const fullfillRequirements = props && id && props.label;
 
       if (fullfillRequirements) {
         const itemLi = document.createElement('li');
         const itemA = document.createElement('a');
-        itemA.href = '#' + props.TYPOLOGIE2;
-        itemA.innerText = props.LABEL || props.COMMUNAUT;
+        itemA.href = '#' + id;
+        itemA.innerText = props.label;
         itemLi.appendChild(itemA);
         acc.appendChild(itemLi);
       }
@@ -325,8 +320,7 @@ CaueViews.displayHomePage = function() {
       mouseout: resetHighlight,
       click: function(e) {
         var cdc = properties.TYPOLOGIE2.toFixed();
-        var realCdc = $('.dropdown-menu li:nth-child('+cdc+') a').attr('href');
-        location.hash = realCdc;
+        location.hash = '#' + cdc;
       },
     });
   }
@@ -387,8 +381,14 @@ CaueViews.displayMapPage = function(community, category) {
     CaueViews.addLegend(category);
   }
   // Add GeoJSON Layers
-  this.getHomeData(function () {
+  this.getHomeData(function (homeData) {
     this.addGeoJSONs(community, category);
+
+    const catProps = homeData.features.find(function (feature) {
+      return feature.properties.id.toString() === community;
+    }).properties;
+
+    CaueViews.updateInfo(catProps);
   });
 };
 
@@ -514,10 +514,6 @@ CaueViews.clickLayer = function(layer, community, category) {
         });
       }
 
-      // Get community label
-      var myCommunity = $('.dropdown-menu').find('a[href="#'+community+'"]').text();
-      // Set it as button label
-      $('button.dropdown-toggle:first').text(myCommunity);
       // Eventually use default category if not present
       var myCategory = category;
       if (myCategory === null) {
