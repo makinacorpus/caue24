@@ -152,7 +152,7 @@ CaueViews.addInitTexts = function(community, category) {
     if ($('#map-savoir-plus').text().length != '') {
       $('#map-infos').append('<a id="more" href="#map-savoir-plus">&gt;&gt; En savoir plus</a>');
     };
-    
+
     $('#map-photos .carousel-inner ul').html('');
     $.each(dom$.find('h2').last().nextAll(), function () {
       $(this).find('img').each(function(index) {
@@ -297,7 +297,7 @@ CaueViews.displayHomePage = function() {
       },
     });
   }
-  
+
   // GeoJSON data layer
   function style(feature) {
     return {
@@ -308,6 +308,7 @@ CaueViews.displayHomePage = function() {
       fillOpacity: 0,
     };
   }
+
   $.ajax({
     type: "GET",
     url: "data/geojson/home.geojson",
@@ -451,7 +452,7 @@ CaueViews.clickLayer = function(layer, community, category) {
     map: function(community, category) {
       // If coming on another page than a map page
       if ($('body').attr('data-state') != 'map') {
-        // Define page state to map, launching transition 
+        // Define page state to map, launching transition
         $('body').attr({'data-state':'map', 'data-transition':'transition'});
 
         $('#map-photos').one(transitionEnd, function() {
@@ -484,7 +485,7 @@ CaueViews.clickLayer = function(layer, community, category) {
           // Init lightbox on popup images
           $('body').on('click', '.leaflet-popup-content-wrapper img', function() {
             var _this = this;
-            
+
             $.magnificPopup.open({
               items: {
                 src: $(_this).attr('src')
