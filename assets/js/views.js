@@ -185,18 +185,8 @@ CaueViews.addGeoJSONs = function(community, category) {
   // Add the geojson layer to the map
   L.geoJson(turf.mask(geojson), {style: style}).addTo(map);
 
-  // Add CdC highlight
-  $.ajax({
-    url: "data/geojson/" + community + ".geojson",
-    dataType: 'json',
-  }).done(function(data) {
-    // Add the geojson layer to the map
-    var overlay = L.geoJson(data);
-    // Adjust the bounds of the map to this geojson
-    map.fitBounds(overlay.getBounds());
-  }).fail(function(jqXHR, textStatus, errorThrown) {
-    // Nothing to do, there simply will be no overlay
-  });
+  map.fitBounds(L.geoJson(geojson).getBounds());
+
   // Initiate the layer switcher
   var layers = L.control.layers(null, null, {collapsed: false});
   // Bruteforce method...
