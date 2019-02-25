@@ -170,24 +170,21 @@ CaueViews.addInitTexts = function(community, category) {
 }
 
 CaueViews.addGeoJSONs = function(community, category) {
-  // Add Mask
-  $.ajax({
-    url: "data/geojson/" + community + "_mask.geojson",
-    dataType: 'json',
-  }).done(function(data) {
-    var style = {
-      color: 'black',
-      opacity: 1,
-      weight: 3,
-      fillColor: 'white',
-      fillOpacity: 0.6,
-      clickable: false,
-    };
-    // Add the geojson layer to the map
-    L.geoJson(data, {style: style}).addTo(map);
-  }).fail(function(jqXHR, textStatus, errorThrown) {
-    // Nothing to do, there simply will be no overlay
+  const geojson = this.homeData.features.find(function (feature) {
+      return feature.properties.TYPOLOGIE2.toString() === community;
   });
+
+  var style = {
+    color: 'black',
+    opacity: 1,
+    weight: 3,
+    fillColor: 'white',
+    fillOpacity: 0.6,
+    clickable: false,
+  };
+  // Add the geojson layer to the map
+  L.geoJson(turf.mask(geojson), {style: style}).addTo(map);
+
   // Add CdC highlight
   $.ajax({
     url: "data/geojson/" + community + ".geojson",
@@ -400,7 +397,9 @@ CaueViews.displayMapPage = function(community, category) {
     CaueViews.addLegend(category);
   }
   // Add GeoJSON Layers
-  CaueViews.addGeoJSONs(community, category);
+  this.getHomeData(function () {
+    this.addGeoJSONs(community, category);
+  });
 };
 
 CaueViews.displayData = function(layer, rawHtml) {
