@@ -247,6 +247,27 @@ CaueViews.updateInfo = function (props) {
   }
 };
 
+CaueViews.getHomeData = function (callback) {
+  const that = this;
+  const boundCallback = callback.bind(this);
+
+  if (this.homeData) {
+    boundCallback(this.homeData)
+    return this;
+  }
+
+  $.ajax({
+    type: "GET",
+    url: "data/geojson/home.geojson",
+    dataType: 'json',
+    success: function (response) {
+      that.homeData = response;
+      boundCallback(that.homeData);
+    },
+  });
+  return this;
+};
+
 CaueViews.displayHomePage = function() {
   // Init map
   CaueViews.initMap();
@@ -309,36 +330,30 @@ CaueViews.displayHomePage = function() {
     };
   }
 
-  $.ajax({
-    type: "GET",
-    url: "data/geojson/home.geojson",
-    dataType: 'json',
-    success: function (response) {
+  this.getHomeData(function (response) {
+    if (response.features) {
+      const menuItems = response.features.reduce(function (acc, feature) {
+        const props = feature.properties;
+        const fullfillRequirements = props && props.TYPOLOGIE2 && props.COMMUNAUT;
 
-      if (response.features) {
-        const menuItems = response.features.reduce(function (acc, feature) {
-          const props = feature.properties;
-          const fullfillRequirements = props && props.TYPOLOGIE2 && props.COMMUNAUT;
+        if (fullfillRequirements) {
+          const itemLi = document.createElement('li');
+          const itemA = document.createElement('a');
+          itemA.href = '#' + props.TYPOLOGIE2;
+          itemA.innerText = props.LABEL || props.COMMUNAUT;
+          itemLi.appendChild(itemA);
+          acc.appendChild(itemLi);
+        }
 
-          if (fullfillRequirements) {
-            const itemLi = document.createElement('li');
-            const itemA = document.createElement('a');
-            itemA.href = '#' + props.TYPOLOGIE2;
-            itemA.innerText = props.LABEL || props.COMMUNAUT;
-            itemLi.appendChild(itemA);
-            acc.appendChild(itemLi);
-          }
+        return acc;
+      }, document.createDocumentFragment());
 
-          return acc;
-        }, document.createDocumentFragment());
-
-        const menu = document.querySelector('.dropdown-menu');
-        menu.innerHTML = '';
-        menu.appendChild(menuItems);
-      }
-
-      var geojsonLayer = L.geoJson(response, {style: style, onEachFeature: onEachFeature}).addTo(map);
+      const menu = document.querySelector('.dropdown-menu');
+      menu.innerHTML = '';
+      menu.appendChild(menuItems);
     }
+
+    var geojsonLayer = L.geoJson(response, {style: style, onEachFeature: onEachFeature}).addTo(map);
   });
 };
 
