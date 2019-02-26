@@ -4,8 +4,6 @@
   "description": "```   jekyll serve --watch",
   "main": "index.js",
   "scripts": {
-    "start": "jekyll serve -B -P 5555",
-    "stop": "pkill -f jekyll",
     "test": "jest",
     "less": "lessc --js assets/less/theme.less assets/theme.css"
   },
@@ -24,7 +22,8 @@
     "jest": "~24.1.0",
     "jest-puppeteer": "~4.0.0",
     "less": "~3.9.0",
-    "puppeteer": "~1.12.2"
+    "puppeteer": "~1.12.2",
+    "serve": "~10.1.2"
   },
   "jest": {
     "preset": "jest-puppeteer"

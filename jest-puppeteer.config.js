@@ -2,5 +2,7 @@ module.exports = {
   launch: {
     headless: process.env.HEADLESS !== 'false',
   },
-  browserContext: 'default',
+  server: {
+    command: 'serve -l 5555 -d _site',
+  },
 };
