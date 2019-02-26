@@ -295,41 +295,55 @@ CaueViews.displayHomePage = function() {
   var caueAttrib = 'Données cartographiques fournies par le <a href="http://www.cauedordogne.com" target="_blank">CAUE24</a>';
   L.tileLayer(caueUrl, {minZoom: 8, maxZoom: 11, attribution: caueAttrib, subDomains: 'abcd'}).addTo(map);
 
+  const borderStyles = {
+    default: {
+      stroke: true,
+      color: '#cf001d',
+      opacity: 0,
+      weight: 3,
+
+      fillColor: '#ffffff',
+      fillOpacity: .2,
+    },
+
+    hover: {
+      opacity: .5,
+
+      fillOpacity: .6,
+    },
+  };
+
   // Add GeoJSON Layer
-  function highlightFeature(e) {
+  function highlightFeature (e) {
     var layer = e.target;
+
     CaueViews.updateInfo(layer.feature.properties);
-    layer.setStyle({
-      weight: 0,
-      fillOpacity: 0.7,
-    });
+    layer.setStyle(borderStyles.hover);
 
     if (!L.Browser.ie && !L.Browser.opera) {
       layer.bringToFront();
     }
   }
-  function resetHighlight(e) {
-    CaueViews.updateInfo();
+
+  function resetHighlight (e) {
     var layer = e.target;
-    layer.setStyle({
-      weight: 0,
-      fillOpacity: 0.2,
-    });
+
+    CaueViews.updateInfo();
+    layer.setStyle(borderStyles.default);
 
     if (!L.Browser.ie && !L.Browser.opera) {
       layer.bringToBack();
     }
   }
-  function onEachFeature(feature, layer) {
-    if (feature.properties) {
-      var properties = feature.properties;
-    }
+
+  function onEachFeature (feature, layer) {
+    layer.setStyle(borderStyles.default);
+
     layer.on({
       mouseover: highlightFeature,
       mouseout: resetHighlight,
-      click: function(e) {
-        var cdc = properties.TYPOLOGIE2.toFixed();
-        location.hash = '#' + cdc;
+      click: function (e) {
+        location.hash = '#' + feature.properties.TYPOLOGIE2;
       },
     });
   }
