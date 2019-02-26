@@ -185,7 +185,9 @@ CaueViews.addGeoJSONs = function(community, category) {
   // Add the geojson layer to the map
   L.geoJson(turf.mask(geojson), {style: style}).addTo(map);
 
-  map.fitBounds(L.geoJson(geojson).getBounds());
+  setTimeout(function () {
+    map.fitBounds(L.geoJson(geojson).getBounds());
+  }, 50);
 
   // Initiate the layer switcher
   var layers = L.control.layers(null, null, {collapsed: false});
