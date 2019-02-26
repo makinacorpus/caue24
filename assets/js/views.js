@@ -9,6 +9,10 @@ CaueViews.initMap = function(category) {
   }
   // Init new one
   map = L.map('map');
+
+  this.pop = new L.Popup({ autoPanPadding: [0, 60] });
+  this.pop.setContent('');
+
   // Attribution
   map.attributionControl.setPrefix('Par <a href="http://makina-corpus.com">Makina Corpus</a>');
   // Scale
@@ -76,7 +80,7 @@ CaueViews.addGeoJSONLegend = function(layers, community, category, data, n) {
   onEachFeature = function (feature, layer) {
     if (interactive != "false") {
       layer.on('click', function(e) {
-        CaueViews.clickLayer(e.target, community, category);
+        CaueViews.clickLayer(e.target, community, category, e.latlng);
       });
     }
   }
@@ -397,24 +401,21 @@ CaueViews.displayMapPage = function(community, category) {
   });
 };
 
-CaueViews.displayData = function(layer, rawHtml) {
-  var dom$ = $(rawHtml);
-  // Parse data
-  var popup = L.popup({autoPanPadding:[0,60]});
-  $.each(dom$, function() {
-    popup = popup.setContent($(this)[0].outerHTML);
-  });
-  // Open popup
-  layer.bindPopup(popup).openPopup();
+CaueViews.displayData = function(latlng, rawHtml) {
+  this.pop
+    .setContent(rawHtml || '')
+    .setLatLng(latlng)
+    .openOn(map);
 
-  $(popup._wrapper).find('img').each(function () {
+  const that = this;
+  $(this.pop._wrapper).find('img').each(function () {
     $(this).load(function () {
-      popup._update();
+      that.pop._update();
     });
   });
 };
 
-CaueViews.clickLayer = function(layer, community, category) {
+CaueViews.clickLayer = function(layer, community, category, latlng) {
   // Get id Jekyll page
   var layerHash = L.Util.hash(layer),
       featureId = layerHash.substring(0, 6);
@@ -423,7 +424,7 @@ CaueViews.clickLayer = function(layer, community, category) {
     url: "data/features/" + community + "/" + category + "/" + featureId + ".html",
     // url: "data/test-page.html",
   }).done(function(data) {
-      CaueViews.displayData(layer, data);
+    CaueViews.displayData(layer.getLatLng ? layer.getLatLng() : latlng, data);
   }).fail(function(jqXHR, textStatus, errorThrown) {
     layer.bindPopup("Créez un contenu pour cet élement en allant sur <a href='http://prose.io/#makinacorpus/caue24/new/gh-pages/data/features/" + community + "/" + category + "/" + featureId + ".md'>cette page</a>.", {autoPanPadding:[0,50]}).openPopup();
   });
