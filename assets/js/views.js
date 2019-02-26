@@ -295,8 +295,11 @@ CaueViews.displayHomePage = function() {
   var caueAttrib = 'Données cartographiques fournies par le <a href="http://www.cauedordogne.com" target="_blank">CAUE24</a>';
   L.tileLayer(caueUrl, {minZoom: 8, maxZoom: 11, attribution: caueAttrib, subDomains: 'abcd'}).addTo(map);
 
-  const borderStyles = {
-    default: {
+  function createStyle (layer, highlight) {
+    const isFull = layer.feature.properties.state === 'full';
+    const isPartial = layer.feature.properties.state === 'partial';
+
+    const style = {
       stroke: true,
       color: '#cf001d',
       opacity: 0,
@@ -304,21 +307,43 @@ CaueViews.displayHomePage = function() {
 
       fillColor: '#ffffff',
       fillOpacity: .2,
-    },
+    };
 
-    hover: {
-      opacity: .5,
+    if (isFull) {
+      style.fillColor = '#cf001d';
+      style.fillOpacity = .4;
+      if (highlight) {
+        style.fillOpacity = .5;
+      }
+    } else if (isPartial) {
+      style.fillColor = '#cf001d';
+      style.fillOpacity = .2;
+      if (highlight) {
+        style.fillOpacity = .3;
+      }
+    } else {
+      style.fillColor = '#ffffff';
+      style.fillOpacity = .2;
+      if (highlight) {
+        style.fillOpacity = .4;
+      }
+    }
 
-      fillOpacity: .6,
-    },
-  };
+    // if (highlight) {
+    //   style.opacity = .75;
+    // } else {
+    //   style.opacity = 0;
+    // }
+
+    return style;
+  }
 
   // Add GeoJSON Layer
   function highlightFeature (e) {
     var layer = e.target;
 
     CaueViews.updateInfo(layer.feature.properties);
-    layer.setStyle(borderStyles.hover);
+    layer.setStyle(createStyle(layer, true));
 
     if (!L.Browser.ie && !L.Browser.opera) {
       layer.bringToFront();
@@ -329,7 +354,7 @@ CaueViews.displayHomePage = function() {
     var layer = e.target;
 
     CaueViews.updateInfo();
-    layer.setStyle(borderStyles.default);
+    layer.setStyle(createStyle(layer, false));
 
     if (!L.Browser.ie && !L.Browser.opera) {
       layer.bringToBack();
@@ -337,7 +362,7 @@ CaueViews.displayHomePage = function() {
   }
 
   function onEachFeature (feature, layer) {
-    layer.setStyle(borderStyles.default);
+    layer.setStyle(createStyle(layer, false));
 
     layer.on({
       mouseover: highlightFeature,
