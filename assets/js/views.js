@@ -102,11 +102,14 @@ CaueViews.addGeoJSONLegend = function(layers, community, category, data, n) {
   var geojsonLayer = L.geoJson(data, {pointToLayer: CaueViews.pointToLayer, onEachFeature: onEachFeature, style: style});
   if (active == "true") {
     geojsonLayer.addTo(map);
-    if (category == 'geographie') {
-      geojsonLayer.bringToFront();
-    } else {
-      geojsonLayer.bringToBack();
-    }
+
+    setTimeout(function () {
+      if (category == 'geographie') {
+        geojsonLayer.bringToFront();
+      } else {
+        geojsonLayer.bringToBack();
+      }
+    }, 50);
   }
   // Add it to the layer switcher
   layers.addOverlay(geojsonLayer, name);
