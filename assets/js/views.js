@@ -346,7 +346,7 @@ CaueViews.displayHomePage = function() {
 CaueViews.displayMapPage = function(community, category) {
   // Init map
   CaueViews.initMap(category);
-  map.setView([45, 0.67], 11);
+  // map.setView([45, 0.67], 11);
   // map.fitBounds(map.getBounds(), {paddingTopLeft:[0, 40], paddingBottomRight:[0, 130]});
   map.name = 'map';
   // Add Base Layer
