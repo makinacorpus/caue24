@@ -1,0 +1,30 @@
+{
+  "name": "caue24",
+  "version": "0.1.0",
+  "description": "```   jekyll serve --watch",
+  "main": "index.js",
+  "scripts": {
+    "start": "jekyll serve -B -P 5555",
+    "stop": "pkill -f jekyll",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/makinacorpus/caue24.git"
+  },
+  "keywords": [],
+  "author": "Benjamin <benjamin.marguin@makina-corpus.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/makinacorpus/caue24/issues"
+  },
+  "homepage": "https://github.com/makinacorpus/caue24#readme",
+  "devDependencies": {
+    "jest": "~24.1.0",
+    "jest-puppeteer": "~4.0.0",
+    "puppeteer": "~1.12.2"
+  },
+  "jest": {
+    "preset": "jest-puppeteer"
+  }
+}

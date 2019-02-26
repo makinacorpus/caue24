@@ -10,6 +10,10 @@ root: /caue24
 exclude:
   - README.md
   - .gitignore
+  - .gitlab-ci.yml
+  - node_modules
+  - package*
+  - e2e
 # Markdown interpreter
 markdown: kramdown
 # prose.io settings
