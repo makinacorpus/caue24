@@ -12732,6 +12732,7 @@
     {
       "type": "Feature",
       "properties": {
+        "state": "partial",
         "COMMUNAUT": "ensemble salignacois carluxais terre de fenelon",
         "id": 14,
         "TYPOLOGIE2": 14,
@@ -22282,6 +22283,7 @@
     {
       "type": "Feature",
       "properties": {
+        "state": "partial",
         "COMMUNAUT": "causses et rivieres en perigord",
         "id": 18,
         "TYPOLOGIE2": 18,
@@ -31823,6 +31825,7 @@
     {
       "type": "Feature",
       "properties": {
+        "state": "partial",
         "COMMUNAUT": "ensemble est bergeracois",
         "id": 21,
         "TYPOLOGIE2": 21,
@@ -47601,6 +47604,7 @@
     {
       "type": "Feature",
       "properties": {
+        "state": "full",
         "COMMUNAUT": "ensemble isle vern et salembre",
         "id": 1,
         "TYPOLOGIE2": 1,
@@ -57066,6 +57070,7 @@
     {
       "type": "Feature",
       "properties": {
+        "state": "full",
         "COMMUNAUT": "ensemble vallee dordogne nauze et bessede",
         "id": 8,
         "TYPOLOGIE2": 8,
@@ -63231,6 +63236,7 @@
     {
       "type": "Feature",
       "properties": {
+        "state": "partial",
         "COMMUNAUT": "ensemble ouest bergeracois",
         "id": 7,
         "TYPOLOGIE2": 7,
@@ -68932,6 +68938,7 @@
     {
       "type": "Feature",
       "properties": {
+        "state": "partial",
         "COMMUNAUT": "ensemble sud bergeracois",
         "id": 22,
         "TYPOLOGIE2": 22,
@@ -77045,6 +77052,7 @@
     {
       "type": "Feature",
       "properties": {
+        "state": "full",
         "COMMUNAUT": "sarlat perigord noir",
         "id": 4,
         "TYPOLOGIE2": 4,
@@ -81950,6 +81958,7 @@
     {
       "type": "Feature",
       "properties": {
+        "state": "partial",
         "COMMUNAUT": "pays de villamblard",
         "id": 5,
         "TYPOLOGIE2": 5,
@@ -91823,6 +91832,7 @@
     {
       "type": "Feature",
       "properties": {
+        "state": "partial",
         "COMMUNAUT": "ensemble causses et vezere terrassonais pays d hautefort",
         "id": 26,
         "TYPOLOGIE2": 26,
@@ -102392,6 +102402,7 @@
     {
       "type": "Feature",
       "properties": {
+        "state": "partial",
         "COMMUNAUT": "communaute d agglomeration perigourdine elargie",
         "id": 24,
         "TYPOLOGIE2": 24,
@@ -123738,6 +123749,7 @@
     {
       "type": "Feature",
       "properties": {
+        "state": "full",
         "COMMUNAUT": "ensemble vallee vezere terre de cro magnon",
         "id": 9,
         "TYPOLOGIE2": 9,
@@ -132487,6 +132499,7 @@
     {
       "type": "Feature",
       "properties": {
+        "state": "partial",
         "COMMUNAUT": "communaute d agglomeration bergeracoise",
         "id": 6,
         "TYPOLOGIE2": 6,
@@ -141840,6 +141853,7 @@
     {
       "type": "Feature",
       "properties": {
+        "state": "partial",
         "COMMUNAUT": "ensemble riberacois verteillacois et dronne",
         "id": 25,
         "TYPOLOGIE2": 25,
@@ -149081,6 +149095,7 @@
     {
       "type": "Feature",
       "properties": {
+        "state": "full",
         "COMMUNAUT": "ensemble dronne et belle",
         "id": 16,
         "TYPOLOGIE2": 16,
