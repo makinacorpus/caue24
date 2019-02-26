@@ -15,7 +15,10 @@
     <link rel="stylesheet" href="assets/theme.css" />
     <script src="https://browser.sentry-cdn.com/4.6.3/bundle.min.js" crossorigin="anonymous"></script>
     <script>
-      Sentry.init({ dsn: 'https://a26a2e4cbe06424081f0ba318108c142@sentry.makina-corpus.net//28' });
+      Sentry.init({
+        dsn: 'https://a26a2e4cbe06424081f0ba318108c142@sentry.makina-corpus.net//28',
+        environment: `{{jekyll.environment}}`
+      });
     </script>
     <script src="assets/js/modernizr.custom.js"></script>
   </head>
