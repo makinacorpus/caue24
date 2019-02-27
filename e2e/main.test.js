@@ -1,10 +1,17 @@
 const appRoot = 'http://127.0.0.1:5555';
+let homeData = { features: [] };
 
 describe('Main app', () => {
+  beforeAll(async () => {
+    await page.goto(appRoot);
+    homeData = await page.evaluate(async appRoot => {
+      const response = await fetch(`${appRoot}/data/geojson/home.geojson`);
+      return await response.json();
+    }, appRoot);
+  });
+
   describe('Homepage', () => {
-    beforeAll(async () => {
-      await page.goto(appRoot)
-    });
+    beforeAll(async () => await page.goto(appRoot));
 
     it('should contain intro text', async () => {
       await expect(page).toMatch('Nous vous invitons à naviguer dans ces albums du territoire');
@@ -22,11 +29,7 @@ describe('Main app', () => {
     });
 
     it('should have as many quicklinks as EPCI count', async () => {
-      const home = await page.evaluate(async (appRoot) => {
-        const response = await fetch(`${appRoot}/data/geojson/home.geojson`);
-        return await response.json();
-      }, appRoot);
-      const epciCount = home.features.length;
+      const epciCount = homeData.features.length;
       const menuItemCount = await page.evaluate(() => document.querySelectorAll('#header .dropdown-menu > li').length);
 
       await expect(menuItemCount).toEqual(epciCount);
