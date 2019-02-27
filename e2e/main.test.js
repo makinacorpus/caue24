@@ -1,14 +1,10 @@
+const fs = require('fs');
+
 const appRoot = 'http://127.0.0.1:5555';
-let homeData = { features: [] };
+const homeData = JSON.parse(fs.readFileSync('_site/data/geojson/home.geojson'));
 
 describe('Main app', () => {
-  beforeAll(async () => {
-    await page.goto(appRoot);
-    homeData = await page.evaluate(async appRoot => {
-      const response = await fetch(`${appRoot}/data/geojson/home.geojson`);
-      return await response.json();
-    }, appRoot);
-  });
+  beforeAll(async () => await page.goto(appRoot));
 
   describe('Homepage', () => {
     beforeAll(async () => await page.goto(appRoot));
