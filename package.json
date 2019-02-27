@@ -4,7 +4,7 @@
   "description": "```   jekyll serve --watch",
   "main": "index.js",
   "scripts": {
-    "test": "jest",
+    "test": "jest --colors",
     "less": "lessc --js assets/less/theme.less assets/theme.css"
   },
   "repository": {
