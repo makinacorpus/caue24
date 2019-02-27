@@ -54,7 +54,7 @@ Run e2e tests:
     - npm ci
     - npm test
 
-Deploy qa manually:
+Deploy qa manually: &deploy_qa
   tags: [shared-ci-docker]
   stage: deploy
   when: manual
@@ -64,3 +64,8 @@ Deploy qa manually:
     SITE_ID: caue24-qa.netlify.com
   script:
     - npx netlify-cli deploy --site=$SITE_ID --auth=$NETLIFY_ACCESS_TOKEN  --dir=$CACHE_DIR --prod
+
+Deploy qa auto:
+  <<: *deploy_qa
+  when: on_success
+  only: [gh-pages]
