@@ -291,7 +291,7 @@ CaueViews.displayHomePage = function() {
   map.setView([45.10, 1.57], 9);
   map.name = "home";
   // Add Base Layer
-  var caueUrl = 'http://{s}.tilestream.makina-corpus.net/v2/caue24-_-CAUE/{z}/{x}/{y}.png';
+  var caueUrl = 'https://{s}-tilestream.makina-corpus.net/v2/caue24-_-CAUE/{z}/{x}/{y}.png';
   var caueAttrib = 'Données cartographiques fournies par le <a href="http://www.cauedordogne.com" target="_blank">CAUE24</a>';
   L.tileLayer(caueUrl, {minZoom: 8, maxZoom: 11, attribution: caueAttrib, subDomains: 'abcd'}).addTo(map);
 
@@ -396,7 +396,7 @@ CaueViews.displayMapPage = function(community, category) {
   // map.fitBounds(map.getBounds(), {paddingTopLeft:[0, 40], paddingBottomRight:[0, 130]});
   map.name = 'map';
   // Add Base Layer
-  var caueUrl = 'http://{s}.tilestream.makina-corpus.net/v2/caue24-_-CAUE24_' + category + '/{z}/{x}/{y}.png';
+  var caueUrl = 'https://{s}-tilestream.makina-corpus.net/v2/caue24-_-CAUE24_' + category + '/{z}/{x}/{y}.png';
   var caueAttrib = 'Données cartographiques fournies par le <a href="http://www.cauedordogne.com" target="_blank">CAUE24</a>';
   // L.tileLayer(caueUrl, {minZoom: 11, maxZoom: 15, attribution: caueAttrib, subdomains: 'abcd'}).addTo(map);
   // Add WMS
@@ -415,7 +415,7 @@ CaueViews.displayMapPage = function(community, category) {
       subdomains: 'abcd'
     },
     15: {
-      url: 'http://{s}.tilestream.makina-corpus.net/v2/caue24-_-orthophoto24/{z}/{x}/{y}.png',
+      url: 'https://{s}-tilestream.makina-corpus.net/v2/caue24-_-orthophoto24/{z}/{x}/{y}.png',
       subdomains: 'abcd'
     }
   }, {
