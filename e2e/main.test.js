@@ -6,11 +6,17 @@ describe('Main app', () => {
 
     it('should contain intro text', async () => {
       await expect(page).toMatch('Nous vous invitons à naviguer dans ces albums du territoire');
-    })
+    });
+
+    it('should have a valid Leaflet map', async () => {
+      const leafletRender = await page.evaluate(() => !!document.querySelectorAll('.leaflet-map-pane').length);
+      await expect(leafletRender).toBe(true);
+    });
 
     it('should have clickable button', async () => {
       await expect(page).toClick('#teasing .btn');
-    })
+    });
+
   });
 
   describe('Internal page', () => {
