@@ -2,6 +2,7 @@ const fs = require('fs');
 
 const appRoot = 'http://127.0.0.1:5555';
 const homeData = JSON.parse(fs.readFileSync('_site/data/geojson/home.geojson'));
+const pageIds = homeData.features.reduce((acc, { properties: { id } = {} }) => (id ? [...acc, id] : acc), []);
 
 describe('Main app', () => {
   beforeAll(async () => await page.goto(appRoot));
@@ -51,5 +52,30 @@ describe('Main app', () => {
       const bodyState = await page.evaluate(() => document.body.dataset.state);
       await expect(bodyState).toEqual('map');
     });
+  });
+
+  describe('Internal page', () => {
+    for (const pageId of pageIds) {
+      describe(`with id ${pageId}`, () => {
+        it('should load from scratch', async () => {
+          let loaded = false;
+          try {
+            await page.goto('about:blank');
+            await page.goto(`${appRoot}/#${pageId}/portait`, { waitUntil: 'networkidle2' });
+            loaded = true;
+          } catch (e) {}
+
+          expect(loaded).toBe(true);
+        });
+
+        it('should have right title in quicknav', async () => {
+          const quicknavValue = await page.evaluate(() => document.querySelector('#header button.text').textContent);
+          const realValue = homeData.features.find(feature => feature.properties.id === pageId).properties.label;
+
+          await expect(quicknavValue).toEqual(realValue);
+        });
+
+      });
+    }
   });
 });
