@@ -1,7 +1,9 @@
+const appRoot = 'http://127.0.0.1:5555';
+
 describe('Main app', () => {
   describe('Homepage', () => {
     beforeAll(async () => {
-      await page.goto('http://127.0.0.1:5555/')
+      await page.goto(appRoot)
     });
 
     it('should contain intro text', async () => {
@@ -20,10 +22,10 @@ describe('Main app', () => {
     });
 
     it('should have as many quicklinks as EPCI count', async () => {
-      const home = await page.evaluate(async () => {
-        const response = await fetch('http://127.0.0.1:5555/data/geojson/home.geojson');
+      const home = await page.evaluate(async (appRoot) => {
+        const response = await fetch(`${appRoot}/data/geojson/home.geojson`);
         return await response.json();
-      });
+      }, appRoot);
       const epciCount = home.features.length;
       const menuItemCount = await page.evaluate(() => document.querySelectorAll('#header .dropdown-menu > li').length);
 
@@ -42,7 +44,7 @@ describe('Main app', () => {
 
   describe('Internal page', () => {
     it('should have some text', async () => {
-      await page.goto('http://127.0.0.1:5555/#4/architecture')
+      await page.goto(`${appRoot}/#4/architecture`);
       await expect(page).toMatch('DE LA CONSTRUCTION TRADITIONNELLE A L’ARCHITECTURE CONTEMPORAINE');
     });
 
