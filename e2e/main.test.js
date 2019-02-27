@@ -1,6 +1,4 @@
 describe('Main app', () => {
-  jest.setTimeout(10000);
-
   describe('Homepage', () => {
     beforeAll(async () => {
       await page.goto('http://127.0.0.1:5555/')
