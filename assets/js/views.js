@@ -312,9 +312,9 @@ CaueViews.displayHomePage = function() {
 
     const style = {
       stroke: true,
-      color: '#cf001d',
-      opacity: 0,
-      weight: 3,
+      color: '#000000',
+      opacity: .5,
+      weight: 2,
 
       fillColor: '#ffffff',
       fillOpacity: .2,
@@ -340,11 +340,10 @@ CaueViews.displayHomePage = function() {
       }
     }
 
-    // if (highlight) {
-    //   style.opacity = .75;
-    // } else {
-    //   style.opacity = 0;
-    // }
+    if (highlight) {
+      style.opacity = .8;
+      style.color = '#cf001d';
+    }
 
     return style;
   }
