@@ -237,9 +237,20 @@ CaueViews.updateInfo = function (props) {
   $('button.dropdown-toggle:first').text(props ? props.label : 'Choisissez un territoire');
 };
 
+const alphaSort = function alphaSort (a, b) {
+  try {
+    const B = b.properties.label;
+    const A = a.properties.label;
+    return A.localeCompare(B, 'fr', { ignorePunctuation: true });
+  } catch (e) {
+    console.error(e);
+    return 0
+  }
+};
+
 CaueViews.populateDropdownMenu = function (response) {
   if (response.features) {
-    const menuItems = response.features.reduce(function (acc, feature) {
+    const menuItems = response.features.sort(alphaSort).reduce(function (acc, feature) {
       const props = feature.properties;
       const id = props.TYPOLOGIE2 || props.id;
       const fullfillRequirements = props && id && props.label;
