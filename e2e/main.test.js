@@ -54,7 +54,7 @@ describe('Main app', () => {
     });
   });
 
-  describe('Internal page', () => {
+  describe('Internal page (from `home.geojson`)', () => {
     for (const pageId of pageIds) {
       describe(`with id ${pageId}`, () => {
         it('should load from scratch', async () => {
