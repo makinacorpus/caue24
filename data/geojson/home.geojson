@@ -132503,7 +132503,7 @@
         "COMMUNAUT": "communaute d agglomeration bergeracoise",
         "id": 6,
         "TYPOLOGIE2": 6,
-        "Nomp_EPCI": "Communauté d'Agglomération Bergeracoise (CAB)",
+        "Nom_EPCI": "Communauté d'Agglomération Bergeracoise (CAB)",
         "label": "Communauté d'Agglomération Bergeracoise (CAB)"
       },
       "geometry": {
