@@ -178,7 +178,7 @@ CaueViews.addInitTexts = function(community, category) {
 
 CaueViews.addGeoJSONs = function(community, category) {
   const geojson = this.homeData.features.find(function (feature) {
-      return feature.properties.TYPOLOGIE2.toString() === community;
+      return feature.properties.id.toString() === community;
   });
 
   var style = {
@@ -252,7 +252,7 @@ CaueViews.populateDropdownMenu = function (response) {
   if (response.features) {
     const menuItems = response.features.sort(alphaSort).reduce(function (acc, feature) {
       const props = feature.properties;
-      const id = props.TYPOLOGIE2 || props.id;
+      const id = props.id || props.id;
       const fullfillRequirements = props && id && props.label;
 
       if (fullfillRequirements) {
@@ -378,7 +378,7 @@ CaueViews.displayHomePage = function() {
       mouseover: highlightFeature,
       mouseout: resetHighlight,
       click: function (e) {
-        location.hash = '#' + feature.properties.TYPOLOGIE2;
+        location.hash = '#' + feature.properties.id;
       },
     });
   }
