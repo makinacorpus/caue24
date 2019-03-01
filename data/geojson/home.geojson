@@ -10,9 +10,7 @@
     {
       "type": "Feature",
       "properties": {
-        "COMMUNAUT": "ensemble domme pays du chataignier",
         "id": 23,
-        "TYPOLOGIE2": 23,
         "Nom_EPCI": "Domme - Pays du Châtaignier",
         "label": "Domme - Villefranche du Périgord"
       },
@@ -6923,9 +6921,7 @@
     {
       "type": "Feature",
       "properties": {
-        "COMMUNAUT": "ensemble isle et double",
         "id": 12,
-        "TYPOLOGIE2": 12,
         "Nom_EPCI": "Isle et Double",
         "label": "Isle Double Landais"
       },
@@ -12733,9 +12729,7 @@
       "type": "Feature",
       "properties": {
         "state": "partial",
-        "COMMUNAUT": "ensemble salignacois carluxais terre de fenelon",
         "id": 14,
-        "TYPOLOGIE2": 14,
         "Nom_EPCI": "Salignacois - Carluxais Terre de Fénelon",
         "label": "Pays de Fénelon"
       },
@@ -18214,9 +18208,7 @@
     {
       "type": "Feature",
       "properties": {
-        "COMMUNAUT": "saint aulaye",
         "id": 13,
-        "TYPOLOGIE2": 13,
         "Nom_EPCI": "CC de Saint-Aulaye",
         "label": "Pays de Saint-Aulaye"
       },
@@ -22284,9 +22276,7 @@
       "type": "Feature",
       "properties": {
         "state": "partial",
-        "COMMUNAUT": "causses et rivieres en perigord",
         "id": 18,
-        "TYPOLOGIE2": 18,
         "Nom_EPCI": "Causses et Rivières en Périgord",
         "label": "Causses et Rivières en Périgord"
       },
@@ -31826,9 +31816,7 @@
       "type": "Feature",
       "properties": {
         "state": "partial",
-        "COMMUNAUT": "ensemble est bergeracois",
         "id": 21,
-        "TYPOLOGIE2": 21,
         "Nom_EPCI": "Bastides Dordogne Périgord",
         "label": "Bastides Dordogne Périgord"
       },
@@ -39367,9 +39355,7 @@
     {
       "type": "Feature",
       "properties": {
-        "COMMUNAUT": "ensemble perigord vert granitique haut perigord",
         "id": 15,
-        "TYPOLOGIE2": 15,
         "Nom_EPCI": "Haut Périgord",
         "label": "Haut Périgord"
       },
@@ -47605,9 +47591,7 @@
       "type": "Feature",
       "properties": {
         "state": "full",
-        "COMMUNAUT": "ensemble isle vern et salembre",
         "id": 1,
-        "TYPOLOGIE2": 1,
         "Nom_EPCI": "Isle - Vern et Salembre en Périgord",
         "label": "Isle Vern Salembre en Périgord"
       },
@@ -57071,9 +57055,7 @@
       "type": "Feature",
       "properties": {
         "state": "full",
-        "COMMUNAUT": "ensemble vallee dordogne nauze et bessede",
         "id": 8,
-        "TYPOLOGIE2": 8,
         "Nom_EPCI": "Vallée Dordogne - Nauze et Bessède",
         "label": "Vallée de la Dordogne et Forêt Bessède"
       },
@@ -63237,9 +63219,7 @@
       "type": "Feature",
       "properties": {
         "state": "partial",
-        "COMMUNAUT": "ensemble ouest bergeracois",
         "id": 7,
-        "TYPOLOGIE2": 7,
         "Nom_EPCI": "Montaigne Montravel et Gurson",
         "label": "Montaigne Montravel et Gurson"
       },
@@ -68939,9 +68919,7 @@
       "type": "Feature",
       "properties": {
         "state": "partial",
-        "COMMUNAUT": "ensemble sud bergeracois",
         "id": 22,
-        "TYPOLOGIE2": 22,
         "Nom_EPCI": "Portes Sud Périgord",
         "label": "Portes sud Périgord"
       },
@@ -77053,9 +77031,7 @@
       "type": "Feature",
       "properties": {
         "state": "full",
-        "COMMUNAUT": "sarlat perigord noir",
         "id": 4,
-        "TYPOLOGIE2": 4,
         "Nom_EPCI": "CC Sarlat - Périgord Noir",
         "label": "Sarlat - Périgord Noir"
       },
@@ -81959,9 +81935,7 @@
       "type": "Feature",
       "properties": {
         "state": "partial",
-        "COMMUNAUT": "pays de villamblard",
         "id": 5,
-        "TYPOLOGIE2": 5,
         "Nom_EPCI": "CC du Pays de Villamblard",
         "label": "Pays de Villamblard"
       },
@@ -91833,9 +91807,7 @@
       "type": "Feature",
       "properties": {
         "state": "partial",
-        "COMMUNAUT": "ensemble causses et vezere terrassonais pays d hautefort",
         "id": 26,
-        "TYPOLOGIE2": 26,
         "Nom_EPCI": "Causses et Vézère - Terrassonnais - Pays d'Hautefort",
         "label": "Terrassonnais en Périgord noir - Thenon - Hautefort"
       },
@@ -102403,9 +102375,7 @@
       "type": "Feature",
       "properties": {
         "state": "partial",
-        "COMMUNAUT": "communaute d agglomeration perigourdine elargie",
         "id": 24,
-        "TYPOLOGIE2": 24,
         "Nom_EPCI": "Communauté d'Agglomération Périgourdine élargie (CAP)",
         "label": "Le Grand Périgueux"
       },
@@ -115948,9 +115918,7 @@
     {
       "type": "Feature",
       "properties": {
-        "COMMUNAUT": "pays thiberien",
         "id": 3,
-        "TYPOLOGIE2": 3,
         "Nom_EPCI": "Pays Thibérien",
         "label": "Pays Thibérien"
       },
@@ -123750,9 +123718,7 @@
       "type": "Feature",
       "properties": {
         "state": "full",
-        "COMMUNAUT": "ensemble vallee vezere terre de cro magnon",
         "id": 9,
-        "TYPOLOGIE2": 9,
         "nom": null,
         "label": "Vallée de l'Homme"
       },
@@ -132500,9 +132466,7 @@
       "type": "Feature",
       "properties": {
         "state": "partial",
-        "COMMUNAUT": "communaute d agglomeration bergeracoise",
         "id": 6,
-        "TYPOLOGIE2": 6,
         "Nom_EPCI": "Communauté d'Agglomération Bergeracoise (CAB)",
         "label": "Communauté d'Agglomération Bergeracoise (CAB)"
       },
@@ -141854,9 +141818,7 @@
       "type": "Feature",
       "properties": {
         "state": "partial",
-        "COMMUNAUT": "ensemble riberacois verteillacois et dronne",
         "id": 25,
-        "TYPOLOGIE2": 25,
         "Nom_EPCI": "Ribéracois- Verteillacois et Dronne",
         "label": "Pays Ribéracois"
       },
@@ -149096,9 +149058,7 @@
       "type": "Feature",
       "properties": {
         "state": "full",
-        "COMMUNAUT": "ensemble dronne et belle",
         "id": 16,
-        "TYPOLOGIE2": 16,
         "Nom_EPCI": "Dronne et Belle",
         "label": "Dronne et Belle"
       },
