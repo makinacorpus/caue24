@@ -1,13 +1,13 @@
 ---
-layout: page
 published: true
+layout: page
 ---
 
 ## Fenêtre modale
-Cliquez sur les logos de la carte pour découvrir les photos témoins et l’évolution du bourg du Bugue.
+Territoire non renseigné
 
-Ce reportage dans le temps met en évidence le caractère immuable et patrimonial du territoire. 
 ## Informations
 
+## En savoir plus
+
 ## Photos
-![mouton](data/images/26/histoire/CAUSSESVEZERE_P14_02.jpg)
