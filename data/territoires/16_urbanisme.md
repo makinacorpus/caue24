@@ -45,7 +45,7 @@ En cours d’étude
 
 ### SUIVEZ L’AVANCEMENT DU PLUi EN LIGNE
 
-[<a href="https://dronneetbelle.fr/PLUi.html" target="_blank">dronneetbelle.fr/PLUi.html</a>]
+<a href="https://dronneetbelle.fr/PLUi.html" target="_blank">dronneetbelle.fr/PLUi.html</a>
 
 **Plan Local d’Urbanisme (PLU)**
 
