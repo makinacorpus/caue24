@@ -4,12 +4,10 @@ layout: page
 ---
 
 ## Fenêtre modale
-
+Territoire non renseigné
 
 ## Informations
 
-### Un territoire à double vocation
-
+## En savoir plus
 
 ## Photos
-
