@@ -26,7 +26,7 @@ Développement de fermes agricoles, implantations d’usines. Premiers habitats 
 **de 1980 à 2000**
 Extension en périphérie des bourgs et le long des voies.
 
-**de 2000 à 2014**
+**de 2000 à 2018**
 Habitat isolé sur de grands terrains ou en lotissement. Développement des usines. 
 
 ## En savoir plus
@@ -50,7 +50,7 @@ Les maisons s’adaptent à l’arrivée des voitures, le garage entre dans le p
 
 L’utilisation systématique de la voiture pour de nombreux usages (travail, courses, trajets quotidiens…) permet également d’éloigner sa maison des centres-bourgs. L’adduction d’eau maintenant généralisée facilite également cet éloignement. Ces terrains répondent à la volonté de s’isoler sans contrainte de voisinage. Les maisons s’implantent en périphérie des bourgs ou le long des voies, au milieu de leur grand terrain.
 
-### DE 2000 A 2014
+### DE 2000 A 2018
 
 L’habitat s’installe, comme sur la période précédente, sur de plus grands terrains, mais il se développe près des bourgs pôles qui offrent de l’emploi et des activités liées au tourisme. Les bourgs périphériques et les hameaux bénéficient de la proximité de ces pôles attractifs de la Communauté de communes et même de Périgueux.
 
