@@ -1,0 +1,33 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"name": "Documents d'urbanisme",
+"color": "#1D1D1B",
+"active": "true",
+"description": "Documents approuvés",
+
+"features": [
+{ "type": "Feature", "properties": { "COMMUNE": "Mialet" }, "geometry": { "type": "Point", "coordinates": [ 0.904176059642489, 45.549787007647645 ] } },
+{ "type": "Feature", "properties": { "COMMUNE": "Firbeix" }, "geometry": { "type": "Point", "coordinates": [ 0.975274929468423, 45.600235025200135 ] } },
+{ "type": "Feature", "properties": { "COMMUNE": "St Pierre de Frugie" }, "geometry": { "type": "Point", "coordinates": [ 0.997352801740411, 45.573625140166925 ] } },
+{ "type": "Feature", "properties": { "COMMUNE": "St Priest les Fougères" }, "geometry": { "type": "Point", "coordinates": [ 1.011298425915436, 45.542956218617476 ] } },
+{ "type": "Feature", "properties": { "COMMUNE": "La Coquille" }, "geometry": { "type": "Point", "coordinates": [ 0.976660891237097, 45.540398764274691 ] } },
+{ "type": "Feature", "properties": { "COMMUNE": "Jumilhac le Grand" }, "geometry": { "type": "Point", "coordinates": [ 1.064524861445759, 45.494700128868914 ] } },
+{ "type": "Feature", "properties": { "COMMUNE": "St Paul la Roche" }, "geometry": { "type": "Point", "coordinates": [ 0.998624979839976, 45.477851511826323 ] } },
+{ "type": "Feature", "properties": { "COMMUNE": "Chaleix" }, "geometry": { "type": "Point", "coordinates": [ 0.928091850225055, 45.508395106668807 ] } },
+{ "type": "Feature", "properties": { "COMMUNE": "St Jory de Chalais" }, "geometry": { "type": "Point", "coordinates": [ 0.897861371765626, 45.497752407849042 ] } },
+{ "type": "Feature", "properties": { "COMMUNE": "Thiviers" }, "geometry": { "type": "Point", "coordinates": [ 0.920504052107627, 45.415029341588102 ] } },
+{ "type": "Feature", "properties": { "COMMUNE": "Corgnac sur l'Isle" }, "geometry": { "type": "Point", "coordinates": [ 0.948447968946293, 45.376151631616793 ] } },
+{ "type": "Feature", "properties": { "COMMUNE": "Nanthiat" }, "geometry": { "type": "Point", "coordinates": [ 0.985609131071837, 45.407586270634951 ] } },
+{ "type": "Feature", "properties": { "COMMUNE": "Nantheuil" }, "geometry": { "type": "Point", "coordinates": [ 0.944348437369557, 45.413781948885173 ] } },
+{ "type": "Feature", "properties": { "COMMUNE": "Eyzerac" }, "geometry": { "type": "Point", "coordinates": [ 0.920148680498713, 45.388491068209582 ] } },
+{ "type": "Feature", "properties": { "COMMUNE": "St Jean de Côle" }, "geometry": { "type": "Point", "coordinates": [ 0.838589276154009, 45.421130469999078 ] } },
+{ "type": "Feature", "properties": { "COMMUNE": "St Pierre de Côle" }, "geometry": { "type": "Point", "coordinates": [ 0.791854795262263, 45.371122109816547 ] } },
+{ "type": "Feature", "properties": { "COMMUNE": "Lempzours" }, "geometry": { "type": "Point", "coordinates": [ 0.817756643410323, 45.360392955021048 ] } },
+{ "type": "Feature", "properties": { "COMMUNE": "St Martin de Fressengeas" }, "geometry": { "type": "Point", "coordinates": [ 0.844846253191567, 45.442116136328409 ] } },
+{ "type": "Feature", "properties": { "COMMUNE": "St Romain et St Clément" }, "geometry": { "type": "Point", "coordinates": [ 0.863188765401105, 45.424337368473751 ] } },
+{ "type": "Feature", "properties": { "COMMUNE": "Négrondes" }, "geometry": { "type": "Point", "coordinates": [ 0.864425468072884, 45.345219589592986 ] } },
+{ "type": "Feature", "properties": { "COMMUNE": "Vaunac" }, "geometry": { "type": "Point", "coordinates": [ 0.864213124330317, 45.363769744763275 ] } },
+{ "type": "Feature", "properties": { "COMMUNE": "St Front d'Alemps" }, "geometry": { "type": "Point", "coordinates": [ 0.780637958689559, 45.324186908664871 ] } }
+]
+}
