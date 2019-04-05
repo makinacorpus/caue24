@@ -1,0 +1,32 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"name": "Monument inscrit ou classé",
+"color": "#8B0E13",
+"active": "true",
+"interactive":"true",
+"description": "Protection des monuments historiques loi du 31 décembre 1913",
+
+"features": [
+{ "type": "Feature", "properties": { "IMMEUBLE": "CHATEAU DE VIEILLECOUR", "PROTECTION": "Inscrit", "ANNEE_PROT": "1946", "COMMUNE": "SAINT-PIERRE-DE-FRUGIE", "OGC_FID": 662, "TYPE_MH": "architecture domestique" }, "geometry": { "type": "Point", "coordinates": [ 1.018438328480645, 45.588208950633316 ] } },
+{ "type": "Feature", "properties": { "IMMEUBLE": "CHATEAU DE FRUGIE", "PROTECTION": "Partiellement Inscrit", "ANNEE_PROT": "1968", "COMMUNE": "SAINT-PIERRE-DE-FRUGIE", "OGC_FID": 663, "TYPE_MH": "architecture domestique" }, "geometry": { "type": "Point", "coordinates": [ 0.995465745018183, 45.573251618491504 ] } },
+{ "type": "Feature", "properties": { "IMMEUBLE": "CHATEAU DE MAVALEIX", "PROTECTION": "Inscrit", "ANNEE_PROT": "1947", "COMMUNE": "CHALEIX", "OGC_FID": 144, "TYPE_MH": "architecture domestique" }, "geometry": { "type": "Point", "coordinates": [ 0.958854422881072, 45.504324844048909 ] } },
+{ "type": "Feature", "properties": { "IMMEUBLE": "FORGE DE MAVALEIX", "PROTECTION": "Inscrit", "ANNEE_PROT": "1972", "COMMUNE": "CHALEIX", "OGC_FID": 145, "TYPE_MH": "architecture domestique" }, "geometry": { "type": "Point", "coordinates": [ 0.962448597522969, 45.505925709144741 ] } },
+{ "type": "Feature", "properties": { "IMMEUBLE": "GROTTE DES FRAUX", "PROTECTION": "Inscrit", "ANNEE_PROT": "1995", "COMMUNE": "SAINT-MARTIN-DE-FRESSENGEAS", "OGC_FID": 641, "TYPE_MH": "archéologie" }, "geometry": { "type": "Point", "coordinates": [ 0.854639599858307, 45.447267380714017 ] } },
+{ "type": "Feature", "properties": { "IMMEUBLE": "VIEUX PONT", "PROTECTION": "Inscrit", "ANNEE_PROT": "1925", "COMMUNE": "SAINT-JEAN-DE-COLE", "OGC_FID": 884, "TYPE_MH": "génie civil" }, "geometry": { "type": "Point", "coordinates": [ 0.836919711141284, 45.421917835933762 ] } },
+{ "type": "Feature", "properties": { "IMMEUBLE": "EGLISE", "PROTECTION": "Classé", "ANNEE_PROT": "1862", "COMMUNE": "SAINT-JEAN-DE-COLE", "OGC_FID": 885, "TYPE_MH": "architecture religieuse" }, "geometry": { "type": "Point", "coordinates": [ 0.838168382733282, 45.421574705161866 ] } },
+{ "type": "Feature", "properties": { "IMMEUBLE": "ANCIEN PRIEURE, MOULIN ET MAISON DU MEUN", "PROTECTION": "Inscrit", "ANNEE_PROT": "1972", "COMMUNE": "SAINT-JEAN-DE-COLE", "OGC_FID": 888, "TYPE_MH": "architecture domestique" }, "geometry": { "type": "Point", "coordinates": [ 0.838031400501349, 45.421914780046784 ] } },
+{ "type": "Feature", "properties": { "IMMEUBLE": "CHATEAU DE LA MARTHONIE", "PROTECTION": "Classé", "ANNEE_PROT": "1943", "COMMUNE": "SAINT-JEAN-DE-COLE", "OGC_FID": 886, "TYPE_MH": "architecture domestique" }, "geometry": { "type": "Point", "coordinates": [ 0.839082037785021, 45.421335036861905 ] } },
+{ "type": "Feature", "properties": { "IMMEUBLE": "RUINES CHATEAU DE BRUZAC", "PROTECTION": "Inscrit", "ANNEE_PROT": "1948", "COMMUNE": "SAINT-PIERRE-DE-COLE", "OGC_FID": 660, "TYPE_MH": "architecture domestique" }, "geometry": { "type": "Point", "coordinates": [ 0.802776631939723, 45.381917280702211 ] } },
+{ "type": "Feature", "properties": { "IMMEUBLE": "CHAPELLE DES LADRES DE BRUZAC", "PROTECTION": "Inscrit", "ANNEE_PROT": "1948", "COMMUNE": "SAINT-PIERRE-DE-COLE", "OGC_FID": 661, "TYPE_MH": "architecture religieuse" }, "geometry": { "type": "Point", "coordinates": [ 0.80374357871003, 45.379735130449589 ] } },
+{ "type": "Feature", "properties": { "IMMEUBLE": "EGLISE", "PROTECTION": "Inscrit", "ANNEE_PROT": "1926", "COMMUNE": "SAINT-PIERRE-DE-COLE", "OGC_FID": 659, "TYPE_MH": "architecture religieuse" }, "geometry": { "type": "Point", "coordinates": [ 0.792431529804822, 45.371040124405788 ] } },
+{ "type": "Feature", "properties": { "IMMEUBLE": "EGLISE", "PROTECTION": "Classé", "ANNEE_PROT": "1938", "COMMUNE": "LEMPZOURS", "OGC_FID": 305, "TYPE_MH": "architecture religieuse" }, "geometry": { "type": "Point", "coordinates": [ 0.818007614570057, 45.360549335968464 ] } },
+{ "type": "Feature", "properties": { "IMMEUBLE": "CHATEAU DE LAXION", "PROTECTION": "Partiellement Inscrit", "ANNEE_PROT": "1946", "COMMUNE": "CORGNAC-SUR-L'ISLE", "OGC_FID": 170, "TYPE_MH": "architecture domestique" }, "geometry": { "type": "Point", "coordinates": [ 0.930106415730218, 45.380033537280106 ] } },
+{ "type": "Feature", "properties": { "IMMEUBLE": "EGLISE", "PROTECTION": "Inscrit", "ANNEE_PROT": "1926", "COMMUNE": "THIVIERS", "OGC_FID": 704, "TYPE_MH": "architecture religieuse" }, "geometry": { "type": "Point", "coordinates": [ 0.921372600145688, 45.414536501381527 ] } },
+{ "type": "Feature", "properties": { "IMMEUBLE": "CHATEAU", "PROTECTION": "Classé", "ANNEE_PROT": "1922", "COMMUNE": "JUMILHAC-LE-GRAND", "OGC_FID": 248, "TYPE_MH": "architecture domestique" }, "geometry": { "type": "Point", "coordinates": [ 1.059731237734456, 45.492872931567035 ] } },
+{ "type": "Feature", "properties": { "IMMEUBLE": "EGLISE", "PROTECTION": "Inscrit", "ANNEE_PROT": "1925", "COMMUNE": "JUMILHAC-LE-GRAND", "OGC_FID": 249, "TYPE_MH": "architecture religieuse" }, "geometry": { "type": "Point", "coordinates": [ 1.060046914206231, 45.492498646734553 ] } },
+{ "type": "Feature", "properties": { "IMMEUBLE": "PONT DE LA TOUR", "PROTECTION": "Classé", "ANNEE_PROT": "1984", "COMMUNE": "JUMILHAC-LE-GRAND", "OGC_FID": 250, "TYPE_MH": "génie civil" }, "geometry": { "type": "Point", "coordinates": [ 1.131973478872598, 45.54091168527669 ] } },
+{ "type": "Feature", "properties": { "IMMEUBLE": "CALVAIRE AUTEL", "PROTECTION": "Classé", "ANNEE_PROT": "1926", "COMMUNE": "Nanthiat", "OGC_FID": null, "TYPE_MH": "architecture religieuse" }, "geometry": { "type": "Point", "coordinates": [ 0.984626662390699, 45.407234742978652 ] } },
+{ "type": "Feature", "properties": { "IMMEUBLE": "DONJON", "PROTECTION": "Inscrit", "ANNEE_PROT": "1946", "COMMUNE": "Nanthiat", "OGC_FID": null, "TYPE_MH": "architecture domestique" }, "geometry": { "type": "Point", "coordinates": [ 0.984222488713838, 45.406822636618841 ] } }
+]
+}
