@@ -1,0 +1,12 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"name": "Pôle de la CdC",
+"color": "#049d41",
+"active": "true",
+"description": "Coordonnées de la communauté de communes",
+
+"features": [
+{ "type": "Feature", "properties": { "COMMUNE": "Thiviers", "COMMUNAUTE": "Périgord Limousin", "INSEE_COMM": null, "ID_CDECOMM": 10 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 0.917765433365326, 45.425674678118817 ], [ 0.927906735574319, 45.425839186747908 ], [ 0.928156390991616, 45.418041443569301 ], [ 0.917964507088227, 45.417912286884096 ], [ 0.917765433365326, 45.425674678118817 ] ] ] } }
+]
+}
