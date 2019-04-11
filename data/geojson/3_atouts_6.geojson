@@ -4,8 +4,8 @@
 "name": "Zone archéologique",
 "color": "#1D1D1B",
 "active": "false",
-"description": "Site répertorié au titre de l'archéologie préventive",
 "interactive": "false",
+"description": "Site répertorié au titre de l'archéologie préventive",
 
 "features": [
 { "type": "Feature", "properties": { "PROT_COMM_": "SAINT-ROMAIN-ET-SAINT-CLEMENT", "PROT_OBJET": "Saint-Clément : �glise et cimeti�re, Moyen-Age", "CODE_INSEE": 24496 }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ 0.870009157792879, 45.41432283682218 ], [ 0.870543147413469, 45.414419833673371 ], [ 0.871104824761862, 45.414436212656462 ], [ 0.871640484493552, 45.414470242439762 ], [ 0.871872264256011, 45.414401305050227 ], [ 0.871761375318546, 45.414246888323603 ], [ 0.870977307541526, 45.413462788226568 ], [ 0.870474964531101, 45.413618144264284 ], [ 0.870011169088882, 45.413765007274726 ], [ 0.870009157792879, 45.41432283682218 ] ] ] ] } },
