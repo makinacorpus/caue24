@@ -2,7 +2,7 @@
 "type": "FeatureCollection",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "name": "Surface en eau",
-"color": "#1D1D1B",
+"color": "#009FE3,
 "active": "false",
 "description": "Zone en eau dont la superficie est supérieure ou égale à 1000 m2",
 "interactive": "false",
