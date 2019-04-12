@@ -14,7 +14,7 @@ Découvrez les territoires sur les liens suivants
 
 [fiches conseil](http://cauedordogne.com/25-fiches-conseils/)
 
-![06_COUV_Bergerac_Pourpre_6.jpg]({{site.baseurl}}/data/images/6/portrait/06_COUV_Bergerac_Pourpre_6.jpg)  
+![06_COUV_Bergerac_Pourpre_6.jpg]({{site.baseurl}}/data/images/6/portrait/06_COUV_Bergerac_Pourpre_6.jpg)  ![06_COUV_Eyraud_Lidoire_web-5-8.jpg]({{site.baseurl}}/data/images/6/portrait/06_COUV_Eyraud_Lidoire_web-5-8.jpg)
 
 ## Informations
 
