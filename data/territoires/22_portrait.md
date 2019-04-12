@@ -4,6 +4,7 @@ layout: page
 ---
 
 ## Fenêtre modale
+
 ### GUIDE METHODOLOGIQUE POUR VOUS AIDEZ A CONSTRUIRE
 
 Découvrez ce territoire en consultant les cahiers de recommandations et les fiches conseil sur le site du CAUE Dordogne **Cliquez sur les liens suivant**
