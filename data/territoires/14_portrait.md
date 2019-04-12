@@ -9,7 +9,10 @@ layout: page
 
 Découvrez une partie de ce territoire en consultant le cahier de recommandations et les fiches conseil sur le site du CAUE Dordogne
 
-[Salignacois](<a href="https://fr.calameo.com/read/00499999556b1d64d6194 " target="_blank">https://fr.calameo.com/read/00499999556b1d64d6194 </a>)
+<a href="https://fr.calameo.com/read/00499999556b1d64d6194 " target="_blank">Salignacois </a>
+
+
+
 
 
 ## Informations
