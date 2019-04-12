@@ -1,10 +1,12 @@
 ---
-layout: page
 published: true
+layout: page
 ---
 
 ## Fenêtre modale
-Territoire non renseigné
+### GUIDE METHODOLOGIQUE
+
+![06_COUV_Bergerac_Pourpre_25k.jpg]({{site.baseurl}}/data/images/6/portrait/06_COUV_Bergerac_Pourpre_25k.jpg)
 
 ## Informations
 
