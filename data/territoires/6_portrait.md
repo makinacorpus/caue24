@@ -6,7 +6,8 @@ layout: page
 ## Fenêtre modale
 ### GUIDE METHODOLOGIQUE POUR VOUS AIDEZ A CONSTRUIRE
 
-Découvrez les territoires sur les liens suivants 
+Découvrez les territoires sur les liens suivants
+
 [Bergerac Pourpre](https://fr.calameo.com/read/004999995586e1f708eb5)
 
 [Dordogne Eyraud Lidoire](https://fr.calameo.com/read/0049999957d00bad6bae7)
