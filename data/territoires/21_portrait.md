@@ -14,7 +14,7 @@ Découvrez une partie de ce territoire en consultant les cahiers de recommandati
 [Pays Beaumontois](https://fr.calameo.com/read/0049999953279e4ef3ca3)
 
 [Fiches conseil](http://cauedordogne.com/25-fiches-conseils/)
-http://cauedordogne.com/25-fiches-conseils/
+
 
 ![21_COUV_Cadouin_web-5-7.jpg]({{site.baseurl}}/data/images/21/portrait/21_COUV_Cadouin_web-5-7.jpg) ![21_COUV_Pays_Beaumontois_web-5-8.jpg]({{site.baseurl}}/data/images/21/portrait/21_COUV_Pays_Beaumontois_web-5-8.jpg)
 
