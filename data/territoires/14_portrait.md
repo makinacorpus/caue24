@@ -13,7 +13,7 @@ Découvrez une partie de ce territoire en consultant le cahier de recommandation
 
 <a href="http://cauedordogne.com/25-fiches-conseils/ " target="_blank">Fiches conseil </a>
 
-
+![14_COUV_Salignac_web_5-7.jpg]({{site.baseurl}}/data/images/14/portrait/14_COUV_Salignac_web_5-7.jpg)
 
 ## Informations
 
