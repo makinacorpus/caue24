@@ -11,7 +11,7 @@ Découvrez une partie de ce territoire en consultant le cahier de recommandation
 
 <a href="https://fr.calameo.com/read/00499999556b1d64d6194 " target="_blank">Salignacois </a>
 
-
+<a href="http://cauedordogne.com/25-fiches-conseils/ " target="_blank">Fiches conseil </a>
 
 
 
