@@ -40,4 +40,15 @@ De l’architecture castrale à l’architecture rurale en passant par les édif
 ## Photos
 
 ![Verger de noyer sur plateau]({{site.baseurl}}/data/images/3/portrait/03_PORTRAIT_01.jpg)
+![Prairie sur plateau, vallée boisée et encaissée]({{site.baseurl}}/data/images/3/portrait/03_PORTRAIT_02.jpg)
+![Bourg sur point haut, élevage bovin]({{site.baseurl}}/data/images/3/portrait/03_PORTRAIT_03.jpg)
+![Paysage de polyculture et château en arrière plan]({{site.baseurl}}/data/images/3/portrait/03_PORTRAIT_04.jpg)
+![Carrière de quartz]({{site.baseurl}}/data/images/3/portrait/03_PORTRAIT_05.jpg)
+![Vue lointaine sur un bourg en ligne de crête]({{site.baseurl}}/data/images/3/portrait/03_PORTRAIT_06.jpg)
+![Bourg structuré autour de la route nationale ]({{site.baseurl}}/data/images/3/portrait/03_PORTRAIT_07.jpg)
+![Hameau en implantation dominante sur le plateau]({{site.baseurl}}/data/images/3/portrait/03_PORTRAIT_08.jpg)
+![Château médiéval en surplomb de la vallée de la Côle]({{site.baseurl}}/data/images/3/portrait/03_PORTRAIT_09.jpg)
+![Eglise romane byzantine avec mur clocher]({{site.baseurl}}/data/images/16/portrait/16_PORTRAIT_10.jpg)
+![Impressionnant volume massif d’une maison forte]({{site.baseurl}}/data/images/3/portrait/03_PORTRAIT_11.jpg)
+
 
