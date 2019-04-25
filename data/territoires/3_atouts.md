@@ -80,3 +80,13 @@ Des zones artisanales et commerciales à proximité des réseaux routiers favori
 **SPR :** La loi du 7 juillet 2016 a créé les sites patrimoniaux remarquables. Ce dispositif a pour objectif de protéger et mettre en valeur le patrimoine architectural, urbain et paysager de nos territoires. Les sites patrimoniaux remarquables sont “les villes, les villages ou quartiers dont la conservation, la restauration, la réhabilitation ou la mise en valeur présente, au point de vue historique, architectural, archéologique, artistique ou paysager, un intérêt public.” Les espaces ruraux et les paysages qui forment avec ces villes, villages ou quartiers un ensemble cohérent ou qui sont susceptibles de contribuer à leur conservation ou à leur mise en valeur peuvent être classés au même titre. Les SPR se substituent aux anciens dispositifs de protection : les secteurs sauvegardés, les ZPPAUP et les AVAP.
 
 ## Photos
+
+![Place aménagée devant épicerie]({{site.baseurl}}/data/images/3/atouts/03_ATOUT_01.jpg)
+![Aménagement paysager d’une rue de bourg]({{site.baseurl}}/data/images/3/atouts/03_ATOUT_02.jpg)
+![Promenade et aire de jeux pour enfants]({{site.baseurl}}/data/images/3/atouts/03_ATOUT_03.jpg)
+![Marché au cœur du village]({{site.baseurl}}/data/images/3/atouts/03_ATOUT_04.jpg)
+![Jardin partagé à proximité de l’école]({{site.baseurl}}/data/images/3/atouts/03_ATOUT_05.jpg)
+![Restaurant en centre-bourg]({{site.baseurl}}/data/images/3/atouts/03_ATOUT_06.jpg)
+![Office de tourisme sur la place centre]({{site.baseurl}}/data/images/3/atouts/03_ATOUT_07.jpg)
+![Refuge pèlerins et randonneurs]({{site.baseurl}}/data/images/3/atouts/03_ATOUT_08.jpg)
+![Siège du Parc Régional Périgord Limousin]({{site.baseurl}}/data/images/3/atouts/03_ATOUT_09.jpg)
