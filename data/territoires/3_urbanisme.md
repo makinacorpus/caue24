@@ -67,3 +67,19 @@ est une servitude d’utilité publique de droit français. Ce document, réalis
 Certaines zones constructibles peuvent également être concernées par les règlements du Plan de Prévention des Risques d’Inondation dans la vallée de l'Isle."
 
 ## Photos
+
+![Pavillon en extension du bourg, ancien champ bordé par un muret]({{site.baseurl}}/data/images/3/urbanisme/03_URBANISME_01.jpg)
+![Pavillons en zone diffuse, en retrait de la voie]({{site.baseurl}}/data/images/3/urbanisme/03_URBANISME_02.jpg)
+![Maison à bardage bois en adéquation avec le cadre boisé]({{site.baseurl}}/data/images/3/urbanisme/03_URBANISME_03.jpg)
+![Confrontation entre architecture ancienne et pavillon récent, contraste fort]({{site.baseurl}}/data/images/3/urbanisme/03_URBANISME_04.jpg)
+![Implantation de maison en clairière. Les limites de propriétés restes transparentes pour garder la vue vers le paysage de qualité]({{site.baseurl}}/data/images/3/urbanisme/03_URBANISME_05.jpg)
+![Impact d'une haie monospécifique dans le paysage, la maison se coupe du paysage ouvert et de la lumière]({{site.baseurl}}/data/images/3/urbanisme/03_URBANISME_06.jpg)
+![Implantation en ligne de crête et impact des couleurs]({{site.baseurl}}/data/images/3/urbanisme/03_URBANISME_07.jpg)
+![Maison contemporaine en bardage bois reprenant les codes du séchoir à tabac]({{site.baseurl}}/data/images/3/urbanisme/03_URBANISME_08.jpg)
+![Pavillon aux couleurs sobres, jouant sur les hauteurs de faîtage]({{site.baseurl}}/data/images/3/urbanisme/03_URBANISME_09.jpg)
+![Une maison bois discrète, dans la pente, dans le prolongement du bourg]({{site.baseurl}}/data/images/3/urbanisme/03_URBANISME_10.jpg)
+![Pavillon jouant avec les hauteurs de toiture et les matériaux, la végétation plantée permet de bien l'intégrer au paysage]({{site.baseurl}}/data/images/3/urbanisme/03_URBANISME_11.jpg)
+![Un lotissement discret, dans le prolongement du bourg]({{site.baseurl}}/data/images/3/urbanisme/03_URBANISME_12.jpg)
+![Une maison bois et sa terrasse sur pilotis qui se posent délicatement sur le terrain naturel]({{site.baseurl}}/data/images/3/urbanisme/03_URBANISME_13.jpg)
+![Pavillons dans la pente : travail de déblai et remblai et haie variant les essences, les couleurs et hauteurs de végétaux]({{site.baseurl}}/data/images/3/urbanisme/03_URBANISME_14.jpg)
+![Les lignes de crêtes sont nombreuses et habitées sur le territoire, attention à l'impact de sa maison !]({{site.baseurl}}/data/images/3/urbanisme/03_URBANISME_15.jpg)
