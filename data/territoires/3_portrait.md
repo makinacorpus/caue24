@@ -13,13 +13,13 @@ Périgord-Limousin, quelques chiffres :
 - 14 407 habitants (source INSEE)
 - superficie de 499 km2
 
-## Informations
-
 **CLIQUEZ sur « Bourg »**
 
 Territoire réalisé avec la participation et le soutien de la Communauté de communes Périgord-Limousin
 
 ![]({{site.baseurl}}/data/images/3/portrait/03_PORTRAIT_logo.jpg)
+
+## Informations
 
 ### DIALOGUE ENTRE PAYSAGE ET ARCHITECTURE
 
