@@ -33,4 +33,35 @@ Exploitation de la forêt, du sous-sol, proximité des réseaux routes et ferrov
 
 ## En savoir plus
 
+### QUALITE DU CADRE DE VIE
+
+**La vie des espaces publics**
+
+En Périgord-Limousin, les bourgs, villages et hameaux ont conservé une échelle humaine. Proche des commerces du centre et de la nature, les habitants profitent de ce positionnement idéal entre calme et dynamisme. De nombreuses communes ont aménagé places et rues de leur bourg ou hameaux, afin de créer un cadre plus attractif et chaleureux pour les habitants. La plantation en pieds de façades, l’aménagement des places ou des rues ou encore la présence de petits commerces participent à la création d’un cadre de vie agréable. 
+Animations, marchés hebdomadaires ou occasionnels, potagers collectifs ou simplement aires de jeux pour petits et grands animent au quotidien les centres-bourgs et constituent des activités propices à la rencontre et à la construction de vrais lieux de vie partagées.
+
+### TOURISME VERT ET CULTURE
+
+**La géologie**
+La richesse géologique de Périgord-Limousin est la base de la diversité de ces paysages. La roche en elle-même constitue un atout ; quartz, diorite, granit ou or sont exploités par les carrières ou présentés au public dans les musées. Plusieurs sentiers d’interprétation mettent en valeur ces éléments naturels. Des animations, taille de pierre et orpaillage complètent cette découverte.
+Les nombreux plans d’eau et cours d’eau sont propices aux activités de plein-air telles que les baignades, la pêche et les promenades.
+
+**Les voies historiques**
+Le chemin de Saint Jacques de Compostelle (La Voie de Vezelay) traverse le territoire du Nord au Sud. Un GR (Chemin de Grande Randonnée) suit le même tracé et correspond par endroit à l’ancienne voie romaine (Vesunna-Augustoritum). Refuges et haltes jacquaires accueillent les pèlerins et randonneurs dans plusieurs communes.
+Les anciennes voies ferrées, du train ou du tramway, ont retrouvé une nouvelle vie par leur aménagement en piste cyclable, en chemin de randonnée ou encore par l’activité vélo-rail.
+
+**Découverte du territoire** 
+De nombreux sentiers de randonnées, des carnets de l’explorateur, ou encore des parcours interactifs sont les supports d’un tourisme vert et patrimonial. Ils invitent, en sillonnant bourgs et espaces naturels, les touristes et les habitants du territoire à la découverte des paysages, de l’architecture ainsi que de la faune et la flore.
+
+### UN PATRIMOINE DE PAYS
+
+Cette architecture répond aux besoins et usages de naguère. Les éléments sont présents sur l’ensemble du territoire. Les constructions sont réalisées avec les matériaux du sous-sol prélevés sur place et avec le même soin que toute l’architecture. De nombreux éléments liés à l’eau ponctuent le paysage, puits, fontaines et lavoirs, ainsi que les moulins à eaux le long des nombreux cours d’eau. Suivant les occupations du sol, on trouvera des cabanes attestant la présence des vignobles anciens, ou des clédiers pour le séchage des châtaignes dans la partie Nord.
+
+### RESSOURCES ET ECONOMIE
+
+La richesse du sous-sol est exploitée dans différentes carrières. Les anciennes carrières, recolonisées par la végétation, deviennent l’habitat de certaines espèces protégées comme le faucon pèlerin ou le grand corbeau.
+La forêt, aux parcelles très morcelées, pourrait être plus largement valorisée sur le territoire. Autrefois le bois était utilisé dans les forges et les papeteries ; aujourd’hui le chêne, le peuplier, le châtaignier et le douglas servent en fonction de leur qualité à la pâte à papier, à la confection de palettes et la menuiserie.
+Les voies ferrées sont importantes dans le maintien de ces exploitations.
+Des zones artisanales et commerciales à proximité des réseaux routiers favorisent le développement économique. 
+
 ## Photos
