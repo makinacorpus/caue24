@@ -43,6 +43,14 @@ Elle est visible sous toutes ses formes dans le paysage de Périgord-Limousin. L
 
 **Un site privilégié pour les forges**
 
-Trois composantes sont essentielles à la présence de forges sur un territoire : la présence du minerai de fer, l’abondance de l’eau et une prédominance de la forêt pour la production de charbon. Ces trois éléments réunis au Nord du territoire ont permis l’implantation de forges le long des cours d’eau torrentueux. Ils ont fourni du XVe siècle au XIXe siècle, les canons d’abord en bronze puis en fonte de fer, pour l’armement du pays et notamment au XVIIe siècle pour l’arsenal de Rochefort. La forte exploitation du bois à cette époque a fait naître les premières lois de gestion forestière.
+Trois composantes sont essentielles à la présence de forges sur un territoire : la présence du minerai de fer, l’abondance de l’eau et une prédominance de la forêt pour la production de charbon. Ces trois éléments réunis au Nord du territoire ont permis l’implantation de forges le long des cours d’eau torrentueux. La forte exploitation du bois à cette époque a fait naître les premières lois de gestion forestière.
 
 ## Photos
+![Mur en pierre de taille à joint sec, calcaire jurassique]({{site.baseurl}}/data/images/3/geographie/03_GEOGRAPHIE_01.jpg)
+![Mur en schiste et ardoise, jointé avec un enduit chaux sable clair]({{site.baseurl}}/data/images/3/geographie/03_GEOGRAPHIE_02.jpg)
+![Mur en gneiss, quartz et reliquat d'enduit chaux sable]({{site.baseurl}}/data/images/3/geographie/03_GEOGRAPHIE_03.jpg)
+![Appareillage de petits moellons, calcaire du crétacé et altérites]({{site.baseurl}}/data/images/3/geographie/03_GEOGRAPHIE_04.jpg)
+![Maçonnerie hétérogène : schiste, altérites et briquettes]({{site.baseurl}}/data/images/3/geographie/03_GEOGRAPHIE_05.jpg)
+![Mur en schiste, chaînage d'angle et jambage en gratin, linteau en bois]({{site.baseurl}}/data/images/3/geographie/03_GEOGRAPHIE_06.jpg)
+
+
