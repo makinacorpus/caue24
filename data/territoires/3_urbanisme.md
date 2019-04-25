@@ -22,10 +22,9 @@ La carte présente les terrains constructibles des PLU et cartes communales de c
 
 **Le diaporama illustre ces interrogations**
 
-"- Comment s'installer dans un terrain en pente ?
+- Comment s'installer dans un terrain en pente ?
 - Comment prendre en compte l'environnement de mon terrain et l'impact de ma construction dans le paysage ?
 - Quel type d'architecture et quelles couleurs choisir ?
-"
 
 ## En savoir plus
 
