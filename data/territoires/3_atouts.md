@@ -87,7 +87,7 @@ Des zones artisanales et commerciales à proximité des réseaux routiers favori
 ![Marché au cœur du village]({{site.baseurl}}/data/images/3/atouts/03_ATOUT_04.jpg)
 ![Jardin partagé à proximité de l’école]({{site.baseurl}}/data/images/3/atouts/03_ATOUT_05.jpg)
 ![Restaurant en centre-bourg]({{site.baseurl}}/data/images/3/atouts/03_ATOUT_06.jpg)
-![Office de tourisme sur la place centre]({{site.baseurl}}/data/images/3/atouts/03_ATOUT_07.jpg)
+![Office de tourisme sur la place centrale]({{site.baseurl}}/data/images/3/atouts/03_ATOUT_07.jpg)
 ![Refuge pèlerins et randonneurs]({{site.baseurl}}/data/images/3/atouts/03_ATOUT_08.jpg)
 ![Siège du Parc Régional Périgord Limousin]({{site.baseurl}}/data/images/3/atouts/03_ATOUT_09.jpg)
 ![Activité vélo-rail, ancienne voie ferrée Thiviers-Angoulème]({{site.baseurl}}/data/images/3/atouts/03_ATOUT_10.jpg)
