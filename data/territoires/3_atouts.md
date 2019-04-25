@@ -43,14 +43,17 @@ Animations, marchés hebdomadaires ou occasionnels, potagers collectifs ou simpl
 ### TOURISME VERT ET CULTURE
 
 **La géologie**
+
 La richesse géologique de Périgord-Limousin est la base de la diversité de ces paysages. La roche en elle-même constitue un atout ; quartz, diorite, granit ou or sont exploités par les carrières ou présentés au public dans les musées. Plusieurs sentiers d’interprétation mettent en valeur ces éléments naturels. Des animations, taille de pierre et orpaillage complètent cette découverte.
 Les nombreux plans d’eau et cours d’eau sont propices aux activités de plein-air telles que les baignades, la pêche et les promenades.
 
 **Les voies historiques**
+
 Le chemin de Saint Jacques de Compostelle (La Voie de Vezelay) traverse le territoire du Nord au Sud. Un GR (Chemin de Grande Randonnée) suit le même tracé et correspond par endroit à l’ancienne voie romaine (Vesunna-Augustoritum). Refuges et haltes jacquaires accueillent les pèlerins et randonneurs dans plusieurs communes.
 Les anciennes voies ferrées, du train ou du tramway, ont retrouvé une nouvelle vie par leur aménagement en piste cyclable, en chemin de randonnée ou encore par l’activité vélo-rail.
 
 **Découverte du territoire** 
+
 De nombreux sentiers de randonnées, des carnets de l’explorateur, ou encore des parcours interactifs sont les supports d’un tourisme vert et patrimonial. Ils invitent, en sillonnant bourgs et espaces naturels, les touristes et les habitants du territoire à la découverte des paysages, de l’architecture ainsi que de la faune et la flore.
 
 ### UN PATRIMOINE DE PAYS
