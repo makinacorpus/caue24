@@ -52,7 +52,17 @@ Trois composantes sont essentielles à la présence de forges sur un territoire 
 ![Appareillage de petits moellons, calcaire du crétacé et altérites]({{site.baseurl}}/data/images/3/geographie/03_GEOGRAPHIE_04.jpg)
 ![Maçonnerie hétérogène : schiste, altérites et briquettes]({{site.baseurl}}/data/images/3/geographie/03_GEOGRAPHIE_05.jpg)
 ![Mur en schiste, chaînage d'angle et jambage en gratin, linteau en bois]({{site.baseurl}}/![Mur en moellon, calcaire du crétacé et altérites]({{site.baseurl}}/data/images/3/geographie/03_GEOGRAPHIE_07.jpg)
-![Mur et arc de décharge en schiste, linteau et jambage en granit]({{site.baseurl}}/data/images/3/geographie/03_GEOGRAPHIE_08.jpg)
+![Mur et arc de décharge en schiste, linteau et jambage en granit]({{site.baseurl}}/![Jambage, linteau sculpté et corniche en calcaire du crétacé, tendre à la taille]({{site.baseurl}}/data/images/3/geographie/03_GEOGRAPHIE_09.jpg)
+![Habitation, grange et annexes à toitures à faible pente, tuiles canal]({{site.baseurl}}/data/images/3/geographie/03_GEOGRAPHIE_10.jpg)
+![Toiture à tuile plate, double génoise et épi de faîtage en terre cuite]({{site.baseurl}}/data/images/3/geographie/03_GEOGRAPHIE_11.jpg)
+![Toiture à pente forte en tuile plate, mur et fenêtre à traverse en pierre de taille, calcaire du crétacé]({{site.baseurl}}/data/images/3/geographie/03_GEOGRAPHIE_12.jpg)
+![Piles en pierre de taille]({{site.baseurl}}/data/images/3/geographie/03_GEOGRAPHIE_13.jpg)
+![Maçonnerie hétérogène, gneiss et calcaire, étage en pan de bois remplissage torchis]({{site.baseurl}}/data/images/3/geographie/03_GEOGRAPHIE_14.jpg)
+![Ossature bois à remplissage pierres et enduit]({{site.baseurl}}/data/images/3/geographie/03_GEOGRAPHIE_15.jpg)
+
+
+
+
 
 
 
