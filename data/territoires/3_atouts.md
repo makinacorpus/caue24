@@ -62,6 +62,18 @@ Cette architecture répond aux besoins et usages de naguère. Les éléments son
 La richesse du sous-sol est exploitée dans différentes carrières. Les anciennes carrières, recolonisées par la végétation, deviennent l’habitat de certaines espèces protégées comme le faucon pèlerin ou le grand corbeau.
 La forêt, aux parcelles très morcelées, pourrait être plus largement valorisée sur le territoire. Autrefois le bois était utilisé dans les forges et les papeteries ; aujourd’hui le chêne, le peuplier, le châtaignier et le douglas servent en fonction de leur qualité à la pâte à papier, à la confection de palettes et la menuiserie.
 Les voies ferrées sont importantes dans le maintien de ces exploitations.
-Des zones artisanales et commerciales à proximité des réseaux routiers favorisent le développement économique. 
+Des zones artisanales et commerciales à proximité des réseaux routiers favorisent le développement économique.
+
+### LES PROTECTIONS - DEFINITIONS
+
+**MONUMENT CLASSE OU INSCRIT :** La loi du 31 décembre 1913 sur les monuments historiques permet de protéger certains bâtiments à caractère patrimonial. Celle du 23 février 1943 sur les abords, la complète en fixant un périmètre de 500m autour de l’édifice.
+
+**SITE CLASSE OU INSCRIT :** La loi de 1930 sur les sites permet de protéger des espaces d’une grande diversité : parcs et jardins, espaces naturels, paysages… écrins paysagers de monuments historiques pour lesquels la seule protection des abords ne suffirait pas.
+
+**NATURA 2000 :** Réseau de sites écologiques dont les objectifs sont de préserver la diversité biologique et de valoriser le patrimoine naturel.
+
+**ZNIEFF :** Zones Naturelles d’Intérêt Ecologique Faunistique et Floristique. Cet outil de connaissance de la biodiversité, subdivisé en deux groupes, est le recensement d’espaces naturels terrestres.
+
+**SPR :** La loi du 7 juillet 2016 a créé les sites patrimoniaux remarquables. Ce dispositif a pour objectif de protéger et mettre en valeur le patrimoine architectural, urbain et paysager de nos territoires. Les sites patrimoniaux remarquables sont “les villes, les villages ou quartiers dont la conservation, la restauration, la réhabilitation ou la mise en valeur présente, au point de vue historique, architectural, archéologique, artistique ou paysager, un intérêt public.” Les espaces ruraux et les paysages qui forment avec ces villes, villages ou quartiers un ensemble cohérent ou qui sont susceptibles de contribuer à leur conservation ou à leur mise en valeur peuvent être classés au même titre. Les SPR se substituent aux anciens dispositifs de protection : les secteurs sauvegardés, les ZPPAUP et les AVAP.
 
 ## Photos
