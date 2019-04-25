@@ -15,6 +15,12 @@ Périgord-Limousin, quelques chiffres :
 
 ## Informations
 
+**CLIQUEZ sur « Bourg »**
+
+Territoire réalisé avec la participation et le soutien de la Communauté de communes Périgord-Limousin
+
+![]({{site.baseurl}}/data/images/3/portrait/03_PORTRAIT_logo.jpg)
+
 ### DIALOGUE ENTRE PAYSAGE ET ARCHITECTURE
 
 **Découvrez ses attraits au travers du diaporama**
