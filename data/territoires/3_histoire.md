@@ -58,3 +58,13 @@ L'utilisation systématique de la voiture et le développement des réseaux d'ad
 Les modes d'implantation de la période précédente s'accentuent. Les maisons individuelles s'éloignent plus franchement des bourgs et s'isolent au milieu de leur grande parcelle, avec un grand recul par rapport à la voirie. La recherche d'isolement, d'espace et de vues s'affirme. Leur développement reste influencé par les pôles offrant de l'emploi ou une bonne desserte routière. Quelques opérations de lotissement en centre-bourg tendent à conserver une certaine densité et à maintenir la démographie. L'affaiblissement important de l'activité agricole entraine l'acquisition et la réhabilitation d'anciens corps de fermes pour l'habitat ou pour des projets touristiques. Enfin, de nombreuses communes entreprennent la restauration et l'embellissement de leurs espaces publics afin d'appuyer leur développement touristique.
 
 ## Photos
+
+![Bourg important, structuré par son château et sa place principale]({{site.baseurl}}/data/images/3/histoire/03_HISTOIRE_01.jpg)
+![Bourg de taille modeste en vallée, organisé près de son église]({{site.baseurl}}/data/images/3/histoire/03_HISTOIRE_02.jpg)
+![Ancien couvent au cœur d'un hameau]({{site.baseurl}}/data/images/3/histoire/03_HISTOIRE_03.jpg)
+![Ruelle médiévale sinueuse, murets et maisons mitoyennes à étage, alignement sur la rue]({{site.baseurl}}/data/images/3/histoire/03_HISTOIRE_04.jpg)
+![Construction à étage du XIXe siècle, rez-de-chaussée commercial, façades ordonnancées avec balcon]({{site.baseurl}}/data/images/3/histoire/03_HISTOIRE_05.jpg)
+![Maison des années 40, type Loi Loucheur, belles modénatures]({{site.baseurl}}/data/images/3/histoire/03_HISTOIRE_06.jpg)
+![Pavillons mitoyens du milieu des années 60 en retrait sur la rue]({{site.baseurl}}/data/images/3/histoire/03_HISTOIRE_07.jpg)
+![Pavillon de la fin des années 60, garage en rez-de-chaussée]({{site.baseurl}}/data/images/3/histoire/03_HISTOIRE_08.jpg)
+![Urbanisation diffuse, étalement des bourgs dans les années 70/80]({{site.baseurl}}/data/images/3/histoire/03_HISTOIRE_09.jpg)
