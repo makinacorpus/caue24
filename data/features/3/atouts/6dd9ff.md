@@ -2,6 +2,4 @@
 published: true
 layout: page
 ---
-## A New Post
-
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
+![03_ATOUT_POPUP_08.jpg]({{site.baseurl}}/data/images/3/atouts/03_ATOUT_POPUP_08.jpg)
