@@ -15,6 +15,22 @@ Découvrez-les pour chaque commune.
 
 ## Informations
 
+### CADRE DE VIE AGREABLE ET DYNAMIQUE AU QUOTIDIEN
+
+**Le diaporama illustre ces atouts**
+
+**Douceur de vivre :**
+Cadre de vie agréable, bourg à échelle humaine, places aménagées, proximité de la nature et des cours d’eau…
+
+**Territoire actif et animé au quotidien :**
+Proximité des services et commerces du quotidien, marchés, vie associative et culturelle…
+
+**Tourisme vert en plein essor :**
+Randonnée, vélo, loisirs aquatiques, pêche, hébergement de groupe, chambres d’hôte, camping…
+
+**Exploitation des ressources locales et économie :**
+Exploitation de la forêt, du sous-sol, proximité des réseaux routes et ferroviaires.
+
 ## En savoir plus
 
 ## Photos
