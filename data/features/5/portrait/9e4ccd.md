@@ -10,4 +10,4 @@ layout: page
 
 **Clermont de Beauregard**
 
-106 habitants
+102 habitants
