@@ -7,6 +7,6 @@
 "description": "Coordonnées de la communauté de communes",
 
 "features": [
-{ "type": "Feature", "properties": { "NOM": null, "TYPOLOGIE": null, "TYPOLOGIE_": null, "COMMUNE": null, "COMMUNAUTE": "1", "INSEE_COMM": null, "ID_CDECOMM": null, "SURFACE_UR": 68.8544, "LIEN": null, "COMMUNAUT1": "cc Isle Crempse en P�rigord", "ID_CDECOM1": null }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ 0.361639742590445, 45.038378792470247 ], [ 0.371708678626327, 45.038593802198207 ], [ 0.372034399819414, 45.030798388128488 ], [ 0.361914871524897, 45.030618473502031 ], [ 0.361639742590445, 45.038378792470247 ] ] ] ] } }
+{ "type": "Feature", "properties": { "COMMUNE": null, "COMMUNAUTE": "1", "INSEE_COMM": null, "SURFACE_UR": 68.8544, "LIEN": null, "COMMUNAUT1": "cc Isle Crempse en P�rigord", "ID_CDECOM1": null }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ 0.361639742590445, 45.038378792470247 ], [ 0.371708678626327, 45.038593802198207 ], [ 0.372034399819414, 45.030798388128488 ], [ 0.361914871524897, 45.030618473502031 ], [ 0.361639742590445, 45.038378792470247 ] ] ] ] } }
 ]
 }
