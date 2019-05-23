@@ -22,6 +22,9 @@ Territoire réalisé avec la participation et le soutien de la Communauté de Co
 
 Découvrez son Guide Méthodologique pour vous aider à construire
 
+![01_COUV_IVSenP_5-9web.jpg]({{site.baseurl}}/data/images/1/portrait/01_COUV_IVSenP_5-9web.jpg)
+
+
 ## Informations
 
 ### Un territoire dynamique
