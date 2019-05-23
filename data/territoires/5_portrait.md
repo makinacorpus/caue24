@@ -13,10 +13,10 @@ layout: page
 ## Fenêtre modale
 
 ### DU PAYSAGE A L’ARCHITECTURE, UN TERRITOIRE A DECOUVRIR
-Pays de Villamblard, quelques chiffres :
+Territoire renseigné sur Pays de Villamblard, quelques chiffres :
 
-- 17 communes
-- 5 797 habitants (source INSEE)
+- 14 communes
+- 5 817 habitants (source INSEE)
 - superficie de 250 km2
 
 **CLIQUEZ sur « Bourg »**
