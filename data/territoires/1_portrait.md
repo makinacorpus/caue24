@@ -20,6 +20,7 @@ Territoire réalisé avec la participation et le soutien de la Communauté de Co
 
 ![](/data/images/1/portrait/1_portrait_logo2.jpg)
 
+Découvrez son Guide Méthodologique pour vous aider à construire
 
 ## Informations
 
