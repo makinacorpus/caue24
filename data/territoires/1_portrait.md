@@ -10,9 +10,9 @@ layout: page
 
 Isle Vern Salembre en Périgord, quelques chiffres :
 
-- 16 communes et Manzac-sur-Vern
-- 20037 habitants (source INSEE)
-- superficie de 305 km2
+- 16 communes
+- 20102 habitants (source INSEE)
+- superficie de 288 km2
 
 **CLIQUEZ sur "Bourg"**
 
