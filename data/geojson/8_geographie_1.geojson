@@ -1,21 +1,15 @@
 {
 "type": "FeatureCollection",
+"name": "8_geographie_1",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"name": "Points de vue",
-"color": "#E30613",
-"active": "true",
-"interactive": "true",
-"description": "Un sous-sol, un paysage",
-                                                                                
 "features": [
-{ "type": "Feature", "properties": { "NOM": "POP9" }, "geometry": { "type": "Point", "coordinates": [ 1.073444716575816, 44.730886811814422 ] } },
-{ "type": "Feature", "properties": { "NOM": "POP1" }, "geometry": { "type": "Point", "coordinates": [ 1.030411005966723, 44.896029659172498 ] } },
-{ "type": "Feature", "properties": { "NOM": "POP2" }, "geometry": { "type": "Point", "coordinates": [ 0.946980948510325, 44.880231678139317 ] } },
-{ "type": "Feature", "properties": { "NOM": "POP3" }, "geometry": { "type": "Point", "coordinates": [ 1.014648309777399, 44.841741423852881 ] } },
-{ "type": "Feature", "properties": { "NOM": "POP4" }, "geometry": { "type": "Point", "coordinates": [ 1.064008830589357, 44.837364785901109 ] } },
-{ "type": "Feature", "properties": { "NOM": "POP5" }, "geometry": { "type": "Point", "coordinates": [ 1.049835333496697, 44.791269249461408 ] } },
-{ "type": "Feature", "properties": { "NOM": "POP6" }, "geometry": { "type": "Point", "coordinates": [ 0.95653533866369, 44.763424623692373 ] } },
-{ "type": "Feature", "properties": { "NOM": "POP7" }, "geometry": { "type": "Point", "coordinates": [ 1.016089824531293, 44.755581304053237 ] } },
-{ "type": "Feature", "properties": { "NOM": "POP8" }, "geometry": { "type": "Point", "coordinates": [ 1.042751620601677, 44.751264832096467 ] } }
+{ "type": "Feature", "properties": { "NOM": null, "TYPOLOGIE": null, "TYPOLOGIE_": null, "TYPOLOGIE1": null, "TYPOLOGIE2": null, "ID_CC2014": null, "TOPONYMIE_": null, "COMMUNE": null }, "geometry": { "type": "Point", "coordinates": [ 1.030411005966722, 44.896029659172498 ] } },
+{ "type": "Feature", "properties": { "NOM": null, "TYPOLOGIE": null, "TYPOLOGIE_": null, "TYPOLOGIE1": null, "TYPOLOGIE2": null, "ID_CC2014": null, "TOPONYMIE_": null, "COMMUNE": null }, "geometry": { "type": "Point", "coordinates": [ 1.014648309777399, 44.841741423852852 ] } },
+{ "type": "Feature", "properties": { "NOM": null, "TYPOLOGIE": null, "TYPOLOGIE_": null, "TYPOLOGIE1": null, "TYPOLOGIE2": null, "ID_CC2014": null, "TOPONYMIE_": null, "COMMUNE": null }, "geometry": { "type": "Point", "coordinates": [ 1.064008830589356, 44.837364785901094 ] } },
+{ "type": "Feature", "properties": { "NOM": null, "TYPOLOGIE": null, "TYPOLOGIE_": null, "TYPOLOGIE1": null, "TYPOLOGIE2": null, "ID_CC2014": null, "TOPONYMIE_": null, "COMMUNE": null }, "geometry": { "type": "Point", "coordinates": [ 1.073444716575816, 44.730886811814422 ] } },
+{ "type": "Feature", "properties": { "NOM": null, "TYPOLOGIE": null, "TYPOLOGIE_": null, "TYPOLOGIE1": null, "TYPOLOGIE2": null, "ID_CC2014": null, "TOPONYMIE_": null, "COMMUNE": null }, "geometry": { "type": "Point", "coordinates": [ 1.049835333496697, 44.791269249461379 ] } },
+{ "type": "Feature", "properties": { "NOM": null, "TYPOLOGIE": null, "TYPOLOGIE_": null, "TYPOLOGIE1": null, "TYPOLOGIE2": null, "ID_CC2014": null, "TOPONYMIE_": null, "COMMUNE": null }, "geometry": { "type": "Point", "coordinates": [ 0.956535338663689, 44.763424623692373 ] } },
+{ "type": "Feature", "properties": { "NOM": null, "TYPOLOGIE": null, "TYPOLOGIE_": null, "TYPOLOGIE1": null, "TYPOLOGIE2": null, "ID_CC2014": null, "TOPONYMIE_": null, "COMMUNE": null }, "geometry": { "type": "Point", "coordinates": [ 1.016089824531293, 44.755581304053223 ] } },
+{ "type": "Feature", "properties": { "NOM": null, "TYPOLOGIE": null, "TYPOLOGIE_": null, "TYPOLOGIE1": null, "TYPOLOGIE2": null, "ID_CC2014": null, "TOPONYMIE_": null, "COMMUNE": null }, "geometry": { "type": "Point", "coordinates": [ 1.042751620601676, 44.751264832096453 ] } }
 ]
 }
