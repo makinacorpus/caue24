@@ -8,19 +8,19 @@
 "active": "true",
 "interactive": "true",
 "description": "Evolution du paysage à partir d'une carte postale ancienne",
-                                                                                
+
 "features": [
-{ "type": "Feature", "properties": { "COMMUNE": "Castels", "INSEE_COMM": 24087.000000, "POP_UP": "CP2" }, "geometry": { "type": "Point", "coordinates": [ 1.052884120520804, 44.868145157182724 ] } },
-{ "type": "Feature", "properties": { "COMMUNE": "Bezenac", "INSEE_COMM": 24041.000000, "POP_UP": "CP4" }, "geometry": { "type": "Point", "coordinates": [ 1.08947449551197, 44.843466521256637 ] } },
-{ "type": "Feature", "properties": { "COMMUNE": "St Cyprien", "INSEE_COMM": 24396.000000, "POP_UP": "CP3" }, "geometry": { "type": "Point", "coordinates": [ 1.042521205086483, 44.866620904584458 ] } },
-{ "type": "Feature", "properties": { "COMMUNE": "Meyrals", "INSEE_COMM": 24268.000000, "POP_UP": "CP1" }, "geometry": { "type": "Point", "coordinates": [ 1.065977896730382, 44.898126510468138 ] } },
-{ "type": "Feature", "properties": { "COMMUNE": "Coux et Bigaroque", "INSEE_COMM": 24142.000000, "POP_UP": "CP5" }, "geometry": { "type": "Point", "coordinates": [ 0.990835359023933, 44.832988755658207 ] } },
-{ "type": "Feature", "properties": { "COMMUNE": "Allas les Mines", "INSEE_COMM": 24006.000000, "POP_UP": "CP6" }, "geometry": { "type": "Point", "coordinates": [ 1.070309344105515, 44.833471076730262 ] } },
-{ "type": "Feature", "properties": { "COMMUNE": "Siorac en Périgord", "INSEE_COMM": 24538.000000, "POP_UP": "CP7" }, "geometry": { "type": "Point", "coordinates": [ 0.98904382869403, 44.822873712034287 ] } },
-{ "type": "Feature", "properties": { "COMMUNE": "Siorac en Périgord", "INSEE_COMM": 24538.000000, "POP_UP": "CP8" }, "geometry": { "type": "Point", "coordinates": [ 0.984897939975845, 44.815032753310703 ] } },
-{ "type": "Feature", "properties": { "COMMUNE": "Sagelat", "INSEE_COMM": 24360.000000, "POP_UP": "CP9" }, "geometry": { "type": "Point", "coordinates": [ 1.015726466126472, 44.784353369074971 ] } },
-{ "type": "Feature", "properties": { "COMMUNE": "Belvès", "INSEE_COMM": 24035.000000, "POP_UP": "CP10" }, "geometry": { "type": "Point", "coordinates": [ 1.007942796072179, 44.779690170115572 ] } },
-{ "type": "Feature", "properties": { "COMMUNE": "Belvès", "INSEE_COMM": 24035.000000, "POP_UP": "CP11" }, "geometry": { "type": "Point", "coordinates": [ 1.008256822633117, 44.773379124587009 ] } },
-{ "type": "Feature", "properties": { "COMMUNE": "Belvès", "INSEE_COMM": 24035.000000, "POP_UP": "CP12" }, "geometry": { "type": "Point", "coordinates": [ 1.008771818027316, 44.772431807016339 ] } }
+{ "type": "Feature", "properties": { "NOM": null, "TYPOLOGIE": null, "TYPOLOGIE_": null, "COMMUNE": "St Cyprien", "COMMUNAUTE": "8", "INSEE_COMM": null, "ID_CDECOMM": null, "SURFACE_UR": 0.0, "PERIODE": null, "SITUATION": null }, "geometry": { "type": "Point", "coordinates": [ 1.052884120520804, 44.868145157182724 ] } },
+{ "type": "Feature", "properties": { "NOM": null, "TYPOLOGIE": null, "TYPOLOGIE_": null, "COMMUNE": "Bezenac", "COMMUNAUTE": "8", "INSEE_COMM": null, "ID_CDECOMM": null, "SURFACE_UR": 0.0, "PERIODE": null, "SITUATION": null }, "geometry": { "type": "Point", "coordinates": [ 1.08947449551197, 44.843466521256637 ] } },
+{ "type": "Feature", "properties": { "NOM": null, "TYPOLOGIE": null, "TYPOLOGIE_": null, "COMMUNE": "St Cyprien", "COMMUNAUTE": "8", "INSEE_COMM": null, "ID_CDECOMM": null, "SURFACE_UR": 0.0, "PERIODE": null, "SITUATION": null }, "geometry": { "type": "Point", "coordinates": [ 1.042521205086483, 44.866620904584458 ] } },
+{ "type": "Feature", "properties": { "NOM": null, "TYPOLOGIE": null, "TYPOLOGIE_": null, "COMMUNE": "Meyrals", "COMMUNAUTE": "8", "INSEE_COMM": null, "ID_CDECOMM": null, "SURFACE_UR": 0.0, "PERIODE": null, "SITUATION": null }, "geometry": { "type": "Point", "coordinates": [ 1.065977896730382, 44.898126510468124 ] } },
+{ "type": "Feature", "properties": { "NOM": null, "TYPOLOGIE": null, "TYPOLOGIE_": null, "COMMUNE": "Allas les Mines", "COMMUNAUTE": "8", "INSEE_COMM": null, "ID_CDECOMM": null, "SURFACE_UR": 0.0, "PERIODE": null, "SITUATION": null }, "geometry": { "type": "Point", "coordinates": [ 1.071266307621042, 44.833993896978896 ] } },
+{ "type": "Feature", "properties": { "NOM": null, "TYPOLOGIE": null, "TYPOLOGIE_": null, "COMMUNE": "Mouzens", "COMMUNAUTE": "8", "INSEE_COMM": null, "ID_CDECOMM": null, "SURFACE_UR": 0.0, "PERIODE": null, "SITUATION": null }, "geometry": { "type": "Point", "coordinates": [ 0.990835359023932, 44.832988755658171 ] } },
+{ "type": "Feature", "properties": { "NOM": null, "TYPOLOGIE": null, "TYPOLOGIE_": null, "COMMUNE": "Siorac en P�rigord", "COMMUNAUTE": "8", "INSEE_COMM": null, "ID_CDECOMM": null, "SURFACE_UR": 0.0, "PERIODE": null, "SITUATION": null }, "geometry": { "type": "Point", "coordinates": [ 0.98904382869403, 44.82287371203428 ] } },
+{ "type": "Feature", "properties": { "NOM": null, "TYPOLOGIE": null, "TYPOLOGIE_": null, "COMMUNE": "Siorac en P�rigord", "COMMUNAUTE": "8", "INSEE_COMM": null, "ID_CDECOMM": null, "SURFACE_UR": 0.0, "PERIODE": null, "SITUATION": null }, "geometry": { "type": "Point", "coordinates": [ 0.984897939975845, 44.815032753310689 ] } },
+{ "type": "Feature", "properties": { "NOM": null, "TYPOLOGIE": null, "TYPOLOGIE_": null, "COMMUNE": "Sagelat", "COMMUNAUTE": "8", "INSEE_COMM": null, "ID_CDECOMM": null, "SURFACE_UR": 0.0, "PERIODE": null, "SITUATION": null }, "geometry": { "type": "Point", "coordinates": [ 1.015726466126471, 44.784353369074928 ] } },
+{ "type": "Feature", "properties": { "NOM": null, "TYPOLOGIE": null, "TYPOLOGIE_": null, "COMMUNE": "Belv�s", "COMMUNAUTE": "8", "INSEE_COMM": null, "ID_CDECOMM": null, "SURFACE_UR": 0.0, "PERIODE": null, "SITUATION": null }, "geometry": { "type": "Point", "coordinates": [ 1.007942796072178, 44.779690170115551 ] } },
+{ "type": "Feature", "properties": { "NOM": null, "TYPOLOGIE": null, "TYPOLOGIE_": null, "COMMUNE": "Belv�s", "COMMUNAUTE": "8", "INSEE_COMM": null, "ID_CDECOMM": null, "SURFACE_UR": 0.0, "PERIODE": null, "SITUATION": null }, "geometry": { "type": "Point", "coordinates": [ 1.008256822633117, 44.773379124587009 ] } },
+{ "type": "Feature", "properties": { "NOM": null, "TYPOLOGIE": null, "TYPOLOGIE_": null, "COMMUNE": "Belv�s", "COMMUNAUTE": "8", "INSEE_COMM": null, "ID_CDECOMM": null, "SURFACE_UR": 0.0, "PERIODE": null, "SITUATION": null }, "geometry": { "type": "Point", "coordinates": [ 1.008771818027315, 44.772431807016311 ] } }
 ]
 }
