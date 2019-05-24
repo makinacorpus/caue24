@@ -18,9 +18,6 @@ Elles traduisent des perceptions propres à une organisation spécifique du reli
 
 **CLIQUEZ sur "Entités paysagères"**
 
-- Audrix voir Vallée Dordogne et Forêt Bessède
-- Limeuil voir Pays Vernois et Terroir de la Truffe
-
 ## Informations
 
 ### DE LA CONSTRUCTION TRADITIONNELLE A L’ARCHITECTURE CONTEMPORAINE
