@@ -1,7 +1,12 @@
 {
 "type": "FeatureCollection",
-"name": "8_geographie_1",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"name": "Points de vue",
+"color": "#E30613",
+"active": "true",
+"interactive": "true",
+"description": "Un sous-sol, un paysage",
+
 "features": [
 { "type": "Feature", "properties": { "NOM": null, "TYPOLOGIE": null, "TYPOLOGIE_": null, "TYPOLOGIE1": null, "TYPOLOGIE2": null, "ID_CC2014": null, "TOPONYMIE_": null, "COMMUNE": null }, "geometry": { "type": "Point", "coordinates": [ 1.030411005966722, 44.896029659172498 ] } },
 { "type": "Feature", "properties": { "NOM": null, "TYPOLOGIE": null, "TYPOLOGIE_": null, "TYPOLOGIE1": null, "TYPOLOGIE2": null, "ID_CC2014": null, "TOPONYMIE_": null, "COMMUNE": null }, "geometry": { "type": "Point", "coordinates": [ 1.014648309777399, 44.841741423852852 ] } },
