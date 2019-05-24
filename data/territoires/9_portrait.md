@@ -12,9 +12,9 @@ layout: page
 
 La Vallée de l’Homme, quelques chiffres : 
 
-- 26 communes sans compter Audrix et Limeuil
-- 15387 habitants (source INSEE)
-- superficie de 513 km2
+- 26 communes
+- 16128 habitants (source INSEE)
+- superficie de 538 km2
 
 **CLIQUEZ sur « Bourg »**
 
