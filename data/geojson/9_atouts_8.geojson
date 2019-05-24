@@ -1,0 +1,13 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"name": "Patrimoines en image",
+"color": "#f90510",
+"active": "true",
+"interactive": "true",
+"description": "Patrimoines architecturaux et paysagers de la commune",
+
+"features": [
+{ "type": "Feature", "properties": { "NOM": null, "TYPOLOGIE": null, "TYPOLOGIE_": null, "NOM_COM": "Audrix", "POP_UP": "PATRIM2" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ 0.942429363906138, 44.883134023973732 ], [ 0.951270564740024, 44.883281207817902 ], [ 0.95146926477855, 44.87731036908437 ], [ 0.942577517197323, 44.877198535793333 ], [ 0.942429363906138, 44.883134023973732 ] ] ] ] } }
+]
+}
