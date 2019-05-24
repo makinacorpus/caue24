@@ -6,7 +6,7 @@ layout: page
 
 ## Fenêtre modale
 
-### LES ZONES CONSTRUCTIBLES EN 2018
+### LES ZONES CONSTRUCTIBLES EN 2019
 
 La carte présente les terrains constructibles des PLU et cartes communales selon 4 grands types de zones :
 
@@ -17,8 +17,6 @@ La carte présente les terrains constructibles des PLU et cartes communales selo
 
 **CLIQUEZ sur "Documents d’urbanisme"**
 
-- Audrix voir Vallée Dordogne et Forêt Bessède
-- Limeuil voir Pays Vernois et Terroir de la Truffe
 
 ## Informations
 
@@ -36,7 +34,7 @@ La carte présente les terrains constructibles des PLU et cartes communales selo
 
 ## En savoir plus
 
-### UN POINT SUR LE TERRITOIRE EN 2018
+### UN POINT SUR LE TERRITOIRE EN 2019
 
 La surface des terrains est d’environ 2000 à 2500 m2, leurs problématiques principales sont la covisibilité et les terrains en pente. Chaque projet doit prendre en compte ces contraintes sans oublier celles des accès de l’orientation et des vues.
 
@@ -53,7 +51,7 @@ La surface des terrains est d’environ 2000 à 2500 m2, leurs problématiques p
 - 27 % en clairière
 - 25 % boisés
 
-### DOCUMENTS D’URBANISME DU TERRITOIRE EN 2018
+### DOCUMENTS D’URBANISME DU TERRITOIRE EN 2019
 
 **Plan Local d’Urbanisme (PLU)**
 
