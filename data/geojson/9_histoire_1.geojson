@@ -8,14 +8,16 @@
 "active": "true",
 "interactive": "true",
 "description": "Evolution urbaine d'un même lieu entre plusieurs époques",
-                                                                                
+
 "features": [
-{ "type": "Feature", "properties": { "COMMUNE": "Les Farges" }, "geometry": { "type": "Point", "coordinates": [ 1.187312236833762, 45.115340156151198 ] } },
-{ "type": "Feature", "properties": { "COMMUNE": "La Chapelle Aubareil" }, "geometry": { "type": "Point", "coordinates": [ 1.182591677502955, 45.012788884853968 ] } },
-{ "type": "Feature", "properties": { "COMMUNE": "Montignac centre" }, "geometry": { "type": "Point", "coordinates": [ 1.160903399582413, 45.065745823353495 ] } },
-{ "type": "Feature", "properties": { "COMMUNE": "Tursac" }, "geometry": { "type": "Point", "coordinates": [ 1.044500629608091, 44.968630907354587 ] } },
-{ "type": "Feature", "properties": { "COMMUNE": "Campagne" }, "geometry": { "type": "Point", "coordinates": [ 0.955033093631095, 44.893844641270775 ] } },
-{ "type": "Feature", "properties": { "COMMUNE": "Le Bugue" }, "geometry": { "type": "Point", "coordinates": [ 0.927023175393961, 44.919498722404413 ] } },
-{ "type": "Feature", "properties": { "COMMUNE": "St Avit de Vialard" }, "geometry": { "type": "Point", "coordinates": [ 0.868660206674646, 44.942759455810425 ] } }
+{ "type": "Feature", "properties": { "COMMUNE": "Limeuil", "COMMUNAUTE": "20" }, "geometry": { "type": "Point", "coordinates": [ 0.890459099025524, 44.884175329284389 ] } },
+{ "type": "Feature", "properties": { "COMMUNE": "St Avit de Vialard", "COMMUNAUTE": null }, "geometry": { "type": "Point", "coordinates": [ 0.868660206674646, 44.94275945581041 ] } },
+{ "type": "Feature", "properties": { "COMMUNE": "Campagne", "COMMUNAUTE": null }, "geometry": { "type": "Point", "coordinates": [ 0.955033093631095, 44.893844641270761 ] } },
+{ "type": "Feature", "properties": { "COMMUNE": "Le Bugue", "COMMUNAUTE": null }, "geometry": { "type": "Point", "coordinates": [ 0.927023175393961, 44.919498722404406 ] } },
+{ "type": "Feature", "properties": { "COMMUNE": "Audrix", "COMMUNAUTE": "8" }, "geometry": { "type": "Point", "coordinates": [ 0.947505147818194, 44.880013370065186 ] } },
+{ "type": "Feature", "properties": { "COMMUNE": "Tursac", "COMMUNAUTE": null }, "geometry": { "type": "Point", "coordinates": [ 1.044500629608091, 44.968630907354573 ] } },
+{ "type": "Feature", "properties": { "COMMUNE": "La Chapelle Aubareil", "COMMUNAUTE": null }, "geometry": { "type": "Point", "coordinates": [ 1.182591677502955, 45.012788884853954 ] } },
+{ "type": "Feature", "properties": { "COMMUNE": "Montignac centre", "COMMUNAUTE": null }, "geometry": { "type": "Point", "coordinates": [ 1.160903399582413, 45.065745823353474 ] } },
+{ "type": "Feature", "properties": { "COMMUNE": "Les Farges", "COMMUNAUTE": null }, "geometry": { "type": "Point", "coordinates": [ 1.187312236833762, 45.115340156151191 ] } }
 ]
 }

@@ -8,15 +8,17 @@
 "active": "true",
 "interactive": "true",
 "description": "Evolution du paysage à partir d'une carte postale ancienne",
-                                                                                
+
 "features": [
-{ "type": "Feature", "properties": { "COMMUNE": "Les Eyzies de Tayac Sireuil_centre" }, "geometry": { "type": "Point", "coordinates": [ 1.013417675069785, 44.935913606761261 ] } },
-{ "type": "Feature", "properties": { "COMMUNE": "St Léon sur Vézère" }, "geometry": { "type": "Point", "coordinates": [ 1.089222805181991, 45.010535075550905 ] } },
-{ "type": "Feature", "properties": { "COMMUNE": "Les Eyzies de Tayac Sireuil_coteau" }, "geometry": { "type": "Point", "coordinates": [ 1.018368101547261, 44.932770134558524 ] } },
-{ "type": "Feature", "properties": { "COMMUNE": "Rouffignac St Cernin de Reilhac" }, "geometry": { "type": "Point", "coordinates": [ 0.9789866112322, 45.046537660122702 ] } },
-{ "type": "Feature", "properties": { "COMMUNE": "Mauzens et Miremont" }, "geometry": { "type": "Point", "coordinates": [ 0.918674054036441, 44.993458579703436 ] } },
-{ "type": "Feature", "properties": { "COMMUNE": "Montignac Nord" }, "geometry": { "type": "Point", "coordinates": [ 1.164394942519855, 45.068130811228322 ] } },
-{ "type": "Feature", "properties": { "COMMUNE": "Montignac Sud" }, "geometry": { "type": "Point", "coordinates": [ 1.156696249723172, 45.061203016739384 ] } },
-{ "type": "Feature", "properties": { "COMMUNE": "St Amand de Coly" }, "geometry": { "type": "Point", "coordinates": [ 1.247450856880337, 45.063301486086644 ] } }
+{ "type": "Feature", "properties": { "COMMUNE": "Limeuil", "COMMUNAUTE": "20" }, "geometry": { "type": "Point", "coordinates": [ 0.890280079785166, 44.882292798159256 ] } },
+{ "type": "Feature", "properties": { "COMMUNE": "Limeuil", "COMMUNAUTE": "20" }, "geometry": { "type": "Point", "coordinates": [ 0.879485295325712, 44.883797265260185 ] } },
+{ "type": "Feature", "properties": { "COMMUNE": "Mauzens et Miremont", "COMMUNAUTE": null }, "geometry": { "type": "Point", "coordinates": [ 0.918674054036441, 44.993458579703407 ] } },
+{ "type": "Feature", "properties": { "COMMUNE": "Les Eyzies de Tayac Sireuil_centre", "COMMUNAUTE": null }, "geometry": { "type": "Point", "coordinates": [ 1.013417675069785, 44.93591360676124 ] } },
+{ "type": "Feature", "properties": { "COMMUNE": "Les Eyzies de Tayac Sireuil_coteau", "COMMUNAUTE": null }, "geometry": { "type": "Point", "coordinates": [ 1.018368101547261, 44.932770134558524 ] } },
+{ "type": "Feature", "properties": { "COMMUNE": "Rouffignac St Cernin de Reilhac", "COMMUNAUTE": null }, "geometry": { "type": "Point", "coordinates": [ 0.9789866112322, 45.046537660122681 ] } },
+{ "type": "Feature", "properties": { "COMMUNE": "St L�on sur V�z�re", "COMMUNAUTE": null }, "geometry": { "type": "Point", "coordinates": [ 1.089222805181991, 45.010535075550898 ] } },
+{ "type": "Feature", "properties": { "COMMUNE": "Montignac Nord", "COMMUNAUTE": null }, "geometry": { "type": "Point", "coordinates": [ 1.164394942519855, 45.068130811228315 ] } },
+{ "type": "Feature", "properties": { "COMMUNE": "Montignac Sud", "COMMUNAUTE": null }, "geometry": { "type": "Point", "coordinates": [ 1.156696249723172, 45.061203016739363 ] } },
+{ "type": "Feature", "properties": { "COMMUNE": "St Amand de Coly", "COMMUNAUTE": null }, "geometry": { "type": "Point", "coordinates": [ 1.247450856880337, 45.06330148608663 ] } }
 ]
 }
