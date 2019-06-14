@@ -6,4 +6,4 @@ layout: page
 
 **Clermont de Beauregard**
 
-Carte Communale
+Carte Communale intercommunale
