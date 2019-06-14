@@ -1,0 +1,20 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"name": "Points de vue",
+"color": "#E30613",
+"active": "true",
+"interactive": "true",
+"description": "Un sous-sol, un paysage",
+
+"features": [
+{ "type": "Feature", "properties": { "NOM": "POP 1" }, "geometry": { "type": "Point", "coordinates": [ 0.73641748736892, 45.068419999777163 ] } },
+{ "type": "Feature", "properties": { "NOM": "POP 2" }, "geometry": { "type": "Point", "coordinates": [ 0.659649331339384, 45.047104530257855 ] } },
+{ "type": "Feature", "properties": { "NOM": "POP 4" }, "geometry": { "type": "Point", "coordinates": [ 0.711879756508504, 44.985182751753129 ] } },
+{ "type": "Feature", "properties": { "NOM": "POP 5" }, "geometry": { "type": "Point", "coordinates": [ 0.671313129668181, 44.96900621347892 ] } },
+{ "type": "Feature", "properties": { "NOM": "POP 6" }, "geometry": { "type": "Point", "coordinates": [ 0.806415882202893, 44.934322852504081 ] } },
+{ "type": "Feature", "properties": { "NOM": "POP 3" }, "geometry": { "type": "Point", "coordinates": [ 0.853307749287192, 45.043757048680952 ] } },
+{ "type": "Feature", "properties": { "NOM": "POP 8" }, "geometry": { "type": "Point", "coordinates": [ 0.899654449357453, 44.890727509702089 ] } },
+{ "type": "Feature", "properties": { "NOM": "POP 7" }, "geometry": { "type": "Point", "coordinates": [ 0.876606691309358, 44.897586382133575 ] } }
+]
+}
