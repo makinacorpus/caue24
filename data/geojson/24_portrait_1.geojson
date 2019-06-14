@@ -5,7 +5,6 @@
 "active": "true",
 "description": "Localisation du centre bourg, population de la commune",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-
 "features": [
 { "type": "Feature", "properties": { "COMMUNE": "Salon" }, "geometry": { "type": "Point", "coordinates": [ 0.772932759245091, 45.01957501140982 ] } },
 { "type": "Feature", "properties": { "COMMUNE": "St Paul de Serre" }, "geometry": { "type": "Point", "coordinates": [ 0.633428015241359, 45.087363492987244 ] } },
@@ -23,7 +22,6 @@
 { "type": "Feature", "properties": { "COMMUNE": "Fouleix" }, "geometry": { "type": "Point", "coordinates": [ 0.681025889871918, 44.98422176886212 ] } },
 { "type": "Feature", "properties": { "COMMUNE": "St Amand de Vergt" }, "geometry": { "type": "Point", "coordinates": [ 0.697149250319174, 44.987313757962553 ] } },
 { "type": "Feature", "properties": { "COMMUNE": "Lacropte" }, "geometry": { "type": "Point", "coordinates": [ 0.831045332540922, 45.036376348097349 ] } },
-{ "type": "Feature", "properties": { "COMMUNE": "Limeuil" }, "geometry": { "type": "Point", "coordinates": [ 0.889083022279586, 44.883563567588553 ] } },
 { "type": "Feature", "properties": { "COMMUNE": "Paunat" }, "geometry": { "type": "Point", "coordinates": [ 0.859134571724234, 44.905441824299203 ] } },
 { "type": "Feature", "properties": { "COMMUNE": "Manzac sur vern" }, "geometry": { "type": "Point", "coordinates": [ 0.586398461775273, 45.088898586220836 ] } }
 ]
