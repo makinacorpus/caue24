@@ -1,11 +1,10 @@
 {
 "type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "name": "Documents d'urbanisme",
 "color": "#1D1D1B",
 "active": "true",
 "description": "Documents approuvés",
-                                                                                
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
 { "type": "Feature", "properties": { "COMMUNE": "Salon" }, "geometry": { "type": "Point", "coordinates": [ 0.77293275412604, 45.01957501116248 ] } },
 { "type": "Feature", "properties": { "COMMUNE": "Saint Paul de Serre" }, "geometry": { "type": "Point", "coordinates": [ 0.633428010068841, 45.087363492724982 ] } },
@@ -25,7 +24,7 @@
 { "type": "Feature", "properties": { "COMMUNE": "Fouleix" }, "geometry": { "type": "Point", "coordinates": [ 0.681025884724184, 44.984221768614532 ] } },
 { "type": "Feature", "properties": { "COMMUNE": "Saint Amand de Vergt" }, "geometry": { "type": "Point", "coordinates": [ 0.69714924517673, 44.987313757715377 ] } },
 { "type": "Feature", "properties": { "COMMUNE": "Lacropte" }, "geometry": { "type": "Point", "coordinates": [ 0.831045327440423, 45.036376347850869 ] } },
-{ "type": "Feature", "properties": { "COMMUNE": "Trémolat" }, "geometry": { "type": "Point", "coordinates": [ 0.830689914594049, 44.874938471677339 ] } },
+{ "type": "Feature", "properties": { "COMMUNE": "Manzac sur vern" }, "geometry": { "type": "Point", "coordinates": [ 0.586398461775273, 45.088898586220836 ] } },
 { "type": "Feature", "properties": { "COMMUNE": "Limeuil" }, "geometry": { "type": "Point", "coordinates": [ 0.889083017211228, 44.883563567363304 ] } },
 { "type": "Feature", "properties": { "COMMUNE": "Paunat" }, "geometry": { "type": "Point", "coordinates": [ 0.859134566643895, 44.90544182406984 ] } }
 ]

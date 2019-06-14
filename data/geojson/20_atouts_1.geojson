@@ -1,22 +1,19 @@
 {
 "type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "name": "Monument inscrit ou classé",
 "color": "#8B0E13",
 "active": "true",
-"interactive":"true",
+"interactive": "true",
 "description": "Protection des monuments historiques loi du 31 décembre 1913",
-                                                                                
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
 { "type": "Feature", "properties": { "COMMUNE": "SAINTE-ALVERE", "PROTECTION": "Inv.MH.", "PROCEDURE": "ARRETE PREFECTORAL", "TYPE": "FORTIFICATION" }, "geometry": { "type": "Point", "coordinates": [ 0.809082174464529, 44.946576944934741 ] } },
 { "type": "Feature", "properties": { "COMMUNE": "CENDRIEUX", "PROTECTION": "Inv.MH.", "PROCEDURE": "ARRETE PREFECTORAL", "TYPE": "EGLISE" }, "geometry": { "type": "Point", "coordinates": [ 0.824542314633939, 44.99594655508696 ] } },
 { "type": "Feature", "properties": { "COMMUNE": "SAINTE-ALVERE", "PROTECTION": "Inv.MH.", "PROCEDURE": "ARRETE PREFECTORAL", "TYPE": "EGLISE" }, "geometry": { "type": "Point", "coordinates": [ 0.807536724638688, 44.946573586506915 ] } },
 { "type": "Feature", "properties": { "COMMUNE": "CENDRIEUX", "PROTECTION": "Ins.MH.", "PROCEDURE": "ARRETE PREFECTORAL", "TYPE": "CHATEAU" }, "geometry": { "type": "Point", "coordinates": [ 0.837099764374179, 44.974561537284721 ] } },
-{ "type": "Feature", "properties": { "COMMUNE": "TREMOLAT", "PROTECTION": "Cl.MH.", "PROCEDURE": "ARRETE MINISTERIEL", "TYPE": "EGLISE" }, "geometry": { "type": "Point", "coordinates": [ 0.831018106317097, 44.875905539568556 ] } },
+{ "type": "Feature", "properties": { "COMMUNE": "Manzac Sur Vern", "PROTECTION": "Ins. MH.", "PROCEDURE": null, "TYPE": "architecture domestique" }, "geometry": { "type": "Point", "coordinates": [ 0.597115269689137, 45.086970790922599 ] } },
 { "type": "Feature", "properties": { "COMMUNE": "PAUNAT", "PROTECTION": "Cl.MH.", "PROCEDURE": "ARRETE MINISTERIEL", "TYPE": "EGLISE" }, "geometry": { "type": "Point", "coordinates": [ 0.858920117074542, 44.904935167007842 ] } },
-{ "type": "Feature", "properties": { "COMMUNE": "TREMOLAT", "PROTECTION": "Inv.MH.", "PROCEDURE": "ARRETE PREFECTORAL", "TYPE": "EGLISE" }, "geometry": { "type": "Point", "coordinates": [ 0.828686987105846, 44.874614277468879 ] } },
 { "type": "Feature", "properties": { "COMMUNE": "PAUNAT", "PROTECTION": "Inv.MH.", "PROCEDURE": "ARRETE PREFECTORAL", "TYPE": "BATIMENT CIVIL" }, "geometry": { "type": "Point", "coordinates": [ 0.858514535630608, 44.905910336931548 ] } },
-{ "type": "Feature", "properties": { "COMMUNE": "SAINT-LAURENT-DES-BATONS", "PROTECTION": "Part.Ins.", "PROCEDURE": "ARRETE PREFECTORAL", "TYPE": "CHATEAU" }, "geometry": { "type": "Point", "coordinates": [ 0.690209771889387, 44.956990274348115 ] } },
-{ "type": "Feature", "properties": { "COMMUNE": "LIMEUIL", "PROTECTION": "Cl.MH.", "PROCEDURE": "ARRETE MINISTERIEL", "TYPE": "EGLISE" }, "geometry": { "type": "Point", "coordinates": [ 0.898849088180377, 44.89104089530683 ] } }
+{ "type": "Feature", "properties": { "COMMUNE": "SAINT-LAURENT-DES-BATONS", "PROTECTION": "Part.Ins.", "PROCEDURE": "ARRETE PREFECTORAL", "TYPE": "CHATEAU" }, "geometry": { "type": "Point", "coordinates": [ 0.690209771889387, 44.956990274348115 ] } }
 ]
 }

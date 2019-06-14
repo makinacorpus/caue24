@@ -23,7 +23,6 @@
 { "type": "Feature", "properties": { "COMMUNE": "Fouleix" }, "geometry": { "type": "Point", "coordinates": [ 0.681025889871918, 44.98422176886212 ] } },
 { "type": "Feature", "properties": { "COMMUNE": "St Amand de Vergt" }, "geometry": { "type": "Point", "coordinates": [ 0.697149250319174, 44.987313757962553 ] } },
 { "type": "Feature", "properties": { "COMMUNE": "Lacropte" }, "geometry": { "type": "Point", "coordinates": [ 0.831045332540922, 45.036376348097349 ] } },
-{ "type": "Feature", "properties": { "COMMUNE": "Trémolat" }, "geometry": { "type": "Point", "coordinates": [ 0.830689919681644, 44.87493847190435 ] } },
 { "type": "Feature", "properties": { "COMMUNE": "Limeuil" }, "geometry": { "type": "Point", "coordinates": [ 0.889083022279586, 44.883563567588553 ] } },
 { "type": "Feature", "properties": { "COMMUNE": "Paunat" }, "geometry": { "type": "Point", "coordinates": [ 0.859134571724234, 44.905441824299203 ] } },
 { "type": "Feature", "properties": { "COMMUNE": "Manzac sur vern" }, "geometry": { "type": "Point", "coordinates": [ 0.586398461775273, 45.088898586220836 ] } }
