@@ -9,8 +9,8 @@ layout: page
 
 Vallée de la Dordogne et Forêt Bessède, quelques chiffres :
 
-- 20 communes et Audrix
-- 9497 habitants (source INSEE)
+- 20 communes
+- 9358 habitants (source INSEE)
 - superficie de 256 km2
 
 **CLIQUEZ sur « Bourg »**
