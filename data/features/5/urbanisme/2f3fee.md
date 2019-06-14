@@ -5,6 +5,4 @@ layout: page
 
 **Saint Georges de Monclar**
 
-Carte Communale
-
-
+Carte Communale intercommunale
