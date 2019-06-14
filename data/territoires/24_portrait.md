@@ -8,11 +8,7 @@ layout: page
 
 ### UN TERRITOIRE AUX DEUX VISAGES
 
-Pays Vernois et Terroir de la Truffe, quelques chiffres :
-
-- 17 communes et Limeuil et Trémolat
-- 8854 habitants hors Breuilh (source INSEE)
-- superficie de 340 km2
+Pays Vernois et Terroir de la Truffe
 
 **CLIQUEZ sur « Bourg »**
 
