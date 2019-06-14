@@ -7,6 +7,8 @@ layout: page
 
 ### 4 ENTITES PAYSAGERES CARACTERISENT LE PAYS VERNOIS ET TERROIR DE LA TRUFFE :
 
+Pays Vernois et Terroir de la Truffe
+
 - vallée du Vern
 - plateau boisé et agricole
 - vallées affluentes de la Dordogne
