@@ -6,4 +6,4 @@ layout: page
 
 **Saint Jean d’Estissac**
 
-Carte Communale
+Carte Communale intercommunale
