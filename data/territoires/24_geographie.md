@@ -6,6 +6,8 @@ layout: page
 
 ### UN SOUS-SOL – UN PAYSAGE
 
+Pays Vernois et Terroir de la Truffe
+
 La géologie est un élément fondateur pour la compréhension du paysage et de l’architecture locale.
 
 La carte représente les 4 types de sous-sol composant le territoire :
