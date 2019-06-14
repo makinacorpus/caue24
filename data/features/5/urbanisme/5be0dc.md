@@ -5,5 +5,4 @@ layout: page
 
 **Beleymas**
 
-Carte Communale
-
+Carte Communale intercommunale
