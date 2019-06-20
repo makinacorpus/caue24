@@ -23,7 +23,7 @@ Découvrez son Guide Méthodologique pour vous aider à construire
 
 <a href="https://fr.calameo.com/read/0049999953cf2e01ba03a " target="_blank">Vallée Dordogne </a>
 
-<a href="https://fr.calameo.com/read/00499999533fcd1c5cc00 " target="_blank">Vallée Dordogne Forêt Béssède </a>
+<a href="https://fr.calameo.com/read/00499999533fcd1c5cc00 " target="_blank">Vallée Dordogne Forêt Bessède </a>
 
 <a href="http://cauedordogne.com/25-fiches-conseils/ " target="_blank">Fiches conseil </a>
 
