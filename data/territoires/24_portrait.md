@@ -22,7 +22,7 @@ Découvrez ses Guides Méthodologiques pour vous aider à construire
 
 <a href="http://cauedordogne.com/25-fiches-conseils/ " target="_blank">Fiches conseil </a>
 
-
+![24_COUV_PAYS-VERNOIS_9-9web.jpg]({{site.baseurl}}/data/images/24/portrait/24_COUV_PAYS-VERNOIS_9-9web.jpg) ![24_COUV_TERROIR_TRUFFE_5-9web.jpg]({{site.baseurl}}/data/images/24/portrait/24_COUV_TERROIR_TRUFFE_5-9web.jpg)
 
 ## Informations
 
