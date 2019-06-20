@@ -8,6 +8,4 @@ layout: page
 Le coteau s’est boisé et la ripisylve s’est épaissie resserrant la fenêtre paysagère sur la Dordogne. Le bourg est aujourd’hui en partie masqué par la frondaison. L’île du bassin nautique est très arborée.
 
 
-![](/data/images/20/histoire/20_HISTOIRE_POPCP9.jpg)
-
-
+![](/data/images/24/histoire/20_HISTOIRE_POPCP9.jpg)
