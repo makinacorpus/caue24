@@ -1,0 +1,14 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"name": "Monument inscrit ou classé",
+"color": "#8B0E13",
+"active": "true",
+"interactive":"true",
+"description": "Protection des monuments historiques loi du 31 décembre 1913",
+
+"features": [
+{ "type": "Feature", "properties": { "INSEE": "24558", "PROTECTION": "Inv.MH.", "PROCEDURE": "ARRETE PREFECTORAL", "TYPE": "EGLISE" }, "geometry": { "type": "Point", "coordinates": [ 0.828686987105846, 44.874614277468851 ] } },
+{ "type": "Feature", "properties": { "INSEE": "24558", "PROTECTION": "Cl.MH.", "PROCEDURE": "ARRETE MINISTERIEL", "TYPE": "EGLISE" }, "geometry": { "type": "Point", "coordinates": [ 0.831018106317096, 44.875905539568542 ] } }
+]
+}
