@@ -22,7 +22,7 @@ Territoire réalisé avec la participation et le soutien de la Communauté de Co
 
 ![](/data/images/9/portrait/9_PORTRAIT_logo.jpg)
 
-Découvrez son Guide Méthodologique pour vous aider à construire
+Découvrez ses Guides Méthodologiques pour vous aider à construire
 
 <a href="https://fr.calameo.com/read/004999995554506cb2ba3 " target="_blank">Vallée Vézère </a>
 
