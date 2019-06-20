@@ -24,9 +24,9 @@ Territoire réalisé avec la participation et le soutien de la Communauté de Co
 
 <a href="http://cauedordogne.com/25-fiches-conseils/ " target="_blank">Fiches conseil </a>
 
-![04_COUV_SARLAT_SECT_Nord_5-8web.jpg]({{site.baseurl}}/data/images/4/portrait/04_COUV_SARLAT_SECT_Nord_5-8web.jpg)
+![04_COUV_SARLAT_SECT_Nord_5-4web.jpg]({{site.baseurl}}/data/images/4/portrait/04_COUV_SARLAT_SECT_Nord_5-4web.jpg)
 
-![04_COUV_SARLAT_SECT_SUD_5-9web.jpg]({{site.baseurl}}/data/images/4/portrait/04_COUV_SARLAT_SECT_SUD_5-9web.jpg)
+![04_COUV_SARLAT_SECT_SUD_5-4web.jpg]({{site.baseurl}}/data/images/4/portrait/04_COUV_SARLAT_SECT_SUD_5-4web.jpg)
 
 ## Informations
 PATRIMOINE ET ACCUEIL TOURISTIQUE EXCEPTIONNELS
