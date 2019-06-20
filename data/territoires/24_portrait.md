@@ -14,6 +14,16 @@ Pays Vernois et Terroir de la Truffe
 
 Territoire réalisé avec la participation et le soutien de la Communauté de Communes Pays Vernois et du Terroir de la Truffe, aujourd’hui : Le Grand Périgueux (1er janvier 2017 fusion avec Le Grand Périgueux), son siège est à Périgueux
 
+Découvrez ses Guides Méthodologiques pour vous aider à construire
+
+<a href="https://https://fr.calameo.com/read/004999995cd529ee1a16d " target="_blank">Pays Vernois </a>
+
+<a href="https://fr.calameo.com/read/004999995c0750a2fc642 " target="_blank">Terroir de la Truffe </a>
+
+<a href="http://cauedordogne.com/25-fiches-conseils/ " target="_blank">Fiches conseil </a>
+
+
+
 ## Informations
 
 ### DU NORD AU SUD, DES VISAGES DIFFERENTS
