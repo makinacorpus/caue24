@@ -24,7 +24,7 @@ Territoire réalisé avec la participation et le soutien de la Communauté de Co
 
 Découvrez son Guide Méthodologique pour vous aider à construire
 
-<a href="https://fr.calameo.com/read/004999995554506cb2ba3 " target="_blank">Vallée Vézèez </a>
+<a href="https://fr.calameo.com/read/004999995554506cb2ba3 " target="_blank">Vallée Vézère </a>
 
 <a href="https://fr.calameo.com/read/004999995b117ccc126fa " target="_blank">Terre de Cromagnon </a>
 
