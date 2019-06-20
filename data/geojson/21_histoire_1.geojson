@@ -10,6 +10,6 @@
 "description": "Evolution urbaine d'un même lieu entre plusieurs époques",
 
 "features": [
-{ "type": "Feature", "properties": { "NOM": "POPB2", "COMMUNE": "Tr�molat" }, "geometry": { "type": "Point", "coordinates": [ 0.830457692141005, 44.875574037411475 ] } }
+{ "type": "Feature", "properties": { "NOM": "POPB2", "COMMUNE": "Trémolat" }, "geometry": { "type": "Point", "coordinates": [ 0.830457692141005, 44.875574037411475 ] } }
 ]
 }
