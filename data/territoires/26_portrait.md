@@ -15,9 +15,9 @@ Découvrez une partie de ce territoire en consultant les cahiers de recommandati
 
 <a href="http://cauedordogne.com/25-fiches-conseils/ " target="_blank">Fiches conseil </a>
 
-![26_COUV_Hautefort_web_6-0.jpg]({{site.baseurl}}/data/images/26/portrait/26_COUV_Hautefort_web_6-0.jpg)
+![26_COUV_Hautefort_web_5-4.jpg]({{site.baseurl}}/data/images/26/portrait/26_COUV_Hautefort_web_5-4.jpg)
 
-![26_COUV_Causses_et_Vezere_web_6-0.jpg]({{site.baseurl}}/data/images/26/portrait/26_COUV_Causses_et_Vezere_web_6-0.jpg)
+![26_COUV_Causses_et_Vezere_web_5-4.jpg]({{site.baseurl}}/data/images/26/portrait/26_COUV_Causses_et_Vezere_web_5-4.jpg)
 
 
 ## Informations
