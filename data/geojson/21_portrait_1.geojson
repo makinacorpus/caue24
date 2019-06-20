@@ -1,0 +1,13 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"name": "Bourg",
+"color": "#E30613",
+"active": "true",
+"interactive": "true",
+"description": "Localisation du centre bourg, population de la commune",
+
+"features": [
+{ "type": "Feature", "properties": { "COMMUNE": "Trémolat" }, "geometry": { "type": "Point", "coordinates": [ 0.830689914594049, 44.874938471677318 ] } }
+]
+}
