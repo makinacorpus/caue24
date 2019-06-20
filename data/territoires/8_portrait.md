@@ -19,7 +19,7 @@ Territoire réalisé avec la participation et le soutien de la Communauté de Co
 
 ![08_PORTRAIT_logo.jpg]({{site.baseurl}}/data/images/8/portrait/08_PORTRAIT_logo.jpg)
 
-Découvrez son Guide Méthodologique pour vous aider à construire
+Découvrez ses Guides Méthodologiques pour vous aider à construire
 
 <a href="https://fr.calameo.com/read/0049999953cf2e01ba03a " target="_blank">Vallée Dordogne </a>
 
