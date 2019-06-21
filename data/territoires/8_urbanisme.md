@@ -9,10 +9,10 @@ layout: page
 
 La carte présente les terrains constructibles des PLU et cartes communales selon 4 grands types de zones :
 
-- zones diffuses 63 % des espaces constructibles
-- zones urbaines 26 % des espaces constructibles
-- zones artisanales et de loisirs 9 % des espaces constructibles
-- zones à aménager 2 % des espaces constructibles 
+- zones diffuses 62% des espaces constructibles
+- zones urbaines 26% des espaces constructibles
+- zones artisanales et de loisirs 10% des espaces constructibles
+- zones à aménager 2% des espaces constructibles 
 
 **CLIQUEZ sur chaque point bourg pour connaître le document d’urbanisme en vigueur**
 
@@ -32,21 +32,22 @@ La carte présente les terrains constructibles des PLU et cartes communales selo
 ### UN POINT SUR LE TERRITOIRE EN 2019
 
 6% de son territoire sont en zones constructibles.
-17 communes ont un document d’urbanisme (PLU ou carte communale), 5 communes n’en possèdent pas.
+15 communes ont un document d’urbanisme (PLU ou carte communale), 5 communes n’en possèdent pas.
 La surface des terrains constructibles de ces dernières années est d’environ 2000 à 2500 m2. Les problématiques principales de ces terrains sont la covisibilité, la pente et la confrontation aux bourgs existants. Chaque projet doit prendre en compte ces contraintes sans oublier celles des accès, de l’orientation et des vues.
 
 **Répartition géographique des surfaces constructibles :**
 
-- sur les plateaux-plaine 35 %
-- sur les pentes 30 %
-- en vallée 19 %
-- en ligne de crête 16 %
+- sur les plateaux-plaine 34%
+- sur les pentes 30%
+- en vallée 20%
+- en ligne de crête 15%
 
 
 **Qualification des espaces constructibles :**
 
-- 80 % non boisés
-- 20 % boisés
+- 48% non boisés
+- 34% en clairière
+- 19% boisés
 
 et
 
@@ -63,7 +64,7 @@ et
 Siorac-en-Périgord et Coux-et-Bigaroque possèdent un PLU. Le PLU est un document d’urbanisme qui, à l’échelle d’une commune ou d’un groupement de communes (EPCI), établit un projet global d’urbanisme et d’aménagement et fixe en conséquence les règles générales d’utilisation du sol sur le territoire considéré. Il détermine les modalités d’implantation sur les parcelles (types de constructions autorisées, densités, règles de recul, aspect des constructions, stationnement, espaces verts…). Le PLU peut contenir des orientations d’aménagement et de programmation.
 
 **Cartes Communales**.
-Les communes d’Audrix, Pays de Belvès, Berbiguières, Bézenac, Castels, Mouzens, Grives, Larzac, Marnac, Meyrals, Monplaisant, Saint-Cyprien, Saint-Germain-de-Belvès, Saint-Pardoux-et-Vielvic, Sainte-Foy-de-Belvès ont une carte communale approuvée.
+Les communes de Pays de Belvès, Berbiguières, Bézenac, Castels, Mouzens, Grives, Larzac, Marnac, Meyrals, Monplaisant, Saint-Cyprien, Saint-Germain-de-Belvès, Saint-Pardoux-et-Vielvic, Sainte-Foy-de-Belvès ont une carte communale approuvée.
 La carte communale est un document d’urbanisme simple qui délimite les secteurs de la commune où les permis de construire peuvent être délivrés. Ce sont les dispositions du règlement national d’urbanisme (RNU) qui s’y appliquent.
 
 **Le principe de constructibilité limitée.**
