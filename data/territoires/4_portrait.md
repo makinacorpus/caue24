@@ -18,6 +18,8 @@ Territoire réalisé avec la participation et le soutien de la Communauté de Co
 
 ![4_PORTRAIT_LOGO2.jpg]({{site.baseurl}}/data/images/4/portrait/4_PORTRAIT_LOGO2.jpg)
 
+Découvrez ses Guides Méthodologiques pour vous aider à construire
+
 <a href="https://fr.calameo.com/read/004999995c73624de7af4 " target="_blank">Sarlat Périgord Noir Nord </a>
 
 <a href="https://fr.calameo.com/read/0049999951804571d2a2a " target="_blank">Sarlat Périgord Noir Sud </a>
