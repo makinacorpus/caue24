@@ -14,10 +14,10 @@ La géologie est un élément fondateur pour la compréhension du paysage et de 
 
 La carte représente les 4 types de sous-sol composant le territoire :
 
-- le calcaire du crétacé
-- les dépôts superficiels et sable
+- les terrasses alluviales et les alluvions de fond de vallée
 - les altérites argilo-sableuses
-- les alluvions
+- les dépôts superficiels et sable
+- le calcaire du Crétacé
 
 **CLIQUEZ sur «Points de vue»**
 
@@ -68,49 +68,3 @@ Présente majoritairement sur les plateaux, elle couvre 55 % du territoire. Le s
 ![Tuiles canal sur toits à faible pente]({{site.baseurl}}/data/images/5/geographie/05_GEOGRAPHIE-13.jpg)
 ![Tuiles plates sur toit à forte pente]({{site.baseurl}}/data/images/5/geographie/05_GEOGRAPHIE-14.jpg)
 ![Bardage bois, tuiles mécaniques]({{site.baseurl}}/data/images/5/geographie/05_GEOGRAPHIE-15.jpg)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
