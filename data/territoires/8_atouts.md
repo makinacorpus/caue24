@@ -40,7 +40,7 @@ Qu’ils soient reconnus comme site inscrit ou sans protection, les centres bour
 
 **Patrimoine architectural**
 
-Du patrimoine reconnu inscrit ou classé existe dans 19 communes. Des églises romanes au clocher-peigne ou au clocher plus récent, installées aussi bien au cœur des bourgs qu’isolées et entourées de leur cimetière. Des châteaux discrets dans leur cadre de verdure. De l’architecture rurale traditionnelle composée des fermes regroupées autour de leur cour à l’image du Sarladais implantées au centre de leurs terres ou dans les hameaux. Une architecture utilisant la pierre locale aux couleurs variées.
+Du patrimoine reconnu inscrit ou classé existe dans de nombreuses communes. Des églises romanes au clocher-peigne ou au clocher plus récent, installées aussi bien au cœur des bourgs qu’isolées et entourées de leur cimetière. Des châteaux discrets dans leur cadre de verdure. De l’architecture rurale traditionnelle composée des fermes regroupées autour de leur cour à l’image du Sarladais implantées au centre de leurs terres ou dans les hameaux. Une architecture utilisant la pierre locale aux couleurs variées.
 
 **Patrimoine de pays**
 
