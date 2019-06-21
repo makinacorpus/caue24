@@ -12,8 +12,8 @@ La géologie est un élément fondateur pour la compréhension du paysage et de 
 La carte représente les 3 types de sous-sol du territoire dont le calcaire du crétacé est la principale composante :
 
 - les terrasses alluviales et les alluvions de fond de vallée
+- les dépôts superficiels et sables
 - le calcaire du crétacé
-- les dépôts superficiels et sables.
 
 **CLIQUEZ sur «Points de vue » et «Coupe transversale»**
 
