@@ -14,13 +14,13 @@ La géologie est un élément fondateur pour la compréhension du paysage et de 
 
 La carte représente les 7 types de sous-sol composant le territoire :
 
-- le calcaire jurassique
-- le calcaire crétacé
+- les terrasses alluviales et les alluvions de fond de vallée
 - les dépôts superficiels et sables
 - les altérites argilo-sableuses
-- les molasses 
 - les calcaires lacustres
-- les alluvions
+- les molasses 
+- le calcaire du Crétacé
+- le calcaire du Jurassique
 
 **CLIQUEZ sur «Points de vue»**
 
@@ -72,6 +72,3 @@ Le taux de boisement est de 51% sur le territoire. Dans les vallées, la forêt 
 ![Encadrement en pierre de taille et rang de génoise]({{site.baseurl}}/data/images/8/geographie/08_GEOGRAPHIE_12.JPG)
 ![Variété de matériaux de couverture, porche au linteau cintré en pierre de taille]({{site.baseurl}}/data/images/8/geographie/08_GEOGRAPHIE_13.JPG)
 ![Murs et murets en pierre formant des terrasses]({{site.baseurl}}/data/images/8/geographie/08_GEOGRAPHIE_14.JPG)
-
-
-
