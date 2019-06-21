@@ -11,9 +11,9 @@ layout: page
 La carte présente les terrains constructibles des PLU et cartes communales selon 4 grands types de zones :
 
 - zones urbaines 30% des espaces constructibles
-- zones diffuses 45% des espaces constructibles
+- zones diffuses 43% des espaces constructibles
 - zones à aménager 11% des espaces constructibles
-- zones artisanales et de loisirs 14 % des espaces constructibles
+- zones artisanales et de loisirs 16% des espaces constructibles
 
 **CLIQUEZ sur "Documents d’urbanisme"**
 
@@ -24,11 +24,11 @@ La carte présente les terrains constructibles des PLU et cartes communales selo
 **Le diaporama illustre ces interrogations :**
 
 - Comment adapter des pavillons de plain-pied sur les terrains pentus ? 
-28% des terrains constructibles situés dans la pente.
+27% des terrains constructibles situés dans la pente.
 - Comment réaliser une maison en correspondance avec le paysage ?
-14% des terrains en covisibilité sur le haut des pentes ou en ligne de crête. Toute construction y est très visible. 
+13% des terrains en covisibilité sur le haut des pentes ou en ligne de crête. Toute construction y est très visible. 
 - Comment s’implanter sur son terrain pour avoir des espaces extérieurs privatifs ? et optimiser sa parcelle ?
-53%  des terrains situés en vallée avec des dimensions de plus en plus modestes.
+54%  des terrains situés en vallée avec des dimensions de plus en plus modestes.
 
 
 ## En savoir plus
@@ -47,11 +47,11 @@ La surface des terrains est d’environ 2000m2 à 2500m2 dans les documents d’
 
 **Qualification des espaces constructibles :**
 
-- 76% non boisés
-- 13% en clairière
-- 11% boisés
+- 75% non boisés
+- 15% en clairière
+- 10% boisés
 
-Enfin, 32% des terrains situés en ligne de crête ou sur les pentes des coteaux calcaires Nord et Sud, en forte covisibilité.
+Enfin, 33% des terrains situés en ligne de crête ou sur les pentes des coteaux calcaires Nord et Sud, en forte covisibilité.
 
 
 ### DOCUMENTS D'URBANISME DU TERRITOIRE EN 2019
@@ -59,7 +59,7 @@ Enfin, 32% des terrains situés en ligne de crête ou sur les pentes des coteaux
 **Plan Local d’Urbanisme**, approuvé ou en cours de validation dans les communes de Chantérac, Douzillac, Léguillac-de-l’Auche, Montrem, Neuvic-sur-l’Isle, St-Astier, St-Germain-du-Salembre, Sourzac et St-Léon-sur-l’Isle.
 Le Plan Local d’Urbanisme (PLU) est un document d’urbanisme qui, à l’échelle d’une commune ou d’un groupement de communes (EPCI), établit un projet global d’urbanisme et d’aménagement et fixe en conséquence les règles générales d’utilisation du sol sur le territoire considéré.
 
-**Carte Communale**, approuvée dans les communes de Beauronne, Grignols, Jaure, Manzac-sur-Vern, St-Aquilin, St-Jean-d’Ataux, St-Séverin-d’Estissac et Vallereuil.
+**Carte Communale**, approuvée dans les communes de Beauronne, Grignols, Jaure, St-Aquilin, St-Jean-d’Ataux, St-Séverin-d’Estissac et Vallereuil.
 La carte communale est un document d’urbanisme simple qui délimite les secteurs de la commune où les permis de construire peuvent être délivrés .
 Contrairement au PLU, elle ne peut pas réglementer de façon détaillée les modalités d’implantation sur les parcelles (types de constructions autorisées, densités, règles de recul, aspect des constructions, stationnement, espaces verts…) et elle ne peut contenir des orientations d’aménagement. Ce sont les dispositions du Règlement National d’Urbanisme (RNU) qui s’y appliquent.
 
