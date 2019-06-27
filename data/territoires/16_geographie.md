@@ -11,11 +11,11 @@ La géologie est un élément fondateur pour la compréhension du paysage et de 
 
 La carte représente les 5 types de sous-sol composant le territoire :
 
-- le calcaire jurassique
-- le calcaire crétacé
-- les dépôts superficiels et sables
-- les altérites argilo-sableuses
 - les alluvions
+- les altérites argilo-sableuses
+- les dépôts superficiels et sables
+- le calcaire du Crétacé
+- le calcaire du Jurassique
 
 **CLIQUEZ sur «Points de vue»**
 
@@ -60,5 +60,3 @@ Deux bassins versants se déploient sur le territoire : ceux de la Nizonne et de
 ![Brisis en ardoise, lucarne et corniche en pierre taillée]({{site.baseurl}}/data/images/16/geographie/16_GEO_13.jpg)
 ![Linteau cintré en pierre, lucarne fenière à l’aplomb du mur]({{site.baseurl}}/data/images/16/geographie/16_GEO_14.jpg)
 ![Piles en pierre de taille]({{site.baseurl}}/data/images/16/geographie/16_GEO_15.jpg)
-
-
