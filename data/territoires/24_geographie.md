@@ -12,10 +12,10 @@ La géologie est un élément fondateur pour la compréhension du paysage et de 
 
 La carte représente les 4 types de sous-sol composant le territoire :
 
-- les dépôts superficiels et sables
-- les altérites et colluvions
-- le calcaire du crétacé
 - les terrasses alluviales
+- les altérites et colluvions
+- les dépôts superficiels et sables
+- le calcaire du crétacé
 
 **CLIQUEZ sur «Points de vue»**
 
