@@ -10,10 +10,10 @@ layout: page
 
 La carte présente les terrains constructibles des PLU et cartes communales selon 4 grands types de zones :
 
-- zones urbaines 18 % des espaces constructibles
-- zones diffuses 61 % des espaces constructibles
-- zones à aménager 7 % des espaces constructibles 
-- zones artisanales et de loisirs 14 % des espaces constructibles
+- zones urbaines 17% des espaces constructibles
+- zones diffuses 63% des espaces constructibles
+- zones à aménager 6% des espaces constructibles 
+- zones artisanales et de loisirs 14% des espaces constructibles
 
 **CLIQUEZ sur "Documents d’urbanisme"**
 
@@ -27,7 +27,7 @@ La carte présente les terrains constructibles des PLU et cartes communales selo
 - Comment réaliser une maison en correspondance avec le paysage ?
 27 % des terrains en forte covisibilité. Toute construction y est très visible. 
 - Comment adapter les constructions aux terrains pentus ? 
-20 % des terrains constructibles situés dans la pente.
+21% des terrains constructibles situés dans la pente.
 - Comment s’implanter sur son terrain ? Comment composer avec la végétation existante ? Les terrains ont encore de grandes dimensions, un accompagnement végétal est essentiel.
 
 
@@ -40,16 +40,16 @@ La surface des terrains est d’environ 2000 à 2500 m2, leurs problématiques p
 
 **Répartition géographique des surfaces constructibles :** 
 
-- en vallée 30 %
-- sur les plateaux 29 %
-- sur les pentes 20 %
-- en ligne de crête 21 %
+- en vallée 29%
+- sur les plateaux 31 %
+- sur les pentes 21%
+- en ligne de crête 19%
 
 **Qualification des surfaces constructibles :**
 
 - 48 % non boisés
-- 27 % en clairière
-- 25 % boisés
+- 26 % en clairière
+- 26 % boisés
 
 ### DOCUMENTS D’URBANISME DU TERRITOIRE EN 2019
 
@@ -60,7 +60,7 @@ Le PLU est un document d’urbanisme qui, à l’échelle d’une commune ou d�
 
 **Cartes Communales**
 
-approuvées dans les communes d’Aubas, Fleurac, Journiac, La-Chapelle-Aubareil, Les-Eyzies-de-Tayac-Sireuil, Manaurie, Mauzens-et-Miremont, Peyzac-le-Moustier, Plazac, Coly-St-Amand, St-Avit-de-Vialard, St-Chamassy, St Cirq, St-Félix-de-Reillac-et-Mortemart, Savignac-de-Miremont et Tursac.
+approuvées dans les communes d’Aubas, Audrix, Fleurac, Journiac, La-Chapelle-Aubareil, Les-Eyzies-de-Tayac-Sireuil, Limeuil, Manaurie, Mauzens-et-Miremont, Peyzac-le-Moustier, Plazac, Coly-St-Amand, St-Avit-de-Vialard, St-Chamassy, St Cirq, St-Félix-de-Reillac-et-Mortemart, Savignac-de-Miremont et Tursac.
 La carte communale est un document d’urbanisme simple qui délimite les secteurs de la commune où les permis de construire peuvent être délivrés. Ce sont les dispositions du règlement national d’urbanisme qui s’y appliquent.
 
 **Plan de Prévention des Risques d’Inondation (PPRI)**
