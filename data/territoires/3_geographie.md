@@ -51,7 +51,7 @@ Trois composantes sont essentielles à la présence de forges sur un territoire 
 ![Mur en gneiss, quartz et reliquat d'enduit chaux sable]({{site.baseurl}}/data/images/3/geographie/03_GEOGRAPHIE_03.jpg)
 ![Appareillage de petits moellons, calcaire du crétacé et altérites]({{site.baseurl}}/data/images/3/geographie/03_GEOGRAPHIE_04.jpg)
 ![Maçonnerie hétérogène : schiste, altérites et briquettes]({{site.baseurl}}/data/images/3/geographie/03_GEOGRAPHIE_05.jpg)
-![Mur en schiste, chaînage d'angle et jambage en gratin, linteau en bois]({{site.baseurl}}/data/images/3/geographie/03_GEOGRAPHIE_06.jpg)
+![Mur en schiste, chaînage d'angle et jambage en granite, linteau en bois]({{site.baseurl}}/data/images/3/geographie/03_GEOGRAPHIE_06.jpg)
 ![Mur en schiste, chaînage d'angle et jambage en gratin, linteau en bois]({{site.baseurl}}/![Mur en moellon, calcaire du crétacé et altérites]({{site.baseurl}}/data/images/3/geographie/03_GEOGRAPHIE_07.jpg)
 ![Mur et arc de décharge en schiste, linteau et jambage en granit]({{site.baseurl}}/data/images/3/geographie/03_GEOGRAPHIE_08.jpg)
 ![Mur et arc de décharge en schiste, linteau et jambage en granit]({{site.baseurl}}/![Jambage, linteau sculpté et corniche en calcaire du crétacé, tendre à la taille]({{site.baseurl}}/data/images/3/geographie/03_GEOGRAPHIE_09.jpg)
@@ -61,10 +61,3 @@ Trois composantes sont essentielles à la présence de forges sur un territoire 
 ![Piles en pierre de taille]({{site.baseurl}}/data/images/3/geographie/03_GEOGRAPHIE_13.jpg)
 ![Maçonnerie hétérogène, gneiss et calcaire, étage en pan de bois remplissage torchis]({{site.baseurl}}/data/images/3/geographie/03_GEOGRAPHIE_14.jpg)
 ![Ossature bois à remplissage pierres et enduit]({{site.baseurl}}/data/images/3/geographie/03_GEOGRAPHIE_15.jpg)
-
-
-
-
-
-
-
