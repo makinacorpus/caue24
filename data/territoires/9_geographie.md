@@ -12,10 +12,10 @@ La géologie est un élément fondateur pour la compréhension du paysage et de 
 La carte représente les 5 types de sous-sol composant le territoire :
 
 - les terrasses alluviales et les alluvions de fond de vallée
-- le calcaire du crétacé
-- le calcaire du jurassique
 - les altérites et colluvions
 - les dépôts superficiels et sables
+- le calcaire du Crétacé
+- le calcaire du Jurassique
 
 **CLIQUEZ sur «Points de vue»**
 
