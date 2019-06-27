@@ -53,7 +53,7 @@ Les façades sont percées de plus larges ouvertures : le confort domestique et 
 
 L'utilisation systématique de la voiture et le développement des réseaux d'adduction d'eau permettent d'implanter sa maison à l'écart des centres-bourgs. Elles se construisent néanmoins en proche périphérie ou continuent de s'implanter le long des voies routières. Peu à peu, on passe des maisons à étage à des maisons en rez-de-chaussée. Les opérations de lotissement se poursuivent sur plusieurs communes, proches des centres-bourgs, des entreprises et des industries génératrices d'emploi. Les équipements publics sont améliorés dans les grands bourgs. Dans les hameaux, c'est le début de la déprise agricole et des parcelles sont vendues pour la construction individuelle. 
 
-**DE 2000 A 2018**
+### DE 2000 A 2018
 
 Les modes d'implantation de la période précédente s'accentuent. Les maisons individuelles s'éloignent plus franchement des bourgs et s'isolent au milieu de leur grande parcelle, avec un grand recul par rapport à la voirie. La recherche d'isolement, d'espace et de vues s'affirme. Leur développement reste influencé par les pôles offrant de l'emploi ou une bonne desserte routière. Quelques opérations de lotissement en centre-bourg tendent à conserver une certaine densité et à maintenir la démographie. L'affaiblissement important de l'activité agricole entraine l'acquisition et la réhabilitation d'anciens corps de fermes pour l'habitat ou pour des projets touristiques. Enfin, de nombreuses communes entreprennent la restauration et l'embellissement de leurs espaces publics afin d'appuyer leur développement touristique.
 
