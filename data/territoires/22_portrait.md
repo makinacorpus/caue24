@@ -7,7 +7,7 @@ layout: page
 
 ### GUIDE METHODOLOGIQUE POUR VOUS AIDEZ A CONSTRUIRE
 
-Découvrez ce territoire en consultant les cahiers de recommandations et les fiches conseil sur le site du CAUE Dordogne **Cliquez sur les liens suivant**
+Découvrez ce territoire en consultant les cahiers de recommandations et les fiches conseil sur le site du CAUE Dordogne
 
 <a href="https://fr.calameo.com/read/004999995e5f8202c8c61 " target="_blank">Val et coteaux d'Eymet </a>
 
