@@ -6,7 +6,7 @@ layout: page
 ## Fenêtre modale
 ### GUIDE METHODOLOGIQUE POUR VOUS AIDEZ A CONSTRUIRE
 
-Découvrez une partie de ce territoire en consultant les cahiers de recommandations et les fiches conseil sur le site du CAUE Dordogne **Cliquez sur les liens suivant**
+Découvrez une partie de ce territoire en consultant les cahiers de recommandations et les fiches conseil sur le site du CAUE Dordogne **Cliquez sur les liens suivants**
 
 <a href="https://fr.calameo.com/read/004999995586e1f708eb5 " target="_blank">Bergerac Pourpre </a>
 
