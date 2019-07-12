@@ -44,7 +44,7 @@ Animations, marchés hebdomadaires ou occasionnels, potagers collectifs ou simpl
 
 **La géologie**
 
-La richesse géologique de Périgord-Limousin est la base de la diversité de ces paysages. La roche en elle-même constitue un atout ; quartz, diorite, granit ou or sont exploités par les carrières ou présentés au public dans les musées. Plusieurs sentiers d’interprétation mettent en valeur ces éléments naturels. Des animations, taille de pierre et orpaillage complètent cette découverte.
+La richesse géologique de Périgord-Limousin est la base de la diversité de ces paysages. La roche en elle-même constitue un atout ; quartz, diorite, granite ou or sont exploités par les carrières ou présentés au public dans les musées. Plusieurs sentiers d’interprétation mettent en valeur ces éléments naturels. Des animations, taille de pierre et orpaillage complètent cette découverte.
 Les nombreux plans d’eau et cours d’eau sont propices aux activités de plein-air telles que les baignades, la pêche et les promenades.
 
 **Les voies historiques**
