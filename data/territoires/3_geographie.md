@@ -49,7 +49,7 @@ Trois composantes sont essentielles à la présence de forges sur un territoire 
 ![Mur en pierre de taille à joint sec, calcaire jurassique]({{site.baseurl}}/data/images/3/geographie/03_GEOGRAPHIE_01.jpg)
 ![Mur en schiste et ardoise, jointé avec un enduit chaux sable clair]({{site.baseurl}}/data/images/3/geographie/03_GEOGRAPHIE_02.jpg)
 ![Mur en gneiss, quartz et reliquat d'enduit chaux sable]({{site.baseurl}}/data/images/3/geographie/03_GEOGRAPHIE_03.jpg)
-![Appareillage de petits moellons, calcaire du Crétacé et altérites]({{site.baseurl}}/data/images/3/geographie/03_GEOGRAPHIE_04.jpg)
+![Appareillage de petits moellons, calcaire dur du Crétacé et altérites]({{site.baseurl}}/data/images/3/geographie/03_GEOGRAPHIE_04.jpg)
 ![Maçonnerie hétérogène : schiste, altérites et briquettes]({{site.baseurl}}/data/images/3/geographie/03_GEOGRAPHIE_05.jpg)
 ![Mur en schiste, chaînage d'angle et jambage en granite, linteau en bois]({{site.baseurl}}/data/images/3/geographie/03_GEOGRAPHIE_06.jpg)
 ![Mur en moellon, calcaire du Crétacé et altérites]({{site.baseurl}}/data/images/3/geographie/03_GEOGRAPHIE_07.jpg)
