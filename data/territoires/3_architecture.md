@@ -79,7 +79,7 @@ La maison à forte pente se fait rare. Les pavillons cherchent leurs référence
 ![Immeuble sur 3 niveaux, donnant sur la place]({{site.baseurl}}/data/images/3/architecture/03_ARCHITECTURE_07.jpg)
 ![Deux granges-étables dans un même volume]({{site.baseurl}}/data/images/3/architecture/03_ARCHITECTURE_08.jpg)
 ![Grange-étable, lucarne fenière sur porte charretière]({{site.baseurl}}/data/images/3/architecture/03_ARCHITECTURE_09.jpg)
-![Réhabilitation d’une ferme en locaux publics]({{site.baseurl}}/data/images/3/architecture/03_ARCHITECTURE_10.jpg)
+![Réhabilitation d’une ferme en locaux publics]({{site.baseurl}}/data/images/3/architecture/03_ARCHITECTURE_10b.jpg)
 ![Traitement contemporain d’ouvertures de grange]({{site.baseurl}}/data/images/3/architecture/03_ARCHITECTURE_11.jpg)
 ![Pavillon à rez-de-chaussée sur sous-sol]({{site.baseurl}}/data/images/3/architecture/03_ARCHITECTURE_12.jpg)
 ![Construction bois adossée à un boisement]({{site.baseurl}}/data/images/3/architecture/03_ARCHITECTURE_13.jpg)
