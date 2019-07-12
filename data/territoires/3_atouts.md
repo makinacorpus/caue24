@@ -94,5 +94,5 @@ Des zones artisanales et commerciales à proximité des réseaux routiers favori
 ![Piste cycle, ancienne voie ferrée Thiviers-Brive]({{site.baseurl}}/data/images/3/atouts/03_ATOUT_11.jpg)
 ![Plan d’eau pour baignade]({{site.baseurl}}/data/images/3/atouts/03_ATOUT_12.jpg)
 ![Ponton de pêche]({{site.baseurl}}/data/images/3/atouts/03_ATOUT_13.jpg)
-![Gare sur la ligne Périgueux-Limoges]({{site.baseurl}}/data/images/3/atouts/03_ATOUT_14.jpg)
+![Gare sur la ligne Périgueux-Limoges]({{site.baseurl}}/data/images/3/atouts/03_ATOUT_14b.jpg)
 ![Exploitation du bois dans scierie]({{site.baseurl}}/data/images/3/atouts/03_ATOUT_15.jpg)
