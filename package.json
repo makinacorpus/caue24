@@ -22,7 +22,7 @@
     "jest": "~24.1.0",
     "jest-puppeteer": "~4.0.0",
     "less": "~3.9.0",
-    "puppeteer": "~1.12.2",
+    "puppeteer": "~1.19.0",
     "serve": "~10.1.2"
   },
   "jest": {

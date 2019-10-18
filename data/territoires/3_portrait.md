@@ -54,11 +54,9 @@ De l’architecture castrale à l’architecture rurale en passant par les édif
 ![Bourg structuré autour de la route nationale ]({{site.baseurl}}/data/images/3/portrait/03_PORTRAIT_07.jpg)
 ![Hameau en implantation dominante sur le plateau]({{site.baseurl}}/data/images/3/portrait/03_PORTRAIT_08.jpg)
 ![Château médiéval en surplomb de la vallée de la Côle]({{site.baseurl}}/data/images/3/portrait/03_PORTRAIT_09.jpg)
-![Eglise romane byzantine avec mur clocher]({{site.baseurl}}/data/images/16/portrait/16_PORTRAIT_10.jpg)
+![Eglise romane byzantine avec mur clocher]({{site.baseurl}}/data/images/3/portrait/03_PORTRAIT_10.jpg)
 ![Impressionnant volume massif d’une maison forte]({{site.baseurl}}/data/images/3/portrait/03_PORTRAIT_11.jpg)
 ![Maison à rez-de-chaussée et pigeonnier en schiste]({{site.baseurl}}/data/images/3/portrait/03_PORTRAIT_12.jpg)
 ![La place du bourg s’ouvre sur la Côle]({{site.baseurl}}/data/images/3/portrait/03_PORTRAIT_13.jpg)
 ![Moulin à eau sur l’Isle]({{site.baseurl}}/data/images/3/portrait/03_PORTRAIT_14.jpg)
 ![Etang servant d’abreuvoir pour le troupeau]({{site.baseurl}}/data/images/3/portrait/03_PORTRAIT_15.jpg)
-
-
