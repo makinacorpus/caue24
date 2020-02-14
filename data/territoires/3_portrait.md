@@ -19,6 +19,8 @@ Territoire réalisé avec la participation et le soutien de la Communauté de co
 
 ![]({{site.baseurl}}/data/images/3/portrait/03_PORTRAIT_logo.jpg)
 
+![03_COUV_PERIGORD-LIMOUSIN_web7.jpg]({{site.baseurl}}/data/images/3/portrait/03_COUV_PERIGORD-LIMOUSIN_web7.jpg)
+
 ## Informations
 
 ### DIALOGUE ENTRE PAYSAGE ET ARCHITECTURE
