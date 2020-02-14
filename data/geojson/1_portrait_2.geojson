@@ -1,13 +1,11 @@
 {
 "type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "name": "Pôle de la CdC",
 "color": "#049d41",
 "active": "true",
 "description": "Coordonnées de la communauté de communes",
-
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
-{ "type": "Feature", "properties": { "NOM": "Saint Astier", "COMMUNAUTE": "CC Isle Vern Salembre", "ID_CDECOMM": 1 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 0.523085287877747, 45.148787072132968 ], [ 0.533174813768911, 45.148987424170905 ], [ 0.53347855239452, 45.141191263279119 ], [ 0.523338438828444, 45.141026081219302 ], [ 0.523085287877747, 45.148787072132968 ] ] ] } },
-{ "type": "Feature", "properties": { "NOM": "Sourzac", "COMMUNAUTE": "CC Isle Vern Salembre", "ID_CDECOMM": 1 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 0.390488474984167, 45.055013487912163 ], [ 0.400560527975977, 45.05522587845045 ], [ 0.400882309795655, 45.047430334823524 ], [ 0.390759668078689, 45.047253052748346 ], [ 0.390488474984167, 45.055013487912163 ] ] ] } }
+{ "type": "Feature", "properties": { "NOM": "Saint Astier", "COMMUNAUTE": "CC Isle Vern Salembre", "ID_CDECOMM": 1 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 0.523085287877747, 45.148787072132968 ], [ 0.533174813768911, 45.148987424170905 ], [ 0.53347855239452, 45.141191263279119 ], [ 0.523338438828444, 45.141026081219302 ], [ 0.523085287877747, 45.148787072132968 ] ] ] } }
 ]
 }
