@@ -5,7 +5,7 @@ layout: page
 
 ## Fenêtre modale
 
-### LES ZONES CONSTRUCTIBLES EN 2019
+### LES ZONES CONSTRUCTIBLES EN 2020
 
 La carte présente les terrains constructibles des PLU et cartes communales selon 4 grands types de zones :
 
@@ -29,7 +29,7 @@ La carte présente les terrains constructibles des PLU et cartes communales selo
 
 ## En savoir plus
 
-### UN POINT SUR LE TERRITOIRE EN 2019
+### UN POINT SUR LE TERRITOIRE EN 2020
 
 6% de son territoire sont en zones constructibles.
 15 communes ont un document d’urbanisme (PLU ou carte communale), 5 communes n’en possèdent pas.
@@ -57,7 +57,7 @@ et
 
 
 
-### DOCUMENTS D’URBANISME et de PREVENTION DU TERRITOIRE EN 2019
+### DOCUMENTS D’URBANISME et de PREVENTION DU TERRITOIRE EN 2020
 
 **Plan Local d’Urbanisme (PLU).** 
 
