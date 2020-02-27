@@ -60,7 +60,7 @@ Le PLU est un document d’urbanisme qui, à l’échelle d’une commune ou d�
 
 **Cartes Communales**
 
-approuvées dans les communes d’Aubas, Audrix, Fleurac, Journiac, La-Chapelle-Aubareil, Les-Eyzies-de-Tayac-Sireuil, Limeuil, Manaurie, Mauzens-et-Miremont, Peyzac-le-Moustier, Plazac, Coly-St-Amand, St-Avit-de-Vialard, St-Chamassy, St Cirq, St-Félix-de-Reillac-et-Mortemart, Savignac-de-Miremont et Tursac.
+approuvées dans les communes d’Aubas, Audrix, Fleurac, Journiac, La-Chapelle-Aubareil, Les-Eyzies-de-Tayac-Sireuil, Limeuil, Manaurie, Mauzens-et-Miremont, Peyzac-le-Moustier, Plazac, Coly-St-Amand, St-Avit-de-Vialard, St-Chamassy, St Cirq, St-Félix-de-Reilhac-et-Mortemart, Savignac-de-Miremont et Tursac.
 La carte communale est un document d’urbanisme simple qui délimite les secteurs de la commune où les permis de construire peuvent être délivrés. Ce sont les dispositions du règlement national d’urbanisme qui s’y appliquent.
 
 **Plan de Prévention des Risques d’Inondation (PPRI)**
