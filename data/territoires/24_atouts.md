@@ -60,7 +60,7 @@ Les SPR se substituent aux anciens dispositifs de protection : Les secteurs sauv
 **SITE CLASSE OU INSCRIT** : La loi de 1930 sur les sites permet de protéger des espaces d’une grande diversité : parcs et jardins, espaces naturels, paysages… écrins paysagers de monuments historiques pour lesquels la seule protection des abords ne suffirait pas.
 
 ## Photos
-![Vallée de la Dordogne](/data/images/20/atouts/20_ATOUTS_01.jpg)
+![Vallée de la Dordogne](/data/images/24/atouts/20_ATOUTS_01.jpg)
 ![Cingle de Limeuil](/data/images/20/atouts/20_ATOUTS_02.jpg)
 ![Abbatiale de Paunat](/data/images/20/atouts/20_ATOUTS_03.jpg)
 ![La tour des Dames – Sainte-Alvère](/data/images/20/atouts/20_ATOUTS_04.jpg)
@@ -74,4 +74,3 @@ Les SPR se substituent aux anciens dispositifs de protection : Les secteurs sauv
 ![Culture de la fraise](/data/images/20/atouts/20_ATOUTS_12.jpg)
 ![Base nautique - Trémolat](/data/images/20/atouts/20_ATOUTS_13.jpg)
 ![Lac de Neufont dans cadre naturel et forestier](/data/images/20/atouts/20_ATOUTS_14.jpg)
-
