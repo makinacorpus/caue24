@@ -16,7 +16,7 @@ Territoire réalisé avec la participation et le soutien de la Communauté de Co
 
 Découvrez ses Guides Méthodologiques pour vous aider à construire
 
-<a href="https://https://fr.calameo.com/read/004999995cd529ee1a16d " target="_blank">Pays Vernois </a>
+<a href="https://fr.calameo.com/read/004999995cd529ee1a16d " target="_blank">Pays Vernois </a>
 
 <a href="https://fr.calameo.com/read/004999995c0750a2fc642 " target="_blank">Terroir de la Truffe </a>
 
