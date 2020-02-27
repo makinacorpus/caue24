@@ -25,7 +25,8 @@ Découvrez son Guide Méthodologique pour vous aider à construire
 
 <a href="http://cauedordogne.com/25-fiches-conseils/ " target="_blank">Fiches conseil </a>
 
-![03_COUV_PERIGORD-LIMOUSIN_web7.jpg]({{site.baseurl}}/data/images/3/portrait/03_COUV_PERIGORD-LIMOUSIN_web7.jpg)
+
+![03_COUV_PERIGORD-LIMOUSIN_web7-1.jpg]({{site.baseurl}}/{{site.baseurl}}/data/images/3/portrait/03_COUV_PERIGORD-LIMOUSIN_web7-1.jpg)
 
 ## Informations
 
