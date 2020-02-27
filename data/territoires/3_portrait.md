@@ -19,6 +19,12 @@ Territoire réalisé avec la participation et le soutien de la Communauté de co
 
 ![]({{site.baseurl}}/data/images/3/portrait/03_PORTRAIT_logo.jpg)
 
+Découvrez son Guide Méthodologique pour vous aider à construire
+
+<a href="https://fr.calameo.com/read/0049999956a1fb99d7587 " target="_blank">Périgord Limousin </a>
+
+<a href="http://cauedordogne.com/25-fiches-conseils/ " target="_blank">Fiches conseil </a>
+
 ![03_COUV_PERIGORD-LIMOUSIN_web7.jpg]({{site.baseurl}}/data/images/3/portrait/03_COUV_PERIGORD-LIMOUSIN_web7.jpg)
 
 ## Informations
