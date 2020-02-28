@@ -16,13 +16,13 @@ Territoire réalisé avec la participation et le soutien de la Communauté de Co
 
 Découvrez ses Guides Méthodologiques pour vous aider à construire
 
-<a href="https://fr.calameo.com/read/004999995cd529ee1a16d " target="_blank">Pays Vernois </a>
-
-<a href="https://fr.calameo.com/read/004999995c0750a2fc642 " target="_blank">Terroir de la Truffe </a>
-
 <a href="http://cauedordogne.com/25-fiches-conseils/ " target="_blank">Fiches conseil </a>
 
-![24_COUV_PAYS-VERNOIS_9-9web.jpg]({{site.baseurl}}/data/images/24/portrait/24_COUV_PAYS-VERNOIS_9-9web.jpg) ![24_COUV_TERROIR_TRUFFE_5-9web.jpg]({{site.baseurl}}/data/images/24/portrait/24_COUV_TERROIR_TRUFFE_5-9web.jpg)
+<a href="https://fr.calameo.com/read/004999995cd529ee1a16d " target="_blank">![24_COUV_PAYS-VERNOIS_9-9web.jpg]({{site.baseurl}}/data/images/24/portrait/24_COUV_PAYS-VERNOIS_9-9web.jpg) </a>
+
+<a href="https://fr.calameo.com/read/004999995c0750a2fc642 " target="_blank">![24_COUV_TERROIR_TRUFFE_5-9web.jpg]({{site.baseurl}}/data/images/24/portrait/24_COUV_TERROIR_TRUFFE_5-9web.jpg) </a>
+
+ 
 
 ## Informations
 
