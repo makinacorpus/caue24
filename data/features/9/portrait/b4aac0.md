@@ -3,9 +3,6 @@ published: true
 layout: page
 ---
 
-
-
-
 **Aubas**
 
-640 habitants
+628 habitants
