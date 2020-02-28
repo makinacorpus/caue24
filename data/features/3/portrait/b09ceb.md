@@ -4,4 +4,4 @@ layout: page
 ---
 **Saint Front d'Alemps**
 
-272 Habitants
+266 Habitants
