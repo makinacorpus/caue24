@@ -4,6 +4,6 @@ layout: page
 ---
 
 
-**Neuvic-sur-l'Isle**
+**Neuvic sur l'Isle**
 
-3650 habitants
+3655 habitants
