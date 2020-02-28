@@ -18,11 +18,13 @@ Territoire réalisé avec la participation et le soutien du Pays de Villamblard
 
 Découvrez son Guide Méthodologique pour vous aider à construire
 
-<a href="https://fr.calameo.com/read/004999995e747f53c87c2 " target="_blank">Pays de Villamblard </a>
-
 <a href="http://cauedordogne.com/25-fiches-conseils/ " target="_blank">Fiches conseil </a>
 
-![05_COUV_VILLAMBLARD_5-9web.jpg]({{site.baseurl}}/data/images/5/portrait/05_COUV_VILLAMBLARD_5-9web.jpg)
+<a href="https://fr.calameo.com/read/004999995e747f53c87c2 " target="_blank">![05_COUV_VILLAMBLARD_5-9web.jpg]({{site.baseurl}}/data/images/5/portrait/05_COUV_VILLAMBLARD_5-9web.jpg) </a>
+
+
+
+
 
 ## Informations
 
