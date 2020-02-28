@@ -4,4 +4,4 @@ layout: page
 ---
 **Villars**
 
-476  Habitants
+472  Habitants
