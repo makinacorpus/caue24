@@ -9,7 +9,7 @@ SARLAT - PERIGORD NOIR – LE CŒUR TOURISTIQUE DU PERIGORD
 Sarlat - Périgord Noir, quelques chiffres :
 
 - 13 communes
-- 16849 habitants (source INSEE)
+- 16685 habitants (source INSEE)
 - superficie de 235 km2
 
 **CLIQUEZ sur « Bourg »**
