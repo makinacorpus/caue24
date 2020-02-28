@@ -21,11 +21,11 @@ Territoire réalisé avec la participation et le soutien de la Communauté de co
 
 Découvrez son Guide Méthodologique pour vous aider à construire
 
-<a href="https://fr.calameo.com/read/004999995b54d8f5e410c " target="_blank">Dronne et Belle </a>
-
 <a href="http://cauedordogne.com/25-fiches-conseils/ " target="_blank">Fiches conseil </a>
 
-![16_COUV_DRONNE_BELLE_web_5-8.jpg]({{site.baseurl}}/data/images/16/portrait/16_COUV_DRONNE_BELLE_web_5-8.jpg)
+<a href="https://fr.calameo.com/read/004999995b54d8f5e410c " target="_blank">![16_COUV_DRONNE_BELLE_web_5-8.jpg]({{site.baseurl}}/data/images/16/portrait/16_COUV_DRONNE_BELLE_web_5-8.jpg) </a>
+
+
 
 ## Informations
 
