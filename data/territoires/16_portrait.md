@@ -19,11 +19,9 @@ Territoire réalisé avec la participation et le soutien de la Communauté de co
 
 ![16_PORTRAIT_logo4.jpg]({{site.baseurl}}/data/images/16/portrait/16_PORTRAIT_logo4.jpg)
 
-Découvrez son Guide Méthodologique pour vous aider à construire
+Découvrez son Guide Méthodologique avec ses fiches en cliquant sur les 2 liens ci-dessous
 
-<a href="http://cauedordogne.com/25-fiches-conseils/ " target="_blank">Fiches conseil </a>
-
-<a href="https://fr.calameo.com/read/004999995b54d8f5e410c " target="_blank">![16_COUV_DRONNE_BELLE_web_5-8.jpg]({{site.baseurl}}/data/images/16/portrait/16_COUV_DRONNE_BELLE_web_5-8.jpg) </a>
+<a href="https://fr.calameo.com/read/004999995b54d8f5e410c " target="_blank">![16_COUV_DRONNE_BELLE_web_5-8.jpg]({{site.baseurl}}/data/images/16/portrait/16_COUV_DRONNE_BELLE_web_5-8.jpg) </a> <a href="http://cauedordogne.com/25-fiches-conseils/ " target="_blank">Fiches conseil </a>
 
 
 
