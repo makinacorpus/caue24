@@ -29,7 +29,7 @@ Le diaporama illustre ces interrogations
 
 ## En savoir plus
 
-### UN POINT SUR LE TERRITOIRE EN 2018
+### UN POINT SUR LE TERRITOIRE EN 2020
 
 Le PLUi est en cours d’élaboration, le chapitre « En savoir plus » sera renseigné dès l’approbation du PLUi
 
@@ -41,7 +41,7 @@ En cours d’étude
 
 En cours d’étude
 
-### DOCUMENTS D’URBANISME DU TERRITOIRE EN 2018
+### DOCUMENTS D’URBANISME DU TERRITOIRE EN 2020
 
 ### SUIVEZ L’AVANCEMENT DU PLUi EN LIGNE
 
