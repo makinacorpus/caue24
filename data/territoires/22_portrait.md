@@ -7,7 +7,7 @@ layout: page
 
 ### GUIDE METHODOLOGIQUE POUR VOUS AIDEZ A CONSTRUIRE
 
-Découvrez une partie de ce territoire en consultant ses guides méthodologiques et ses fiches conseil, cliquez sur les 3 liens ci-dessous
+Découvrez une partie de ce territoire en consultant ses Guides Méthodologiques et les fiches conseil, cliquez sur les 3 liens ci-dessous
 
 <a href="http://cauedordogne.com/25-fiches-conseils/ " target="_blank">Fiches conseil </a>
 
