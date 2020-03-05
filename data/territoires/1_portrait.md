@@ -20,7 +20,7 @@ Territoire réalisé avec la participation et le soutien de la Communauté de Co
 
 ![](/data/images/1/portrait/1_portrait_logo2.jpg)
 
-Découvrez son Guide Méthodologique pour vous aider à construire
+Découvrez son Guide Méthodologique avec ses fiches en cliquant sur les 2 liens ci-dessous
 
 <a href="http://cauedordogne.com/25-fiches-conseils/ " target="_blank">Fiches conseil </a>
 
