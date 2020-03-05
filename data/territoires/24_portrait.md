@@ -14,16 +14,13 @@ Pays Vernois et Terroir de la Truffe
 
 Territoire réalisé avec la participation et le soutien de la Communauté de Communes Pays Vernois et du Terroir de la Truffe, aujourd’hui : Le Grand Périgueux (1er janvier 2017 fusion avec Le Grand Périgueux), son siège est à Périgueux
 
-Découvrez ses Guides Méthodologiques pour vous aider à construire
+Découvrez son Guide Méthodologique avec ses fiches en cliquant sur les 3 liens ci-dessous
 
 <a href="http://cauedordogne.com/25-fiches-conseils/ " target="_blank">Fiches conseil </a>
 
-<a href="https://fr.calameo.com/read/004999995cd529ee1a16d " target="_blank">![24_COUV_PAYS-VERNOIS_9-9web.jpg]({{site.baseurl}}/data/images/24/portrait/24_COUV_PAYS-VERNOIS_9-9web.jpg) </a>
-
-<a href="https://fr.calameo.com/read/004999995c0750a2fc642 " target="_blank">![24_COUV_TERROIR_TRUFFE_5-9web.jpg]({{site.baseurl}}/data/images/24/portrait/24_COUV_TERROIR_TRUFFE_5-9web.jpg) </a>
+<a href="https://fr.calameo.com/read/004999995cd529ee1a16d " target="_blank">![24_COUV_PAYS-VERNOIS_9-9web.jpg]({{site.baseurl}}/data/images/24/portrait/24_COUV_PAYS-VERNOIS_9-9web.jpg) </a> <a href="https://fr.calameo.com/read/004999995c0750a2fc642 " target="_blank">![24_COUV_TERROIR_TRUFFE_5-9web.jpg]({{site.baseurl}}/data/images/24/portrait/24_COUV_TERROIR_TRUFFE_5-9web.jpg) </a>
 
  
-
 ## Informations
 
 ### DU NORD AU SUD, DES VISAGES DIFFERENTS
