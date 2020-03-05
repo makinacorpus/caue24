@@ -7,7 +7,7 @@ layout: page
 
 ### GUIDES METHODOLOGIQUES POUR VOUS AIDER A CONSTRUIRE
 
-Découvrez une partie de ce territoire en consultant son guide méthodologique et ses fiches conseil, cliquez sur les 2 liens ci-dessous
+Découvrez une partie de ce territoire en consultant son Guide Méthodologique et les fiches conseil, cliquez sur les 2 liens ci-dessous
 
 <a href="https://fr.calameo.com/read/004999995deda6ecd9c3f " target="_blank">![25_COUV_Verteillac_web_5-8.jpg]({{site.baseurl}}/data/images/25/portrait/25_COUV_Verteillac_web_5-8.jpg) </a>     <a href="http://cauedordogne.com/25-fiches-conseils/ " target="_blank">Fiches conseil </a>
 
