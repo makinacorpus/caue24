@@ -16,7 +16,7 @@ Territoire renseigné sur Pays de Villamblard, quelques chiffres :
 
 Territoire réalisé avec la participation et le soutien du Pays de Villamblard
 
-Découvrez son Guide Méthodologique et ses fiches en cliquant sur les 2 liens ci-dessous
+Découvrez son Guide Méthodologique et les fiches en cliquant sur les 2 liens ci-dessous
 
 <a href="https://fr.calameo.com/read/004999995e747f53c87c2 " target="_blank">![05_COUV_VILLAMBLARD_5-9web.jpg]({{site.baseurl}}/data/images/5/portrait/05_COUV_VILLAMBLARD_5-9web.jpg) </a>               <a href="http://cauedordogne.com/25-fiches-conseils/ " target="_blank">Fiches conseil </a>
 
