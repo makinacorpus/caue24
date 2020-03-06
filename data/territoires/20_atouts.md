@@ -5,7 +5,7 @@ layout: page
 
 ## Fenêtre modale
 
-### DIVERSITE DES PATRIMOINES RECONNUS ET NON RECONNUS
+### LES DIVERSITE DES PATRIMOINES RECONNUS ET NON RECONNUS
 
 D’une abbaye aux petits éléments de patrimoine de pays, ce territoire recèle un riche patrimoine caché.
 
