@@ -5,14 +5,6 @@ layout: page
 
 ## Fenêtre modale
 
-### LES DIVERSITE DES PATRIMOINES RECONNUS ET NON RECONNUS
-
-D’une abbaye aux petits éléments de patrimoine de pays, ce territoire recèle un riche patrimoine caché.
-
-La carte présente les secteurs protégés aussi bien naturels que bâtis.
-
-**CLIQUEZ sur chacun d’eux**
-
 ## Informations
 
 ### PATRIMOINE DISCRET
