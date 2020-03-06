@@ -5,7 +5,7 @@ layout: page
 
 ## Fenêtre modale
 
-### DIVERSITE DES PATRIMOINES RECONNUS ET NON RECONNUS
+### LA DIVERSITE DES PATRIMOINES RECONNUS ET NON RECONNUS
 
 Pays Vernois et Terroir de la Truffe
 
