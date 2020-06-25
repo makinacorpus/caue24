@@ -20,13 +20,11 @@ Territoire réalisé avec la participation et le soutien de la Communauté de Co
 
 ![](/data/images/1/portrait/1_portrait_logo2.jpg)
 
-Découvrez son Guide Méthodologique pour vous aider à construire
+Découvrez son Guide Méthodologique et les fiches en cliquant sur les 2 liens ci-dessous
 
-<a href="https://fr.calameo.com/read/0049999956cb8581d3810 " target="_blank">Isle Vern Salembre en Périgord </a>
+<a href="https://fr.calameo.com/read/0049999956cb8581d3810 " target="_blank">![01_COUV_IVSenP_5-9web.jpg]({{site.baseurl}}/data/images/1/portrait/01_COUV_IVSenP_5-9web.jpg) </a>          <a href="http://cauedordogne.com/25-fiches-conseils/ " target="_blank">Fiches conseil </a>
 
-<a href="http://cauedordogne.com/25-fiches-conseils/ " target="_blank">Fiches conseil </a>
 
-![01_COUV_IVSenP_5-9web.jpg]({{site.baseurl}}/data/images/1/portrait/01_COUV_IVSenP_5-9web.jpg)
 
 
 ## Informations

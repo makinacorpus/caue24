@@ -13,7 +13,7 @@ layout: page
 La Vallée de l’Homme, quelques chiffres : 
 
 - 26 communes
-- 16128 habitants (source INSEE)
+- 16010 habitants (source INSEE)
 - superficie de 538 km2
 
 **CLIQUEZ sur « Bourg »**
@@ -22,16 +22,13 @@ Territoire réalisé avec la participation et le soutien de la Communauté de Co
 
 ![](/data/images/9/portrait/9_PORTRAIT_logo.jpg)
 
-Découvrez ses Guides Méthodologiques pour vous aider à construire
-
-<a href="https://fr.calameo.com/read/004999995554506cb2ba3 " target="_blank">Vallée Vézère </a>
-
-<a href="https://fr.calameo.com/read/004999995b117ccc126fa " target="_blank">Terre de Cromagnon </a>
+Découvrez ses Guides Méthodologiques et les fiches en cliquant sur les 3 liens ci-dessous
 
 <a href="http://cauedordogne.com/25-fiches-conseils/ " target="_blank">Fiches conseil </a>
 
-![09_COUV_VALLEEVEZERE_5-1web.jpg]({{site.baseurl}}/data/images/9/portrait/09_COUV_VALLEEVEZERE_5-1web.jpg) ![09_COUV_TERRE_DE_CRO-MAGNON_5-2web.jpg]({{site.baseurl}}/data/images/9/portrait/09_COUV_TERRE_DE_CRO-MAGNON_5-2web.jpg)
+<a href="https://fr.calameo.com/read/004999995554506cb2ba3 " target="_blank">![09_COUV_VALLEEVEZERE_5-1web.jpg]({{site.baseurl}}/data/images/9/portrait/09_COUV_VALLEEVEZERE_5-1web.jpg) </a> <a href="https://fr.calameo.com/read/004999995b117ccc126fa " target="_blank">![09_COUV_TERRE_DE_CRO-MAGNON_5-2web.jpg]({{site.baseurl}}/data/images/9/portrait/09_COUV_TERRE_DE_CRO-MAGNON_5-2web.jpg) </a>
 
+ 
 
 ## Informations
 

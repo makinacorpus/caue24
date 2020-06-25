@@ -7,15 +7,12 @@ layout: page
 
 ### GUIDES METHODOLOGIQUES POUR VOUS AIDER A CONSTRUIRE
 
-Découvrez une partie de ce territoire en consultant les cahiers de recommandations et les fiches conseil sur le site du CAUE Dordogne
-
-<a href=" https://fr.calameo.com/read/0049999959699c73712f9 " target="_blank"> Pays de Hautefort </a>
-
-<a href=" https://fr.calameo.com/read/004999995a721486e91f2 " target="_blank"> Causses et Vézère </a>
+Découvrez une partie de ce territoire en consultant ses Guides Méthodologiques et les fiches conseil, cliquez sur les 3 liens ci-dessous
 
 <a href="http://cauedordogne.com/25-fiches-conseils/ " target="_blank">Fiches conseil </a>
 
-![26_COUV_Hautefort_web_5-4.jpg]({{site.baseurl}}/data/images/26/portrait/26_COUV_Hautefort_web_5-4.jpg) ![26_COUV_Causses_et_Vezere_web_5-4.jpg]({{site.baseurl}}/data/images/26/portrait/26_COUV_Causses_et_Vezere_web_5-4.jpg)
+<a href=" https://fr.calameo.com/read/0049999959699c73712f9 " target="_blank"> ![26_COUV_Hautefort_web_5-4.jpg]({{site.baseurl}}/data/images/26/portrait/26_COUV_Hautefort_web_5-4.jpg) </a> <a href=" https://fr.calameo.com/read/004999995a721486e91f2 " target="_blank"> ![26_COUV_Causses_et_Vezere_web_5-4.jpg]({{site.baseurl}}/data/images/26/portrait/26_COUV_Causses_et_Vezere_web_5-4.jpg) </a>
+
 
 
 ## Informations
