@@ -4,4 +4,4 @@ layout: page
 ---
 **Puyrenier**	
 
-Carte Communale
+Plan Local d’Urbanisme intercommunal
