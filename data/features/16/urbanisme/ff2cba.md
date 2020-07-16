@@ -4,4 +4,4 @@ layout: page
 ---
 **Villars**
 
-Carte Communale
+Plan Local d’Urbanisme intercommunal
