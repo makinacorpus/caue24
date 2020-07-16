@@ -4,4 +4,4 @@ layout: page
 ---
 **Beaussac**
 
-Carte Communale
+Plan Local d’Urbanisme intercommunal
