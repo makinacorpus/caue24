@@ -4,4 +4,4 @@ layout: page
 ---
 **Bourdeilles**
 
-Carte Communale
+Plan Local d’Urbanisme intercommunal
