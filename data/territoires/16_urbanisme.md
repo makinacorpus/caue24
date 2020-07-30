@@ -5,21 +5,22 @@ layout: page
 
 ## Fenêtre modale
 
-### LE PLUi EST EN COURS D’ELABORATION
+### LES ZONES CONSTRUCTIBLES EN 2020
 
-La carte présentant les zones constructibles sera mise en ligne dès l’approbation du zonage du PLUi
+La carte présente les terrains constructibles du PLUi de la Communauté de communes selon 4 grands types de zones :
 
-**SUIVEZ L’AVANCEMENT DU PLUi EN LIGNE**
+- zones urbaines, 36 % des espaces constructibles
+- zones diffuses, 37 % des espaces constructibles
+- zones à aménager, 3 % des espaces constructibles 
+- zones artisanales et de loisirs, 24 % des espaces constructibles
 
-<a href="https://dronneetbelle.fr/PLUi.html" target="_blank">dronneetbelle.fr/PLUi.html</a>
-
-CLIQUEZ sur chaque point bourg pour connaître le document d’urbanisme actuellement en vigueur
+**CLIQUEZ sur chaque point bourg pour connaître le document d’urbanisme actuellement en vigueur**
 
 ## Informations
 
-### QUEL TERRAIN ? QUELLE MAISON ? QUELS IMPACTS
+### QUEL TERRAIN ? QUELLE MAISON ? QUELS IMPACTS ?
 
-Le diaporama illustre ces interrogations
+**Le diaporama illustre ces interrogations**
 
 - Comment intégrer sa maison dans l’environnement existant ?
 
@@ -31,15 +32,23 @@ Le diaporama illustre ces interrogations
 
 ### UN POINT SUR LE TERRITOIRE EN 2020
 
-Le PLUi est en cours d’élaboration, le chapitre « En savoir plus » sera renseigné dès l’approbation du PLUi
+1.7% du territoire est en zone constructible. Sur l’ensemble des terrains constructibles, 26% sont en covisibilité. Il s’agit essentiellement de vues lointaines pour des terrains situés en pente et sur les lignes de crêtes, un soin particulier devra être apporté à ces constructions. Sur le paysage de l’ensemble du territoire, l’urbanisation future concentrée autour des bourgs et hameaux à densifier aura un impact limité. Chaque projet doit prendre en compte ces contraintes sans oublier celles des accès, de l’orientation et des vues.
 
 **Répartition géographique des surfaces constructibles :**
 
-En cours d’étude
+- sur les pentes 36 %
+- sur les plateaux 33 %
+- en vallée 24 %
+- en ligne de crête 7 %
+
+Réussir l’intégration paysagère d’une construction la pente passe par une bonne adaptation au terrain en limitant les mouvements de terre qui ont un fort impact dans le paysage.
 
 **Qualification des espaces constructibles :**
 
-En cours d’étude
+- 86 % non boisés
+- 7 % en clairière
+- 5 % boisés
+
 
 ### DOCUMENTS D’URBANISME DU TERRITOIRE EN 2020
 
