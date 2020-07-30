@@ -52,18 +52,9 @@ Réussir l’intégration paysagère d’une construction la pente passe par une
 
 ### DOCUMENTS D’URBANISME DU TERRITOIRE EN 2020
 
-### SUIVEZ L’AVANCEMENT DU PLUi EN LIGNE
+** Plan Local d’Urbanisme intercommunal (PLUi))**
 
-<a href="https://dronneetbelle.fr/PLUi.html" target="_blank">dronneetbelle.fr/PLUi.html</a>
-
-**Plan Local d’Urbanisme (PLU)**
-
-Brantôme et Mareuil-sur-Belle possèdent un PLU. Le PLU est un document d’urbanisme qui, à l’échelle d’une commune ou d’un groupement de communes (EPCI), établit un projet global d’urbanisme et d’aménagement et fixe en conséquence les règles générales d’utilisation du sol sur le territoire considéré. Il détermine les modalités d’implantation sur les parcelles (types de constructions autorisées, densités, règles de recul, aspect des constructions, stationnement, espaces verts…). Le PLU peut contenir des Orientations d’Aménagement et de Programmation.
-
-**Cartes Communales**
-
-Toutes les autres communes ont une carte communale approuvée.
-La carte communale est un document d’urbanisme simple qui délimite les secteurs de la commune où les permis de construire peuvent être délivrés. Ce sont les dispositions du Règlement National d’Urbanisme (RNU) qui s’y appliquent.
+L’ensemble de la Communauté de communes est couverte par le même PLUi. Le PLUi est un document d’urbanisme qui, à l’échelle d’un groupement de communes (EPCI), établit un projet global d’urbanisme et d’aménagement et fixe en conséquence les règles générales d’utilisation du sol sur le territoire considéré. Il détermine les modalités d’implantation sur les parcelles (types de constructions autorisées, densités, règles de recul, aspect des constructions, stationnement, espaces verts…). Le PLUi peut contenir des Orientations d’Aménagement et de Programmation.
 
 **Un Plan de Prévention des Risques (PPR)**
 
