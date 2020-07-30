@@ -52,7 +52,7 @@ Réussir l’intégration paysagère d’une construction la pente passe par une
 
 ### DOCUMENTS D’URBANISME DU TERRITOIRE EN 2020
 
-** Plan Local d’Urbanisme intercommunal (PLUi))**
+**Plan Local d’Urbanisme intercommunal (PLUi)**
 
 L’ensemble de la Communauté de communes est couverte par le même PLUi. Le PLUi est un document d’urbanisme qui, à l’échelle d’un groupement de communes (EPCI), établit un projet global d’urbanisme et d’aménagement et fixe en conséquence les règles générales d’utilisation du sol sur le territoire considéré. Il détermine les modalités d’implantation sur les parcelles (types de constructions autorisées, densités, règles de recul, aspect des constructions, stationnement, espaces verts…). Le PLUi peut contenir des Orientations d’Aménagement et de Programmation.
 
