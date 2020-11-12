@@ -55,7 +55,7 @@ La surface des terrains est d’environ 2000 à 2500 m2, leurs problématiques p
 
 **Plan Local d’Urbanisme (PLU)**
 
-approuvé ou en cours de validation dans les communes de Campagne, Fanlac, Le Bugue, Les Farges, Montignac, Rouffignac-St-Cernin-de-Reilhac, St-Léon-sur-Vézère, Sergeac, Thonac et Valojoulx.
+L’ensemble de la Communauté de communes est couverte par le même PLUi(Plan Local d'Urbanisme intercommunal.
 Le PLU est un document d’urbanisme qui, à l’échelle d’une commune ou d’un groupement de communes (EPCI), établit un projet global d’urbanisme et d’aménagement et fixe en conséquence les règles générales d’utilisation du sol sur le territoire considéré. Il détermine les modalités d’implantation sur les parcelles (types de constructions autorisées, densités, règles de recul, aspect des constructions, stationnement, espaces verts…) et il peut contenir des orientations d’aménagement et de programmation.
 
 **Cartes Communales**
