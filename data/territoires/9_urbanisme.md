@@ -10,10 +10,10 @@ layout: page
 
 La carte présente les terrains constructibles des PLU et cartes communales selon 4 grands types de zones :
 
-- zones urbaines 17% des espaces constructibles
-- zones diffuses 63% des espaces constructibles
-- zones à aménager 6% des espaces constructibles 
-- zones artisanales et de loisirs 14% des espaces constructibles
+- zones urbaines 18% des espaces constructibles
+- zones diffuses 48% des espaces constructibles
+- zones à aménager 4% des espaces constructibles 
+- zones artisanales et de loisirs 30% des espaces constructibles
 
 **CLIQUEZ sur "Documents d’urbanisme"**
 
@@ -25,9 +25,9 @@ La carte présente les terrains constructibles des PLU et cartes communales selo
 **Le diaporama illustre ces interrogations**
 
 - Comment réaliser une maison en correspondance avec le paysage ?
-27 % des terrains en forte covisibilité. Toute construction y est très visible. 
+23 % des terrains en forte covisibilité. Toute construction y est très visible. 
 - Comment adapter les constructions aux terrains pentus ? 
-21% des terrains constructibles situés dans la pente.
+16% des terrains constructibles situés dans la pente.
 - Comment s’implanter sur son terrain ? Comment composer avec la végétation existante ? Les terrains ont encore de grandes dimensions, un accompagnement végétal est essentiel.
 
 
@@ -40,16 +40,16 @@ La surface des terrains est d’environ 2000 à 2500 m2, leurs problématiques p
 
 **Répartition géographique des surfaces constructibles :** 
 
-- en vallée 29%
-- sur les plateaux 31 %
-- sur les pentes 21%
-- en ligne de crête 19%
+- en vallée 37%
+- sur les plateaux 31%
+- sur les pentes 16%
+- en ligne de crête 16%
 
 **Qualification des surfaces constructibles :**
 
-- 48 % non boisés
-- 26 % en clairière
-- 26 % boisés
+- 54 % non boisés
+- 23 % en clairière
+- 23 % boisés
 
 ### DOCUMENTS D’URBANISME DU TERRITOIRE EN 2020
 
