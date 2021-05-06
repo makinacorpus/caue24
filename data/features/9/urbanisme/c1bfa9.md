@@ -1,8 +1,8 @@
 ---
-layout: page
 published: true
+layout: page
 ---
 
 **Rouffignac Saint Cernin de Reilhac**
 
-Plan Local d'Urbanisme
+Plan Local d'Urbanisme intercommunal
