@@ -59,6 +59,8 @@ et
 
 ### DOCUMENTS D’URBANISME et de PREVENTION DU TERRITOIRE EN 2021
 
+Le PLUi est en cours d'élaboration,suivez l'avancement en ligne 
+
 https://www.ccdordogne-bessede.fr/le-document-durbanisme-de-la-communaute-de-communes-plui-se-construit-avec-vous/
 
 **Plan Local d’Urbanisme (PLU).** 
