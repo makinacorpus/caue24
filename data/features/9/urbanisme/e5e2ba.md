@@ -1,8 +1,8 @@
 ---
-layout: page
 published: true
+layout: page
 ---
 
 **Sergeac**
 
-Plan Local d'Urbanisme
+Plan Local d'Urbanisme intercommunal
