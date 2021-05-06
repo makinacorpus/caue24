@@ -21,7 +21,7 @@ Territoire réalisé avec la participation et le soutien de la Communauté de Co
 
 Découvrez ses Guides Méthodologiques et les fiches en cliquant sur les 3 liens ci-dessous
 
-<a href="http://cauedordogne.com/25-fiches-conseils/ " target="_blank">Fiches conseil </a>
+<a href="https://cauedordogne.com/ressources-fiches/ " target="_blank">Fiches conseil </a>
 
 <a href="https://fr.calameo.com/read/0049999953cf2e01ba03a " target="_blank">![08_COUV_Vallee_Dordogne_5-8web.jpg]({{site.baseurl}}/data/images/8/portrait/08_COUV_Vallee_Dordogne_5-8web.jpg) </a> <a href="https://fr.calameo.com/read/00499999533fcd1c5cc00 " target="_blank">![08_COUV_VDFB_5-8web.jpg]({{site.baseurl}}/data/images/8/portrait/08_COUV_VDFB_5-8web.jpg) </a>
 
