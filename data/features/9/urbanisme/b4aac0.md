@@ -1,8 +1,8 @@
 ---
-layout: page
 published: true
+layout: page
 ---
 
 **Aubas** 
 
-Carte Communale
+Plan Local d'Urbanisme intercommunal
