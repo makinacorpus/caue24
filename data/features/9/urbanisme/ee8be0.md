@@ -1,8 +1,8 @@
 ---
-layout: page
 published: true
+layout: page
 ---
 
 **Manaurie**
 
-Carte Communale
+Plan Local d'Urbanisme intercommunal
