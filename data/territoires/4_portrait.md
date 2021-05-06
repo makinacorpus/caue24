@@ -20,7 +20,7 @@ Territoire réalisé avec la participation et le soutien de la Communauté de Co
 
 Découvrez ses Guides Méthodologiques et les fiches en cliquant sur les 3 liens ci-dessous
 
-<a href="http://cauedordogne.com/25-fiches-conseils/ " target="_blank">Fiches conseil </a>
+<a href="- Fenêtre Modale : lien vers fiches rétabli " target="_blank">Fiches conseil </a>
 
 <a href="https://fr.calameo.com/read/004999995c73624de7af4 " target="_blank">![04_COUV_SARLAT_SECT_Nord_5-4web.jpg]({{site.baseurl}}/data/images/4/portrait/04_COUV_SARLAT_SECT_Nord_5-4web.jpg) </a> <a href="https://fr.calameo.com/read/0049999951804571d2a2a " target="_blank">![04_COUV_SARLAT_SECT_SUD_5-4web.jpg]({{site.baseurl}}/data/images/4/portrait/04_COUV_SARLAT_SECT_SUD_5-4web.jpg) </a>
 
