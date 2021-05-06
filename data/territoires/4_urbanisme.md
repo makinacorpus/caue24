@@ -54,7 +54,8 @@ Enfin, 7 % des terrains sont en forte covisibilité et sont essentiellement situ
 
 Le PLUi est en cours d'élaboration,suivez l'avancement en ligne 
 
-https://www.cc-sarlatperigordnoir.fr/plui-2/
+[https://www.cc-sarlatperigordnoir.fr/plui-2/](https://www.cc-sarlatperigordnoir.fr/plui-2/)
+
 
 **Plan Local d’Urbanisme (PLU), Plan d’Occupation des Sols (POS)**
 
