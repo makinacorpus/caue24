@@ -5,7 +5,7 @@ layout: page
 
 ## Fenêtre modale
 
-### LES ZONES CONSTRUCTIBLES EN 2020
+### LES ZONES CONSTRUCTIBLES EN 2021
 
 La carte présente les terrains constructibles des PLU et cartes communales de chaque commune selon 4 grands types de zones :
 
@@ -28,7 +28,7 @@ La carte présente les terrains constructibles des PLU et cartes communales de c
 
 ## En savoir plus
 
-### UN POINT SUR LA COMMUNAUTE DE COMMUNES EN 2020
+### UN POINT SUR LA COMMUNAUTE DE COMMUNES EN 2021
 
 4,5 % du territoire sont en zones constructibles. Sur l'ensemble de ces terrains constructibles, 22 % des parcelles sont en covisibilité. Avec un territoire en pente et marqué par des lignes de crête, les vues lointaines sont à prendre en compte dans l'élaboration de votre projet qui aura un impact dans le paysage. Ces cinq dernières années, la taille des parcelles constructibles s'est agrandie (2500 m2 et plus), ce qui renforce la visibilité des constructions, en fort recul sur la voie d'accès et souvent isolées sur des parcelles vierges de plantation. Ces questions sont donc à intégrer dans votre projet avec celles des accès, de l'orientation solaire et du traitement des limites de propriété.
 
@@ -46,7 +46,7 @@ La carte présente les terrains constructibles des PLU et cartes communales de c
 
 Avec un taux de boisement faible sur les parcelles constructibles, 22 % d'entre-elles sont en situation de covisibilité. Le soin que vous allez porter aux abords (limites de propriété plantées, espace potager, arbres, massifs fleuris, végétation grimpante...) est donc primordial pour garantir la bonne intégration de votre construction.
 
-### DOCUMENTS D’URBANISME DE LA COMMUNAUTE EN 2020
+### DOCUMENTS D’URBANISME DE LA COMMUNAUTE EN 2021
 
 **Plan Local d’Urbanisme (PLU)**
 Thiviers est la seule commune possèdant un PLU. Il s'agit d'un document d'urbanisme qui, à l'échelle d'une commune ou d'un groupement de communes (EPCI), établit un projet global d'urbanisme et d'aménagement et fixe en conséquence les règles générales d'utilisation du sol sur le territoire considéré. Il détermine les modalités d'implantation sur les parcelles (types de constructions autorisées, densités, règles de recul, aspect des constructions, stationnement, espaces verts...). Le PLU peut contenir des orientations d'aménagement et de programmation (OAP, schémas d'organisation avec un règlement propre à une parcelle ou à un secteur plus large).   
