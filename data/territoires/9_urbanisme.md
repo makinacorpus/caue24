@@ -6,7 +6,7 @@ layout: page
 
 ## Fenêtre modale
 
-### LES ZONES CONSTRUCTIBLES EN 2020
+### LES ZONES CONSTRUCTIBLES EN 2021
 
 La carte présente les terrains constructibles des PLU et cartes communales selon 4 grands types de zones :
 
@@ -34,7 +34,7 @@ La carte présente les terrains constructibles des PLU et cartes communales selo
 
 ## En savoir plus
 
-### UN POINT SUR LE TERRITOIRE EN 2020
+### UN POINT SUR LE TERRITOIRE EN 2021
 
 La surface des terrains est d’environ 2000 à 2500 m2, leurs problématiques principales sont la covisibilité et les terrains en pente. Chaque projet doit prendre en compte ces contraintes sans oublier celles des accès de l’orientation et des vues.
 
@@ -51,17 +51,12 @@ La surface des terrains est d’environ 2000 à 2500 m2, leurs problématiques p
 - 23 % en clairière
 - 23 % boisés
 
-### DOCUMENTS D’URBANISME DU TERRITOIRE EN 2020
+### DOCUMENTS D’URBANISME DU TERRITOIRE EN 2021
 
 **Plan Local d’Urbanisme (PLU)**
 
 L’ensemble de la Communauté de communes est couverte par le même PLUi (Plan Local d'Urbanisme intercommunal.
 Le PLU est un document d’urbanisme qui, à l’échelle d’une commune ou d’un groupement de communes (EPCI), établit un projet global d’urbanisme et d’aménagement et fixe en conséquence les règles générales d’utilisation du sol sur le territoire considéré. Il détermine les modalités d’implantation sur les parcelles (types de constructions autorisées, densités, règles de recul, aspect des constructions, stationnement, espaces verts…) et il peut contenir des orientations d’aménagement et de programmation.
-
-**Cartes Communales**
-
-approuvées dans les communes d’Aubas, Audrix, Fleurac, Journiac, La-Chapelle-Aubareil, Les-Eyzies-de-Tayac-Sireuil, Limeuil, Manaurie, Mauzens-et-Miremont, Peyzac-le-Moustier, Plazac, Coly-St-Amand, St-Avit-de-Vialard, St-Chamassy, St Cirq, St-Félix-de-Reilhac-et-Mortemart, Savignac-de-Miremont et Tursac.
-La carte communale est un document d’urbanisme simple qui délimite les secteurs de la commune où les permis de construire peuvent être délivrés. Ce sont les dispositions du règlement national d’urbanisme qui s’y appliquent.
 
 **Plan de Prévention des Risques d’Inondation (PPRI)**
 
