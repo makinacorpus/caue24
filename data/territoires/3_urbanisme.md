@@ -48,6 +48,8 @@ Avec un taux de boisement faible sur les parcelles constructibles, 22 % d'entre-
 
 ### DOCUMENTS D’URBANISME DE LA COMMUNAUTE EN 2021
 
+Le PLUi du Périgord Limousin est en cours d'élaboration,suivez l'avancement en ligne https://www.perigord-limousin.fr/vos-demarches-au-quotidien/urbanisme/le-plui/
+
 **Plan Local d’Urbanisme (PLU)**
 Thiviers est la seule commune possèdant un PLU. Il s'agit d'un document d'urbanisme qui, à l'échelle d'une commune ou d'un groupement de communes (EPCI), établit un projet global d'urbanisme et d'aménagement et fixe en conséquence les règles générales d'utilisation du sol sur le territoire considéré. Il détermine les modalités d'implantation sur les parcelles (types de constructions autorisées, densités, règles de recul, aspect des constructions, stationnement, espaces verts...). Le PLU peut contenir des orientations d'aménagement et de programmation (OAP, schémas d'organisation avec un règlement propre à une parcelle ou à un secteur plus large).   
 
