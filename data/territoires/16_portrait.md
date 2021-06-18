@@ -10,7 +10,7 @@ layout: page
 Dronne et Belle, quelques chiffres :
 
 - 16 communes
-- 11 461 habitants (source INSEE)
+- 11 449 habitants (source INSEE)
 - superficie de 504 km2
 
 **CLIQUEZ sur « Bourg »**
