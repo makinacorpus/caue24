@@ -7,4 +7,4 @@ layout: page
 
 **Montignac**
 
-2823 habitants
+2807 habitants
