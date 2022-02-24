@@ -5,4 +5,4 @@ layout: page
 
 **Rouffignac Saint Cernin de Reilhac** 
 
-1650 habitants
+1663 habitants
