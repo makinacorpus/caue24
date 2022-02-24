@@ -4,4 +4,4 @@ layout: page
 ---
 **Berbiguières**
 
-179 habitants
+180 habitants
