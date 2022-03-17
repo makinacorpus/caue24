@@ -10,7 +10,7 @@ layout: page
 
 ## Fenêtre modale
 
-### LES ZONES CONSTRUCTIBLES EN 2020
+### LES ZONES CONSTRUCTIBLES EN 2022
 
 La carte présente les terrains constructibles des cartes communales de chaque commune selon 4 grands types de zones :
 
@@ -36,7 +36,7 @@ La carte présente les terrains constructibles des cartes communales de chaque c
 
 ## En savoir plus
 
-### UN POINT SUR LE TERRITOIRE EN 2020
+### UN POINT SUR LE TERRITOIRE EN 2022
 
 3% de son territoire est en zone constructible. Sur l’ensemble des terrains constructibles, 6% seulement sont en covisibilité. Il s’agit essentiellement de vues lointaines pour des terrains situés en pente.
 Sur le paysage de l’ensemble du territoire, l’urbanisation future aura un impact généralement limité à l’échelle de la parcelle. La surface des terrains est d’environ 2500 m2. Chaque projet doit prendre en compte ces contraintes sans oublier celles des accès, de l’orientation et des vues.
@@ -57,7 +57,7 @@ Sur le paysage de l’ensemble du territoire, l’urbanisation future aura un im
 
 Malgré une très forte présence de la forêt sur le territoire, seuls 19% sont boisés. Dans une clairière la covisibilité est limitée.
 
-### DOCUMENTS D’URBANISME DU TERRITOIRE EN 2020
+### DOCUMENTS D’URBANISME DU TERRITOIRE EN 2022
 
 
 **Cartes Communales.**
