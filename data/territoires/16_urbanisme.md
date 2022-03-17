@@ -5,7 +5,7 @@ layout: page
 
 ## Fenêtre modale
 
-### LES ZONES CONSTRUCTIBLES EN 2020
+### LES ZONES CONSTRUCTIBLES EN 2022
 
 La carte présente les terrains constructibles du PLUi de la Communauté de communes selon 4 grands types de zones :
 
@@ -30,7 +30,7 @@ La carte présente les terrains constructibles du PLUi de la Communauté de comm
 
 ## En savoir plus
 
-### UN POINT SUR LE TERRITOIRE EN 2020
+### UN POINT SUR LE TERRITOIRE EN 2022
 
 1.7% du territoire est en zone constructible. Sur l’ensemble des terrains constructibles, 26% sont en covisibilité. Il s’agit essentiellement de vues lointaines pour des terrains situés en pente et sur les lignes de crêtes, un soin particulier devra être apporté à ces constructions. Sur le paysage de l’ensemble du territoire, l’urbanisation future concentrée autour des bourgs et hameaux à densifier aura un impact limité. Chaque projet doit prendre en compte ces contraintes sans oublier celles des accès, de l’orientation et des vues.
 
@@ -50,7 +50,7 @@ Réussir l’intégration paysagère d’une construction la pente passe par une
 - 5 % boisés
 
 
-### DOCUMENTS D’URBANISME DU TERRITOIRE EN 2020
+### DOCUMENTS D’URBANISME DU TERRITOIRE EN 2022
 
 **Plan Local d’Urbanisme intercommunal (PLUi)**
 
