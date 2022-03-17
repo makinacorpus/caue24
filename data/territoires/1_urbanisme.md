@@ -6,7 +6,7 @@ layout: page
 
 ## Fenêtre modale
 
-### LES ZONES CONSTRUCTIBLES EN 2020
+### LES ZONES CONSTRUCTIBLES EN 2022
 
 La carte présente les terrains constructibles des PLU et cartes communales selon 4 grands types de zones :
 
@@ -33,7 +33,7 @@ La carte présente les terrains constructibles des PLU et cartes communales selo
 
 ## En savoir plus
 
-### UN POINT SUR LE TERRITOIRE EN 2020
+### UN POINT SUR LE TERRITOIRE EN 2022
 
 Les communes connaissent une augmentation de population (7% en 10 ans), excepté St-Astier depuis la disparition des dernières usines de chaussures dans les années 2000.
 La surface des terrains est d’environ 2000m2 à 2500m2 dans les documents d’urbanisme existants, elle baisse actuellement dans les PLU en cours d’élaboration pour atteindre 800m2 à 1000m2.
@@ -54,7 +54,7 @@ La surface des terrains est d’environ 2000m2 à 2500m2 dans les documents d’
 Enfin, 33% des terrains situés en ligne de crête ou sur les pentes des coteaux calcaires Nord et Sud, en forte covisibilité.
 
 
-### DOCUMENTS D'URBANISME DU TERRITOIRE EN 2020
+### DOCUMENTS D'URBANISME DU TERRITOIRE EN 2022
 
 **Plan Local d’Urbanisme**, approuvé ou en cours de validation dans les communes de Chantérac, Douzillac, Léguillac-de-l’Auche, Montrem, Neuvic-sur-l’Isle, St-Astier, St-Germain-du-Salembre, Sourzac et St-Léon-sur-l’Isle.
 Le Plan Local d’Urbanisme (PLU) est un document d’urbanisme qui, à l’échelle d’une commune ou d’un groupement de communes (EPCI), établit un projet global d’urbanisme et d’aménagement et fixe en conséquence les règles générales d’utilisation du sol sur le territoire considéré.
