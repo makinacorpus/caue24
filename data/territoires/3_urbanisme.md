@@ -5,7 +5,7 @@ layout: page
 
 ## Fenêtre modale
 
-### LES ZONES CONSTRUCTIBLES EN 2021
+### LES ZONES CONSTRUCTIBLES EN 2022
 
 La carte présente les terrains constructibles des PLU et cartes communales de chaque commune selon 4 grands types de zones :
 
@@ -28,7 +28,7 @@ La carte présente les terrains constructibles des PLU et cartes communales de c
 
 ## En savoir plus
 
-### UN POINT SUR LA COMMUNAUTE DE COMMUNES EN 2021
+### UN POINT SUR LA COMMUNAUTE DE COMMUNES EN 2022
 
 4,5 % du territoire sont en zones constructibles. Sur l'ensemble de ces terrains constructibles, 22 % des parcelles sont en covisibilité. Avec un territoire en pente et marqué par des lignes de crête, les vues lointaines sont à prendre en compte dans l'élaboration de votre projet qui aura un impact dans le paysage. Ces cinq dernières années, la taille des parcelles constructibles s'est agrandie (2500 m2 et plus), ce qui renforce la visibilité des constructions, en fort recul sur la voie d'accès et souvent isolées sur des parcelles vierges de plantation. Ces questions sont donc à intégrer dans votre projet avec celles des accès, de l'orientation solaire et du traitement des limites de propriété.
 
@@ -46,7 +46,7 @@ La carte présente les terrains constructibles des PLU et cartes communales de c
 
 Avec un taux de boisement faible sur les parcelles constructibles, 22 % d'entre-elles sont en situation de covisibilité. Le soin que vous allez porter aux abords (limites de propriété plantées, espace potager, arbres, massifs fleuris, végétation grimpante...) est donc primordial pour garantir la bonne intégration de votre construction.
 
-### DOCUMENTS D’URBANISME DE LA COMMUNAUTE EN 2021
+### DOCUMENTS D’URBANISME DE LA COMMUNAUTE EN 2022
 
 Le PLUi du Périgord Limousin est en cours d'élaboration,suivez l'avancement en ligne
 
