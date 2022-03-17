@@ -6,7 +6,7 @@ layout: page
 
 ## Fenêtre modale
 
-### LES ZONES CONSTRUCTIBLES EN 2021
+### LES ZONES CONSTRUCTIBLES EN 2022
 
 La carte présente les terrains constructibles des PLU, des POS et cartes communales selon 4 grands types de zones :
 
@@ -31,7 +31,7 @@ Environ 1 terrain sur 2 est situé dans la pente.
 
 ## En savoir plus
 
-### UN POINT SUR LE TERRITOIRE EN 2021
+### UN POINT SUR LE TERRITOIRE EN 2022
 
 13% de son territoire est en zone constructible. La surface des terrains est d’environ 2500 m2 (1500m2 pour Sarlat) dans les documents d’urbanisme existants. Elle tend à baisser lors de leur révision pour atteindre 1300 à 1600m2. Chaque projet doit tenir compte de cette caractéristique sans oublier les contraintes d’accès, d’orientation de vues et surtout de pente du terrain.
 
@@ -50,7 +50,7 @@ Environ 1 terrain sur 2 est situé dans la pente.
 
 Enfin, 7 % des terrains sont en forte covisibilité et sont essentiellement situés en ligne de crête ou en pente.
 
-### DOCUMENTS D’URBANISME DU TERRITOIRE EN 2021
+### DOCUMENTS D’URBANISME DU TERRITOIRE EN 2022
 
 Le PLUi est en cours d'élaboration,suivez l'avancement en ligne 
 
