@@ -70,6 +70,9 @@ CaueViews.addGeoJSONLegend = function(layers, community, category, data, n) {
   var description = data.description || '';
   // Layer color
   var color = data.color || CaueViews.getColorFromFeature(category, n);
+  // Layer opacity
+  var fillOpacity = data.fillOpacity;
+
   // Initial layer status
   var active = data.active || "false";
   // Is the layer interactive
@@ -89,7 +92,7 @@ CaueViews.addGeoJSONLegend = function(layers, community, category, data, n) {
     var style = {
       "color": color,
       "weight": 1,
-      "fillOpacity": 0.4,
+      "fillOpacity": fillOpacity || 0.4,
       "opacity": 0.8,
       "clickable": true,
     };
