@@ -6,7 +6,7 @@ layout: page
 
 ## Fenêtre modale
 
-### LES ZONES CONSTRUCTIBLES EN 2022
+### LES ZONES CONSTRUCTIBLES EN 2023
 
 La carte présente les terrains constructibles des PLU et cartes communales selon 4 grands types de zones :
 
@@ -34,7 +34,7 @@ La carte présente les terrains constructibles des PLU et cartes communales selo
 
 ## En savoir plus
 
-### UN POINT SUR LE TERRITOIRE EN 2022
+### UN POINT SUR LE TERRITOIRE EN 2023
 
 La surface des terrains est d’environ 2000 à 2500 m2, leurs problématiques principales sont la covisibilité et les terrains en pente. Chaque projet doit prendre en compte ces contraintes sans oublier celles des accès de l’orientation et des vues.
 
@@ -51,7 +51,7 @@ La surface des terrains est d’environ 2000 à 2500 m2, leurs problématiques p
 - 23 % en clairière
 - 23 % boisés
 
-### DOCUMENTS D’URBANISME DU TERRITOIRE EN 2022
+### DOCUMENTS D’URBANISME DU TERRITOIRE EN 2023
 
 **Plan Local d’Urbanisme (PLU)**
 
