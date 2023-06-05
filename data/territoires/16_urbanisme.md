@@ -41,7 +41,7 @@ La carte présente les terrains constructibles du PLUi de la Communauté de comm
 - en vallée 24 %
 - en ligne de crête 7 %
 
-Réussir l’intégration paysagère d’une construction la pente passe par une bonne adaptation au terrain en limitant les mouvements de terre qui ont un fort impact dans le paysage.
+Réussir l’intégration paysagère d’une construction dans la pente passe par une bonne adaptation au terrain en limitant les mouvements de terre qui ont un fort impact dans le paysage.
 
 **Qualification des espaces constructibles :**
 
