@@ -8,14 +8,14 @@
 "description": "Un sous-sol, un paysage",
 
 "features": [
-{ "type": "Feature", "properties": { "NOM": "Métamorphique", "TOPONYMIE_": "lavalette", "COMMUNE": "Miallet", "ID_GEOGRAP": 1 }, "geometry": { "type": "Point", "coordinates": [ 0.882331839213598, 45.581240773345748 ] } },
-{ "type": "Feature", "properties": { "NOM": "Magmatique", "TOPONYMIE_": "l'âge", "COMMUNE": "Saint Pierre de Frugie", "ID_GEOGRAP": 2 }, "geometry": { "type": "Point", "coordinates": [ 1.012920876715276, 45.579955888680502 ] } },
-{ "type": "Feature", "properties": { "NOM": null, "TOPONYMIE_": "tindeix", "COMMUNE": "Jumilhac", "ID_GEOGRAP": 3 }, "geometry": { "type": "Point", "coordinates": [ 1.115448335563953, 45.535495870098032 ] } },
-{ "type": "Feature", "properties": { "NOM": "Sable", "TOPONYMIE_": "le grand claud", "COMMUNE": "Saint Jory de Chalais", "ID_GEOGRAP": 4 }, "geometry": { "type": "Point", "coordinates": [ 0.877257986180194, 45.491618552310157 ] } },
-{ "type": "Feature", "properties": { "NOM": "Dépôts", "TOPONYMIE_": "maison rouge", "COMMUNE": "Chalais", "ID_GEOGRAP": 5 }, "geometry": { "type": "Point", "coordinates": [ 0.942720803614996, 45.484473752814189 ] } },
-{ "type": "Feature", "properties": { "NOM": "Vallée", "TOPONYMIE_": "lavy", "COMMUNE": "Saint Pierre de Côle", "ID_GEOGRAP": 6 }, "geometry": { "type": "Point", "coordinates": [ 0.807887145916329, 45.389194679632766 ] } },
-{ "type": "Feature", "properties": { "NOM": "Dépôts", "TOPONYMIE_": "blazinaud", "COMMUNE": "Vaunac", "ID_GEOGRAP": 7 }, "geometry": { "type": "Point", "coordinates": [ 0.869172057107245, 45.380858589619386 ] } },
-{ "type": "Feature", "properties": { "NOM": "Dépôts", "TOPONYMIE_": "le pic", "COMMUNE": "Vaunac", "ID_GEOGRAP": 8 }, "geometry": { "type": "Point", "coordinates": [ 0.876198582859417, 45.360364431280018 ] } },
-{ "type": "Feature", "properties": { "NOM": "Calcaire crétacé", "TOPONYMIE_": "les granges", "COMMUNE": "Saint Front d'Alemps", "ID_GEOGRAP": 9 }, "geometry": { "type": "Point", "coordinates": [ 0.769332212132607, 45.323011626910393 ] } }
+{ "type": "Feature", "properties": { "ALTITUDE": 151.0 }, "geometry": { "type": "Point", "coordinates": [ 477760.23886261327425, 2036720.871945236576721 ] } },
+{ "type": "Feature", "properties": { "ALTITUDE": 207.0 }, "geometry": { "type": "Point", "coordinates": [ 487212.298188486485742, 2039378.948881508316845 ] } },
+{ "type": "Feature", "properties": { "ALTITUDE": 138.0 }, "geometry": { "type": "Point", "coordinates": [ 491262.304152874276042, 2042158.977874224772677 ] } },
+{ "type": "Feature", "properties": { "ALTITUDE": 138.0 }, "geometry": { "type": "Point", "coordinates": [ 481405.236547031323425, 2045439.922071807086468 ] } },
+{ "type": "Feature", "properties": { "ALTITUDE": 279.0 }, "geometry": { "type": "Point", "coordinates": [ 490897.318008237460162, 2051988.041738205123693 ] } },
+{ "type": "Feature", "properties": { "ALTITUDE": 373.0 }, "geometry": { "type": "Point", "coordinates": [ 503426.357359859277494, 2054621.128857812611386 ] } },
+{ "type": "Feature", "properties": { "ALTITUDE": 287.0 }, "geometry": { "type": "Point", "coordinates": [ 486450.320149599341676, 2057746.065239597344771 ] } },
+{ "type": "Feature", "properties": { "ALTITUDE": 281.0 }, "geometry": { "type": "Point", "coordinates": [ 487288.345014720223844, 2062650.12184077128768 ] } },
+{ "type": "Feature", "properties": { "ALTITUDE": 328.0 }, "geometry": { "type": "Point", "coordinates": [ 492077.349506855825894, 2062872.138484433293343 ] } }
 ]
 }
