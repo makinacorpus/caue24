@@ -5,4 +5,4 @@ layout: page
 
 **Saint Jean d’Estissac**
 
-172 habitants
+167 habitants
