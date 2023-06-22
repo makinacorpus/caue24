@@ -428,8 +428,21 @@ CaueViews.displayMapPage = function(community, category) {
       subdomains: 'abcd'
     },
     15: {
-      url: 'https://{s}-tilestream.makina-corpus.net/v2/caue24-_-orthophoto24/{z}/{x}/{y}.png',
-      subdomains: 'abcd'
+      // url: 'https://{s}-tilestream.makina-corpus.net/v2/caue24-_-orthophoto24/{z}/{x}/{y}.png',
+      // subdomains: 'abcd',
+      url: [
+        'https://wxs.ign.fr/essentiels/geoportail/wmts?',
+        'REQUEST=GetTile',
+        'SERVICE=WMTS',
+        'VERSION=1.0.0',
+        'STYLE=normal',
+        'TILEMATRIXSET=PM',
+        'FORMAT=image/jpeg',
+        'LAYER=ORTHOIMAGERY.ORTHOPHOTOS',
+        'TILEMATRIX={z}',
+        'TILEROW={y}',
+        'TILECOL={x}',
+      ].join('&'),
     }
   }, {
     minZoom: 10,
