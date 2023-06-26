@@ -6,7 +6,7 @@ layout: page
 
 ## Fenêtre modale
 
-### LES ZONES CONSTRUCTIBLES EN 2022
+### LES ZONES CONSTRUCTIBLES EN 2023
 
 La carte présente les terrains constructibles des PLU, des POS et cartes communales selon 4 grands types de zones :
 
