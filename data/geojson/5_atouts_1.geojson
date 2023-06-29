@@ -6,7 +6,7 @@
 "active": "true",
 "interactive":"true",
 "description": "Protection des monuments historiques loi du 31 décembre 1913",
-                                                                                
+
 "features": [
 { "type": "Feature", "properties": { "INSEE": "24211", "COMMUNE": "ISSAC", "PROTECTION": "Cl.MH.", "PROCEDURE": "ARRETE MINISTERIEL", "TYPE": "CHATEAU" }, "geometry": { "type": "Point", "coordinates": [ 0.431073583156346, 45.011584767391795 ] } },
 { "type": "Feature", "properties": { "INSEE": "24211", "COMMUNE": "ISSAC", "PROTECTION": "Inv.MH.", "PROCEDURE": "ARRETE PREFECTORAL", "TYPE": "FORTIFICATION" }, "geometry": { "type": "Point", "coordinates": [ 0.450320401544553, 45.015198389540004 ] } },
@@ -18,7 +18,6 @@
 { "type": "Feature", "properties": { "INSEE": "24414", "COMMUNE": "SAINT-GEORGES-DE-MONTCLARD", "PROTECTION": "Inv.MH.", "PROCEDURE": "ARRETE PREFECTORAL", "TYPE": "MANOIR" }, "geometry": { "type": "Point", "coordinates": [ 0.619034662912619, 44.917509369866721 ] } },
 { "type": "Feature", "properties": { "INSEE": "24414", "COMMUNE": "SAINT-GEORGES-DE-MONTCLARD", "PROTECTION": "Inv.MH.", "PROCEDURE": "ARRETE PREFECTORAL", "TYPE": "CHATEAU" }, "geometry": { "type": "Point", "coordinates": [ 0.620988623979356, 44.931799762176588 ] } },
 { "type": "Feature", "properties": { "INSEE": "24456", "COMMUNE": "SAINT-MARTIN-DES-COMBES", "PROTECTION": "Inv.MH.", "PROCEDURE": "ARRETE PREFECTORAL", "TYPE": "BATIMENT CIVIL" }, "geometry": { "type": "Point", "coordinates": [ 0.631660809039248, 44.955590714514322 ] } },
-{ "type": "Feature", "properties": { "INSEE": "24456", "COMMUNE": "SAINT-MARTIN-DES-COMBES", "PROTECTION": "Inv.MH.", "PROCEDURE": "ARRETE PREFECTORAL", "TYPE": "CHATEAU" }, "geometry": { "type": "Point", "coordinates": [ 0.631929294573722, 44.956341599251125 ] } },
 { "type": "Feature", "properties": { "INSEE": "24031", "COMMUNE": "BEAUREGARD-ET-BASSAC", "PROTECTION": "Cl.MH.", "PROCEDURE": "ARRETE MINISTERIEL", "TYPE": "MONUMENTS MEGALITHIQUES" }, "geometry": { "type": "Point", "coordinates": [ 0.632843915108711, 44.990283434725505 ] } }
 ]
 }
