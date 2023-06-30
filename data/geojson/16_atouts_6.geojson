@@ -4,8 +4,8 @@
 "name": "Zone archéologique",
 "color": "#1D1D1B",
 "active": "false",
-"description": "Site répertorié au titre de l'archéologie préventive",
 "interactive": "false",
+"description": "Site répertorié au titre de la protection archéologique",
 
 "features": [
 { "type": "Feature", "properties": { "ogc_fid": 3164, "pr_natcode": "022217", "prot_ident": null, "prot_comm_": "MAREUIL", "prot_dpt": null, "prot_num_s": null, "prot_mode": "zone de saisine (décret 2004 - 490)", "prot_objet": "Saint-Priest : église du Moyen Age", "x": null, "y": null, "x_reg": null, "y_reg": null, "ordre": null, "lien": null, "insee": null, "code_insee": 24253, "libelle_contrainte": "Saint-Priest : église du Moyen Age - zone de saisine (décret 2004 - 490)" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ 0.439338249090063, 45.456098478430192 ], [ 0.440060858057102, 45.455933577092338 ], [ 0.439708122931249, 45.455527000693003 ], [ 0.439429169616918, 45.455522259974771 ], [ 0.439338249090063, 45.456098478430192 ] ] ] ] } },

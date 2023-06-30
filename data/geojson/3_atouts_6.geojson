@@ -5,7 +5,7 @@
 "color": "#1D1D1B",
 "active": "false",
 "interactive": "false",
-"description": "Site répertorié au titre de l'archéologie préventive",
+"description": "Site répertorié au titre de la protection archéologique",
 
 "features": [
 { "type": "Feature", "properties": { "ogc_fid": 3094, "pr_natcode": "021614", "prot_ident": null, "prot_comm_": "JUMILHAC-LE-GRAND", "prot_dpt": null, "prot_num_s": null, "prot_mode": "délimitation de seuil (décret 2002-89)", "prot_objet": "Chalusset : ancienne église paroissiale, ancien bourg  (seuil à 0 m²)", "x": null, "y": null, "x_reg": null, "y_reg": null, "ordre": null, "lien": null, "insee": null, "code_insee": 24218, "libelle_contrainte": "Chalusset : ancienne église paroissiale, ancien bourg  (seuil à 0 m²) - délimitation de seuil (décret 2002-89)" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ 1.058943286494599, 45.508637507857074 ], [ 1.058913492042275, 45.508690723099711 ], [ 1.059083742791733, 45.508739532078913 ], [ 1.059120578624572, 45.508793509458535 ], [ 1.059464641257641, 45.508737193554055 ], [ 1.0596184862979, 45.508672007496038 ], [ 1.059755466556762, 45.508472833936771 ], [ 1.060162462802013, 45.507942217979348 ], [ 1.060703060850293, 45.507730322721358 ], [ 1.061080940009232, 45.507239020525979 ], [ 1.061147384188447, 45.506803635288925 ], [ 1.060525441639076, 45.506875830040734 ], [ 1.060156721705573, 45.50697074035412 ], [ 1.059605130271623, 45.5076583008725 ], [ 1.059500084152211, 45.508027981067158 ], [ 1.058963918565321, 45.508562906015506 ], [ 1.058943286494599, 45.508637507857074 ] ] ] ] } },
