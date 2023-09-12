@@ -8,12 +8,12 @@ layout: page
 
 ### LES ZONES CONSTRUCTIBLES EN 2023
 
-La carte présente les terrains constructibles des PLU, des POS et cartes communales selon 4 grands types de zones :
+La carte présente les terrains constructibles du PLUi de la Communauté de commune
+- zones urbaines, 15 % des espaces constructibles
+- zones diffuses, 53 % des espaces constructibles
+- zones à aménager, 3 % des espaces constructibles 
+- zones artisanales et de loisirs, 29 % des espaces constructibles
 
-- zones urbaines, 25% des espaces constructibles
-- zones diffuses, 56 % des espaces constructibles
-- zones à aménager, 7 % des espaces constructibles 
-- zones artisanales et de loisirs, 12 % des espaces constructibles
 
 **CLIQUEZ sur "Documents d’urbanisme"**
 
@@ -23,49 +23,40 @@ La carte présente les terrains constructibles des PLU, des POS et cartes commun
 
 **Le diaporama illustre ces interrogations**
 
-- Comment réaliser une maison intégrée dans un paysage patrimonial?
+- Comment réaliser une maison intégrée dans un paysage patrimonial ?
 2/3 des terrains sont situés en zone protégée dans les communes de la vallée de la Dordogne.
 - Comment adapter les constructions aux terrains pentus ? 
 Environ 1 terrain sur 2 est situé dans la pente. 
-- Comment implanter son bâtiment et les végétaux l’accompagnant sur son terrain ? 30% des terrains en pente sont nus de végétation et de grandes dimensions.
+- Comment implanter son bâtiment et les végétaux l’accompagnant sur son terrain ?
 
 ## En savoir plus
 
 ### UN POINT SUR LE TERRITOIRE EN 2023
 
-13% de son territoire est en zone constructible. La surface des terrains est d’environ 2500 m2 (1500m2 pour Sarlat) dans les documents d’urbanisme existants. Elle tend à baisser lors de leur révision pour atteindre 1300 à 1600m2. Chaque projet doit tenir compte de cette caractéristique sans oublier les contraintes d’accès, d’orientation de vues et surtout de pente du terrain.
+8% de son territoire est en zone constructible. La surface des terrains est d’environ 1000 à 1600m2. Chaque projet doit tenir compte de cette caractéristique sans oublier les contraintes d’accès, d’orientation de vues et surtout de pente du terrain.
 
-**Répartition géographique des espaces constructibles :**
+Répartition géographique des espaces constructibles :
 
-- sur les plateaux 37 %
-- en vallée 13 %
-- en ligne de crête 8 %
-- sur les pentes 42 %
+- sur les plateaux 29 %
+- en vallée 17 %
+- en ligne de crête 2 %
+- sur les pentes 52 %
 
-**Qualification des espaces constructibles :**
+Qualification des espaces constructibles : 
 
-- 51 % non boisés,
-- 25 % en clairière,
-- 24 % boisés.
+- 71 % non boisés,
+- 17 % en clairière,
+- 12 % boisés.
 
-Enfin, 7 % des terrains sont en forte covisibilité et sont essentiellement situés en ligne de crête ou en pente.
+Seul, 3 % des terrains sont en forte covisibilité.
 
 ### DOCUMENTS D’URBANISME DU TERRITOIRE EN 2023
 
-Le PLUi est en cours d'élaboration,suivez l'avancement en ligne 
 
-[https://www.cc-sarlatperigordnoir.fr/plui-2/](https://www.cc-sarlatperigordnoir.fr/plui-2/)
+**Plan Local d’Urbanisme intercommunal (PLUi)**
 
+L’ensemble de la Communauté de communes est couverte par le même PLUi. Le PLUi est un document d’urbanisme qui, à l’échelle d’un groupement de communes (EPCI), établit un projet global d’urbanisme et d’aménagement et fixe en conséquence les règles générales d’utilisation du sol sur le territoire considéré. Il détermine les modalités d’implantation sur les parcelles (types de constructions autorisées, densités, règles de recul, aspect des constructions, stationnement, espaces verts…). Le PLUi peut contenir des Orientations d’Aménagement et de Programmation.
 
-**Plan Local d’Urbanisme (PLU), Plan d’Occupation des Sols (POS)**
-
-approuvés dans les communes de Beynac-et-Cazenac, Sarlat-la-Canéda, Vézac, Vitrac.
-Les POS et PLU sont des documents d’urbanisme qui, à l’échelle d’une commune ou d’un groupement de communes (EPCI), établissent un projet global d’urbanisme et d’aménagement et fixent en conséquence les règles générales d’utilisation du sol sur le territoire considéré. Ils déterminent les modalités d’implantation sur les parcelles (types de constructions autorisées, densités, règles de recul, aspect des constructions, stationnement, espaces verts…). Les PLU peuvent contenir des orientations d’aménagement et de programmation.
-
-**Cartes Communales**
-
-approuvées dans les communes de Marcillac-St-Quentin, Marquay, La Roque-Gageac, Proissans, St-André-d’Allas, St-Vincent-de-Cosse, St-Vincent-le-Paluel, Ste-Nathalène et Tamniès.
-La carte communale est un document d’urbanisme simple qui délimite les secteurs de la commune où les permis de construire peuvent être délivrés. Ce sont les dispositions du règlement national d’urbanisme qui s’y appliquent.
 
 **Plan de Sauvegarde et de Mise en Valeur (PSMV)**
 
