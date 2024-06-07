@@ -10,6 +10,23 @@
 "description": "Evolution urbaine d'un même lieu entre plusieurs époques",
 
 "features": [
-{ "type": "Feature", "properties": { "NOM": "POPB2", "COMMUNE": "Trémolat" }, "geometry": { "type": "Point", "coordinates": [ 0.830457692141005, 44.875574037411475 ] } }
+{ "type": "Feature", "properties": { "NOM": "lolme" }, "geometry": { "type": "Point", "coordinates": [ 0.842562051600459, 44.713081434327592 ] } },
+{ "type": "Feature", "properties": { "NOM": "cadouin les gavachs" }, "geometry": { "type": "Point", "coordinates": [ 0.874337603442834, 44.805003224848519 ] } },
+{ "type": "Feature", "properties": { "NOM": "bouillac" }, "geometry": { "type": "Point", "coordinates": [ 0.921530012733298, 44.758715078281178 ] } },
+{ "type": "Feature", "properties": { "NOM": "montferrand du périgord" }, "geometry": { "type": "Point", "coordinates": [ 0.866696418217994, 44.751025813314058 ] } },
+{ "type": "Feature", "properties": { "NOM": "varennes" }, "geometry": { "type": "Point", "coordinates": [ 0.678860474867338, 44.827276146189973 ] } },
+{ "type": "Feature", "properties": { "NOM": "biron" }, "geometry": { "type": "Point", "coordinates": [ 0.873805941789488, 44.631642582877966 ] } },
+{ "type": "Feature", "properties": { "NOM": "marsales" }, "geometry": { "type": "Point", "coordinates": [ 0.885895612808172, 44.686818095811788 ] } },
+{ "type": "Feature", "properties": { "NOM": "couze et saint front" }, "geometry": { "type": "Point", "coordinates": [ 0.713272521416051, 44.825934273725764 ] } },
+{ "type": "Feature", "properties": { "NOM": "naussannes" }, "geometry": { "type": "Point", "coordinates": [ 0.725000030635867, 44.755891256419481 ] } },
+{ "type": "Feature", "properties": { "NOM": "cause de clérans" }, "geometry": { "type": "Point", "coordinates": [ 0.664795538376992, 44.863454933449546 ] } },
+{ "type": "Feature", "properties": { "NOM": "verdon" }, "geometry": { "type": "Point", "coordinates": [ 0.631387199071518, 44.810368459681342 ] } },
+{ "type": "Feature", "properties": { "NOM": "saint marcel du périgord" }, "geometry": { "type": "Point", "coordinates": [ 0.711324756626414, 44.914691881019301 ] } },
+{ "type": "Feature", "properties": { "NOM": "saint foy de longas" }, "geometry": { "type": "Point", "coordinates": [ 0.751540012681282, 44.926197647258107 ] } },
+{ "type": "Feature", "properties": { "NOM": "Beaumontois du Périgord" }, "geometry": { "type": "Point", "coordinates": [ 0.767698288621125, 44.768102880036871 ] } },
+{ "type": "Feature", "properties": { "NOM": "Trémolat" }, "geometry": { "type": "Point", "coordinates": [ 0.830917711377963, 44.875002526625096 ] } },
+{ "type": "Feature", "properties": { "NOM": "Le Buisson de Cadouin" }, "geometry": { "type": "Point", "coordinates": [ 0.908561926973149, 44.846841640388398 ] } },
+{ "type": "Feature", "properties": { "NOM": "Monpazier" }, "geometry": { "type": "Point", "coordinates": [ 0.894513481946797, 44.680724450692701 ] } },
+{ "type": "Feature", "properties": { "NOM": "Lalinde" }, "geometry": { "type": "Point", "coordinates": [ 0.738329899183858, 44.836915560635397 ] } }
 ]
 }
