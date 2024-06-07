@@ -2,7 +2,7 @@
 "type": "FeatureCollection",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "name": "Matériaux",
-"color": "#E30613",
+"color": "#5b3824",
 "active": "true",
 "interactive": "true",
 "description": "Eléments du sous-sol utilisés dans la construction locale",
