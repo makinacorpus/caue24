@@ -18,7 +18,7 @@ La carte représente les 6 types de sous-sol composant le territoire :
 - les dépôts superficiels et sables
 - le calcaire du Crétacé
 
-**CLIQUEZ sur «Points de vue»**
+**CLIQUEZ sur «Points de vue» ou «Matériaux»**
 
 ## Informations
 
@@ -58,4 +58,3 @@ Sur le plateau de la forêt de la Bessède, les dépôts détritiques et les sab
 ![Arc de décharge des linteaux calcaires, lucarne fenière]({{site.baseurl}}/data/images/21/géographie/21_GEO_13.jpg)
 ![Mur en moellons calcaire ocre, toit avec outeau et lucarne ]({{site.baseurl}}/data/images/21/géographie/21_GEO_14.jpg)
 ![Modénatures et matériaux du début XXe s. : ardoise, brique…]({{site.baseurl}}/data/images/21/géographie/21_GEO_15.jpg)
-
