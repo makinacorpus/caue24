@@ -2,9 +2,8 @@
 published: 'true'
 layout: page
 ---
-## Varennes : le bourg et les hameaux proches
+## Saint-Marcel-du-Périgord : le bourg
 
-Le bourg s’est installé sur la deuxième terrasse de la vallée de la Dordogne autour de son église romane. Un peu à l’écart, à l’Est, des belles demeures et des granges ont été implantées le long du chemin de Couze. Entre 1950 et 80, ces deux entités sont réunies par la construction d’une mairie et d’une église et du fort développement de l’habitat. Les maisons individuelles sont construites en linéaire le long des voies ou concentrées dans un lotissement. Le bourg et les hameaux de Varennes et Lanquais sont aujourd’hui en continuité.
+Le petit bourg s’est constitué autour de l’église implantée sur le versant Nord du ruisseau le Barbeyrol. De nombreuses fermes isolées ponctuent le paysage agricole de la commune. Le bourg s’étoffe légèrement jusque dans les années 80. Puis les constructions s’éloignent de plus en plus, jusqu’à étirer l’urbanisation de l’autre côté du versant du ruisseau.
 
 ![21_HISTOIRE_POPUP_2.jpg]({{site.baseurl}}/data/images/21/histoire/21_HISTOIRE_POPUP_2.jpg)
-
