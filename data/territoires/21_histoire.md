@@ -53,4 +53,6 @@ Le besoin de confort et d’isolement des nouveaux habitants s’accentue. Les p
 ## Photos
 
 ![Bourg développé dans la pente au pied du château]({{site.baseurl}}/data/images/21/histoire/21_HISTOIRE_01.jpg)
+![Bourg en vallée formé autour de l’abbaye]({{site.baseurl}}/data/images/21/histoire/21_HISTOIRE_02.jpg)
+![Bastide, bourg créé sur terrain vierge]({{site.baseurl}}/data/images/21/histoire/21_HISTOIRE_03.jpg)
 
