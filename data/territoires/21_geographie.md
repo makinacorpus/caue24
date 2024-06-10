@@ -57,4 +57,5 @@ Sur le plateau de la forêt de la Bessède, les dépôts détritiques et les sab
 ![Linteau en anse de panier, génoise, épis de faîtage]({{site.baseurl}}/data/images/21/géographie/21_GEO_12.jpg)
 ![Arc de décharge des linteaux calcaires, lucarne fenière]({{site.baseurl}}/data/images/21/géographie/21_GEO_13.jpg)
 ![Mur en moellons calcaire ocre, toit avec outeau et lucarne ]({{site.baseurl}}/data/images/21/géographie/21_GEO_14.jpg)
-![Modénatures et matériaux du début XXe s. : ardoise, brique…]({{site.baseurl}}/data/images/21/portrait/21_PORTRAIT_15.jpg)
+![Modénatures et matériaux du début XXe s. : ardoise, brique…]({{site.baseurl}}/data/images/21/géographie/21_GEO_15.jpg)
+
