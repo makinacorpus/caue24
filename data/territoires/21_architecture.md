@@ -18,7 +18,7 @@ layout: page
 
 Elles traduisent des perceptions propres à une organisation spécifique du relief, de la forêt, de l’agriculture et de l’implantation humaine du territoire.
 
-CLIQUEZ sur "Entités paysagères"
+**CLIQUEZ sur "Entités paysagères"**
 
 
 ## Informations
