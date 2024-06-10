@@ -53,7 +53,7 @@ Les quatre bastides, les imposants châteaux, les abbayes renommées ou encore l
 ## Photos
 ![Vallée de la Dordogne]({{site.baseurl}}/data/images/21/portrait/21_PORTRAIT_01.jpg)
 ![Falaises calcaires striées]({{site.baseurl}}/data/images/21/portrait/21_PORTRAIT_02.jpg)
-![21_PORTRAIT_03.jpg]({{site.baseurl}}/data/images/21/portrait/21_PORTRAIT_03.jpg)
+![Vaches limousines pâturant]({{site.baseurl}}/data/images/21/portrait/21_PORTRAIT_03.jpg)
 ![Parcelles céréalières et étang d’irrigation]({{site.baseurl}}/data/images/21/portrait/21_PORTRAIT_04.jpg)
 ![Exploitation de bois]({{site.baseurl}}/data/images/21/portrait/21_PORTRAIT_05.jpg)
 ![Ancienne carrière de calcaire]({{site.baseurl}}/data/images/21/portrait/21_PORTRAIT_06.jpg)
