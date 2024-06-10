@@ -68,5 +68,8 @@ Il est une servitude d’utilité publique de droit français. Le PPR est un doc
 **Plan de Prévention des Risques d’Inondation (PPRI)**
 Certaines zones constructibles peuvent également être concernées par les règlements du Plan de Prévention des Risques d’Inondation dans la vallée de la Dordogne.
 
-
 ## Photos
+  
+![Intégration du bâti en plateau par éléments paysagers]({{site.baseurl}}/data/images/21/urbanisme/21_URBA_01.jpg)
+  
+  ![Extension urbaine dense en vallée, continuité du bourg]({{site.baseurl}}/data/images/21/urbanisme/21_URBA_02.jpg)
