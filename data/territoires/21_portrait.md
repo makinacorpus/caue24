@@ -5,6 +5,8 @@ layout: page
 
 ## Fenêtre modale
 
+### GUIDES METHODOLOGIQUES POUR VOUS AIDER A CONSTRUIRE
+
 Bastides Dordogne Périgord, quelques chiffres
 
 - 47 communes
@@ -14,10 +16,6 @@ Bastides Dordogne Périgord, quelques chiffres
 **CLIQUEZ sur « Bourg »** 
 
 Territoire réalisé avec la participation et le soutien de la Communauté de communes des Bastides Dordogne Périgord
-
-
-### GUIDES METHODOLOGIQUES POUR VOUS AIDER A CONSTRUIRE
-
 
 Découvrez une partie de ce territoire en consultant ses Guides Méthodologiques et les fiches conseil, cliquez sur les 3 liens ci-dessous
 
