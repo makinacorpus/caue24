@@ -78,3 +78,5 @@ Certaines zones constructibles peuvent également être concernées par les règ
   
   ![Pavillons le long d’une voie en pente, impact des abords]({{site.baseurl}}/data/images/21/urbanisme/21_URBA_04.jpg)
   
+  ![Proximité ancien et neuf, fort impact de la couleur]({{site.baseurl}}/data/images/21/urbanisme/21_URBA_05.jpg)
+  
