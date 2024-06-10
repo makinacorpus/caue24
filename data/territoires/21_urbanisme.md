@@ -48,6 +48,9 @@ La carte présente les terrains constructibles des cartes communales de chaque c
 
 Le PLUi-H des Bastides Dordogne Périgord est en cours d’élaboration, suivez l’avancement en ligne
 
+<a href="[https://ccbdp.fr/plui-h/](https://ccbdp.fr/plui-h/)" target="_blank">!
+
+
 **Plan Local d’Urbanisme (PLU)**
 Le Buisson-de-Cadouin, Lalinde, Trémolat et Urval possèdent un PLU. Il s'agit d'un document d'urbanisme qui, à l'échelle d'une commune, établit un projet global d'urbanisme et d'aménagement et fixe en conséquence les règles générales d'utilisation du sol sur le territoire considéré. Il détermine les modalités d'implantation sur les parcelles (types de constructions autorisés, densités, règles de recul, aspect des constructions, stationnement, espaces verts...). Le PLU peut contenir des orientations d'aménagement et de programmation (OAP, schémas d'organisation avec un règlement propre à une parcelle ou à un secteur plus large).
 Un PLUi-H est à l’échelle d’un groupement de communes (EPCI).
