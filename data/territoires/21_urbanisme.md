@@ -44,9 +44,26 @@ La carte présente les terrains constructibles des cartes communales de chaque c
 - 21 % en clairières
 - 9 % boisés
 
-DOCUMENTS D’URBANISME DE LA COMMUNAUTE EN 2024
-"Le PLUi-H des Bastides Dordogne Périgord est en cours d’élaboration, suivez l’avancement en ligne
+### DOCUMENTS D’URBANISME DE LA COMMUNAUTE EN 2024
 
-"
+Le PLUi-H des Bastides Dordogne Périgord est en cours d’élaboration, suivez l’avancement en ligne
+
+**Plan Local d’Urbanisme (PLU)**
+Le Buisson-de-Cadouin, Lalinde, Trémolat et Urval possèdent un PLU. Il s'agit d'un document d'urbanisme qui, à l'échelle d'une commune, établit un projet global d'urbanisme et d'aménagement et fixe en conséquence les règles générales d'utilisation du sol sur le territoire considéré. Il détermine les modalités d'implantation sur les parcelles (types de constructions autorisés, densités, règles de recul, aspect des constructions, stationnement, espaces verts...). Le PLU peut contenir des orientations d'aménagement et de programmation (OAP, schémas d'organisation avec un règlement propre à une parcelle ou à un secteur plus large).
+Un PLUi-H est à l’échelle d’un groupement de communes (EPCI).
+
+**Cartes Communales**
+La majorité des communes a une carte communale approuvée.
+La carte communale est un document d’urbanisme simple qui délimite les secteurs de la commune où les permis de construire peuvent être délivrés. Ce sont les dispositions du règlement national d’urbanisme qui s’y appliquent.
+
+**Le principe de constructibilité limitée**
+Ce principe s'applique aux communes de Biron, Bouillac, Bourniquel, Couze-et-St Front, Monpazier, Montferrand-du-Périgord et Varennes qui ne possèdent pas de document d'urbanisme approuvé. Instauré le 7 janvier 1983, le principe de constructibilité limité interdit la constructibilité des terrains situés hors des parties urbanisées de la commune. Ce sont les dispositions du Règlement National d'Urbanisme (RNU) qui s'appliquent aux zones déjà urbanisées.
+
+**Un Plan de Prévention des Risques (PPR)**
+Il est une servitude d’utilité publique de droit français. Le PPR est un document réalisé par l’État qui réglemente l’utilisation des sols, à l’échelle communale, en fonction des risques auxquels ils sont soumis (inondations, mouvements de terrain, séismes, incendies de forêts…). Cette réglementation va de l’interdiction de construire à la possibilité de construire sous certaines conditions.
+
+**Plan de Prévention des Risques d’Inondation (PPRI)**
+Certaines zones constructibles peuvent également être concernées par les règlements du Plan de Prévention des Risques d’Inondation dans la vallée de la Dordogne.
+
 
 ## Photos
