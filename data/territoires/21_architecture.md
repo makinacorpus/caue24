@@ -32,7 +32,7 @@ Tout bâtiment construit hier ou aujourd’hui participe à l’écriture du pay
 
 **Restaurer** un ancien bâtiment ?
 
-Choisir des matériaux en harmonie avec l’environnement ?
+**Choisir** des matériaux en harmonie avec l’environnement ?
 
 
 ## En savoir plus
