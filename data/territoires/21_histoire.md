@@ -50,7 +50,6 @@ L’adduction d’eau potable et le raccordement à l’électricité modernisen
 
 Le besoin de confort et d’isolement des nouveaux habitants s’accentue. Les propriétés sont de plus en plus grandes et les habitations sont souvent implantées près des axes routiers. Parfois, elles poursuivent le développement d’un hameau mais ont tendance à diluer l’urbanisation perdant ainsi l’identité et la densité du lieu. L’affaiblissement de la population agricole entraine l’acquisition d’anciens corps de fermes réhabilités pour de l’habitat ou de l’accueil de touristes. Autre conséquence, le paysage forestier prend de plus en plus d’ampleur notamment sur les terres pauvres et pentues, fermant progressivement les points de vue lointaine. Autour des bourgs principaux, les zones d’activités s’agrandissent contribuant à des limites villes – campagnes très floues.
 
-
-
-
 ## Photos
+
+![Bourg développé dans la pente au pied du château]({{site.baseurl}}/data/images/21/histoire/21_HISTOIRE_01.jpg)
