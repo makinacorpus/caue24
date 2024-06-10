@@ -53,3 +53,4 @@ Le besoin de confort et d’isolement des nouveaux habitants s’accentue. Les p
 ## Photos
 
 ![Bourg développé dans la pente au pied du château]({{site.baseurl}}/data/images/21/histoire/21_HISTOIRE_01.jpg)
+
