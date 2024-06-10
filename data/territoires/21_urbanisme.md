@@ -80,3 +80,13 @@ Certaines zones constructibles peuvent également être concernées par les règ
   
   ![Proximité ancien et neuf, fort impact de la couleur]({{site.baseurl}}/data/images/21/urbanisme/21_URBA_05.jpg)
   
+  ![Forte covisibilité des terrains situés en ligne de crête ]({{site.baseurl}}/data/images/21/urbanisme/21_URBA_06.jpg)
+  
+  ![Abords en pente, impact de la voie d’accès]({{site.baseurl}}/data/images/21/urbanisme/21_URBA_07.jpg)
+  ![Terrain en forte pente, important mur de soutènement  ]({{site.baseurl}}/data/images/21/urbanisme/21_URBA_08.jpg)
+  ![Adaptation à la pente par pilotis]({{site.baseurl}}/data/images/21/urbanisme/21_URBA_09.jpg)
+  ![Maison incrustée dans la pente naturelle du terrain ]({{site.baseurl}}/data/images/21/urbanisme/21_URBA_10.jpg)
+  ![Mimétisme entre bâti et environnement, maison discrète]({{site.baseurl}}/data/images/21/urbanisme/21_URBA_11.jpg)
+  ![En site patrimonial, intégration par couleur et typologie]({{site.baseurl}}/data/images/21/urbanisme/21_URBA_12.jpg)
+  ![Densification d’un bourg en pied de château]({{site.baseurl}}/data/images/21/urbanisme/21_URBA_13.jpg)
+  
