@@ -55,5 +55,13 @@ Le besoin de confort et d’isolement des nouveaux habitants s’accentue. Les p
 ![Bourg développé dans la pente au pied du château]({{site.baseurl}}/data/images/21/histoire/21_HISTOIRE_01.jpg)
 ![Bourg en vallée formé autour de l’abbaye]({{site.baseurl}}/data/images/21/histoire/21_HISTOIRE_02.jpg)
 ![Bastide, bourg créé sur terrain vierge]({{site.baseurl}}/data/images/21/histoire/21_HISTOIRE_03.jpg)
+![Hameau implanté sur le plateau, fermes de polyculture]({{site.baseurl}}/data/images/21/histoire/21_HISTOIRE_04.jpg)
 ![Hameau en vallée, développé avec la culture du tabac]({{site.baseurl}}/data/images/21/histoire/21_HISTOIRE_05.jpg)
+![Structure médiévale, habitat mitoyen sur rue étroite]({{site.baseurl}}/data/images/21/histoire/21_HISTOIRE_06.jpg)
+![Commerces en rez-de-chaussée, rue large du XIXe siècle]({{site.baseurl}}/data/images/21/histoire/21_HISTOIRE_07.jpg)
+![Usine hydroélectrique, XIXe et XXe siècles]({{site.baseurl}}/data/images/21/histoire/21_HISTOIRE_08.jpg)
+![Maison de maître, parc, toiture ardoise ]({{site.baseurl}}/data/images/21/histoire/21_HISTOIRE_09.jpg)
+![Début XXe, jardin côté rue, encadrements en brique]({{site.baseurl}}/data/images/21/histoire/21_HISTOIRE_10.jpg)
+![Début XXe liberté des formes architecturales ]({{site.baseurl}}/data/images/21/histoire/21_HISTOIRE_11.jpg)
+
 
