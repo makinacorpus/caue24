@@ -48,7 +48,8 @@ La carte présente les terrains constructibles des cartes communales de chaque c
 
 Le PLUi-H des Bastides Dordogne Périgord est en cours d’élaboration, suivez l’avancement en ligne
 
-<a href="[https://ccbdp.fr/plui-h/](https://ccbdp.fr/plui-h/)" target="_blank">!
+<a href="https://ccbdp.fr/plui-h/" target="_blank">https://ccbdp.fr/plui-h/<a
+
 
 
 **Plan Local d’Urbanisme (PLU)**
@@ -89,4 +90,3 @@ Certaines zones constructibles peuvent également être concernées par les règ
   ![Mimétisme entre bâti et environnement, maison discrète]({{site.baseurl}}/data/images/21/urbanisme/21_URBA_11.jpg)
   ![En site patrimonial, intégration par couleur et typologie]({{site.baseurl}}/data/images/21/urbanisme/21_URBA_12.jpg)
   ![Densification d’un bourg en pied de château]({{site.baseurl}}/data/images/21/urbanisme/21_URBA_13.jpg)
-  
