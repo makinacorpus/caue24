@@ -72,6 +72,9 @@ Certaines zones constructibles peuvent également être concernées par les règ
   
 ![Intégration du bâti en plateau par éléments paysagers]({{site.baseurl}}/data/images/21/urbanisme/21_URBA_01.jpg)
   
-  ![Extension urbaine dense en vallée, continuité du bourg]({{site.baseurl}}/data/images/21/urbanisme/21_URBA_02.jpg)
+ ![Extension urbaine dense en vallée, continuité du bourg]({{site.baseurl}}/data/images/21/urbanisme/21_URBA_02.jpg)
   
-  ![Habitat diffus en clairière, pavillon de teinte claire]({{site.baseurl}}/data/images/21/urbanisme/21_URBA_03.jpg)
+ ![Habitat diffus en clairière, pavillon de teinte claire]({{site.baseurl}}/data/images/21/urbanisme/21_URBA_03.jpg)
+  
+  ![Pavillons le long d’une voie en pente, impact des abords]({{site.baseurl}}/data/images/21/urbanisme/21_URBA_04.jpg)
+  
