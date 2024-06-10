@@ -19,6 +19,14 @@ La carte présente les terrains constructibles des cartes communales de chaque c
 
 ## Informations
 
+### QUEL TERRAIN ? QUELLE MAISON ? QUELS IMPACTS
+
+**Le diaporama illustre ces interrogations**
+
+"- Comment s'installer dans un terrain en pente ?
+- Comment prendre en compte l'environnement de mon terrain et l'impact de ma construction dans le paysage ?
+- Quel type d'architecture et quelles couleurs choisir ? Quel aménagement paysager ?
+
 ## En savoir plus
 
 ## Photos
