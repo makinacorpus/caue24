@@ -43,3 +43,18 @@ La couleur du calcaire diffère du Nord au Sud du territoire comme le témoigne 
 Sur le plateau de la forêt de la Bessède, les dépôts détritiques et les sables étaient également des lieux d’exploitation du minerai de fer. Chênes et châtaigniers étaient exploités pour alimenter ces bas fourneaux.
 
 ## Photos
+![Calcaire blanc, mur en pierres assisées, grand débord de toit]({{site.baseurl}}/data/images/21/géographie/21_GEOGRAPHIE_POP_01.jpg)
+![Moellons et pierres d’encadrement en calcaire blanc. Toit en tuiles canal, croupe en tuiles plates]({{site.baseurl}}/data/images/21/géographie/21_GEOGRAPHIE_POP_02.jpg)
+![Mur calcaire clair, encadrements en pierre, grands linteaux en bois]({{site.baseurl}}/data/images/21/géographie/21_GEO_03.jpg)
+![Tuiles plates et canal, toits à un, deux et quatre pans]({{site.baseurl}}/data/images/21/géographie/21_GEO_04.jpg)
+![Lucarne pierre avec encadrement ouvragé]({{site.baseurl}}/data/images/21/géographie/21_GEO_05.jpg)
+![Colombage bois, enduit chaux, soubassement pierre]({{site.baseurl}}/data/images/21/géographie/21_GEO_06.jpg)
+![Volets bois pivotant, séchoir à papier]({{site.baseurl}}/data/images/21/géographie/21_GEO_07.jpg)
+![Séchoir à tabac bois, volets métalliques, faitage ventilé]({{site.baseurl}}/data/images/21/géographie/21_GEO_08.jpg)
+![Calcaire et moellons ferrugineux, tuiles plates et mécaniques]({{site.baseurl}}/data/images/21/géographie/21_GEO_09.jpg)
+![Lauze en bas de toiture, mur en calcaire et pierres ferrugineuses ]({{site.baseurl}}/data/images/21/géographie/21_GEO_10.jpg)
+![Murs, ouvertures et bolet en calcaire ocre]({{site.baseurl}}/data/images/21/géographie/21_GEO_11.jpg)
+![Linteau en anse de panier, génoise, épis de faîtage]({{site.baseurl}}/data/images/21/géographie/21_GEO_12.jpg)
+![Arc de décharge des linteaux calcaires, lucarne fenière]({{site.baseurl}}/data/images/21/géographie/21_GEO_13.jpg)
+![Mur en moellons calcaire ocre, toit avec outeau et lucarne ]({{site.baseurl}}/data/images/21/géographie/21_GEO_14.jpg)
+![Modénatures et matériaux du début XXe s. : ardoise, brique…]({{site.baseurl}}/data/images/21/portrait/21_PORTRAIT_15.jpg)
