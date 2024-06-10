@@ -63,5 +63,10 @@ Le besoin de confort et d’isolement des nouveaux habitants s’accentue. Les p
 ![Maison de maître, parc, toiture ardoise ]({{site.baseurl}}/data/images/21/histoire/21_HISTOIRE_09.jpg)
 ![Début XXe, jardin côté rue, encadrements en brique]({{site.baseurl}}/data/images/21/histoire/21_HISTOIRE_10.jpg)
 ![Début XXe liberté des formes architecturales ]({{site.baseurl}}/data/images/21/histoire/21_HISTOIRE_11.jpg)
+![Pavillon années 70, garage et annexes en rez-de-chaussée]({{site.baseurl}}/data/images/21/histoire/21_HISTOIRE_12.jpg)
+![Pavillon avec références à l’architecture traditionnelle]({{site.baseurl}}/data/images/21/histoire/21_HISTOIRE_13.jpg)
+![Architecture contemporaine, jeu de toitures]({{site.baseurl}}/data/images/21/histoire/21_HISTOIRE_14.jpg)
+![Pavillon à rez-de-chaussée sur grand terrain]({{site.baseurl}}/data/images/21/histoire/21_HISTOIRE_15.jpg)
+![Architecture bois, cadre paysager soigné]({{site.baseurl}}/data/images/21/histoire/21_HISTOIRE_16.jpg)
 
 
