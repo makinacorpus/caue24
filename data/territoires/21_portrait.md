@@ -17,7 +17,7 @@ Bastides Dordogne Périgord, quelques chiffres
 
 Territoire réalisé avec la participation et le soutien de la Communauté de communes des Bastides Dordogne Périgord
 
-
+![21_PORTRAIT_logo.jpg]({{site.baseurl}}/data/images/21/portrait/21_PORTRAIT_logo.jpg)
 
 Découvrez une partie de ce territoire en consultant ses Guides Méthodologiques et les fiches conseil, cliquez sur les 3 liens ci-dessous
 
@@ -51,3 +51,18 @@ Les quatre bastides, les imposants châteaux, les abbayes renommées ou encore l
 
 
 ## Photos
+![Vallée de la Dordogne]({{site.baseurl}}/data/images/21/portrait/21_PORTRAIT_01.jpg)
+![Falaises calcaires striées]({{site.baseurl}}/data/images/21/portrait/21_PORTRAIT_02.jpg)
+![21_PORTRAIT_03.jpg]({{site.baseurl}}/data/images/21/portrait/21_PORTRAIT_03.jpg)
+![Parcelles céréalières et étang d’irrigation]({{site.baseurl}}/data/images/21/portrait/21_PORTRAIT_04.jpg)
+![Exploitation de bois]({{site.baseurl}}/data/images/21/portrait/21_PORTRAIT_05.jpg)
+![Ancienne carrière de calcaire]({{site.baseurl}}/data/images/21/portrait/21_PORTRAIT_06.jpg)
+![Bastide de Beaumont sur son promontoire]({{site.baseurl}}/data/images/21/portrait/21_PORTRAIT_07.jpg)
+![Bourg discret, église mur-clocher]({{site.baseurl}}/data/images/21/portrait/21_PORTRAIT_08.jpg)
+![Bastides rive droite de Dordogne]({{site.baseurl}}/data/images/21/portrait/21_PORTRAIT_09.jpg)
+![Ferme implantée dans la pente]({{site.baseurl}}/data/images/21/portrait/21_PORTRAIT_10.jpg)
+![Eglise à deux clochers dont un fortifié]({{site.baseurl}}/data/images/21/portrait/21_PORTRAIT_11.jpg)
+![Maison en empilage de madriers (entre le XIVe et le XVIIe siècle)]({{site.baseurl}}/data/images/21/portrait/21_PORTRAIT_12.jpg)
+![Château, corps de logis renaissance]({{site.baseurl}}/data/images/21/portrait/21_PORTRAIT_13.jpg)
+![Usine hydroélectrique, barrage sur la Dordogne]({{site.baseurl}}/data/images/21/portrait/21_PORTRAIT_14.jpg)
+![Grande écluse entre bassin et canal]({{site.baseurl}}/data/images/21/portrait/21_PORTRAIT_15.jpg)
