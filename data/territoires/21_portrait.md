@@ -35,16 +35,19 @@ La rivière Dordogne, les forêts, la topographie variée, autant d’éléments
 
 ## En savoir plus
 
-3 THÈMES FORTS IDENTIFIENT BASTIDES DORDOGNE PERIGORD
+### 3 THÈMES FORTS IDENTIFIENT BASTIDES DORDOGNE PERIGORD
 
-Une grande diversité agricole
+**Une grande diversité agricole**
 
 Les treize productions agricoles du département de la Dordogne sont présentes dans cette portion de territoire : élevage, productions de fruits et de légumes, céréaliculture… Une diversité des productions expliquée par la géographie et la géologie. La large vallée de la Dordogne, les plateaux sablonneux, les plaines calcaires sont à l’origine de cette organisation du territoire. L’homme a su le valoriser en cultivant, en élevant, en extrayant et en l’exploitant. 
 
-Une terre boisée
+**Une terre boisée**
 
 La deuxième grande composante du territoire est la forêt. Les grandes masses forestières limitent les vues lointaines. Les panoramas se concentrent principalement autour de la vallée de la Dordogne et des secteurs cultivés. Certaines forêts sont très anciennes et visibles sur la carte de Belleyme : la forêt de Liorac, de la Bessède ou encore de Biron. Le taillis de châtaigniers sous futaie de chênes pédonculés ou de pins maritimes est le boisement le plus fréquemment rencontré. 
-"
+
+**Architecture reconnue, confidentielle ou à découvrir**
+
+Les quatre bastides, les imposants châteaux, les abbayes renommées ou encore les grottes sont les sites emblématiques. Une architecture de qualité, maisons de maître, églises romanes, églises fortifiées, architecture rurale, maison à empilage se découvrent au sein des bourgs, des hameaux ou en implantation isolée. Canal, écluses, ponts, barrage, moulins à eau, séchoirs sont les témoins d’une forte activité industrielle passée ou présente qui a donné lieu à la construction de grandes demeures d’architecture typique du XXe siècle. 
 
 
 ## Photos
