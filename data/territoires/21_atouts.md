@@ -63,3 +63,5 @@ Moulin à eau, papeterie, étendoir, chute d’eau, cheminées marquent le paysa
 
 
 ## Photos
+
+![21_ATOUTS_01.jpg]({{site.baseurl}}/data/images/21/atouts/21_ATOUTS_01.jpg)
