@@ -17,15 +17,15 @@ Découvrez-les pour chaque commune.
 
 ### CADRE DE VIE PAISIBLE ET ENRICHISSANT
 
-## Le diaporama illustre ces éléments patrimoniaux
+**Le diaporama illustre ces éléments patrimoniaux**
 
-## Pleins les yeux !
+**Pleins les yeux !**
 Massifs forestiers anciens, grande plaine céréalière, coteaux calcaires, méandres de la Dordogne ou encore zones humides en fond de vallée composent des paysages exceptionnels concentrés dans le territoire. 
 
-## Patrimoines protégés :
+**Patrimoines protégés :**
 Naturels et architecturaux, vallées, rivières, bastides, bourgs, châteaux, abbayes, églises, ouvrages d’art, patrimoines de pays, les éléments protégés présentent une large diversité.
 
-## Tourisme et vie quotidienne :
+**Tourisme et vie quotidienne :**
 Animations culturelles, activités de plein air, découverte de l’architecture et des sites naturels, hébergements ; une attractivité tout au long de l’année. 
 
 ## En savoir plus
