@@ -62,8 +62,17 @@ Nos modes de vie changent, nos priorités changent, la connaissance des matéria
 **Architecture inspirée mais affranchie**
 
 La majorité des maisons individuelles construites aujourd’hui a une expression architecturale «standard» similaire d’un territoire à l’autre, souvent à rez-de-chaussée et toit à faible pente. Le pavillon suit parfois la mode du moment en intégrant l’un ou l’autre élément « contemporain » : toit plat, grande variété de formats d’ouverture, couleur vive et contrastée, ne facilitant pas son intégration dans son environnement. D’autres suivent une expression architecturale traditionnelle par quelques références aux volumes, couleurs et détails. 
-"
-
 
 
 ## Photos
+
+![Ferme en alignement, maison et grange]({{site.baseurl}}/data/images/21/architecture/21_ARCHITECTURE_01.jpg)
+![Pigeonnier porche ouvrant sur la cour fermée ]({{site.baseurl}}/data/images/21/architecture/21_ARCHITECTURE_02.jpg)
+![Maison à rez-de-chaussée, petites ouvertures en combes]({{site.baseurl}}/data/images/21/architecture/21_ARCHITECTURE_03.jpg)
+![Maison à superposition sur cave]({{site.baseurl}}/data/images/21/architecture/21_ARCHITECTURE_04.jpg)
+![Maison de bourg à étage]({{site.baseurl}}/data/images/21/architecture/21_ARCHITECTURE_05.jpg)
+![Grange étable, important volume des combles]({{site.baseurl}}/data/images/21/architecture/21_ARCHITECTURE_06.jpg)
+![Grange étable à étage]({{site.baseurl}}/data/images/21/architecture/21_ARCHITECTURE_07.jpg)
+
+
+
