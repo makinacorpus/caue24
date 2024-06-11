@@ -1,0 +1,5 @@
+---
+published: 'true'
+layout: page
+---
+![21_ATOUT_POPUP_49.jpg]({{site.baseurl}}/data/images/21/atouts/21_ATOUT_POPUP_49.jpg)
