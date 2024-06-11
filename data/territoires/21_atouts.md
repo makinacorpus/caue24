@@ -65,10 +65,14 @@ Moulin à eau, papeterie, étendoir, chute d’eau, cheminées marquent le paysa
 ## Photos
 
 ![Château sur éperon rocheux, surplombant la vallée de la Couze ]({{site.baseurl}}/data/images/21/atouts/21_ATOUTS_01.jpg)
-![Eglise romane à clocher-mur]({{site.baseurl}}/data/images/21/architecture/21_ARCHITECTURE_02.jpg)
-![Place animée en cœur de bourg]({{site.baseurl}}/data/images/21/architecture/21_ARCHITECTURE_03.jpg)
-![Gîte rural, restauration de qualité]({{site.baseurl}}/data/images/21/architecture/21_ARCHITECTURE_04.jpg)
-![Auberge de jeunesse dans l’abbaye de Cadouin]({{site.baseurl}}/data/images/21/architecture/21_ARCHITECTURE_BLOC5.jpg)
-![Camping ombragé en bord de Dordogne]({{site.baseurl}}/data/images/21/architecture/21_ARCHITECTURE_06.jpg)
-![Loisirs équestres]({{site.baseurl}}/data/images/21/architecture/21_ARCHITECTURE_07.jpg)
-![Chemin de randonnée]({{site.baseurl}}/data/images/21/architecture/21_ARCHITECTURE_08.jpg)
+![Eglise romane à clocher-mur]({{site.baseurl}}/data/images/21/atouts/21_ATOUTS_02.jpg)
+![Place animée en cœur de bourg]({{site.baseurl}}/data/images/21/atouts/21_ATOUTS_03.jpg)
+![Gîte rural, restauration de qualité]({{site.baseurl}}/data/images/21/atouts/21_ATOUTS_04.jpg)
+![Auberge de jeunesse dans l’abbaye de Cadouin]({{site.baseurl}}/data/images/21/atouts/21_ATOUTS_05.jpg)
+![Camping ombragé en bord de Dordogne]({{site.baseurl}}/data/images/21/atouts/21_ATOUTS_06.jpg)
+![Loisirs équestres]({{site.baseurl}}/data/images/21/atouts/21_ATOUTS_07.jpg)
+![Chemin de randonnée]({{site.baseurl}}/data/images/21/atouts/21_ATOUTS_08.jpg)
+![Espace de repos au bord d’un ruisseau]({{site.baseurl}}/data/images/21/atouts/21_ATOUTS_09.jpg)
+![Base nautique au bord de la Dordogne]({{site.baseurl}}/data/images/21/atouts/21_ATOUTS_10.jpg)
+![Activité pêche au bord de la Dordogne]({{site.baseurl}}/data/images/21/atouts/21_ATOUTS_11.jpg)
+
