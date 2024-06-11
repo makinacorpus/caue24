@@ -47,8 +47,19 @@ Des éléments majeurs sont inscrits sur la liste du patrimoine mondial de l’U
 **Patrimoine industriel et patrimoine de pays**
 Moulin à eau, papeterie, étendoir, chute d’eau, cheminées marquent le paysage le long de la Dordogne et de la Couze, ils sont témoins d’un riche passé industriel. Cette architecture spécifique est aujourd’hui protégée au titre des monuments historiques. Il en est de même pour de nombreux ouvrages d’art construits avec la création du canal : pont-canal, écluses, bassin. Les deux barrages pour la création du canal ont également engendré la construction d’usines hydroélectriques à Badefols-sur-Dordogne et Saint-Capraise-de-Lalinde.
 
+### LES PROTECTIONS - DEFINITIONS
 
+**MONUMENT CLASSE OU INSCRIT :** La loi du 31 décembre 1913 sur les monuments historiques permet de protéger certains bâtiments à caractère patrimonial. Celle du 23 février 1943 sur les abords, la complète en fixant un périmètre de 500m autour de l’édifice.
 
+**SITE CLASSE OU INSCRIT :** La loi de 1930 sur les sites permet de protéger des espaces d’une grande diversité : parcs et jardins, espaces naturels, paysages… écrins paysagers de monuments historiques pour lesquels la seule protection des abords ne suffirait pas.
+
+**SPR :** La loi du 7 juillet 2016 a créé les sites patrimoniaux remarquables. Ce dispositif a pour objectif de protéger et mettre en valeur le patrimoine architectural, urbain et paysager de nos territoires. Les sites patrimoniaux remarquables sont “les villes, les villages ou quartiers dont la conservation, la restauration, la réhabilitation ou la mise en valeur présente, au point de vue historique, architectural, archéologique, artistique ou paysager, un intérêt public.” Les espaces ruraux et les paysages qui forment avec ces villes, villages ou quartiers un ensemble cohérent ou qui sont susceptibles de contribuer à leur conservation ou à leur mise en valeur peuvent être classés au même titre. Les SPR se substituent aux anciens dispositifs de protection : Les secteurs sauvegardés, les ZPPAUP et les AVAP.
+
+**UNESCO :** Organisation des Nations Unies pour l’Education, la Science et la Culture. Une des missions est de protéger notre patrimoine et de favoriser la créativité.
+
+**ZNIEFF :** Zones Naturelles d’Intérêt Ecologique Faunistique et Floristique. Cet outil de connaissance de la biodiversité, subdivisé en deux groupes, est le recensement d’espaces naturels terrestres.
+
+**ARRETE PREFECTORAL DE PROTECTION DE BIOTOPE :** Les biotopes sont de aires géographiques protégées par des mesures réglementaires : les arrêtés de protection de biotope qui pour objectif de prévenir la disparition d’espèces protégées. Chaque arrêté vise un biotope précis, nécessaire à l’alimentation, à la reproduction, au repos ou à la survie de la ou des espèces concernées. L’effet du classement suit le territoire concerné lors de chaque changement de son statut ou de sa vente.
 
 
 ## Photos
