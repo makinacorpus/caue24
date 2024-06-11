@@ -59,7 +59,7 @@ Les quatre bastides, les imposants châteaux, les abbayes renommées ou encore l
 ![Ancienne carrière de calcaire]({{site.baseurl}}/data/images/21/portrait/21_PORTRAIT_06.jpg)
 ![Bastide de Beaumont sur son promontoire]({{site.baseurl}}/data/images/21/portrait/21_PORTRAIT_07.jpg)
 ![Bourg discret, église mur-clocher]({{site.baseurl}}/data/images/21/portrait/21_PORTRAIT_08.jpg)
-![Bastides rive droite de Dordogne]({{site.baseurl}}/data/images/21/portrait/21_PORTRAIT_09.jpg)
+![Bastide rive droite de Dordogne]({{site.baseurl}}/data/images/21/portrait/21_PORTRAIT_09.jpg)
 ![Ferme implantée dans la pente]({{site.baseurl}}/data/images/21/portrait/21_PORTRAIT_10.jpg)
 ![Eglise à deux clochers dont un fortifié]({{site.baseurl}}/data/images/21/portrait/21_PORTRAIT_11.jpg)
 ![Maison en empilage de madriers (entre le XIVe et le XVIIe siècle)]({{site.baseurl}}/data/images/21/portrait/21_PORTRAIT_12.jpg)
