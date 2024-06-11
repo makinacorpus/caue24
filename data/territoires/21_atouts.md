@@ -75,4 +75,7 @@ Moulin à eau, papeterie, étendoir, chute d’eau, cheminées marquent le paysa
 ![Espace de repos au bord d’un ruisseau]({{site.baseurl}}/data/images/21/atouts/21_ATOUTS_09.jpg)
 ![Base nautique au bord de la Dordogne]({{site.baseurl}}/data/images/21/atouts/21_ATOUTS_10.jpg)
 ![Activité pêche au bord de la Dordogne]({{site.baseurl}}/data/images/21/atouts/21_ATOUTS_11.jpg)
+![Moulin à eau sur la Couze, étendoirs, écomusée du papier]({{site.baseurl}}/data/images/21/atouts/21_ATOUTS_12.jpg)
+![Moulin à vent]({{site.baseurl}}/data/images/21/atouts/21_ATOUTS_13.jpg)
+![Dolmen de Peyre Nègre]({{site.baseurl}}/data/images/21/atouts/21_ATOUTS_14.jpg)
 
