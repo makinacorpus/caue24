@@ -74,6 +74,7 @@ erreur
 ![Maison de bourg à étage]({{site.baseurl}}/data/images/21/architecture/21_ARCHITECTURE_05.jpg)
 ![Grange étable, important volume des combles]({{site.baseurl}}/data/images/21/architecture/21_ARCHITECTURE_06.jpg)
 ![Grange étable à étage]({{site.baseurl}}/data/images/21/architecture/21_ARCHITECTURE_07.jpg)
+![Restauration contemporaine, apport de lumière par haute baie vitrée]({{site.baseurl}}/data/images/21/architecture/21_ARCHITECTURE_08.jpg)
 
 
 
