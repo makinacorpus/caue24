@@ -16,12 +16,10 @@
 { "type": "Feature", "properties": { "NOM": "monpazier" }, "geometry": { "type": "Point", "coordinates": [ 0.895359332411575, 44.682642552450233 ] } },
 { "type": "Feature", "properties": { "NOM": "cause-de-clérans" }, "geometry": { "type": "Point", "coordinates": [ 0.66960618800721, 44.865030050177069 ] } },
 { "type": "Feature", "properties": { "NOM": "vergt-de-biron" }, "geometry": { "type": "Point", "coordinates": [ 0.841479467368668, 44.633600839714028 ] } },
-{ "type": "Feature", "properties": { "NOM": "Labouquerie" }, "geometry": { "type": "Point", "coordinates": [ 0.795969916672867, 44.742980248947212 ] } },
 { "type": "Feature", "properties": { "NOM": "calès" }, "geometry": { "type": "Point", "coordinates": [ 0.811078614617329, 44.856027124244754 ] } },
 { "type": "Feature", "properties": { "NOM": "le buisson-de-cadouin" }, "geometry": { "type": "Point", "coordinates": [ 0.910250331441269, 44.846089818743202 ] } },
 { "type": "Feature", "properties": { "NOM": "saint-avit-sénieur" }, "geometry": { "type": "Point", "coordinates": [ 0.816744541860812, 44.775131904446994 ] } },
 { "type": "Feature", "properties": { "NOM": "liorac-sur-louyre" }, "geometry": { "type": "Point", "coordinates": [ 0.643169982442701, 44.897897767279801 ] } },
-{ "type": "Feature", "properties": { "NOM": "Sainte Sabine Born" }, "geometry": { "type": "Point", "coordinates": [ 0.751430730914894, 44.693285682814796 ] } },
 { "type": "Feature", "properties": { "NOM": "saint-avit-rivière" }, "geometry": { "type": "Point", "coordinates": [ 0.882268202319943, 44.7522398865922 ] } },
 { "type": "Feature", "properties": { "NOM": "monsac" }, "geometry": { "type": "Point", "coordinates": [ 0.697691900624884, 44.7791394475258 ] } },
 { "type": "Feature", "properties": { "NOM": "pezuls" }, "geometry": { "type": "Point", "coordinates": [ 0.807029994416735, 44.913835415864121 ] } },
@@ -45,11 +43,9 @@
 { "type": "Feature", "properties": { "NOM": "lavalade" }, "geometry": { "type": "Point", "coordinates": [ 0.862994598469222, 44.695041751091274 ] } },
 { "type": "Feature", "properties": { "NOM": "molières" }, "geometry": { "type": "Point", "coordinates": [ 0.824096397604518, 44.811054834956707 ] } },
 { "type": "Feature", "properties": { "NOM": "sainte-foy-de-longas" }, "geometry": { "type": "Point", "coordinates": [ 0.750157510433775, 44.925826952565018 ] } },
-{ "type": "Feature", "properties": { "NOM": "Cadouin" }, "geometry": { "type": "Point", "coordinates": [ 0.87321678495494, 44.81161833420672 ] } },
 { "type": "Feature", "properties": { "NOM": "urval" }, "geometry": { "type": "Point", "coordinates": [ 0.947680456890598, 44.812518002110828 ] } },
 { "type": "Feature", "properties": { "NOM": "pontours" }, "geometry": { "type": "Point", "coordinates": [ 0.761300226416977, 44.836588996594088 ] } },
 { "type": "Feature", "properties": { "NOM": "mauzac" }, "geometry": { "type": "Point", "coordinates": [ 0.796052669525282, 44.865210595448673 ] } },
-{ "type": "Feature", "properties": { "NOM": "Paleyrac" }, "geometry": { "type": "Point", "coordinates": [ 0.932143324908306, 44.823296159487001 ] } },
 { "type": "Feature", "properties": { "NOM": "lanquais" }, "geometry": { "type": "Point", "coordinates": [ 0.669546791276552, 44.824194082788715 ] } },
 { "type": "Feature", "properties": { "NOM": "rampieux" }, "geometry": { "type": "Point", "coordinates": [ 0.796943152340787, 44.715394890703259 ] } },
 { "type": "Feature", "properties": { "NOM": "saint-capraise-de-lalinde" }, "geometry": { "type": "Point", "coordinates": [ 0.654918564074937, 44.842765889607605 ] } },
@@ -57,7 +53,6 @@
 { "type": "Feature", "properties": { "NOM": "varennes" }, "geometry": { "type": "Point", "coordinates": [ 0.675909503806103, 44.831289184002415 ] } },
 { "type": "Feature", "properties": { "NOM": "bouillac" }, "geometry": { "type": "Point", "coordinates": [ 0.91940772960186, 44.759758288102297 ] } },
 { "type": "Feature", "properties": { "NOM": "couze-et-saint-front" }, "geometry": { "type": "Point", "coordinates": [ 0.708082712854468, 44.828772635908855 ] } },
-{ "type": "Feature", "properties": { "NOM": "bourniquel" }, "geometry": { "type": "Point", "coordinates": [ 0.773339321754012, 44.808926001104751 ] } },
-{ "type": "Feature", "properties": { "NOM": "Nojals et Clotte" }, "geometry": { "type": "Point", "coordinates": [ 0.758946014684529, 44.725130580513564 ] } }
+{ "type": "Feature", "properties": { "NOM": "bourniquel" }, "geometry": { "type": "Point", "coordinates": [ 0.773339321754012, 44.808926001104751 ] } }
 ]
 }
