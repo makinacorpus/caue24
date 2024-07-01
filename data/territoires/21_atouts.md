@@ -78,4 +78,4 @@ Moulin à eau, papeterie, étendoir, chute d’eau, cheminées marquent le paysa
 ![Moulin à eau sur la Couze, étendoirs, écomusée du papier]({{site.baseurl}}/data/images/21/atouts/21_ATOUTS_12.jpg)
 ![Moulin à vent]({{site.baseurl}}/data/images/21/atouts/21_ATOUTS_13.jpg)
 ![Dolmen de Peyre Nègre]({{site.baseurl}}/data/images/21/atouts/21_ATOUTS_14.jpg)
-
+![Forêt de la Bessède]({{site.baseurl}}/data/images/21/atouts/21_ATOUTS_15.jpg)
