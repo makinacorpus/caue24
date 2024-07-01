@@ -73,8 +73,7 @@ La majorité des maisons individuelles construites aujourd’hui a une expressio
 ![Grange étable, important volume des combles]({{site.baseurl}}/data/images/21/architecture/21_ARCHITECTURE_06.jpg)
 ![Grange étable à étage]({{site.baseurl}}/data/images/21/architecture/21_ARCHITECTURE_07.jpg)
 ![Restauration contemporaine, apport de lumière par haute baie vitrée]({{site.baseurl}}/data/images/21/architecture/21_ARCHITECTURE_08.jpg)
-![Intervention contemporaine, élément de liaison couvert en zinc]({{site.baseurl}}/data/images/21/architecture/21_ARCHITECTURE_09.jpg)
-![Maison contemporaine en paille, bassin naturel]({{site.baseurl}}/data/images/21/architecture/21_ARCHITECTURE_10.jpg)
+![Intervention contemporaine, élément de liaison couvert en zinc - architecte : Claerhout & Biervliet]({{site.baseurl}}/data/images/21/architecture/21_ARCHITECTURE_09.jpg)
+![Maison contemporaine en paille, bassin naturel -architecte : Karinne Lamothe]({{site.baseurl}}/data/images/21/architecture/21_ARCHITECTURE_10.jpg)
 ![Architecture en bois en site protégé]({{site.baseurl}}/data/images/21/architecture/21_ARCHITECTURE_11.jpg)
 ![Pavillon aux références traditionnelles]({{site.baseurl}}/data/images/21/architecture/21_ARCHITECTURE_12.jpg)
-
