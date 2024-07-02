@@ -5,7 +5,7 @@ layout: page
 
 ## Fenêtre modale
 
-### 8 ENTITES PAYSAGERES CARACTERISENT VALLEE DE LA DORDOGNE ET FORET BESSEDE :
+### 8 ENTITES PAYSAGERES CARACTERISENT BASTIDES DORDOGNE PERIGORD :
 
 - Vallées affluentes de la Dordogne
 - Vallée de la Dordogne et ses cingles
@@ -73,8 +73,7 @@ La majorité des maisons individuelles construites aujourd’hui a une expressio
 ![Grange étable, important volume des combles]({{site.baseurl}}/data/images/21/architecture/21_ARCHITECTURE_06.jpg)
 ![Grange étable à étage]({{site.baseurl}}/data/images/21/architecture/21_ARCHITECTURE_07.jpg)
 ![Restauration contemporaine, apport de lumière par haute baie vitrée]({{site.baseurl}}/data/images/21/architecture/21_ARCHITECTURE_08.jpg)
-![Intervention contemporaine, élément de liaison couvert en zinc]({{site.baseurl}}/data/images/21/architecture/21_ARCHITECTURE_09.jpg)
+![Intervention contemporaine, élément de liaison couvert en zinc -architecte : ]({{site.baseurl}}/data/images/21/architecture/21_ARCHITECTURE_09.jpg)
 ![Maison contemporaine en paille, bassin naturel]({{site.baseurl}}/data/images/21/architecture/21_ARCHITECTURE_10.jpg)
 ![Architecture en bois en site protégé]({{site.baseurl}}/data/images/21/architecture/21_ARCHITECTURE_11.jpg)
 ![Pavillon aux références traditionnelles]({{site.baseurl}}/data/images/21/architecture/21_ARCHITECTURE_12.jpg)
-
