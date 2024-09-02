@@ -1,7 +1,0 @@
----
-published: true
-layout: page
----
-**Gorges de la Côle**
-
-ZNIEFF de type 1
