@@ -6,7 +6,7 @@ layout: page
 
 ## Fenêtre modale
 
-### LES ZONES CONSTRUCTIBLES EN 2023
+### LES ZONES CONSTRUCTIBLES EN 2024
 
 La carte présente les terrains constructibles du PLUi de la Communauté de commune
 - zones urbaines, 15 % des espaces constructibles
@@ -31,7 +31,7 @@ Environ 1 terrain sur 2 est situé dans la pente.
 
 ## En savoir plus
 
-### UN POINT SUR LE TERRITOIRE EN 2023
+### UN POINT SUR LE TERRITOIRE EN 2024
 
 8% de son territoire est en zone constructible. La surface des terrains est d’environ 1000 à 1600m2. Chaque projet doit tenir compte de cette caractéristique sans oublier les contraintes d’accès, d’orientation de vues et surtout de pente du terrain.
 
@@ -50,7 +50,7 @@ Qualification des espaces constructibles :
 
 Seul, 3 % des terrains sont en forte covisibilité.
 
-### DOCUMENTS D’URBANISME DU TERRITOIRE EN 2023
+### DOCUMENTS D’URBANISME DU TERRITOIRE EN 2024
 
 
 **Plan Local d’Urbanisme intercommunal (PLUi)**
