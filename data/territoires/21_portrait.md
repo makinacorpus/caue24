@@ -22,7 +22,10 @@ Territoire réalisé avec la participation et le soutien de la Communauté de co
 Découvrez une partie de ce territoire en consultant ses Guides Méthodologiques et les fiches conseil, cliquez sur les 3 liens ci-dessous
 
 <a href="https://cauedordogne.com/ressources-fiches/ " target="_blank">Fiches conseil </a>
-<a href="https://www.calameo.com/read/00499999558a087501ca4?utm_source=platform&utm_medium=email&utm_campaign=book_created&utm_content=html&utm_term=4999995 " target="_blank">![21_CCBDP_couvweb.jpg]({{site.baseurl}}/data/images/21/portrait/21_CCBDP_couvweb.jpg) </a> <a href="https://fr.calameo.com/read/004999995319bba513e37 " target="_blank">![21_COUV_Cadouin_web-5-7.jpg]({{site.baseurl}}/data/images/21/portrait/21_COUV_Cadouin_web-5-7.jpg) </a> <a href="https://fr.calameo.com/read/0049999953279e4ef3ca3 " target="_blank">![21_COUV_Pays_Beaumontois_web-5-8.jpg]({{site.baseurl}}/data/images/21/portrait/21_COUV_Pays_Beaumontois_web-5-8.jpg) </a>
+
+<a href="https://www.calameo.com/read/00499999558a087501ca4?utm_source=platform&utm_medium=email&utm_campaign=book_created&utm_content=html&utm_term=4999995 " target="_blank">![21_CCBDP_couvweb.jpg]({{site.baseurl}}/data/images/21/portrait/21_CCBDP_couvweb.jpg) </a>
+
+<a href="https://fr.calameo.com/read/004999995319bba513e37 " target="_blank">![21_COUV_Cadouin_web-5-7.jpg]({{site.baseurl}}/data/images/21/portrait/21_COUV_Cadouin_web-5-7.jpg) </a> <a href="https://fr.calameo.com/read/0049999953279e4ef3ca3 " target="_blank">![21_COUV_Pays_Beaumontois_web-5-8.jpg]({{site.baseurl}}/data/images/21/portrait/21_COUV_Pays_Beaumontois_web-5-8.jpg) </a>
 
 ## Informations
 
