@@ -5,4 +5,4 @@ layout: page
 
 **Journiac**
 
-463 habitants
+475 habitants

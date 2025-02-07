@@ -4,4 +4,4 @@ layout: page
 ---
 **Bourdeilles**
 
-787  Habitants
+795  Habitants

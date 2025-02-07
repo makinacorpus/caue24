@@ -1,7 +1,9 @@
 ---
-published: true
+published: 'true'
 layout: page
 ---
+
 **Coteaux à chênes verts du Sarladais - rive droite de la Dordogne**
 
 ZNIEFF de type 2
+
