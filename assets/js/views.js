@@ -431,7 +431,8 @@ CaueViews.displayMapPage = function(community, category) {
       // url: 'https://{s}-tilestream.makina-corpus.net/v2/caue24-_-orthophoto24/{z}/{x}/{y}.png',
       // subdomains: 'abcd',
       url: [
-        'https://wxs.ign.fr/essentiels/geoportail/wmts?',
+        'https://data.geopf.fr/wmts?',
+        // 'https://wxs.ign.fr/essentiels/geoportail/wmts?',
         'REQUEST=GetTile',
         'SERVICE=WMTS',
         'VERSION=1.0.0',
